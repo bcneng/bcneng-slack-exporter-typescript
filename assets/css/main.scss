@@ -1,0 +1,9 @@
+@import './colors.scss';
+@import url(https://fonts.googleapis.com/css?family=Asap+Condensed);
+
+
+html,
+body {
+  font-family: "Asap Condensed", sans-serif;
+  background-color: var($white-color);
+}

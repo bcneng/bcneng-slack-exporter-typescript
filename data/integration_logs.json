@@ -1,0 +1,11 @@
+[
+{
+    "user_id": "UFQNAHCCS",
+    "user_name": "alexdelamo06",
+    "date": "1548673836",
+    "change_type": "added",
+    "app_type": "Beebench",
+    "app_id": "AF8NM578C",
+    "scope": "identify,bot,commands,incoming-webhook"
+}
+]
