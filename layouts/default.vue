@@ -19,15 +19,15 @@ import Sidebar from "~/components/sidebar.vue";
 import Header from "~/components/header.vue"
 import {Channel} from "~/models/channel"
 
-const getChannels = () => import("~/data/channels.json").then(m => m.default || m)
-
 export default Vue.extend({
   components: {
     Sidebar,
     Header
   },
   async fetch() {
-    this.channels = await getChannels()
+    await fetch("https://friendly-sammet-daf35f.netlify.app/api/channels")
+    .then(res => res.json())
+    .then((res:Array<Channel>) => this.channels = res)
   },
   data() {
     return {
