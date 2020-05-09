@@ -1,10 +1,7 @@
-import fs from "fs"
-const util = require('util');
-const readdir = util.promisify(fs.readdir);
-
+import { Configuration } from '@nuxt/types'
 import channels from "./data/channels.json"
 
-export default {
+const config: Configuration= {
   mode: 'universal',
 
   /*
@@ -68,15 +65,14 @@ export default {
   },
   generate: {
     async routes() {
-      const routes = await Promise.all(channels.map( async channel => {
-        const files = await readdir(`./data/${channel.name}/`);
+      const routes = channels.map(channel => {
         return {
-          route: "/channel/" + channel.name,
-          payload: files
+          route: "/channel/" + channel.name
         };
-      }))
-      console.log(routes)
+      })
       return routes
     }
   }
 }
+
+export default config

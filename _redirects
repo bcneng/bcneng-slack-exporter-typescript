@@ -1,0 +1,3 @@
+/ https://github.com/alexon1234/bcneng-slack-exporter-typescript 301
+/api/:resource /data/:resource.json 200
+/api/:resource /data/:resource/messages.json 200
