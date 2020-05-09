@@ -1,0 +1,18 @@
+[build]
+  publish = "dist"
+  command = "npm run generate"
+
+[[redirects]]
+  from = "/"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/api/:resource"
+  to = "/data/:resource.json"
+  status = 200
+
+[[redirects]]
+  from = "/api/:resource/messages"
+  to = "/data/:resource/messages.json"
+  status = 200
