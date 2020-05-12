@@ -3,6 +3,7 @@ import channels from "./data/channels.json"
 
 const config: Configuration= {
   mode: 'universal',
+  buildDir: 'dist',
 
   /*
   ** Headers of the page
