@@ -34,7 +34,7 @@ export default Vue.extend({
     const users = await import(`~/data/users.json`).then(res =>
       (res.default as Array<any>).map(u => <User>{ id: u.id, avatar: u.profile.image_24 })
     );
-    const messages = await import(`~/data/random/messages.json`).then(res => 
+    const messages = await import(`~/data/random/2019-01-28.json`).then(res => 
        (res.default as Array<any>).map(
         m =>
           <Message>{
