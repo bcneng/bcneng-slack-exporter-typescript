@@ -18,7 +18,7 @@
 interface Message {
   userId: string;
   text: string;
-  replies?: number
+  replies?: number;
   avatar: string;
   date: Date;
 }
@@ -28,26 +28,41 @@ interface User {
   avatar: string;
 }
 
+const getUsers = async (): Promise<Array<User>> => {
+  const isProd = process.env.NODE_ENV === "production";
+  const users = isProd ? 
+    await fetch('/api/users').then(res => res.json() as Promise<Array<any>>) :
+    await import(`~/data/users.json`).then(res => res.default as Array<any>)
+  return users.map(
+          u => <User>{ id: u.id, avatar: u.profile.image_24 }
+        )
+}
+
+const getMessage = async (index: string,  users: Array<User>) : Promise<Array<Message>> => {
+  const isProd = process.env.NODE_ENV === "production";
+  const messages = isProd ? 
+    await fetch(`/api/${index}/2019-01-28`).then(res => res.json() as Promise<Array<any>>) :
+    await import(`~/data/${index}/2019-01-28.json`).then(res => res.default as Array<any>)
+
+  return messages.map(
+          m =>
+            <Message>{
+              userId: m.user,
+              text: m.text,
+              avatar: users.find(u => u.id == m.user)?.avatar,
+              replies: m.reply_count,
+              date: new Date()
+            }
+        )
+}
+
 import Vue from "vue";
 export default Vue.extend({
   async asyncData({ params }) {
-    const users = await import(`~/data/users.json`).then(res =>
-      (res.default as Array<any>).map(u => <User>{ id: u.id, avatar: u.profile.image_24 })
-    );
-    const messages = await import(`~/data/random/2019-01-28.json`).then(res => 
-       (res.default as Array<any>).map(
-        m =>
-          <Message>{
-            userId: m.user,
-            text: m.text,
-            avatar: users.find(u => u.id == m.user)?.avatar,
-            replies: m.reply_count,
-            date: new Date()
-          }
-       )
-    );
-    console.log(users, messages)
+    const users = await getUsers()
+    const messages = await getMessage(params.slug, users)   
     return { messages: messages };
+  
   }
 });
 </script>
