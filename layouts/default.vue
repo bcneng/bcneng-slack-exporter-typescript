@@ -4,6 +4,7 @@
       <Header />
     </header>
     <aside class="sidebar">
+      {{ channels }}
       <Sidebar :channels="channels" />
     </aside>
     <main>
@@ -15,24 +16,29 @@
 
 <script lang="ts">
 import Vue from 'vue'
+import axios from "axios"
 import Sidebar from "~/components/sidebar.vue";
 import Header from "~/components/header.vue"
 import {Channel} from "~/models/channel"
+
+const API_PRODUCTION = 'https://friendly-sammet-daf35f.netlify.app/api/channels'
+const API_DEV = 'http://localhost:3000/data/channels.json'
 
 export default Vue.extend({
   components: {
     Sidebar,
     Header
   },
-  async fetch() {
-    await fetch("https://friendly-sammet-daf35f.netlify.app/api/channels")
-    .then(res => res.json())
+  async mounted() {
+    await axios.get(process.env.NODE_ENV === "development" ? API_DEV : API_PRODUCTION)
+    .then(res => res.data)
     .then((res:Array<Channel>) => this.channels = res)
   },
   data() {
     return {
       channels: new Array<Channel>()
     }
+    
   }
 })
 
