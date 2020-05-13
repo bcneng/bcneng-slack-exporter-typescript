@@ -30,7 +30,7 @@ export default Vue.extend({
   async mounted() {
     const isProd = process.env.NODE_ENV === "production" 
     if(isProd) {
-        await fetch('/data/channels')
+        await fetch('/api/channels')
           .then(res => res.json())
           .then((res:Array<Channel>) => this.channels = res)
     }
