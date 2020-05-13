@@ -65,6 +65,8 @@ const config: Configuration= {
     }
   },
   generate: {
+    fallback: true,
+    
     async routes() {
       const routes = channels.map(channel => {
         return {
