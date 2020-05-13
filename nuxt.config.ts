@@ -2,7 +2,7 @@ import { Configuration } from '@nuxt/types'
 import channels from "./data/channels.json"
 
 const config: Configuration= {
-  mode: 'universal',
+  mode: 'spa',
   /*
   ** Headers of the page
   */
