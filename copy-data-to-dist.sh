@@ -15,7 +15,7 @@ json_array() {
 for dir in $(find data/* -type d) 
 do
     rm ${dir}/index.json
-    files=()
+    declare -a files=()
     for file in $(find ${dir} -maxdepth 1 -type f ! -name "index.json")
     do
         file=${file##*/}
