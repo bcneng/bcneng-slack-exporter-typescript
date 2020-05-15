@@ -48,7 +48,7 @@ export default Vue.extend({
       this.pages = await this.fetchIndex(newValue)
       this.indexPage = 0
       this.messages = []
-      while (this.messages.length < 100 && this.indexPage < this.pages.length) {
+      while (this.messages.length < 10 && this.indexPage < this.pages.length) {
         const messages = await this.fetchMessages(this.selectedChannel, this.pages[this.indexPage])
         this.messages = [...this.messages, ...messages]
         this.indexPage += 1
@@ -58,6 +58,7 @@ export default Vue.extend({
   async mounted () {
     this.channels = await this.fetchChannels()
     this.users = await this.fetchUsers()
+    this.scroll()
   },
   methods: {
     async fetchChannels (): Promise<Channel[]> {
@@ -105,6 +106,17 @@ export default Vue.extend({
         const messages = await this.fetchMessages(this.selectedChannel, this.pages[this.indexPage])
         this.messages = [...this.messages, ...messages]
         this.indexPage += 1
+      }
+    },
+    scroll () {
+      window.onscroll = async () => {
+        const bottomOfWindow = document.documentElement.scrollTop + window.innerHeight === document.documentElement.offsetHeight
+
+        if (bottomOfWindow && this.indexPage < this.pages.length) {
+          const messages = await this.fetchMessages(this.selectedChannel, this.pages[this.indexPage])
+          this.messages = [...this.messages, ...messages]
+          this.indexPage += 1
+        }
       }
     }
   }

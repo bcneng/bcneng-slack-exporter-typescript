@@ -5,7 +5,7 @@
   "author": "Alex",
   "private": true,
   "scripts": {
-    "dev": "nuxt-ts",
+    "dev": "nuxt-ts && bash copy-data-to-dist.sh",
     "build": "nuxt-ts build && bash copy-data-to-dist.sh",
     "generate": "nuxt-ts generate && bash copy-data-to-dist.sh",
     "start": "nuxt-ts start",
