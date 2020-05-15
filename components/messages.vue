@@ -26,8 +26,6 @@ export default Vue.extend({
       type: Array as () => Array<Message>,
       required: true
     }
-  },
-  mounted () {
   }
 })
 </script>
