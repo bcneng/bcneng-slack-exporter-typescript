@@ -1,6 +1,5 @@
 #!bin/bash
-rm -rf dist/data
-cp -r data/ dist/
+
 
 json_array() {
   echo -n '['
@@ -13,10 +12,17 @@ json_array() {
   echo ']'
 }
 
-for dir in $(find dist/data/* -type d) 
+for dir in $(find data/* -type d) 
 do
-    files=($dir/*)
-    files=(${files[@]##*/})
-    files=(${files[@]%.*})
+    rm ${dir}/index.json
+    files=()
+    for file in $(find ${dir} -maxdepth 1 -type f ! -name "index.json")
+    do
+        file=${file##*/}
+        file=${file%.*}
+        files+=("$file")
+    done 
     json_array "${files[@]}" >> ${dir}/index.json
 done
+rm -rf dist/data
+cp -r data/ dist/

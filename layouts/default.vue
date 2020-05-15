@@ -4,46 +4,109 @@
       <Header />
     </header>
     <aside class="sidebar">
-      <Sidebar :channels="channels" />
+      <Sidebar v-model="selectedChannel" :channels="channels" />
     </aside>
     <main>
-      <nuxt />
+      <Messages :messages="messages" @scroll-to-end="loadMoreMessages" />
     </main>
-    <aside class="comments" style="border: 1px solid black;"></aside>
+    <aside class="comments" style="border: 1px solid black;">
+      <Messages :messages="replies" />
+    </aside>
   </div>
 </template>
 
 <script lang="ts">
 import Vue from 'vue'
-import axios from "axios"
-import Sidebar from "~/components/sidebar.vue";
-import Header from "~/components/header.vue"
-import {Channel} from "~/models/channel"
+import Sidebar from '~/components/sidebar.vue'
+import Header from '~/components/header.vue'
+import Messages from '~/components/messages.vue'
+import { Channel } from '~/models/channel'
+import { Message } from '~/models/message'
+import { User } from '~/models/user'
 
-const API_DEV = 'http://localhost:3000/data/channels.json'
+const isProd = process.env.NODE_ENV === 'production'
 
 export default Vue.extend({
   components: {
     Sidebar,
-    Header
+    Header,
+    Messages
   },
-  async mounted() {
-    const isProd = process.env.NODE_ENV === "production" 
-    if(isProd) {
-        await fetch('/api/channels')
-          .then(res => res.json())
-          .then((res:Array<Channel>) => this.channels = res)
-    }
-    else {
-      await import('~/data/channels.json')
-              .then(res => this.channels = res.default)
-    }
-  },
-  data() {
+  data () {
     return {
-      channels: new Array<Channel>()
+      selectedChannel: {} as Channel,
+      channels: [] as Channel[],
+      users: [] as User[],
+      messages: [] as Message[],
+      indexPage: 0,
+      pages: [] as String[],
+      replies: [] as Message[]
     }
-
+  },
+  watch: {
+    async selectedChannel (newValue: Channel) {
+      this.pages = await this.fetchIndex(newValue)
+      this.indexPage = 0
+      this.messages = []
+      while (this.messages.length < 100 && this.indexPage < this.pages.length) {
+        const messages = await this.fetchMessages(this.selectedChannel, this.pages[this.indexPage])
+        this.messages = [...this.messages, ...messages]
+        this.indexPage += 1
+      }
+    }
+  },
+  async mounted () {
+    this.channels = await this.fetchChannels()
+    this.users = await this.fetchUsers()
+  },
+  methods: {
+    async fetchChannels (): Promise<Channel[]> {
+      const channels = isProd
+        ? await fetch('/api/channels').then(res => res.json()).then(res => res as Channel[])
+        : await import('~/data/channels.json').then(res => res.default as any[] as Channel[])
+      return channels
+    },
+    async fetchUsers (): Promise<User[]> {
+      const users = isProd
+        ? await fetch('/api/users').then(res => res.json()).then(res => res as User[])
+        : await import('~/data/users.json').then(res => res.default as any[] as User[])
+      return users
+    },
+    async fetchMessages (channel: Channel, index: String): Promise<Message[]> {
+      const messages = isProd
+        ? await fetch(`/api/${channel.name}/${index}`).then(
+          res => res.json()).then(res => res as any[])
+        : await import(`~/data/${channel.name}/${index}.json`).then(
+          res => res.default as any[]
+        )
+      return messages.map(
+        (m: any) => {
+          const message: Message = {
+            userId: m.user,
+            text: m.text,
+            avatar: this.users.find(u => u.id === m.user)?.avatar,
+            replies: m.reply_count,
+            date: new Date(m.ts * 1000)
+          }
+          return message
+        }
+      )
+    },
+    async fetchIndex (channel: Channel): Promise<String[]> {
+      return isProd
+        ? await fetch(`/api/${channel.name}/index`)
+          .then(res => res.json())
+          .then(res => res as string[])
+        : await import(`~/data/${channel.name}/index.json`)
+          .then(res => res.default as string[])
+    },
+    async loadMoreMessages () {
+      while (this.indexPage < this.pages.length) {
+        const messages = await this.fetchMessages(this.selectedChannel, this.pages[this.indexPage])
+        this.messages = [...this.messages, ...messages]
+        this.indexPage += 1
+      }
+    }
   }
 })
 

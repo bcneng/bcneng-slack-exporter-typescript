@@ -1,13 +1,13 @@
 export interface Topic {
     value: string;
     creator: string;
-    last_set: number;
+    lastSet: number;
 }
 
 export interface Purpose {
     value: string;
     creator: string;
-    last_set: number;
+    lastSet: number;
 }
 
 export interface Channel {
@@ -15,10 +15,9 @@ export interface Channel {
     name: string;
     created: number;
     creator: string;
-    is_archived: boolean;
-    is_general: boolean;
+    isArchived: boolean;
+    isGeneral: boolean;
     members: string[];
     topic: Topic;
     purpose: Purpose;
 }
-
