@@ -7,7 +7,8 @@
       <Sidebar v-model="selectedChannel" :channels="channels" />
     </aside>
     <main>
-      <Messages :messages="messages" @scroll-to-end="loadMoreMessages" />
+      <Messages :messages="messages" />
+      <Observer @intersect="fetchMessages" />
     </main>
     <aside class="comments" style="border: 1px solid black;">
       <Messages :messages="replies" />
@@ -20,6 +21,7 @@ import Vue from 'vue'
 import Sidebar from '~/components/sidebar.vue'
 import Header from '~/components/header.vue'
 import Messages from '~/components/messages.vue'
+import Observer from '~/components/observer.vue'
 import { Channel } from '~/models/channel'
 import { Message } from '~/models/message'
 import { User } from '~/models/user'
@@ -30,7 +32,8 @@ export default Vue.extend({
   components: {
     Sidebar,
     Header,
-    Messages
+    Messages,
+    Observer
   },
   data () {
     return {
@@ -40,25 +43,23 @@ export default Vue.extend({
       messages: [] as Message[],
       indexPage: 0,
       pages: [] as String[],
-      replies: [] as Message[]
+      replies: [] as Message[],
+      observer: {} as IntersectionObserver
     }
   },
   watch: {
     async selectedChannel (newValue: Channel) {
       this.pages = await this.fetchIndex(newValue)
-      this.indexPage = 0
+      this.indexPage = this.pages.length - 1
       this.messages = []
-      while (this.messages.length < 10 && this.indexPage < this.pages.length) {
-        const messages = await this.fetchMessages(this.selectedChannel, this.pages[this.indexPage])
-        this.messages = [...this.messages, ...messages]
-        this.indexPage += 1
+      while (this.messages.length < 5) {
+        await this.fetchMessages()
       }
     }
   },
   async mounted () {
     this.channels = await this.fetchChannels()
     this.users = await this.fetchUsers()
-    this.scroll()
   },
   methods: {
     async fetchChannels (): Promise<Channel[]> {
@@ -73,14 +74,18 @@ export default Vue.extend({
         : await import('~/data/users.json').then(res => res.default as any[] as User[])
       return users
     },
-    async fetchMessages (channel: Channel, index: String): Promise<Message[]> {
-      const messages = isProd
-        ? await fetch(`/api/${channel.name}/${index}`).then(
+    async fetchMessages (): Promise<void> {
+      if (this.indexPage < 0 || this.pages.length === 0 || Object.keys(this.selectedChannel).length === 0) {
+        return
+      }
+
+      const PromiseMessages = isProd
+        ? await fetch(`/api/${this.selectedChannel.name}/${this.pages[this.indexPage]}`).then(
           res => res.json()).then(res => res as any[])
-        : await import(`~/data/${channel.name}/${index}.json`).then(
+        : await import(`~/data/${this.selectedChannel.name}/${this.pages[this.indexPage]}.json`).then(
           res => res.default as any[]
         )
-      return messages.map(
+      const messages = PromiseMessages.map(
         (m: any) => {
           const message: Message = {
             userId: m.user,
@@ -92,6 +97,9 @@ export default Vue.extend({
           return message
         }
       )
+
+      this.messages = [...this.messages, ...messages]
+      this.indexPage -= 1
     },
     async fetchIndex (channel: Channel): Promise<String[]> {
       return isProd
@@ -100,24 +108,6 @@ export default Vue.extend({
           .then(res => res as string[])
         : await import(`~/data/${channel.name}/index.json`)
           .then(res => res.default as string[])
-    },
-    async loadMoreMessages () {
-      while (this.indexPage < this.pages.length) {
-        const messages = await this.fetchMessages(this.selectedChannel, this.pages[this.indexPage])
-        this.messages = [...this.messages, ...messages]
-        this.indexPage += 1
-      }
-    },
-    scroll () {
-      window.onscroll = async () => {
-        const bottomOfWindow = document.documentElement.scrollTop + window.innerHeight === document.documentElement.offsetHeight
-
-        if (bottomOfWindow && this.indexPage < this.pages.length) {
-          const messages = await this.fetchMessages(this.selectedChannel, this.pages[this.indexPage])
-          this.messages = [...this.messages, ...messages]
-          this.indexPage += 1
-        }
-      }
     }
   }
 })
