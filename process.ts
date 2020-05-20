@@ -32,14 +32,14 @@ function chunk<T> (inputArray: T[], chunks: number): T[][] {
 
 channelDirectories.forEach((channelDirectory) => {
   const files = fs.readdirSync(`${DATA_DIRECTORY}/${channelDirectory.name}`)
-  console.table(files)
-  const messagesPreProcessed = files
-    .filter(f => !f.includes('index'))
-    .map((f) => {
+
+  let messagesPreProcessed:MessagePreProcessed[] = []
+  files
+    .forEach((f) => {
       const fullFilePath = `${DATA_DIRECTORY}/${channelDirectory.name}/${f}`
-      return require(fullFilePath) as MessagePreProcessed[]
+      const message = require(fullFilePath) as MessagePreProcessed[]
+      messagesPreProcessed = messagesPreProcessed.concat(message)
     })
-    .flat()
 
   const messages = messagesPreProcessed
     .filter(m => !m.parent_user_id)
