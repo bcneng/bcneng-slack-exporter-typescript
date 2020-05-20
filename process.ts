@@ -9,8 +9,8 @@ const DATA_DIRECTORY = path.resolve(__dirname, 'data')
 const OUTPUT_DIRECTORY = path.resolve(__dirname, 'static/data')
 const DIST_DIRECTORY = path.resolve(__dirname, 'dist/data')
 
-fs.rmdirSync(OUTPUT_DIRECTORY, { recursive: true })
-fs.rmdirSync(DIST_DIRECTORY, { recursive: true })
+fse.removeSync(OUTPUT_DIRECTORY)
+fse.removeSync(DIST_DIRECTORY)
 
 const files = fs.readdirSync(DATA_DIRECTORY, { withFileTypes: true })
 const channelDirectories = files.filter((f: fs.Dirent) => f.isDirectory())
