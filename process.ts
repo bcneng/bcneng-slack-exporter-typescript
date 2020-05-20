@@ -39,6 +39,7 @@ channelDirectories.forEach((channelDirectory) => {
       const fullFilePath = `${DATA_DIRECTORY}/${channelDirectory.name}/${f}`
       const message = require(fullFilePath) as MessagePreProcessed[]
       messagesPreProcessed = messagesPreProcessed.concat(message)
+      console.table(messagesPreProcessed, message)
     })
 
   const messages = messagesPreProcessed
