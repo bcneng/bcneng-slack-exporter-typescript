@@ -1,4 +1,3 @@
-<!-- Observer.vue -->
 <template>
   <div class="observer" />
 </template>
