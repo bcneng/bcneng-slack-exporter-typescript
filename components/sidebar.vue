@@ -12,7 +12,7 @@
 <script lang="ts">
 
 import Vue from 'vue'
-import { Channel } from '~/models/channel'
+import { Channel } from '~/models/postProcessed/channel'
 
 export default Vue.extend({
   model: {

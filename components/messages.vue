@@ -9,7 +9,9 @@
         </div>
         <p>{{ message.text }}</p>
         <p v-if="message.replies">
-          {{ message.replies }} Replies
+          <button @click="$emit('show-replies', message)">
+            {{ message.replies.length }} Replies
+          </button>
         </p>
       </div>
     </article>
@@ -18,7 +20,7 @@
 
 <script lang="ts">
 import Vue from 'vue'
-import { Message } from '~/models/message'
+import { Message } from '~/models/postProcessed/message'
 
 export default Vue.extend({
   props: {

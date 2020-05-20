@@ -7,7 +7,7 @@
       <Sidebar v-model="selectedChannel" :channels="channels" />
     </aside>
     <main>
-      <Messages :messages="messages" />
+      <Messages :messages="messages" @show-replies="fetchReplies($event)" />
       <Observer @intersect="fetchMessages" />
     </main>
     <aside class="comments" style="border: 1px solid black;">
@@ -22,9 +22,8 @@ import Sidebar from '~/components/sidebar.vue'
 import Header from '~/components/header.vue'
 import Messages from '~/components/messages.vue'
 import Observer from '~/components/observer.vue'
-import { Channel } from '~/models/channel'
-import { Message } from '~/models/message'
-import { User } from '~/models/user'
+import { Channel } from '~/models/postProcessed/channel'
+import { Message } from '~/models/postProcessed/message'
 
 const isProd = process.env.NODE_ENV === 'production'
 
@@ -39,18 +38,15 @@ export default Vue.extend({
     return {
       selectedChannel: {} as Channel,
       channels: [] as Channel[],
-      users: [] as User[],
       messages: [] as Message[],
-      indexPage: 0,
-      pages: [] as String[],
-      replies: [] as Message[],
+      messageIndex: 0,
+      replies: [] as Message[] | undefined,
       observer: {} as IntersectionObserver
     }
   },
   watch: {
-    async selectedChannel (newValue: Channel) {
-      this.pages = await this.fetchIndex(newValue)
-      this.indexPage = this.pages.length - 1
+    async selectedChannel () {
+      this.messageIndex = 0
       this.messages = []
       while (this.messages.length < 5) {
         await this.fetchMessages()
@@ -59,55 +55,34 @@ export default Vue.extend({
   },
   async mounted () {
     this.channels = await this.fetchChannels()
-    this.users = await this.fetchUsers()
   },
   methods: {
     async fetchChannels (): Promise<Channel[]> {
       const channels = isProd
-        ? await fetch('/api/channels').then(res => res.json()).then(res => res as Channel[])
-        : await import('~/data/channels.json').then(res => res.default as any[] as Channel[])
+        ? await fetch('/api/channels')
+          .then(res => res.json())
+          .then(res => res as Channel[])
+        : await import('~/static/data/channels.json')
+          .then(res => res.default as any[] as Channel[])
       return channels
     },
-    async fetchUsers (): Promise<User[]> {
-      const users = isProd
-        ? await fetch('/api/users').then(res => res.json()).then(res => res as User[])
-        : await import('~/data/users.json').then(res => res.default as any[] as User[])
-      return users
-    },
     async fetchMessages (): Promise<void> {
-      if (this.indexPage < 0 || this.pages.length === 0 || Object.keys(this.selectedChannel).length === 0) {
+      if (this.messageIndex < 0 || Object.keys(this.selectedChannel).length === 0) {
         return
       }
 
-      const PromiseMessages = isProd
-        ? await fetch(`/api/${this.selectedChannel.name}/${this.pages[this.indexPage]}`).then(
-          res => res.json()).then(res => res as any[])
-        : await import(`~/data/${this.selectedChannel.name}/${this.pages[this.indexPage]}.json`).then(
-          res => res.default as any[]
-        )
-      const messages = PromiseMessages.map(
-        (m: any) => {
-          const message: Message = {
-            userId: m.user,
-            text: m.text,
-            avatar: this.users.find(u => u.id === m.user)?.avatar,
-            replies: m.reply_count,
-            date: new Date(m.ts * 1000)
-          }
-          return message
-        }
-      )
+      const messages = isProd
+        ? await fetch(`/api/${this.selectedChannel.name}/${this.messageIndex}`)
+          .then(res => res.json())
+          .then(res => res as Message[])
+        : await import(`~/static/data/${this.selectedChannel.name}/${this.messageIndex}.json`)
+          .then(res => res.default as Message[])
 
       this.messages = [...this.messages, ...messages]
-      this.indexPage -= 1
+      this.messageIndex += 1
     },
-    async fetchIndex (channel: Channel): Promise<String[]> {
-      return isProd
-        ? await fetch(`/api/${channel.name}/index`)
-          .then(res => res.json())
-          .then(res => res as string[])
-        : await import(`~/data/${channel.name}/index.json`)
-          .then(res => res.default as string[])
+    fetchReplies (message: Message) {
+      this.replies = message.replies
     }
   }
 })
@@ -133,6 +108,8 @@ export default Vue.extend({
 
 main {
   grid-area: main;
+  height: 90vh;
+  overflow-y: scroll;
 }
 
 header {

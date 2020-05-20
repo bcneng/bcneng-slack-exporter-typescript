@@ -5,12 +5,13 @@
   "author": "Alex",
   "private": true,
   "scripts": {
-    "dev": "nuxt-ts && bash copy-data-to-dist.sh",
-    "build": "nuxt-ts build && bash copy-data-to-dist.sh",
-    "generate": "nuxt-ts generate && bash copy-data-to-dist.sh",
+    "dev": "nuxt-ts && npm run process-data",
+    "build": "nuxt-ts build && npm run process-data",
+    "generate": "nuxt-ts generate && npm run process-data",
     "start": "nuxt-ts start",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
-    "lint-fix": "eslint --ext .js,.vue --ignore-path .gitignore . --fix"
+    "lint-fix": "eslint --ext .js,.vue --ignore-path .gitignore . --fix",
+    "process-data": "ts-node process.ts"
   },
   "dependencies": {
     "@nuxt/typescript-runtime": "^0.4.0",
@@ -22,9 +23,11 @@
     "@nuxt/typescript-build": "^0.6.0",
     "@nuxtjs/eslint-config-typescript": "^1.0.0",
     "@nuxtjs/eslint-module": "^1.0.0",
+    "@types/fs-extra": "^9.0.1",
     "babel-eslint": "^10.0.1",
     "eslint": "^6.1.0",
     "eslint-plugin-nuxt": ">=0.4.2",
+    "fs-extra": "^9.0.0",
     "node-sass": "^4.14.1",
     "sass-loader": "^8.0.2"
   }
