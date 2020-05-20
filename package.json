@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxt-ts && npm run process-data",
-    "build": "nuxt-ts build && npm run process-data",
+    "build": "npm i && nuxt-ts build && npm run process-data",
     "generate": "nuxt-ts generate && npm run process-data",
     "start": "nuxt-ts start",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
