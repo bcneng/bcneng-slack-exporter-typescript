@@ -29,7 +29,7 @@ export interface Block {
 
 export interface Reply {
   user: string;
-  ts: string;
+  ts: number;
 }
 
 export interface Edited {
@@ -42,7 +42,7 @@ export interface Message {
   type: string;
   text: string;
   user: string;
-  ts: string;
+  ts: number;
   team: string;
   user_team: string;
   source_team: string;

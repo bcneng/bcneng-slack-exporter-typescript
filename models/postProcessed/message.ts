@@ -4,4 +4,5 @@ export interface Message {
     user: User,
     text: string,
     replies?: Message[]
+    date: Date
 }

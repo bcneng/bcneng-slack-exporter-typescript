@@ -8,10 +8,6 @@ import { Message as MessagePreProcessed } from '~/models/preProcessed/message'
 const DATA_DIRECTORY = path.resolve(__dirname, 'data')
 const OUTPUT_DIRECTORY = path.resolve(__dirname, 'static/data')
 const DIST_DIRECTORY = path.resolve(__dirname, 'dist/data')
-
-fse.removeSync(OUTPUT_DIRECTORY)
-fse.removeSync(DIST_DIRECTORY)
-
 const files = fs.readdirSync(DATA_DIRECTORY, { withFileTypes: true })
 const channelDirectories = files.filter((f: fs.Dirent) => f.isDirectory())
 const users = require(`${DATA_DIRECTORY}/users.json`) as User[]
@@ -26,9 +22,11 @@ function chunk<T> (inputArray: T[], chunks: number): T[][] {
   while (i < n) {
     chunkedArray.push(inputArray.slice(i, (i += chunks)))
   }
-
   return chunkedArray
 }
+
+fse.removeSync(OUTPUT_DIRECTORY)
+fse.removeSync(DIST_DIRECTORY)
 
 channelDirectories.forEach((channelDirectory) => {
   const files = fs.readdirSync(`${DATA_DIRECTORY}/${channelDirectory.name}`)
@@ -50,10 +48,12 @@ channelDirectories.forEach((channelDirectory) => {
           const msg = messagesPreProcessed.find(m => m.ts === r.ts)
           return {
             text: msg?.text,
-            user: users.find(u => u.id === msg?.user)
+            user: users.find(u => u.id === msg?.user),
+            date: msg ? new Date(msg.ts * 1000) : null
           } as Message
         }),
-        text: message.text
+        text: message.text,
+        date: new Date(message.ts * 1000)
       }) as Message
     })
 

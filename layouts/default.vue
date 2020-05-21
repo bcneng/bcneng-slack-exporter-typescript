@@ -10,7 +10,7 @@
       <Messages :messages="messages" @show-replies="fetchReplies($event)" />
       <Observer @intersect="fetchMessages" />
     </main>
-    <aside class="comments" style="border: 1px solid black;">
+    <aside class="comments">
       <Messages :messages="replies" />
     </aside>
   </div>
@@ -123,32 +123,4 @@ header {
   grid-area: comments;
 }
 
-article {
-  display: grid;
-  grid-template-areas:
-    "avatar content"
-    ". content";
-  grid-gap: 10px;
-}
-article .article-avatar {
-  grid-area: avatar;
-  border-radius: 3px;
-  width: 50px;
-  height: 50px;
-}
-
-article .article-content {
-  grid-area: content;
-}
-article .article-metadata {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-}
-
-article > p,
-h5,
-h3 {
-  margin: 0;
-}
 </style>

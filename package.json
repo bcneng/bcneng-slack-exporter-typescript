@@ -5,9 +5,9 @@
   "author": "Alex",
   "private": true,
   "scripts": {
-    "dev": "nuxt-ts && npm run process-data",
-    "build": "npm i && nuxt-ts build && npm run process-data",
-    "generate": "nuxt-ts generate && npm run process-data",
+    "dev": "npm run process-data && nuxt-ts",
+    "build": "npm i && npm run process-data && nuxt-ts build",
+    "generate": "npm run process-data && nuxt-ts generate",
     "start": "nuxt-ts start",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "lint-fix": "eslint --ext .js,.vue --ignore-path .gitignore . --fix",
@@ -17,7 +17,7 @@
     "@nuxt/typescript-runtime": "^0.4.0",
     "@nuxtjs/axios": "^5.3.6",
     "nuxt": "^2.0.0",
-    "nuxt-property-decorator": "^2.7.2"
+    "slack-markdown": "0.0.4"
   },
   "devDependencies": {
     "@nuxt/typescript-build": "^0.6.0",
