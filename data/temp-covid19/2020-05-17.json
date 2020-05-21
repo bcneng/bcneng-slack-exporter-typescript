@@ -1,0 +1,374 @@
+[
+    {
+        "client_msg_id": "96b75775-6eac-4b49-886f-3a3fa9c66594",
+        "type": "message",
+        "text": "Work from home != Work with family. Yo sin niños soy más productivo",
+        "user": "U2YH82SRM",
+        "ts": "1589702525.083800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ApNk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Work from home != Work with family. Yo sin niños soy más productivo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "be1929a6-8217-4005-97f7-0e4252e78450",
+        "type": "message",
+        "text": "eso, desde casa no significa con ninos",
+        "user": "UFW0A1GV8",
+        "ts": "1589702542.084000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e\/l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "eso, desde casa no significa con ninos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "0e637b3c-a47d-4826-8b32-d2efc0630e41",
+        "type": "message",
+        "text": "cuando reabran las escuelas ya sera otra cosa",
+        "user": "UFW0A1GV8",
+        "ts": "1589702556.084200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VyjY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cuando reabran las escuelas ya sera otra cosa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "e56d1a67-a7f2-4c3a-9c95-1e6f4eece18a",
+        "type": "message",
+        "text": "Además es un poco enseñarles. Mi papá trabajaba de casa y nunca nos metimos",
+        "user": "UFW0A1GV8",
+        "ts": "1589702605.084400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NTQW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Además es un poco enseñarles. Mi papá trabajaba de casa y nunca nos metimos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "79ce5751-bc5f-4bf5-98cd-befcf331c6ae",
+        "type": "message",
+        "text": "Sip. Es que los míos aun son muy pequeños :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing: 3 años y 10 meses.. Esta siendo durillo",
+        "user": "UNR7EF5EU",
+        "ts": "1589704580.084600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W2\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sip. Es que los míos aun son muy pequeños "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 3 años y 10 meses.. Esta siendo durillo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "d5f110af-277c-4648-a0f5-f510ebabbce2",
+        "type": "message",
+        "text": "Nosotros hemos notado una disminución de productividad bastante grande. Muchos hablan de lo productivos que son a nivel individual, pero a nivel empresa? Sobretodo lo he notado con los onboardings de nuevos ingenieros",
+        "user": "U3HBXARHR",
+        "ts": "1589707545.084800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g2bafe443f3f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/12bafe443f3f040973e21fa6ad52a8b9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Pau",
+            "real_name": "Pau Ramon",
+            "display_name": "pau-ramon",
+            "team": "T2Y6L54R3",
+            "name": "pau-ramon",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fbuR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nosotros hemos notado una disminución de productividad bastante grande. Muchos hablan de lo productivos que son a nivel individual, pero a nivel empresa? Sobretodo lo he notado con los onboardings de nuevos ingenieros"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "6bee6557-7bca-4d3f-bc60-7105482519a2",
+        "type": "message",
+        "text": "Entiendo que porque no habéis encontrado la manera, al final el mundo está lleno de empresas tecnológicas exitosas fully remote",
+        "user": "U2YH82SRM",
+        "ts": "1589719896.085100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rJE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Entiendo que porque no habéis encontrado la manera, al final el mundo está lleno de empresas tecnológicas exitosas fully remote"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "edf10d8d-062d-4cb6-9182-112bdd494db5",
+        "type": "message",
+        "text": "hay empresas que se adaptan mas rapido, otras que no. Pero adaptarse hay que hacerlo seguro",
+        "user": "UFW0A1GV8",
+        "ts": "1589725127.085300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t4y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hay empresas que se adaptan mas rapido, otras que no. Pero adaptarse hay que hacerlo seguro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "d807ab43-e5f7-4c6f-adbb-d4d5a76b8c72",
+        "type": "message",
+        "text": "nosotros ya usabamos herramientas remotas por estar entre 2 oficinas, asi que nos adaptamos rapidps",
+        "user": "UFW0A1GV8",
+        "ts": "1589725146.085500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BLS8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nosotros ya usabamos herramientas remotas por estar entre 2 oficinas, asi que nos adaptamos rapidps"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    }
+]

@@ -1,0 +1,551 @@
+[
+    {
+        "client_msg_id": "4da8bdf9-8464-4d91-9e15-e36251544741",
+        "type": "message",
+        "text": "Merkel tambien es una scientific, tiene un PhD",
+        "user": "UDHAZQNF9",
+        "ts": "1589445813.073800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LBNIw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merkel tambien es una scientific, tiene un PhD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589397544.070700",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "61497474-bd67-4fd6-b1d7-3fb53429bc58",
+        "type": "message",
+        "text": "No todo iba a ser malo: <https:\/\/www.abc.es\/sociedad\/abci-suicidios-japon-caen-20-por-ciento-menor-tasa-cinco-anos-descender-estres-confinamiento-202005141234_noticia.html?ref=https%3A%2F%2Fwww.meneame.net%2Fqueue>",
+        "user": "UN6S9CCGH",
+        "ts": "1589454777.074200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "abc",
+                "title": "Los suicidios en Japón caen un 20%, la menor tasa en cinco años al descender el estrés por el confinamiento",
+                "title_link": "https:\/\/www.abc.es\/sociedad\/abci-suicidios-japon-caen-20-por-ciento-menor-tasa-cinco-anos-descender-estres-confinamiento-202005141234_noticia.html?ref=https%3A%2F%2Fwww.meneame.net%2Fqueue",
+                "text": "El mayor contacto con la familia, el retraso en el inicio del curso escolar y los menores desplazamientos, entre las causas",
+                "fallback": "abc: Los suicidios en Japón caen un 20%, la menor tasa en cinco años al descender el estrés por el confinamiento",
+                "image_url": "https:\/\/static2.abc.es\/media\/sociedad\/2020\/05\/14\/japon1-kG8E--1024x512@abc.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "ts": 1589452477,
+                "from_url": "https:\/\/www.abc.es\/sociedad\/abci-suicidios-japon-caen-20-por-ciento-menor-tasa-cinco-anos-descender-estres-confinamiento-202005141234_noticia.html?ref=https%3A%2F%2Fwww.meneame.net%2Fqueue",
+                "image_bytes": 152540,
+                "service_icon": "https:\/\/static2.abc.es\/comun\/2018\/img\/iconos-metas\/upper-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.abc.es\/sociedad\/abci-suicidios-japon-caen-20-por-ciento-menor-tasa-cinco-anos-descender-estres-confinamiento-202005141234_noticia.html?ref=https%3A%2F%2Fwww.meneame.net%2Fqueue"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f0XXk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No todo iba a ser malo: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.abc.es\/sociedad\/abci-suicidios-japon-caen-20-por-ciento-menor-tasa-cinco-anos-descender-estres-confinamiento-202005141234_noticia.html?ref=https%3A%2F%2Fwww.meneame.net%2Fqueue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "B2Y6M3HAS",
+        "type": "message",
+        "text": "",
+        "user": "UN6S9CCGH",
+        "ts": "1589455019.074600",
+        "team": "T2Y6L54R3",
+        "bot_profile": {
+            "id": "B2Y6M3HAS",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1478167615,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T2Y6L54R3"
+        },
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/reactiongifs-HP5dest4oOHf2",
+                "image_url": "https:\/\/media2.giphy.com\/media\/HP5dest4oOHf2\/giphy-downsized.gif?cid=6104955e5137169b278fc545d4b7ea37e634712d46956e94&rid=giphy-downsized.gif",
+                "image_width": 480,
+                "image_height": 269,
+                "image_bytes": 1961363,
+                "is_animated": true,
+                "title": "surprise motherfucker",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/reactiongifs-HP5dest4oOHf2"
+            }
+        ],
+        "thread_ts": "1589439202.073000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "3d6df8e3-ca1a-4b22-8504-08d8e8c8e06c",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/PhilippineStar\/status\/1260460802164895748?s=19|https:\/\/twitter.com\/PhilippineStar\/status\/1260460802164895748?s=19>",
+        "user": "UDHAZQNF9",
+        "ts": "1589455571.075000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/PhilippineStar|@PhilippineStar>: These stray cats were spotted occupying the circle marks intended for the implementation of social distancing protocols in front of a store in Brgy. Holy Spirit, Quezon City on Sunday amid enhanced community quarantine. <https:\/\/pbs.twimg.com\/media\/EX4K7SbXYAYw-lJ.jpg>",
+                "ts": 1589352248,
+                "author_name": "The Philippine Star",
+                "author_link": "https:\/\/twitter.com\/PhilippineStar\/status\/1260460802164895748",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/945921611651194880\/FlsJpxMm_normal.jpg",
+                "author_subname": "@PhilippineStar",
+                "text": "These stray cats were spotted occupying the circle marks intended for the implementation of social distancing protocols in front of a store in Brgy. Holy Spirit, Quezon City on Sunday amid enhanced community quarantine. <https:\/\/pbs.twimg.com\/media\/EX4K7SbXYAYw-lJ.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/PhilippineStar\/status\/1260460802164895748?s=19",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EX4K7SbXYAYw-lJ.jpg",
+                "image_width": 528,
+                "image_height": 960,
+                "image_bytes": 82359,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/PhilippineStar\/status\/1260460802164895748?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/EX4K7SdXgAEKenw.jpg>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EX4K7SdXgAEKenw.jpg",
+                "image_width": 528,
+                "image_height": 960,
+                "image_bytes": 81694,
+                "id": 2
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/EX4K7SfWsAAIPad.jpg>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EX4K7SfWsAAIPad.jpg",
+                "image_width": 960,
+                "image_height": 540,
+                "image_bytes": 69354,
+                "id": 3
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OMKz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/PhilippineStar\/status\/1260460802164895748?s=19",
+                                "text": "https:\/\/twitter.com\/PhilippineStar\/status\/1260460802164895748?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "loveparrot",
+                "users": [
+                    "UN6S9CCGH",
+                    "UGC8J6E8J",
+                    "U2ZS36LQN",
+                    "U3R29MX61"
+                ],
+                "count": 4
+            },
+            {
+                "name": "cat2",
+                "users": [
+                    "U2ZS36LQN",
+                    "U3R29MX61",
+                    "UGVNLB7LL",
+                    "UC8R6Q0GJ"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F013NC9NP99",
+                "created": 1589466876,
+                "timestamp": 1589466876,
+                "name": "Screenshot_20200513-213125.png",
+                "title": "Screenshot_20200513-213125.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U2YH82SRM",
+                "editable": false,
+                "size": 409388,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013NC9NP99\/screenshot_20200513-213125.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013NC9NP99\/download\/screenshot_20200513-213125.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013NC9NP99-53ca0a6f18\/screenshot_20200513-213125_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013NC9NP99-53ca0a6f18\/screenshot_20200513-213125_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013NC9NP99-53ca0a6f18\/screenshot_20200513-213125_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 201,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013NC9NP99-53ca0a6f18\/screenshot_20200513-213125_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 268,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013NC9NP99-53ca0a6f18\/screenshot_20200513-213125_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013NC9NP99-53ca0a6f18\/screenshot_20200513-213125_720.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720_w": 402,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013NC9NP99-53ca0a6f18\/screenshot_20200513-213125_800.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1432,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013NC9NP99-53ca0a6f18\/screenshot_20200513-213125_960.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_960_w": 536,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013NC9NP99-53ca0a6f18\/screenshot_20200513-213125_1024.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_1024_w": 572,
+                "thumb_1024_h": 1024,
+                "original_w": 1144,
+                "original_h": 2048,
+                "thumb_tiny": "AwAwABqb7CgP32\/IUfYUP\/LRh+VXNvrRgDtQBQlsdqgx7nPTHFOXT0KglnBI5HHFXRn6UtABSd6Wk\/rQACloooAaSegx+JoGc84FGR\/kUc54P6UAKPelpBn1\/SjNAH\/\/2Q==",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U2YH82SRM\/F013NC9NP99\/screenshot_20200513-213125.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013NC9NP99-faa44a865c",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F0137DR4F4P",
+                "created": 1589466881,
+                "timestamp": 1589466881,
+                "name": "Screenshot_20200513-213151.png",
+                "title": "Screenshot_20200513-213151.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U2YH82SRM",
+                "editable": false,
+                "size": 401171,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F0137DR4F4P\/screenshot_20200513-213151.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F0137DR4F4P\/download\/screenshot_20200513-213151.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F0137DR4F4P-5e58907c3d\/screenshot_20200513-213151_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F0137DR4F4P-5e58907c3d\/screenshot_20200513-213151_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F0137DR4F4P-5e58907c3d\/screenshot_20200513-213151_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F0137DR4F4P-5e58907c3d\/screenshot_20200513-213151_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 271,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F0137DR4F4P-5e58907c3d\/screenshot_20200513-213151_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F0137DR4F4P-5e58907c3d\/screenshot_20200513-213151_720.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720_w": 406,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F0137DR4F4P-5e58907c3d\/screenshot_20200513-213151_800.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1419,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F0137DR4F4P-5e58907c3d\/screenshot_20200513-213151_960.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_960_w": 541,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F0137DR4F4P-5e58907c3d\/screenshot_20200513-213151_1024.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_1024_w": 578,
+                "thumb_1024_h": 1024,
+                "original_w": 1155,
+                "original_h": 2048,
+                "thumb_tiny": "AwAwABuf7FGDwz\/nR9jjP8Tj8at4FLgelAFF7FQmY9zN6ZpUsEKAvuVu4Bq516cUtABQelFHegAooooATP0\/Oky2eg\/OjI9f0o5zwcfhQAZPfAp1IM9z+lGaAP\/Z",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U2YH82SRM\/F0137DR4F4P\/screenshot_20200513-213151.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F0137DR4F4P-69e34bcde2",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F013N651R34",
+                "created": 1589466882,
+                "timestamp": 1589466882,
+                "name": "Screenshot_20200513-213346.png",
+                "title": "Screenshot_20200513-213346.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U2YH82SRM",
+                "editable": false,
+                "size": 393089,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013N651R34\/screenshot_20200513-213346.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013N651R34\/download\/screenshot_20200513-213346.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N651R34-1387a19cbd\/screenshot_20200513-213346_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N651R34-1387a19cbd\/screenshot_20200513-213346_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N651R34-1387a19cbd\/screenshot_20200513-213346_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N651R34-1387a19cbd\/screenshot_20200513-213346_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N651R34-1387a19cbd\/screenshot_20200513-213346_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N651R34-1387a19cbd\/screenshot_20200513-213346_720.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720_w": 404,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N651R34-1387a19cbd\/screenshot_20200513-213346_800.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1425,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N651R34-1387a19cbd\/screenshot_20200513-213346_960.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_960_w": 539,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N651R34-1387a19cbd\/screenshot_20200513-213346_1024.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_1024_w": 575,
+                "thumb_1024_h": 1024,
+                "original_w": 1150,
+                "original_h": 2048,
+                "thumb_tiny": "AwAwABqf7FGDwz\/mKPsUZ\/jf86t4FGB6UAUZLEBR5YZz0IyBTl0+MqCxcHHIyKuUtABQaKO9ABRRRQAmfpSZPtRkev6Uc54OPwoAOT7U6kGfWjNAH\/\/Z",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U2YH82SRM\/F013N651R34\/screenshot_20200513-213346.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013N651R34-b71019a404",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U2YH82SRM",
+        "ts": "1589466895.075600",
+        "client_msg_id": "4977bc61-d758-48b3-bd8f-f9d443417153",
+        "thread_ts": "1589397544.070700",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "a2315335-e6de-4cab-ae51-70c6c88b708e",
+        "type": "message",
+        "text": "Alemania lo ha hecho mejor que nosotros, pero aún así bastante peor que los paises asiáticos",
+        "user": "U2YH82SRM",
+        "ts": "1589466914.076400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fylx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Alemania lo ha hecho mejor que nosotros, pero aún así bastante peor que los paises asiáticos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589397544.070700",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "b75b4233-3a1f-46b1-b2a2-58633cee04a2",
+        "type": "message",
+        "text": "Y ya veremos que pasa, están forzando a Merkel a abrir el país",
+        "user": "U2YH82SRM",
+        "ts": "1589466938.076600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "06dVo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y ya veremos que pasa, están forzando a Merkel a abrir el país"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589397544.070700",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "6f44e44e-ce0f-42f7-a630-4261b375f268",
+        "type": "message",
+        "text": "<https:\/\/www.revistagq.com\/noticias\/articulo\/trabajar-en-casa-teletrabajo-permanente-productividad-ahorro|https:\/\/www.revistagq.com\/noticias\/articulo\/trabajar-en-casa-teletrabajo-permanente-productividad-ahorro> \nMás de lo mismo. Si el río suena agua lleva.",
+        "user": "UE6CTL7E1",
+        "ts": "1589472752.078300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ab929b19244f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-09\/519364738451_ab929b19244fbc102f1c_72.jpg",
+            "first_name": "Ibán",
+            "real_name": "Ibán Martínez",
+            "display_name": "Ibán",
+            "team": "T2Y6L54R3",
+            "name": "iban023",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GQ España",
+                "title": "Trabajar en casa: acostúmbrate, porque mucha gente no volverá a la oficina (lo dicen los CFOs)",
+                "title_link": "https:\/\/www.revistagq.com\/noticias\/articulo\/trabajar-en-casa-teletrabajo-permanente-productividad-ahorro",
+                "text": "La nueva normalidad hace normal trabajar en casa y tu oficina improvisada en la mesa de la cocina. Al menos, así lo muestra este estudio de Gartner.",
+                "fallback": "GQ España: Trabajar en casa: acostúmbrate, porque mucha gente no volverá a la oficina (lo dicen los CFOs)",
+                "image_url": "https:\/\/media.revistagq.com\/photos\/5ebd46ba3f0f1d1f6dbcaf39\/16:9\/w_1920,c_limit\/GettyImages-571492555.jpg",
+                "from_url": "https:\/\/www.revistagq.com\/noticias\/articulo\/trabajar-en-casa-teletrabajo-permanente-productividad-ahorro",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 396254,
+                "service_icon": "https:\/\/www.revistagq.com\/images\/brands\/gq\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.revistagq.com\/noticias\/articulo\/trabajar-en-casa-teletrabajo-permanente-productividad-ahorro"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DCzM=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.revistagq.com\/noticias\/articulo\/trabajar-en-casa-teletrabajo-permanente-productividad-ahorro",
+                                "text": "https:\/\/www.revistagq.com\/noticias\/articulo\/trabajar-en-casa-teletrabajo-permanente-productividad-ahorro"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nMás de lo mismo. Si el río suena agua lleva."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sweat",
+                "users": [
+                    "UEDFE7J07",
+                    "UTK987GQP",
+                    "U387XV1HS"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

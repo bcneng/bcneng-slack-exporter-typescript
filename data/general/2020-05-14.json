@@ -1,0 +1,1306 @@
+[
+    {
+        "client_msg_id": "0bb99ba0-ba89-4422-890d-cd3d6fe6ccd0",
+        "type": "message",
+        "text": "Hi everyone!\n\nBcnEng community hopes all of you are finding some peace and energy these days. We know how hard they can be due to the COVID-19 pandemic. We wonder how the pandemic and the current economic situation are impacting the IT community, both at the work or business level but also psychologically and well-living.\n\nFor that reason, BcnEng has created the following survey <https:\/\/forms.gle\/2YBhaeKDs2EWaZn18> .\n\nWe hope all of you can help us, both by answering the survey and by sharing it with the community.\n\nWe would like to thanks <@UEDFE7J07> for all the effort she put into the form creation and <@U010PQJBJB0> who reviewed it from the legal point of view.\n\nCheers!",
+        "user": "U7PQZMZ4L",
+        "ts": "1589464953.341400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Google Docs",
+                "title": "Impact of the COVID-19 pandemic in the IT community",
+                "title_link": "https:\/\/forms.gle\/2YBhaeKDs2EWaZn18",
+                "text": "Hi everyone! BcnEng community hopes all of you are finding some peace and energy these days. We know how hard they can be due to the COVID-19 pandemic. Before you decide whether to participate in this survey or not, we want to explain the reason behind doing this and how your information will be used. Why are we doing this? We wonder how the pandemic and the current economic situation are impacting the IT community, both at the work or business level but also psychologically and well-living. How to participate? If you want to help, click \"Yes\" on the \"My participation in this survey is completely voluntary\" checkbox. Then just answer the survey. Please provide real information when doing it, otherwise, the survey results are likely to mislead. Remember that you can drop the survey at any moment. How data is gonna be treated? All the data collected is anonymous, confidential, and secured. Data will be collected using Google Form and processed later to compile statistics that will be eventually shared publicly. Thanks a lot. Please share this survey with people around the IT community. This survey and their results are under CC BY-NC-ND 4.0 license <https:\/\/creativecommons.org\/licenses\/by-nc-nd\/4.0\/>",
+                "fallback": "Google Docs: Impact of the COVID-19 pandemic in the IT community",
+                "image_url": "https:\/\/lh6.googleusercontent.com\/PLYn8uZxamWTTvBlYF09S3lqbi2YPJDIL0Gt6c28_jyOHM9s1qdlhDNtGrxK-Fq_CsNMuuI",
+                "image_width": 333,
+                "image_height": 250,
+                "from_url": "https:\/\/forms.gle\/2YBhaeKDs2EWaZn18",
+                "image_bytes": 55108,
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/2YBhaeKDs2EWaZn18"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IhgLg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone!\n\nBcnEng community hopes all of you are finding some peace and energy these days. We know how hard they can be due to the COVID-19 pandemic. We wonder how the pandemic and the current economic situation are impacting the IT community, both at the work or business level but also psychologically and well-living.\n\nFor that reason, BcnEng has created the following survey "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/2YBhaeKDs2EWaZn18"
+                            },
+                            {
+                                "type": "text",
+                                "text": " .\n\nWe hope all of you can help us, both by answering the survey and by sharing it with the community.\n\nWe would like to thanks "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UEDFE7J07"
+                            },
+                            {
+                                "type": "text",
+                                "text": " for all the effort she put into the form creation and "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U010PQJBJB0"
+                            },
+                            {
+                                "type": "text",
+                                "text": " who reviewed it from the legal point of view.\n\nCheers!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "reply_count": 39,
+        "reply_users_count": 10,
+        "latest_reply": "1589741209.357600",
+        "reply_users": [
+            "UFW0A1GV8",
+            "U7PQZMZ4L",
+            "U2WPLA0KA",
+            "U389HN5E3",
+            "UEDFE7J07",
+            "U36UNRM4N",
+            "U30H5NBSB",
+            "U2YKVTT5L",
+            "UKVNV1U8M",
+            "U37GUHXGF"
+        ],
+        "replies": [
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589466132.342000"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589466304.342500"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589466306.342700"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589466374.343000"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589466416.343200"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589466593.343500"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589466607.343700"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589466610.343900"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589466620.344100"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589466626.344300"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589466627.344500"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589466641.344700"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589466675.344900"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589466744.345100"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589466917.345300"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589467049.346000"
+            },
+            {
+                "user": "U389HN5E3",
+                "ts": "1589470320.346800"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589473330.347200"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589473941.347800"
+            },
+            {
+                "user": "U36UNRM4N",
+                "ts": "1589525565.349200"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589526418.349700"
+            },
+            {
+                "user": "U30H5NBSB",
+                "ts": "1589526421.349900"
+            },
+            {
+                "user": "U36UNRM4N",
+                "ts": "1589527574.350400"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589527898.350800"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589529318.351000"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589529374.351200"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589529394.351400"
+            },
+            {
+                "user": "U2YKVTT5L",
+                "ts": "1589535056.351700"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589535138.351900"
+            },
+            {
+                "user": "U2YKVTT5L",
+                "ts": "1589535213.352100"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589535297.352300"
+            },
+            {
+                "user": "UKVNV1U8M",
+                "ts": "1589541042.353400"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589541943.353700"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589542040.353900"
+            },
+            {
+                "user": "U37GUHXGF",
+                "ts": "1589709376.356100"
+            },
+            {
+                "user": "U37GUHXGF",
+                "ts": "1589709396.356300"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589741185.357200"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589741198.357400"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589741209.357600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ty",
+                "users": [
+                    "U36H6F3CN",
+                    "U2YEH6F88",
+                    "UFW0A1GV8",
+                    "UR8FUGJJ2",
+                    "U3256HZH9",
+                    "U4HCQ4X1S",
+                    "UTZ0F4WGM",
+                    "U37GUHXGF"
+                ],
+                "count": 8
+            },
+            {
+                "name": "top",
+                "users": [
+                    "U36H6F3CN",
+                    "UNR7EF5EU",
+                    "UFW0A1GV8",
+                    "U3256HZH9",
+                    "UGMMSM2KD",
+                    "U0130LV49HB",
+                    "UTZ0F4WGM",
+                    "U37GUHXGF"
+                ],
+                "count": 8
+            },
+            {
+                "name": "hug",
+                "users": [
+                    "U36H6F3CN",
+                    "UFW0A1GV8",
+                    "U3256HZH9",
+                    "UTZ0F4WGM",
+                    "U37GUHXGF"
+                ],
+                "count": 5
+            },
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U3DPLBVQE",
+                    "UKDMJBEEL",
+                    "UFW0A1GV8",
+                    "UUT6U98SW",
+                    "U010PQJBJB0",
+                    "U3256HZH9",
+                    "UBHPY3L5C",
+                    "U4HCQ4X1S",
+                    "UJU5RUZ51",
+                    "UTZ0F4WGM",
+                    "U37GUHXGF",
+                    "U0110FB38PN"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "are results where there is less than x(usually 3) people for a specific row eliminated to maintain anonimity? Else if you search by age I dont think there are many here apart from me and you could guess my answers :confused:",
+        "files": [
+            {
+                "id": "F013N50B1JN",
+                "created": 1589466129,
+                "timestamp": 1589466129,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFW0A1GV8",
+                "editable": false,
+                "size": 51263,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013N50B1JN\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013N50B1JN\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N50B1JN-c413372b64\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N50B1JN-c413372b64\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N50B1JN-c413372b64\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 194,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N50B1JN-c413372b64\/image_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 258,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N50B1JN-c413372b64\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N50B1JN-c413372b64\/image_720.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720_w": 720,
+                "thumb_720_h": 387,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N50B1JN-c413372b64\/image_800.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 430,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N50B1JN-c413372b64\/image_960.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_960_w": 960,
+                "thumb_960_h": 516,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N50B1JN-c413372b64\/image_1024.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 551,
+                "original_w": 1320,
+                "original_h": 710,
+                "thumb_tiny": "AwAZADDR79f0pQPWkPX\/AOvTqACiiigAoPSig9KAE5\/yaWm0UAOoptFADqD0ptFAH\/\/Z",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/UFW0A1GV8\/F013N50B1JN\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013N50B1JN-ed32e4bfbb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GGbj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "are results where there is less than x(usually 3) people for a specific row eliminated to maintain anonimity? Else if you search by age I dont think there are many here apart from me and you could guess my answers "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confused"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UFW0A1GV8",
+        "display_as_bot": false,
+        "ts": "1589466132.342000",
+        "client_msg_id": "d199667e-c6aa-4f43-8bd9-93cc8c3a1165",
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "b2c0841c-6896-4296-8a15-ca7a36bb0abc",
+        "type": "message",
+        "text": "(<https:\/\/www.ukdataservice.ac.uk\/manage-data\/legal-ethical\/anonymisation.aspx> is pretty good, its also the reason of why company surveys says that they ignore data points from people where there is less than 3)",
+        "user": "UFW0A1GV8",
+        "ts": "1589466304.342500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "UK Data Service » Anonymisation",
+                "title_link": "https:\/\/www.ukdataservice.ac.uk\/manage-data\/legal-ethical\/anonymisation.aspx",
+                "text": "Before data obtained from research with people can be shared with other researchers, data may need to be anonymised so that sources cannot be identified.",
+                "fallback": "UK Data Service » Anonymisation",
+                "from_url": "https:\/\/www.ukdataservice.ac.uk\/manage-data\/legal-ethical\/anonymisation.aspx",
+                "service_name": "home",
+                "id": 1,
+                "original_url": "https:\/\/www.ukdataservice.ac.uk\/manage-data\/legal-ethical\/anonymisation.aspx"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "48LC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ukdataservice.ac.uk\/manage-data\/legal-ethical\/anonymisation.aspx"
+                            },
+                            {
+                                "type": "text",
+                                "text": " is pretty good, its also the reason of why company surveys says that they ignore data points from people where there is less than 3)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "700d23f2-aab4-4446-b00b-558467bc3054",
+        "type": "message",
+        "text": "only bcneng staff have access to the responses but they are completely anonymous, we don't ask email or any personal information",
+        "user": "U7PQZMZ4L",
+        "ts": "1589466306.342700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sSuBe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "only bcneng staff have access to the responses but they are completely anonymous, we don't ask email or any personal information"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "02894468-924e-4bb1-a6ce-e4e53a2dbda8",
+        "type": "message",
+        "text": "we won't share numbers like 1 person of 18 years says.... the info shared will be statistics... like 10.5% of the people looking for a new job has between 18 and 20",
+        "user": "U7PQZMZ4L",
+        "ts": "1589466374.343000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U7PQZMZ4L",
+            "ts": "1589467044.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zNJEb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we won't share numbers like 1 person of 18 years says.... the info shared will be statistics... like 10.5% of the people looking for a new job has between 18 and 20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "93d413c4-4a79-4cdf-a28c-749f591893e0",
+        "type": "message",
+        "text": "but if after that you feel uncomfortable , please do not fill the survery, is completly voluntary",
+        "user": "U7PQZMZ4L",
+        "ts": "1589466416.343200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U7PQZMZ4L",
+            "ts": "1589466423.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "14xek",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but if after that you feel uncomfortable , please do not fill the survery, is completly voluntary"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "eda953e7-16fa-4d53-b03c-1c9bad2fe8a3",
+        "type": "message",
+        "text": "My question is, how do you know that there are not many in the first group <@UFW0A1GV8>?",
+        "user": "U2WPLA0KA",
+        "ts": "1589466593.343500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ViU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My question is, how do you know that there are not many in the first group "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UFW0A1GV8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "58c54371-8e20-4754-adc1-d326165a4ce1",
+        "type": "message",
+        "text": "Im guessing :sweat_smile:",
+        "user": "UFW0A1GV8",
+        "ts": "1589466607.343700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xzkP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Im guessing "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "c4d1ab30-e7eb-4cd6-aade-1c86468ea812",
+        "type": "message",
+        "text": "Please...",
+        "user": "U2WPLA0KA",
+        "ts": "1589466610.343900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5P3LP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Please..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "b6256df8-49f2-4b6b-a591-cea1ce0d3e5e",
+        "type": "message",
+        "text": "we are engineers, not pitonisos",
+        "user": "U2WPLA0KA",
+        "ts": "1589466620.344100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=bYH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "we are engineers, not pitonisos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U2X8UK9UH",
+                    "U2XSANH4G",
+                    "U7PQZMZ4L",
+                    "U4HCQ4X1S",
+                    "U40KDVDQF",
+                    "UDYMW0QH5"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2e1eb1db-6daa-4314-b979-0840b31317f4",
+        "type": "message",
+        "text": "have a good afternoon sr",
+        "user": "U2WPLA0KA",
+        "ts": "1589466626.344300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H69Wi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "have a good afternoon sr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "0dc88829-9271-41fa-91a1-cd9569fd554a",
+        "type": "message",
+        "text": ":smile:",
+        "user": "U2WPLA0KA",
+        "ts": "1589466627.344500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kmyv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "ef7b22a5-0cbd-4ca6-ac01-885046e17ff6",
+        "type": "message",
+        "text": "its because its the smaller range(the others are 9 years, this one is 2), not because of that :stuck_out_tongue:",
+        "user": "UFW0A1GV8",
+        "ts": "1589466641.344700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BMcU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its because its the smaller range(the others are 9 years, this one is 2), not because of that "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "eb665be6-0b6b-4268-a8ed-4c4c87b2596d",
+        "type": "message",
+        "text": "only reason is because has to be adults over 18 years old, then we split in decades",
+        "user": "U7PQZMZ4L",
+        "ts": "1589466675.344900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2emS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "only reason is because has to be adults over 18 years old, then we split in decades"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "2f50cf3f-438e-4846-ada7-a1b093649fd4",
+        "type": "message",
+        "text": "Thanks for the feedback <@UFW0A1GV8>. We will consider it for the next survey.",
+        "user": "U2WPLA0KA",
+        "ts": "1589466744.345100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bu0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thanks for the feedback "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UFW0A1GV8"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". We will consider it for the next survey."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "24ce6ab9-d95d-4921-929d-2d626b3fa03d",
+        "type": "message",
+        "text": "Regarding the doc about the UK data service, once the survey finish we can randomise the answers of the data set, but is not something Google Form is able to do now.",
+        "user": "U7PQZMZ4L",
+        "ts": "1589466917.345300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U7PQZMZ4L",
+            "ts": "1589466961.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OnCoi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Regarding the doc about the UK data service, once the survey finish we can randomise the answers of the data set, but is not something Google Form is able to do now."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "eacca39c-b50d-4231-885c-007f158591ac",
+        "type": "message",
+        "text": "pming you with what I mean so we dont spam here :sweat_smile:",
+        "user": "UFW0A1GV8",
+        "ts": "1589467049.346000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xL9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pming you with what I mean so we dont spam here "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "c3f0f3d8-3da1-4ed0-8520-6fd4e9cbee08",
+        "type": "message",
+        "text": "Another question here:\n\nIn the `What is your current professional background? *` question, I only see the option of _&gt; 10 years_ if you also had several years as team lead or head of  department.\n\nIs there any option of _&gt;10 years_ without any lead\/management responsibility? Because I can't find it",
+        "user": "U389HN5E3",
+        "ts": "1589470320.346800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g81fa830a583",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/381fa830a5834704a33ff62b0f727abb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Rubén",
+            "real_name": "Rubén Pérez",
+            "display_name": "ruben-perez",
+            "team": "T2Y6L54R3",
+            "name": "ruben-perez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U389HN5E3",
+            "ts": "1589470339.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "519Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Another question here:\n\nIn the "
+                            },
+                            {
+                                "type": "text",
+                                "text": "What is your current professional background? *",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " question, I only see the option of "
+                            },
+                            {
+                                "type": "text",
+                                "text": "> 10 years",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you also had several years as team lead or head of  department.\n\nIs there any option of "
+                            },
+                            {
+                                "type": "text",
+                                "text": ">10 years",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " without any lead\/management responsibility? Because I can't find it"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "fc032586-d6ce-4b5a-a8b2-cf3f81a962e4",
+        "type": "message",
+        "text": "<@U389HN5E3> Sorry, just use the one that match as best as possible. I would say years is more important than be a team leader o head ...",
+        "user": "U7PQZMZ4L",
+        "ts": "1589473330.347200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IDbnX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U389HN5E3"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sorry, just use the one that match as best as possible. I would say years is more important than be a team leader o head ..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U389HN5E3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61558071-bb19-4d13-a3d2-296598104927",
+        "type": "message",
+        "text": "Btw, I feel old hahahaha",
+        "user": "UEDFE7J07",
+        "ts": "1589473941.347800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jfi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Btw, I feel old hahahaha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "781246d3-1d69-4d8f-b17a-6e767ac062ec",
+        "type": "message",
+        "text": "Hi, my responses look inconsistent, because my use case wasn't contemplated: had a job, was fired, and got a new one, all during the quarantine :stuck_out_tongue:",
+        "user": "U36UNRM4N",
+        "ts": "1589525565.349200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaa15c3f6948",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aa15c3f6948e5977fa9c0ebbc923aeb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "David",
+            "real_name": "David Arcos",
+            "display_name": "david.arcos",
+            "team": "T2Y6L54R3",
+            "name": "david.arcos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xbo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi, my responses look inconsistent, because my use case wasn't contemplated: had a job, was fired, and got a new one, all during the quarantine "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U7PQZMZ4L",
+                    "U37GUHXGF"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UEDFE7J07",
+                    "U2Y6QQHST",
+                    "U37GUHXGF"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

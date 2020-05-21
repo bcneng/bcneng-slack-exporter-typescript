@@ -1,0 +1,472 @@
+[
+    {
+        "client_msg_id": "9b5443a5-a7e1-4b77-848b-8339bbef2c55",
+        "type": "message",
+        "text": "Perfecto!! Muchas gracias!!",
+        "user": "U314KFBT6",
+        "ts": "1589871726.197100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "363513e85950",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-03\/981052336983_363513e859505e586082_72.png",
+            "first_name": "Marc",
+            "real_name": "Marc De Mena",
+            "display_name": "marc.mena",
+            "team": "T2Y6L54R3",
+            "name": "marc.mena.habitaclia",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tz5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Perfecto!! Muchas gracias!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589833262.195000",
+        "parent_user_id": "UGPRV963X"
+    },
+    {
+        "client_msg_id": "881f55c3-495f-44b6-9ec3-80aa1d7e32c2",
+        "type": "message",
+        "text": "he tenido que leer esta frase 2 veces! lo que hacen las `,` :joy:",
+        "user": "U9SLAAAPM",
+        "ts": "1589873340.197500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9f595d92d616",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-01\/565448822727_9f595d92d616d6d149f0_72.jpg",
+            "first_name": "Rafael",
+            "real_name": "Rafael Moral",
+            "display_name": "rmoral",
+            "team": "T2Y6L54R3",
+            "name": "rafamp89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OsB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "he tenido que leer esta frase 2 veces! lo que hacen las "
+                            },
+                            {
+                                "type": "text",
+                                "text": ",",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589833283.195700",
+        "parent_user_id": "UGPRV963X",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UTWA4PFHN",
+                    "UGPRV963X",
+                    "UK4FH9UTD"
+                ],
+                "count": 3
+            },
+            {
+                "name": "rigor",
+                "users": [
+                    "UGPRV963X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "700e4519-1fc2-429b-94bf-d19f966579ba",
+        "type": "message",
+        "text": "La ha diseñado un compañero diseñador (Christian), pero la landing Marcio sí jajaja",
+        "user": "U5FS4BH96",
+        "ts": "1589873844.197800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "effd4ad97524",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-06\/543768149283_effd4ad97524f3f66b2f_72.jpg",
+            "first_name": "Unai",
+            "real_name": "Unai",
+            "display_name": "uesteibar",
+            "team": "T2Y6L54R3",
+            "name": "uesteibar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9X3yJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La ha diseñado un compañero diseñador (Christian), pero la landing Marcio sí jajaja"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589790581.189200",
+        "parent_user_id": "U5FS4BH96"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589899739.198500",
+        "user": "U404K0QHM",
+        "text": "<@U404K0QHM> has joined the channel"
+    },
+    {
+        "client_msg_id": "cf11a025-2059-43a3-aad5-6822499567dc",
+        "type": "message",
+        "text": "GEnial, el evento será en castellano?",
+        "user": "UTWA4PFHN",
+        "ts": "1589899956.198800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8e71d5e22fa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e71d5e22faead4dc332226e696d7e53.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Dani Roman",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "roman.martinez.daniel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "90A6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GEnial, el evento será en castellano?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589790986.191200",
+        "parent_user_id": "UEDFE7J07"
+    },
+    {
+        "client_msg_id": "c4ebf8c8-f48c-4174-ab7f-cbe49e4f41f0",
+        "type": "message",
+        "text": "Me ha pasado lo mismo xD",
+        "user": "UTWA4PFHN",
+        "ts": "1589900000.199500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8e71d5e22fa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e71d5e22faead4dc332226e696d7e53.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Dani Roman",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "roman.martinez.daniel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3FO2X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me ha pasado lo mismo xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589833283.195700",
+        "parent_user_id": "UGPRV963X"
+    },
+    {
+        "client_msg_id": "fc3f0a33-a8f8-4792-af35-df6c9f71eb49",
+        "type": "message",
+        "text": "En plan.. si no os veniis, os jodeis porque no lo voy a grabar",
+        "user": "UTWA4PFHN",
+        "ts": "1589900009.199700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8e71d5e22fa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e71d5e22faead4dc332226e696d7e53.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Dani Roman",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "roman.martinez.daniel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Msa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En plan.. si no os veniis, os jodeis porque no lo voy a grabar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589833283.195700",
+        "parent_user_id": "UGPRV963X"
+    },
+    {
+        "client_msg_id": "26efbc92-e7d2-49fb-9ca8-99f8d6a8afda",
+        "type": "message",
+        "text": "jaja os odio",
+        "user": "UGPRV963X",
+        "ts": "1589900212.200000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6e81237bf0d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-12\/573952548404_6e81237bf0d34165e431_72.png",
+            "first_name": "Carles",
+            "real_name": "Carles Nuñez Tomeo",
+            "display_name": "Carles Nuñez Tomeo",
+            "team": "T2Y6L54R3",
+            "name": "carlesnunezt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WOedo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "jaja os odio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589833283.195700",
+        "parent_user_id": "UGPRV963X",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UTWA4PFHN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f823892-9aa1-4045-b43e-7fcae999a839",
+        "type": "message",
+        "text": "Ya añadí comas! <@U9SLAAAPM> thx!",
+        "user": "UGPRV963X",
+        "ts": "1589900225.200200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6e81237bf0d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-12\/573952548404_6e81237bf0d34165e431_72.png",
+            "first_name": "Carles",
+            "real_name": "Carles Nuñez Tomeo",
+            "display_name": "Carles Nuñez Tomeo",
+            "team": "T2Y6L54R3",
+            "name": "carlesnunezt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YLS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ya añadí comas! "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U9SLAAAPM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " thx!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589833283.195700",
+        "parent_user_id": "UGPRV963X",
+        "reactions": [
+            {
+                "name": "top",
+                "users": [
+                    "U9SLAAAPM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcf4d70c-ab2a-40a1-a21a-edc8c650b54a",
+        "type": "message",
+        "text": "sí! os aconsejo ir con el grupo de 3 formados, que hayan nociones de tech, business y comunicación y si necesitáis que os explique algo más estoy a vuestra disposición :slightly_smiling_face:",
+        "user": "UEDFE7J07",
+        "ts": "1589901605.200700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "71cjt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sí! os aconsejo ir con el grupo de 3 formados, que hayan nociones de tech, business y comunicación y si necesitáis que os explique algo más estoy a vuestra disposición "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589790986.191200",
+        "parent_user_id": "UEDFE7J07"
+    },
+    {
+        "client_msg_id": "0bbaee32-00df-469c-b23c-0ba8a4397cb1",
+        "type": "message",
+        "text": "Y que tendría que hacer en el grupo? Yo aviso que no tengo ni idea de todas estas cosas y sería mi primer evento para este tipo de cosas",
+        "user": "UTWA4PFHN",
+        "ts": "1589916446.200900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8e71d5e22fa",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8e71d5e22faead4dc332226e696d7e53.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Dani Roman",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "roman.martinez.daniel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GpN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y que tendría que hacer en el grupo? Yo aviso que no tengo ni idea de todas estas cosas y sería mi primer evento para este tipo de cosas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589790986.191200",
+        "parent_user_id": "UEDFE7J07"
+    }
+]

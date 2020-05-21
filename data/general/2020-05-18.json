@@ -1,0 +1,600 @@
+[
+    {
+        "client_msg_id": "6bcc8482-e7b8-475f-b8bb-783f89d79549",
+        "type": "message",
+        "text": "Algun@ ha vuelto a la oficina en Barcelona\/Madrid estos dias? Aunque sea de forma casual? Habéis llevado permiso? Cuál?",
+        "user": "UR9TCLYAJ",
+        "ts": "1589801371.359200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gdd43cd23af7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dd43cd23af75cdff21ac2323cd79e874.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Ivan Jiménez",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "torocatala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pebd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Algun@ ha vuelto a la oficina en Barcelona\/Madrid estos dias? Aunque sea de forma casual? Habéis llevado permiso? Cuál?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "af934248-ed08-455a-9fb6-d363a625b90a",
+        "type": "message",
+        "text": "si, la empresa me mandó un documento acreditando que soy empleado de la empresa X y que tengo que acceder a las oficinas en el dia Y",
+        "user": "U9555FDJ8",
+        "ts": "1589801863.360000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ge82bf7af83a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0e82bf7af83af0c3de90cc8b69500961.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Dani",
+            "real_name": "Dani",
+            "display_name": "Dani",
+            "team": "T2Y6L54R3",
+            "name": "dani369",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JesAq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si, la empresa me mandó un documento acreditando que soy empleado de la empresa X y que tengo que acceder a las oficinas en el dia Y"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UEV2QTDJL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93df232f-c656-42fb-a9b6-cb934c742761",
+        "type": "message",
+        "text": "y luego también la declaración responsable rellenada diciendo que yo me dirigia a las oficinas ese dia, que sólo tuve que firmar. Nadie me paró, pero esta bien tenerlo",
+        "user": "U9555FDJ8",
+        "ts": "1589801912.361100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ge82bf7af83a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0e82bf7af83af0c3de90cc8b69500961.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Dani",
+            "real_name": "Dani",
+            "display_name": "Dani",
+            "team": "T2Y6L54R3",
+            "name": "dani369",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sYv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y luego también la declaración responsable rellenada diciendo que yo me dirigia a las oficinas ese dia, que sólo tuve que firmar. Nadie me paró, pero esta bien tenerlo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589801912.361100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589805016.361200",
+        "reply_users": [
+            "UR9TCLYAJ"
+        ],
+        "replies": [
+            {
+                "user": "UR9TCLYAJ",
+                "ts": "1589805016.361200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cc690ad8-b2fc-432a-8228-8274fbc67b42",
+        "type": "message",
+        "text": "Gracias!",
+        "user": "UR9TCLYAJ",
+        "ts": "1589805016.361200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gdd43cd23af7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dd43cd23af75cdff21ac2323cd79e874.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Ivan Jiménez",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "torocatala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C\/87p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gracias!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589801912.361100",
+        "parent_user_id": "U9555FDJ8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589810823.361700",
+        "user": "U014J8P6T2L",
+        "text": "<@U014J8P6T2L> has joined the channel"
+    },
+    {
+        "client_msg_id": "7df89f67-4c6e-4acc-bbbc-57e90073fc40",
+        "type": "message",
+        "text": "Por suerte donde yo trabajo no hay prisa alguna por volver a la oficina",
+        "user": "UKTFJK1T9",
+        "ts": "1589812273.362300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gbfe6b2d2f06",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dbfe6b2d2f0632d1c1068fa2a05eddc4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+            "first_name": "",
+            "real_name": "AritzTG",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "aritztg",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vmR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Por suerte donde yo trabajo no hay prisa alguna por volver a la oficina"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U2XSANH4G",
+                    "U37GUHXGF",
+                    "U6J7N1UPQ",
+                    "U2YEH6F88",
+                    "UBST0V53P",
+                    "U30C7SX6E",
+                    "UNR7EF5EU",
+                    "U2Y6KTWRZ",
+                    "U40KDVDQF",
+                    "ULCG68056",
+                    "UTGE7E4K0",
+                    "UGC6GPGSH",
+                    "U38SUJJV7",
+                    "U3YQ1MJ4U",
+                    "UTK987GQP"
+                ],
+                "count": 15
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e268c2a-46a0-4819-bfe1-c02cc1268268",
+        "type": "message",
+        "text": "threads pls (y capaz <#C2Y6L596H|offtopic-random>)",
+        "user": "UFW0A1GV8",
+        "ts": "1589812410.363000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UFW0A1GV8",
+            "ts": "1589812788.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h6M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "threads pls (y capaz "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C2Y6L596H"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589812410.363000",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1589823618.366200",
+        "reply_users": [
+            "U2Y6QQHST",
+            "UFW0A1GV8",
+            "U36H6F3CN",
+            "U2YEH6F88"
+        ],
+        "replies": [
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589812693.363400"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589812795.363900"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589814505.365300"
+            },
+            {
+                "user": "U2YEH6F88",
+                "ts": "1589823331.366000"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589823618.366200"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1589823618.366200",
+        "reactions": [
+            {
+                "name": "male-police-officer",
+                "users": [
+                    "U7VRTCQUW",
+                    "UGUQTPSQM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "ty",
+                "users": [
+                    "U2Y6QQHST",
+                    "UC7F3TZAR",
+                    "U36H6F3CN",
+                    "U2WPLA0KA"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c3fb655-1c06-45ce-a86f-b78f431fcac7",
+        "type": "message",
+        "text": "s\/capas\/capaz\/ :sherlockholmesparrot:",
+        "user": "U2Y6QQHST",
+        "ts": "1589812693.363400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8OHqa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "s\/capas\/capaz\/ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sherlockholmesparrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589812410.363000",
+        "parent_user_id": "UFW0A1GV8",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U40KDVDQF",
+                    "U49DCUW22"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0219bfe6-d569-408e-9e0b-64742cf60742",
+        "type": "message",
+        "text": ":superheroL :joy: (fixed)",
+        "user": "UFW0A1GV8",
+        "ts": "1589812795.363900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UFW0A1GV8",
+            "ts": "1589812809.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qlcTZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": ":superheroL "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " (fixed)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589812410.363000",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "0DEB3EDB-A9A4-4441-801C-655E6DBF7E05",
+        "type": "message",
+        "text": "Y quizás en <#CUR4UPEN4|temp-covid19> ",
+        "user": "U36H6F3CN",
+        "ts": "1589814505.365300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "91L9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y quizás en "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CUR4UPEN4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589812410.363000",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "6868629a-b78c-4bf1-a8ff-784db5890eea",
+        "type": "message",
+        "text": "si es algo positivo en <#CLX4U7CTT|offtopic-feeling-good>",
+        "user": "U2YEH6F88",
+        "ts": "1589823331.366000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "80ce59b5a188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-07\/827679219590_80ce59b5a188352488e7_72.jpg",
+            "first_name": "Pau",
+            "real_name": "Pau Bartrina",
+            "display_name": "pau",
+            "team": "T2Y6L54R3",
+            "name": "pau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vTr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si es algo positivo en "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CLX4U7CTT"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589812410.363000",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "41a674cd-5d13-4cfa-af8f-e472ad86c0b7",
+        "type": "message",
+        "text": "si es algo para llorar en <#CBNPT2N13|offtopic-cryparty>",
+        "user": "UFW0A1GV8",
+        "ts": "1589823618.366200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hG6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si es algo para llorar en "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "CBNPT2N13"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589812410.363000",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589869634.367000",
+        "user": "U013ULXQ6HK",
+        "text": "<@U013ULXQ6HK> has joined the channel"
+    }
+]

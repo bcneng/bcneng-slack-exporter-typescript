@@ -1,0 +1,540 @@
+[
+    {
+        "client_msg_id": "57648088-cb73-417e-90c9-50becbc07160",
+        "type": "message",
+        "text": "1.- Yo ando como si me fueran a matar si me oye alguien... Para mi tensión no creo que vaya bien, pero... :man-shrugging:\n\n2.- Yo intento hablar bajito, y cierro todas las puertas que puedo .Como tengo vigilabebés y tal, me entero de si se despiertan, y cierro todas las puertas que haya entre ellos y yo. Eso e intentar no hablar muy fuerte...\n\n3.- Prioridades xD. En mi caso estamos los dos adultos trabajando, con los 2 niños pequeños en casa. Yo suelo poner la cámara (muteado siempre que no estoy hablando), pero hay que vivir con que se me vea pendiente de que no se maten, de \"interactuar\" con ellos cada vez que vienen (continuamente), de intervenir cuando van a romper cosas o se van a matar... Es una mierda, y se nota mucho que a ratos resulta imposible poder seguir conversaciones... Pero también es cierto que tener la cámara activa muestra un poco la mierda que es el día a día ahora mismo. Que hay gente con empatía, y entienden el contexto. E independientemente, hay gente que no sabe lo que es intentar trabajar desde casa con niños pequeños, y también sirve para que vean la tontería que es lo de \"se les explica que estás trabajando y no te interrumpen\"",
+        "user": "U389HN5E3",
+        "ts": "1589786682.197100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g81fa830a583",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/381fa830a5834704a33ff62b0f727abb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Rubén",
+            "real_name": "Rubén Pérez",
+            "display_name": "ruben-perez",
+            "team": "T2Y6L54R3",
+            "name": "ruben-perez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+3Ma",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1.- Yo ando como si me fueran a matar si me oye alguien... Para mi tensión no creo que vaya bien, pero... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-shrugging"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n2.- Yo intento hablar bajito, y cierro todas las puertas que puedo .Como tengo vigilabebés y tal, me entero de si se despiertan, y cierro todas las puertas que haya entre ellos y yo. Eso e intentar no hablar muy fuerte...\n\n3.- Prioridades xD. En mi caso estamos los dos adultos trabajando, con los 2 niños pequeños en casa. Yo suelo poner la cámara (muteado siempre que no estoy hablando), pero hay que vivir con que se me vea pendiente de que no se maten, de \"interactuar\" con ellos cada vez que vienen (continuamente), de intervenir cuando van a romper cosas o se van a matar... Es una mierda, y se nota mucho que a ratos resulta imposible poder seguir conversaciones... Pero también es cierto que tener la cámara activa muestra un poco la mierda que es el día a día ahora mismo. Que hay gente con empatía, y entienden el contexto. E independientemente, hay gente que no sabe lo que es intentar trabajar desde casa con niños pequeños, y también sirve para que vean la tontería que es lo de \"se les explica que estás trabajando y no te interrumpen\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589784562.196700",
+        "parent_user_id": "UDYMW0QH5",
+        "reactions": [
+            {
+                "name": "ty",
+                "users": [
+                    "UDYMW0QH5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15dfaba9-7555-4a81-8fe0-d2c42167c5ef",
+        "type": "message",
+        "text": "Sobre tema ruido cada monstru@ es un mundo, la mía 14 meses no se despierta con el sonido de la cafetera ni con llamadas",
+        "user": "U2Y4MJNEL",
+        "ts": "1589786941.197300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a2e2526bea44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-21\/107139167491_a2e2526bea445cd939ed_72.jpg",
+            "first_name": "Fabian",
+            "real_name": "Fabian Selles Rosa",
+            "display_name": "fsero",
+            "team": "T2Y6L54R3",
+            "name": "fsero",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1KO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sobre tema ruido cada monstru@ es un mundo, la mía 14 meses no se despierta con el sonido de la cafetera ni con llamadas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589784562.196700",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "e5539150-e178-4c5a-a87c-9b5dffa1df33",
+        "type": "message",
+        "text": "Pero fuimos ruidosos desde el día 1 en ese sentido :) suerte",
+        "user": "U2Y4MJNEL",
+        "ts": "1589786960.197500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a2e2526bea44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-21\/107139167491_a2e2526bea445cd939ed_72.jpg",
+            "first_name": "Fabian",
+            "real_name": "Fabian Selles Rosa",
+            "display_name": "fsero",
+            "team": "T2Y6L54R3",
+            "name": "fsero",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=YO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pero fuimos ruidosos desde el día 1 en ese sentido :) suerte"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589784562.196700",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "129ce6db-375e-413f-84b5-5af10e131853",
+        "type": "message",
+        "text": "Sobre la 2, almenos mi experiencia, en general la mayoría está siendo muy comprensiva con esto. Si no es así, ya sabes que tienes un side-job de ir buscando sitios donde sí lo sean :cry:",
+        "user": "U2WQ6EU3A",
+        "ts": "1589787207.197700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd5aaa5bfc55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d5aaa5bfc55afb812af6693826e382b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Ricard",
+            "real_name": "Ricard Clau",
+            "display_name": "ricardclau",
+            "team": "T2Y6L54R3",
+            "name": "ricardclau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3w9w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sobre la 2, almenos mi experiencia, en general la mayoría está siendo muy comprensiva con esto. Si no es así, ya sabes que tienes un side-job de ir buscando sitios donde sí lo sean "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589784562.196700",
+        "parent_user_id": "UDYMW0QH5",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UDYMW0QH5",
+                    "UEDFE7J07"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24bad38b-6651-4067-9c45-1ca81c53dad9",
+        "type": "message",
+        "text": "Y la 3, pues piensa q seguro q hay alguna otra persona en pijama, por los motivos q sean. Vestirse es más por uno mismo a nivel piscológico que por lo q puedan pensar los demás",
+        "user": "U2WQ6EU3A",
+        "ts": "1589787262.197900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd5aaa5bfc55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d5aaa5bfc55afb812af6693826e382b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Ricard",
+            "real_name": "Ricard Clau",
+            "display_name": "ricardclau",
+            "team": "T2Y6L54R3",
+            "name": "ricardclau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VCNn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y la 3, pues piensa q seguro q hay alguna otra persona en pijama, por los motivos q sean. Vestirse es más por uno mismo a nivel piscológico que por lo q puedan pensar los demás"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589784562.196700",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "dbd87bed-1c09-4101-9fe5-960a41534664",
+        "type": "message",
+        "text": "1, yo me hago el café, pero las puertas d casa aislan bte bien el ruido",
+        "user": "U2WQ6EU3A",
+        "ts": "1589787289.198100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd5aaa5bfc55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2d5aaa5bfc55afb812af6693826e382b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Ricard",
+            "real_name": "Ricard Clau",
+            "display_name": "ricardclau",
+            "team": "T2Y6L54R3",
+            "name": "ricardclau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BG3O5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1, yo me hago el café, pero las puertas d casa aislan bte bien el ruido"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589784562.196700",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "111be430-316d-42ee-bc73-b70060e683f9",
+        "type": "message",
+        "text": "La mía está ahora con los dientes (8 meses recién cumplidos), así que esta noche no he dormido más de media hora seguida.\n\nEn mi caso, mis compañeros entienden que vivo en 40 m2, trabajo en una esquina de la cocina\/salón\/comedor, pegado a la puerta de la habitación, y por tanto a veces no puedo hacer ruido en las llamadas.\n\nDicho esto, más o menos tengo unos horarios en los que sé a ciencia cierta que puedo hacer ruido porque la peque está a tope, así que metemos las llamadas en esas horas.\n\nComo dice Ricard, si en la situación en la que estamos en tu empresa no pueden ser comprensivos, yo iría ojeando oportunidades.\n\nEl punto 3 vuelvo a concordar con Ricard, es más por ti que por los demás.",
+        "user": "U38SUJJV7",
+        "ts": "1589789109.198300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "96869669e67d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-21\/1074689534245_96869669e67dccc02703_72.jpg",
+            "first_name": "Antonio",
+            "real_name": "Antonio Hernández",
+            "display_name": "antonienko",
+            "team": "T2Y6L54R3",
+            "name": "antonienko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YzkU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La mía está ahora con los dientes (8 meses recién cumplidos), así que esta noche no he dormido más de media hora seguida.\n\nEn mi caso, mis compañeros entienden que vivo en 40 m2, trabajo en una esquina de la cocina\/salón\/comedor, pegado a la puerta de la habitación, y por tanto a veces no puedo hacer ruido en las llamadas.\n\nDicho esto, más o menos tengo unos horarios en los que sé a ciencia cierta que puedo hacer ruido porque la peque está a tope, así que metemos las llamadas en esas horas.\n\nComo dice Ricard, si en la situación en la que estamos en tu empresa no pueden ser comprensivos, yo iría ojeando oportunidades.\n\nEl punto 3 vuelvo a concordar con Ricard, es más por ti que por los demás."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589784562.196700",
+        "parent_user_id": "UDYMW0QH5",
+        "reactions": [
+            {
+                "name": "ty",
+                "users": [
+                    "UDYMW0QH5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7fc2c946-6ae9-4b84-a075-6865cc39c9e2",
+        "type": "message",
+        "text": "En resumen: ¡Fuerza compañero!",
+        "user": "U38SUJJV7",
+        "ts": "1589789190.198500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "96869669e67d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-21\/1074689534245_96869669e67dccc02703_72.jpg",
+            "first_name": "Antonio",
+            "real_name": "Antonio Hernández",
+            "display_name": "antonienko",
+            "team": "T2Y6L54R3",
+            "name": "antonienko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d7Df",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En resumen: ¡Fuerza compañero!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589784562.196700",
+        "parent_user_id": "UDYMW0QH5",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UDYMW0QH5",
+                    "U2WQ6EU3A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a21b8d07-ab33-43a0-9047-f48e2f7c4bf0",
+        "type": "message",
+        "text": "Creo que ya te lo han dicho todo. Yo he hecho llamadas desde la cocina, desde el balcón, desde la sala de espera del médico... En mi empresa lo entienden, pero claro eso ya depende de la cultura de cada empresa y no respetarlo sobre todo en padres\/madres de bebé es :red_card: \n\nYo hago trampa porque como visto muy informal, uso las camisetas de pijama y para salir a la calle indistintamente. Es la versión pobre de la flipada Zuckerberg\/Jobs de no tener que calentarte la cabeza con qué te pones cada día :sweat_smile:.\n\nY sobre el ruido, ya irás cogiéndole la medida a cuánto y de qué tipo puedes hacer :D",
+        "user": "U2YM1G5CM",
+        "ts": "1589790111.199300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd6cefe6793b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d6cefe6793bce07335ca4168bc22ba7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Míguez",
+            "display_name": "mrzard",
+            "team": "T2Y6L54R3",
+            "name": "mrzard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wGfb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Creo que ya te lo han dicho todo. Yo he hecho llamadas desde la cocina, desde el balcón, desde la sala de espera del médico... En mi empresa lo entienden, pero claro eso ya depende de la cultura de cada empresa y no respetarlo sobre todo en padres\/madres de bebé es "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "red_card"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n\nYo hago trampa porque como visto muy informal, uso las camisetas de pijama y para salir a la calle indistintamente. Es la versión pobre de la flipada Zuckerberg\/Jobs de no tener que calentarte la cabeza con qué te pones cada día "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n\nY sobre el ruido, ya irás cogiéndole la medida a cuánto y de qué tipo puedes hacer :D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589784562.196700",
+        "parent_user_id": "UDYMW0QH5",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UDYMW0QH5",
+                    "U389HN5E3",
+                    "U2Y6QQHST"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5afc2a85-5ca4-424b-9b9c-3103697bb65c",
+        "type": "message",
+        "text": "Como ya te han dicho todo, te voy a dar un consejo sobre vestimenta: si tus pijamas soy muy pijamas (es decir, no hay lugar a dudas) puedes tener una camiseta de urgencia en el despacho\/comedor por si te toca una call y no has podido vestirse. En invierno es más fácil, tienes una sudadera a mano y te la pones encima del pijama :smile: tb puedes usar pijamas que parezcan camisetas jajajaja",
+        "user": "U88TVKT7V",
+        "ts": "1589815695.200000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9cbe081b1bb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-12-11\/284186413553_9cbe081b1bb0eed1586d_72.png",
+            "first_name": "Ilia",
+            "real_name": "Ilia Berlana",
+            "display_name": "Ilia",
+            "team": "T2Y6L54R3",
+            "name": "ilia.berlana",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vz4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Como ya te han dicho todo, te voy a dar un consejo sobre vestimenta: si tus pijamas soy muy pijamas (es decir, no hay lugar a dudas) puedes tener una camiseta de urgencia en el despacho\/comedor por si te toca una call y no has podido vestirse. En invierno es más fácil, tienes una sudadera a mano y te la pones encima del pijama "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " tb puedes usar pijamas que parezcan camisetas jajajaja"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589784562.196700",
+        "parent_user_id": "UDYMW0QH5",
+        "reactions": [
+            {
+                "name": "top",
+                "users": [
+                    "UDYMW0QH5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc2cb3fb-8c82-46ad-8f85-55ae5a1cdbbf",
+        "type": "message",
+        "text": "Este último denota veteranía de la buena :joy:",
+        "user": "UDYMW0QH5",
+        "ts": "1589865701.200300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga5771d9930e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea5771d9930e4e853c58d605e6d9ca8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Joan Maeso",
+            "display_name": "jmaeso",
+            "team": "T2Y6L54R3",
+            "name": "jmaeso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XoM=M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Este último denota veteranía de la buena "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589784562.196700",
+        "parent_user_id": "UDYMW0QH5"
+    }
+]

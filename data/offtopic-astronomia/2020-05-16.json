@@ -1,0 +1,162 @@
+[
+    {
+        "client_msg_id": "5afa65ef-87ab-4cb0-a065-fdd720cd6b65",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Nb9LHjEcDuc>",
+        "user": "UAG4H8GMD",
+        "ts": "1589639500.000500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4ba5b84381b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-29\/682191906919_4ba5b84381b7ff8b036a_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Vihe",
+            "display_name": "Ivan Vihe",
+            "team": "T2Y6L54R3",
+            "name": "ivan.vihe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "🚀🌖 ¿Regresaremos a la Luna en 2024? ¡SpaceX, Blue Origin y Dynetics lo intentarán!",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Nb9LHjEcDuc",
+                "author_name": "Ciencias de la Ciencia",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCMsV0e2CLuzL7TyngBKvRTQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Nb9LHjEcDuc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 🚀🌖 ¿Regresaremos a la Luna en 2024? ¡SpaceX, Blue Origin y Dynetics lo intentarán!",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Nb9LHjEcDuc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Nb9LHjEcDuc",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=Nb9LHjEcDuc"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YAnr2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=Nb9LHjEcDuc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "803d4740-4ce3-4de3-8336-6d04e2298113",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=l4QX4i5Dmvs>",
+        "user": "UAG4H8GMD",
+        "ts": "1589639512.000800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4ba5b84381b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-29\/682191906919_4ba5b84381b7ff8b036a_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Vihe",
+            "display_name": "Ivan Vihe",
+            "team": "T2Y6L54R3",
+            "name": "ivan.vihe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "¡WooW! Primer Lanzamiento Tripulado de la Crew Dragon de SpaceX ft. @Date un Vlog",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=l4QX4i5Dmvs",
+                "author_name": "Ciencias de la Ciencia",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCMsV0e2CLuzL7TyngBKvRTQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/l4QX4i5Dmvs\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: ¡WooW! Primer Lanzamiento Tripulado de la Crew Dragon de SpaceX ft. @Date un Vlog",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/l4QX4i5Dmvs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=l4QX4i5Dmvs",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=l4QX4i5Dmvs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aLJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=l4QX4i5Dmvs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3becba39-292e-424c-9d7f-c643f046d1dc",
+        "type": "message",
+        "text": "Está interesante la cosa :ok_hand:",
+        "user": "UAG4H8GMD",
+        "ts": "1589639518.001100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4ba5b84381b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-29\/682191906919_4ba5b84381b7ff8b036a_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Vihe",
+            "display_name": "Ivan Vihe",
+            "team": "T2Y6L54R3",
+            "name": "ivan.vihe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "90g1o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Está interesante la cosa "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

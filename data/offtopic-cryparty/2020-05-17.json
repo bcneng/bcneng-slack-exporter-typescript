@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "1167e570-9731-4817-aae0-05247347e684",
+        "type": "message",
+        "text": "Mi prima la semana pasado cumplió los 18. Pobre :disappointed: Los 18 encerrada en casa…",
+        "user": "UL1CXNCBZ",
+        "ts": "1589728095.058700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1c3e1e1b7795",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-03\/683461424677_1c3e1e1b779511d275c6_72.jpg",
+            "first_name": "Francisco",
+            "real_name": "Francisco Javier Aguado",
+            "display_name": "fjaguado",
+            "team": "T2Y6L54R3",
+            "name": "paco",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8b1N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mi prima la semana pasado cumplió los 18. Pobre "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Los 18 encerrada en casa…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589563880.055700",
+        "parent_user_id": "UFW0A1GV8",
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U36H6F3CN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

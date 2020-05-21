@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "12b5f5ab-1a53-4f08-92c4-863d2db3cbc4",
+        "type": "message",
+        "text": "lo pondrás en algún sitio para visualizar en diferido? probablemente no podré asistir al evento en vivo pero me interesa mucho!",
+        "user": "U3ZQ31NN4",
+        "ts": "1589441663.187800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "70814a0383e2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-11\/949160050695_70814a0383e2646ff830_72.jpg",
+            "first_name": "Rude",
+            "real_name": "Rude Ayelo",
+            "display_name": "rude",
+            "team": "T2Y6L54R3",
+            "name": "rude",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sr3a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo pondrás en algún sitio para visualizar en diferido? probablemente no podré asistir al evento en vivo pero me interesa mucho!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589388092.185400",
+        "parent_user_id": "UGPRV963X"
+    },
+    {
+        "client_msg_id": "6ae91044-3095-4146-a2ec-f9b8ea832503",
+        "type": "message",
+        "text": "intentaré que asi sea, si!",
+        "user": "UGPRV963X",
+        "ts": "1589464931.188500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6e81237bf0d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-12\/573952548404_6e81237bf0d34165e431_72.png",
+            "first_name": "Carles",
+            "real_name": "Carles Nuñez Tomeo",
+            "display_name": "Carles Nuñez Tomeo",
+            "team": "T2Y6L54R3",
+            "name": "carlesnunezt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3mT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "intentaré que asi sea, si!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589388092.185400",
+        "parent_user_id": "UGPRV963X"
+    }
+]

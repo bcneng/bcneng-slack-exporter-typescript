@@ -1,0 +1,84 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589965229.016900",
+        "user": "U0130LV49HB",
+        "text": "<@U0130LV49HB> has joined the channel"
+    },
+    {
+        "client_msg_id": "3766e500-d9fd-42cf-b738-12bd2a9eba49",
+        "type": "message",
+        "text": "*Framer* looking better and better :nail_care::skin-tone-2:\n<https:\/\/www.framer.com>",
+        "user": "U0130LV49HB",
+        "ts": "1589965306.017200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gbf8b126cb62",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bf8b126cb62e38c2df69244e8d10a8fe.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Lluis",
+            "real_name": "Lluis Agusti",
+            "display_name": "Lluis",
+            "team": "T2Y6L54R3",
+            "name": "hi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Framer: The prototyping tool for teams",
+                "title_link": "https:\/\/www.framer.com\/",
+                "text": "It’s prototyping made simple—no code required, browser-based, and free for everyone. High-fidelity in half the time.",
+                "fallback": "Framer: The prototyping tool for teams",
+                "image_url": "https:\/\/www.framer.com\/static\/images\/social\/framer.png",
+                "from_url": "https:\/\/www.framer.com\/",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 76743,
+                "service_icon": "https:\/\/www.framer.com\/static\/images\/touchicons\/120.png",
+                "service_name": "framer.com",
+                "id": 1,
+                "original_url": "https:\/\/www.framer.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F3N9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Framer",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " looking better and better "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "nail_care",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.framer.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

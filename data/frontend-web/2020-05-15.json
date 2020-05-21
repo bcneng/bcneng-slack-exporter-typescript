@@ -1,0 +1,1140 @@
+[
+    {
+        "client_msg_id": "5ee5a00a-53ea-4286-8235-980b6b1cbc14",
+        "type": "message",
+        "text": "Hola, vengo con una duda que no se si alguien se habrá encontrado con ella. Actualmente tengo el WordPress de la empresa de mi padre alojado en 1and1 ya que necesita php, mysql y un server. Mi idea era ver si realmente lo podría gestionar como sitio estático, pero ese WordPress tiene algunos formularios de contacto que de moverlo a sitio estático se perdería esa funcionalidad. Mi duda es si alguien ha hecho un sitio estático con envío de correo y que alternativas habría, ya que no se si los servicios de envío de email tienen problemas con el CORS y demás, muchas gracias :slightly_smiling_face:",
+        "user": "U36H6F3CN",
+        "ts": "1589534855.068000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jew1u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola, vengo con una duda que no se si alguien se habrá encontrado con ella. Actualmente tengo el WordPress de la empresa de mi padre alojado en 1and1 ya que necesita php, mysql y un server. Mi idea era ver si realmente lo podría gestionar como sitio estático, pero ese WordPress tiene algunos formularios de contacto que de moverlo a sitio estático se perdería esa funcionalidad. Mi duda es si alguien ha hecho un sitio estático con envío de correo y que alternativas habría, ya que no se si los servicios de envío de email tienen problemas con el CORS y demás, muchas gracias "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "reply_count": 21,
+        "reply_users_count": 11,
+        "latest_reply": "1589548012.073700",
+        "reply_users": [
+            "U49DCUW22",
+            "UHBJNDVQA",
+            "U36H6F3CN",
+            "UFW0A1GV8",
+            "U326S0XLJ",
+            "UP4QETHEC",
+            "UGKBXF45D",
+            "U3H18MJF6",
+            "U6ALMA2J3",
+            "UBHPY3L5C",
+            "USVJUM2V9"
+        ],
+        "replies": [
+            {
+                "user": "U49DCUW22",
+                "ts": "1589534922.068100"
+            },
+            {
+                "user": "UHBJNDVQA",
+                "ts": "1589534994.068300"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589535058.068500"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589535093.068700"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589535100.068900"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589535146.069200"
+            },
+            {
+                "user": "U326S0XLJ",
+                "ts": "1589535286.069600"
+            },
+            {
+                "user": "UP4QETHEC",
+                "ts": "1589535410.069800"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589535440.070000"
+            },
+            {
+                "user": "UGKBXF45D",
+                "ts": "1589535646.070200"
+            },
+            {
+                "user": "U3H18MJF6",
+                "ts": "1589536616.070400"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589536733.070700"
+            },
+            {
+                "user": "U6ALMA2J3",
+                "ts": "1589537251.070900"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589537358.071100"
+            },
+            {
+                "user": "UBHPY3L5C",
+                "ts": "1589538733.071300"
+            },
+            {
+                "user": "UBHPY3L5C",
+                "ts": "1589538812.071500"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589538817.071800"
+            },
+            {
+                "user": "UBHPY3L5C",
+                "ts": "1589539497.072000"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589539607.072400"
+            },
+            {
+                "user": "USVJUM2V9",
+                "ts": "1589547370.072900"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589548012.073700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "dc392459-a1bd-41de-8cbc-0956727fafb7",
+        "type": "message",
+        "text": "Yo en estos casos suelo hacer una página estática + lambda function, sencillo, rápido y barato",
+        "user": "U49DCUW22",
+        "ts": "1589534922.068100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "853da85beab2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-09\/1051417966166_853da85beab269aebef0_72.png",
+            "first_name": "Marcos",
+            "real_name": "Marcos Pérez",
+            "display_name": "marcos.perez",
+            "team": "T2Y6L54R3",
+            "name": "marcos.perez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+e6VX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo en estos casos suelo hacer una página estática + lambda function, sencillo, rápido y barato"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "e7d639e5-09b3-4f39-b55c-716fd6bbb349",
+        "type": "message",
+        "text": "+1, o netlify forms",
+        "user": "UHBJNDVQA",
+        "ts": "1589534994.068300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9d04c2182096",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-08\/589636704514_9d04c21820969d84da7b_72.png",
+            "first_name": "Núria",
+            "real_name": "Núria Soriano",
+            "display_name": "Núria Soriano",
+            "team": "T2Y6L54R3",
+            "name": "soriano.nuria",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "25W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1, o netlify forms"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN",
+        "reactions": [
+            {
+                "name": "top",
+                "users": [
+                    "U6A845RPY",
+                    "UP25YE34P",
+                    "UTLKF7LNM"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12d7ba52-7307-42f0-9f90-fae99bd19d88",
+        "type": "message",
+        "text": "Pues lo de netlify form me lo miraré a ver. De hecho Netlify era mi principal opción, pero desconocía lo de los formularios!",
+        "user": "U36H6F3CN",
+        "ts": "1589535058.068500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j5t=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pues lo de netlify form me lo miraré a ver. De hecho Netlify era mi principal opción, pero desconocía lo de los formularios!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "fb18ccf1-9e5c-4568-b9da-8aaffe70fc3b",
+        "type": "message",
+        "text": "hay varias librerias con solo js para enviar email tambien",
+        "user": "UFW0A1GV8",
+        "ts": "1589535093.068700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y9zB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hay varias librerias con solo js para enviar email tambien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "32a28fc4-53df-4bf7-8b9c-ffe1c4afe4b8",
+        "type": "message",
+        "text": "si no tenes problema en exponer el email",
+        "user": "UFW0A1GV8",
+        "ts": "1589535100.068900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BGa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si no tenes problema en exponer el email"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "c160cd73-3ff9-4942-87c2-662b346d3524",
+        "type": "message",
+        "text": "<https:\/\/www.emailjs.com\/>",
+        "user": "UFW0A1GV8",
+        "ts": "1589535146.069200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "EmailJS",
+                "title": "Send email from Javascript - no server code required | EmailJS",
+                "title_link": "https:\/\/www.emailjs.com\/",
+                "text": "Send email directly from your client-side Javascript code – no server side code required. Add static or dynamic attachments, dynamic parameters, captcha code and more. Start with our free tier!",
+                "fallback": "EmailJS: Send email from Javascript - no server code required | EmailJS",
+                "thumb_url": "https:\/\/www.emailjs.com\/social-top.png",
+                "from_url": "https:\/\/www.emailjs.com\/",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/www.emailjs.com\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.emailjs.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K0uFZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.emailjs.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN",
+        "reactions": [
+            {
+                "name": "mindblown",
+                "users": [
+                    "U6A845RPY",
+                    "UP25YE34P",
+                    "UBST0V53P"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "916838fd-eb2e-476c-989a-ff00fb423434",
+        "type": "message",
+        "text": "Sabéis si los clientes suelen usar los formularios de contacto? Tenéis algunas métricas? Si no se usa, quítalo :stuck_out_tongue:",
+        "user": "U326S0XLJ",
+        "ts": "1589535286.069600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7620a01fab04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-15\/909450568838_7620a01fab0467dc0551_72.jpg",
+            "first_name": "Tom",
+            "real_name": "Tom Fenech",
+            "display_name": "tom-fenech",
+            "team": "T2Y6L54R3",
+            "name": "tom-fenech",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zEw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sabéis si los clientes suelen usar los formularios de contacto? Tenéis algunas métricas? Si no se usa, quítalo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "284755ca-64c1-4ea8-bf49-583c06b19ad7",
+        "type": "message",
+        "text": "google form also (if it doesn't have to be very pretty)",
+        "user": "UP4QETHEC",
+        "ts": "1589535410.069800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g133e71b931d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/133e71b931d7d52be70757da3b1fdd23.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Dan Tamas",
+            "display_name": "Dan Tamas",
+            "team": "T2Y6L54R3",
+            "name": "dan.tamas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gq=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "google form also (if it doesn't have to be very pretty)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "3fea6ec0-e13b-48a9-bf1a-83f19949bbba",
+        "type": "message",
+        "text": "El tema es que el formulario ya está creado por lo tanto remplazarlo ahora mismo no es una opción y qutiarlo por ahora tampoco",
+        "user": "U36H6F3CN",
+        "ts": "1589535440.070000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A6L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "El tema es que el formulario ya está creado por lo tanto remplazarlo ahora mismo no es una opción y qutiarlo por ahora tampoco"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "d691542f-2581-4d12-a9f0-f28bf9f4dfce",
+        "type": "message",
+        "text": "Yo lo meto en firebase hosting y alli mismo una cloud funciton para el mail",
+        "user": "UGKBXF45D",
+        "ts": "1589535646.070200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7b0e5070c58c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-26\/773521984772_7b0e5070c58cebf2df1d_72.jpg",
+            "first_name": "Ramon",
+            "real_name": "Ramon Pans",
+            "display_name": "Kylar13",
+            "team": "T2Y6L54R3",
+            "name": "ramonpans13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VrEb0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo lo meto en firebase hosting y alli mismo una cloud funciton para el mail"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "3d1785a6-99d4-40ff-85ae-6d36d2d10096",
+        "type": "message",
+        "text": "Yo de soluciones gratis i backendless siempre he usado google drive *spreadsheets*, así se me quedan guardados también los contactos con los parámetros que quiero, pero nunca he usado las otras soluciones\n<https:\/\/github.com\/dwyl\/learn-to-send-email-via-google-script-html-no-server>",
+        "user": "U3H18MJF6",
+        "ts": "1589536616.070400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "8b52db42a608",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-03\/981210629270_8b52db42a608483a396b_72.jpg",
+            "first_name": "Marc",
+            "real_name": "Marc Pérez",
+            "display_name": "perezmarc",
+            "team": "T2Y6L54R3",
+            "name": "perezmarc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "dwyl\/learn-to-send-email-via-google-script-html-no-server",
+                "title_link": "https:\/\/github.com\/dwyl\/learn-to-send-email-via-google-script-html-no-server",
+                "text": ":email: An Example of using an HTML form (e.g: &amp;quot;Contact Us&amp;quot; on a website) to send Email without a Backend Server (using a Google Script) perfect for static websites that need to collect d...",
+                "fallback": "GitHub: dwyl\/learn-to-send-email-via-google-script-html-no-server",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/11708465?s=400&v=4",
+                "from_url": "https:\/\/github.com\/dwyl\/learn-to-send-email-via-google-script-html-no-server",
+                "thumb_width": 331,
+                "thumb_height": 331,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/dwyl\/learn-to-send-email-via-google-script-html-no-server"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZxNWV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo de soluciones gratis i backendless siempre he usado google drive "
+                            },
+                            {
+                                "type": "text",
+                                "text": "spreadsheets",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", así se me quedan guardados también los contactos con los parámetros que quiero, pero nunca he usado las otras soluciones\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/dwyl\/learn-to-send-email-via-google-script-html-no-server"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "2741e5f2-0f67-4056-8fff-1f7f65600410",
+        "type": "message",
+        "text": "Este ariculo lo vi ayer! Quizás empiece a hacer algunas pruebas en local para valorar opciones, muchas gracias a todos!",
+        "user": "U36H6F3CN",
+        "ts": "1589536733.070700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qOXA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Este ariculo lo vi ayer! Quizás empiece a hacer algunas pruebas en local para valorar opciones, muchas gracias a todos!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "af978b47-351c-4fd3-b58d-0ddc99548fab",
+        "type": "message",
+        "text": "Nosotros lo hemos hecho con Nuxt, Netlify functions y mailgun",
+        "user": "U6ALMA2J3",
+        "ts": "1589537251.070900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g7f81f28af9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7f81f28af9e0d4683af8b253fd101f4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Javier",
+            "real_name": "Javier Martinez",
+            "display_name": "javier.martinez",
+            "team": "T2Y6L54R3",
+            "name": "javier.martinez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HY+9z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nosotros lo hemos hecho con Nuxt, Netlify functions y mailgun"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "bd541b27-5930-44d0-a117-8ba73988739f",
+        "type": "message",
+        "text": "Genial, me apunto lo de las netlify functions, la verdad es que si lo puedo tener todo en Netlify me iría genial :slightly_smiling_face:",
+        "user": "U36H6F3CN",
+        "ts": "1589537358.071100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WVH8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Genial, me apunto lo de las netlify functions, la verdad es que si lo puedo tener todo en Netlify me iría genial "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "55a69b4a-a557-4a0b-8a0a-8180ef261a85",
+        "type": "message",
+        "text": "Creo que hay plugins para hacer wordpress statico.\nUsas wordpress en local &gt; se generate un bundle &gt; push bundle a netlify y ya esta",
+        "user": "UBHPY3L5C",
+        "ts": "1589538733.071300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g95db1b08f53",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b95db1b08f53f475bd9c24ff2ee9aa15.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alejandro",
+            "real_name": "Alejandro",
+            "display_name": "Alejandro",
+            "team": "T2Y6L54R3",
+            "name": "alexdelamo06",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ohpg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Creo que hay plugins para hacer wordpress statico.\nUsas wordpress en local > se generate un bundle > push bundle a netlify y ya esta"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "e00e0f50-79c9-4f79-975d-b79b8af8448c",
+        "type": "message",
+        "text": "<https:\/\/es.wordpress.org\/plugins\/static-html-output-plugin\/>\n<https:\/\/wordpress.org\/plugins\/simply-static\/>",
+        "user": "UBHPY3L5C",
+        "ts": "1589538812.071500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g95db1b08f53",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b95db1b08f53f475bd9c24ff2ee9aa15.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alejandro",
+            "real_name": "Alejandro",
+            "display_name": "Alejandro",
+            "team": "T2Y6L54R3",
+            "name": "alexdelamo06",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "WordPress.org Español",
+                "title": "WP2Static",
+                "title_link": "https:\/\/es.wordpress.org\/plugins\/static-html-output-plugin\/",
+                "text": "Seguridad y rendimiento mediante la publicación estática de la web. Un plugin para resolver los mayores problemas de WordPress.",
+                "fallback": "WordPress.org Español: WP2Static",
+                "image_url": "https:\/\/ps.w.org\/static-html-output-plugin\/assets\/banner-1544x500.png?rev=2193351",
+                "from_url": "https:\/\/es.wordpress.org\/plugins\/static-html-output-plugin\/",
+                "image_width": 772,
+                "image_height": 250,
+                "image_bytes": 34016,
+                "service_icon": "http:\/\/s.w.org\/favicon.ico?2",
+                "id": 1,
+                "original_url": "https:\/\/es.wordpress.org\/plugins\/static-html-output-plugin\/"
+            },
+            {
+                "service_name": "WordPress.org",
+                "title": "Simply Static",
+                "title_link": "https:\/\/wordpress.org\/plugins\/simply-static\/",
+                "text": "Create a static copy of your WordPress site that you can serve on your favorite web server.",
+                "fallback": "WordPress.org: Simply Static",
+                "image_url": "https:\/\/ps.w.org\/simply-static\/assets\/banner-1544x500.jpg?rev=1574476",
+                "from_url": "https:\/\/wordpress.org\/plugins\/simply-static\/",
+                "image_width": 772,
+                "image_height": 250,
+                "image_bytes": 40367,
+                "service_icon": "http:\/\/s.w.org\/favicon.ico?2",
+                "id": 2,
+                "original_url": "https:\/\/wordpress.org\/plugins\/simply-static\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Xw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/es.wordpress.org\/plugins\/static-html-output-plugin\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/wordpress.org\/plugins\/simply-static\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "bdc132d6-c1b9-4dd5-854d-eba12658c0ff",
+        "type": "message",
+        "text": "Si, eso lo sabía. Pero si lo pubico tal cual los formularios de contacto no funcionarán",
+        "user": "U36H6F3CN",
+        "ts": "1589538817.071800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BHt4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si, eso lo sabía. Pero si lo pubico tal cual los formularios de contacto no funcionarán"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "817eeea4-a1d7-4dbf-9075-9d6ecce3b357",
+        "type": "message",
+        "text": "Tan cual no functionara, pero es solo tienes que modificar el form para atacar a netlify forms.\n<https:\/\/docs.netlify.com\/forms\/setup\/#html-forms>\n\nCreo que es menos curro que rehacer todo el frontend",
+        "user": "UBHPY3L5C",
+        "ts": "1589539497.072000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g95db1b08f53",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b95db1b08f53f475bd9c24ff2ee9aa15.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alejandro",
+            "real_name": "Alejandro",
+            "display_name": "Alejandro",
+            "team": "T2Y6L54R3",
+            "name": "alexdelamo06",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Forms setup",
+                "title_link": "https:\/\/docs.netlify.com\/forms\/setup\/#html-forms",
+                "text": "Netlify builds, deploys, and hosts your front end. Learn how to get started, see examples, and view documentation for the modern web platform.",
+                "fallback": "Forms setup",
+                "image_url": "https:\/\/www.netlify.com\/img\/global\/meta-image.jpg",
+                "from_url": "https:\/\/docs.netlify.com\/forms\/setup\/#html-forms",
+                "image_width": 467,
+                "image_height": 250,
+                "image_bytes": 16022,
+                "service_icon": "https:\/\/docs.netlify.com\/apple-touch-icon.png",
+                "service_name": "docs.netlify.com",
+                "id": 1,
+                "original_url": "https:\/\/docs.netlify.com\/forms\/setup\/#html-forms"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "447N0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tan cual no functionara, pero es solo tienes que modificar el form para atacar a netlify forms.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.netlify.com\/forms\/setup\/#html-forms"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nCreo que es menos curro que rehacer todo el frontend"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U36H6F3CN",
+                    "UP25YE34P"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "054f758f-fc4d-401c-bc53-a5a2e457b692",
+        "type": "message",
+        "text": "Si, mi idea era generar el sitio estático a partir del wordpress actual y publicarlo en Netlify, me miraré el tema de las netlify function y netlify forms, gracias!",
+        "user": "U36H6F3CN",
+        "ts": "1589539607.072400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ptu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si, mi idea era generar el sitio estático a partir del wordpress actual y publicarlo en Netlify, me miraré el tema de las netlify function y netlify forms, gracias!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "8420b154-c35e-4b08-afe3-600ba007651d",
+        "type": "message",
+        "text": "Otra opción es linkear a un typeform, si el límite de 50 formularios gratis por mes no es problema",
+        "user": "USVJUM2V9",
+        "ts": "1589547370.072900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9dd5b59b1330",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-15\/1001388320085_9dd5b59b13308f03122b_72.jpg",
+            "first_name": "Francisco",
+            "real_name": "Francisco Brusa",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "francanobr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kfcpU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Otra opción es linkear a un typeform, si el límite de 50 formularios gratis por mes no es problema"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "C4B034C7-2002-467C-A4B1-A8D6BF2034A6",
+        "type": "message",
+        "text": "Por ahora preferiría seguir con lo que tengo y ya veré si más adelante miro otra forma ",
+        "user": "U36H6F3CN",
+        "ts": "1589548012.073700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LXihg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Por ahora preferiría seguir con lo que tengo y ya veré si más adelante miro otra forma "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589534855.068000",
+        "parent_user_id": "U36H6F3CN"
+    }
+]

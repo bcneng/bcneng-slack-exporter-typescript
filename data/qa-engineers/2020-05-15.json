@@ -1,0 +1,147 @@
+[
+    {
+        "client_msg_id": "8d27ecfe-5ce0-43c2-aa13-3f342c10d6f2",
+        "type": "message",
+        "text": "hola chicos! que tal? duda para los que trabajáis con Cypress, os habéis tenido que enfrentar a testear un file upload?",
+        "user": "U6Q9G6V1D",
+        "ts": "1589538452.009300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ge7e26dfada1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e7e26dfada1f49b22579a4968917a82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Gloria",
+            "real_name": "Gloria Hornero",
+            "display_name": "glo",
+            "team": "T2Y6L54R3",
+            "name": "glo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H05C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hola chicos! que tal? duda para los que trabajáis con Cypress, os habéis tenido que enfrentar a testear un file upload?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589538452.009300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1589539182.009800",
+        "reply_users": [
+            "U6J7N1UPQ",
+            "U6Q9G6V1D"
+        ],
+        "replies": [
+            {
+                "user": "U6J7N1UPQ",
+                "ts": "1589538502.009400"
+            },
+            {
+                "user": "U6Q9G6V1D",
+                "ts": "1589539182.009800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "2f1515cf-6153-4568-8677-7e92c82dec21",
+        "type": "message",
+        "text": "por suerte no :sweat_smile:",
+        "user": "U6J7N1UPQ",
+        "ts": "1589538502.009400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "c840ef37ad0d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-06\/375959993665_c840ef37ad0d4e27899a_72.jpg",
+            "first_name": "Tebs",
+            "real_name": "Tebs .",
+            "display_name": "tebs",
+            "team": "T2Y6L54R3",
+            "name": "tebs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/QX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "por suerte no "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589538452.009300",
+        "parent_user_id": "U6Q9G6V1D"
+    },
+    {
+        "client_msg_id": "161d6f39-435d-475e-a70e-013d1fc5aa72",
+        "type": "message",
+        "text": "pues si, que suerte :stuck_out_tongue:",
+        "user": "U6Q9G6V1D",
+        "ts": "1589539182.009800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ge7e26dfada1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4e7e26dfada1f49b22579a4968917a82.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Gloria",
+            "real_name": "Gloria Hornero",
+            "display_name": "glo",
+            "team": "T2Y6L54R3",
+            "name": "glo",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ise",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pues si, que suerte "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589538452.009300",
+        "parent_user_id": "U6Q9G6V1D"
+    }
+]

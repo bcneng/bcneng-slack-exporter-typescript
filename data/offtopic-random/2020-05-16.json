@@ -1,0 +1,525 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589617094.468600",
+        "user": "U013KDDL6RL",
+        "text": "<@U013KDDL6RL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589620358.468900",
+        "user": "U013KEQJCCE",
+        "text": "<@U013KEQJCCE> has joined the channel"
+    },
+    {
+        "client_msg_id": "74715179-5c84-447e-a6c5-26125eedc577",
+        "type": "message",
+        "text": "Nuevo diseño de slack en móviles :thinking_face:",
+        "user": "UFW0A1GV8",
+        "ts": "1589627923.470200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9mM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nuevo diseño de slack en móviles "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627923.470200",
+        "reply_count": 12,
+        "reply_users_count": 7,
+        "latest_reply": "1589741806.477400",
+        "reply_users": [
+            "UN6S9CCGH",
+            "UDHAZQNF9",
+            "U2Y4MJNEL",
+            "UNR7EF5EU",
+            "UGC8J6E8J",
+            "UEDFE7J07",
+            "UFW0A1GV8"
+        ],
+        "replies": [
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589628291.470300"
+            },
+            {
+                "user": "UDHAZQNF9",
+                "ts": "1589628982.470500"
+            },
+            {
+                "user": "U2Y4MJNEL",
+                "ts": "1589629728.470700"
+            },
+            {
+                "user": "U2Y4MJNEL",
+                "ts": "1589629731.470900"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589647243.471300"
+            },
+            {
+                "user": "UGC8J6E8J",
+                "ts": "1589657662.471600"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589662365.471900"
+            },
+            {
+                "user": "UDHAZQNF9",
+                "ts": "1589664875.472300"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589741119.476700"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589741772.477000"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589741799.477200"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589741806.477400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "face_vomiting",
+                "users": [
+                    "U4HCQ4X1S",
+                    "U49DCUW22",
+                    "UDHAZQNF9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UGC8J6E8J",
+                    "UNR7EF5EU",
+                    "UUJUHHYLT",
+                    "UR17BJNJK",
+                    "UEDFE7J07"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "236e9a72-854e-439a-baae-44e08f6911ea",
+        "type": "message",
+        "text": "Si, y no me gusta nada.",
+        "user": "UN6S9CCGH",
+        "ts": "1589628291.470300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fZU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si, y no me gusta nada."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627923.470200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "83d54812-1083-4b89-b2c8-691ee3969042",
+        "type": "message",
+        "text": "No voy a hacer El upgrade",
+        "user": "UDHAZQNF9",
+        "ts": "1589628982.470500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yk9e=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No voy a hacer El upgrade"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627923.470200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "1c9490d5-894c-4e9e-b143-33707f020b6f",
+        "type": "message",
+        "text": "A mí tampoco me gusta",
+        "user": "U2Y4MJNEL",
+        "ts": "1589629728.470700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a2e2526bea44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-21\/107139167491_a2e2526bea445cd939ed_72.jpg",
+            "first_name": "Fabian",
+            "real_name": "Fabian Selles Rosa",
+            "display_name": "fsero",
+            "team": "T2Y6L54R3",
+            "name": "fsero",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NmvnW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A mí tampoco me gusta"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627923.470200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "720ba0aa-7344-474d-97da-c845563e8b7b",
+        "type": "message",
+        "text": "Me parece incómodo",
+        "user": "U2Y4MJNEL",
+        "ts": "1589629731.470900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a2e2526bea44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-21\/107139167491_a2e2526bea445cd939ed_72.jpg",
+            "first_name": "Fabian",
+            "real_name": "Fabian Selles Rosa",
+            "display_name": "fsero",
+            "team": "T2Y6L54R3",
+            "name": "fsero",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "48H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me parece incómodo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627923.470200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "84362975-ac6f-43a2-a706-2fd2c53987c7",
+        "type": "message",
+        "text": "Pues a mi si :sweat_smile::sweat_smile::sweat_smile: mucho mejor con los gestos en Android :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:",
+        "user": "UNR7EF5EU",
+        "ts": "1589647243.471300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tmu=m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pues a mi si "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " mucho mejor con los gestos en Android "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627923.470200",
+        "parent_user_id": "UFW0A1GV8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UEDFE7J07"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7d9b4aa5-301a-4589-bef5-83915ec31997",
+        "type": "message",
+        "text": "Yo también estoy contento",
+        "user": "UGC8J6E8J",
+        "ts": "1589657662.471600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "16bbd98bf1f1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-21\/556050844288_16bbd98bf1f1e9f3266e_72.jpg",
+            "first_name": "Vadym",
+            "real_name": "Vadym",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "your.faraway",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KK+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo también estoy contento"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627923.470200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "deec9dff-b52d-48f6-8010-408c2d9e362f",
+        "type": "message",
+        "text": "Gracias <@UGC8J6E8J>, ya parecía el raro jajaja",
+        "user": "UNR7EF5EU",
+        "ts": "1589662365.471900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WU\/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gracias "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGC8J6E8J"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", ya parecía el raro jajaja"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627923.470200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "bbc5f35e-30cf-4565-bf7d-825d2a5aa33f",
+        "type": "message",
+        "text": "Lo tengo ahora :sob::sob::sob::sob::sob:",
+        "user": "UDHAZQNF9",
+        "ts": "1589664875.472300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x2h6F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lo tengo ahora "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627923.470200",
+        "parent_user_id": "UFW0A1GV8"
+    }
+]

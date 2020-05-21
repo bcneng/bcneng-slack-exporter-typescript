@@ -1,0 +1,459 @@
+[
+    {
+        "client_msg_id": "a554d960-9fbb-4921-82c3-0043509089fb",
+        "type": "message",
+        "text": "alguien usa LastPass Authenticator u otra cosa que no sea Google Authenticator o Authy? Estoy pensando en migrar por si se me casca el móvil y me he dejado algún code list sin guardar",
+        "user": "U2Y6QQHST",
+        "ts": "1589536753.015000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1m1t7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alguien usa LastPass Authenticator u otra cosa que no sea Google Authenticator o Authy? Estoy pensando en migrar por si se me casca el móvil y me he dejado algún code list sin guardar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589536753.015000",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1589630458.019100",
+        "reply_users": [
+            "UGYRCFL1X",
+            "U36UNRM4N",
+            "U2Y6QQHST"
+        ],
+        "replies": [
+            {
+                "user": "UGYRCFL1X",
+                "ts": "1589540346.017700"
+            },
+            {
+                "user": "U36UNRM4N",
+                "ts": "1589628297.017900"
+            },
+            {
+                "user": "U36UNRM4N",
+                "ts": "1589628375.018100"
+            },
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589630458.019100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1589630458.019100"
+    },
+    {
+        "client_msg_id": "75c8051f-8ff3-43a5-964b-c699e5445c6e",
+        "type": "message",
+        "text": "yubikey si soporta U2F y yubikey + Yubico Authenticator para 2FA\/OTP",
+        "user": "U7PQZMZ4L",
+        "ts": "1589536827.015800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G\/sH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yubikey si soporta U2F y yubikey + Yubico Authenticator para 2FA\/OTP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589536827.015800",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1589537340.017500",
+        "reply_users": [
+            "U2Y6QQHST",
+            "U7PQZMZ4L"
+        ],
+        "replies": [
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589537109.016700"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589537290.016900"
+            },
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589537302.017100"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589537322.017300"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589537340.017500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1589537340.017500"
+    },
+    {
+        "client_msg_id": "ea9f829f-8b5f-4b6e-b503-1703d14dd820",
+        "type": "message",
+        "text": "la ventaja es que en la yubikey puede llevar mas cosas como Response-Challenge o tus claves GPG",
+        "user": "U7PQZMZ4L",
+        "ts": "1589536854.016400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pncB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la ventaja es que en la yubikey puede llevar mas cosas como Response-Challenge o tus claves GPG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bff31a71-3a71-4be9-802e-559f2e0f61ee",
+        "type": "message",
+        "text": "etc...",
+        "user": "U7PQZMZ4L",
+        "ts": "1589536856.016600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "052i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "etc..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "452f145c-09e0-4c8f-b10f-b8b4e8022f07",
+        "type": "message",
+        "text": "tengo una yubikey pero no la uso porque me da pereza ir echufándola y darle al botón, lo que no sabía era que había un Yubico Authenticator :thinking_face:",
+        "user": "U2Y6QQHST",
+        "ts": "1589537109.016700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k48",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tengo una yubikey pero no la uso porque me da pereza ir echufándola y darle al botón, lo que no sabía era que había un Yubico Authenticator "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589536827.015800",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "82f514e5-41dc-4dcf-ab65-62caa72bafd7",
+        "type": "message",
+        "text": "si, ademas hay un ykman CLI que  puedes instalar y es como el authenticator pero con CLI",
+        "user": "U7PQZMZ4L",
+        "ts": "1589537290.016900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DAu1=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si, ademas hay un ykman CLI que  puedes instalar y es como el authenticator pero con CLI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589536827.015800",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "e515bc9f-ff6e-48fa-8be4-dacaf4c76d34",
+        "type": "message",
+        "text": "thx!",
+        "user": "U2Y6QQHST",
+        "ts": "1589537302.017100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l4jS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thx!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589536827.015800",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "9101aeb8-cb4f-4152-90ae-d349dee06fef",
+        "type": "message",
+        "text": "yo por ejemplo lo integro con algunos scripts que tengo para  hacer cambios en AWS, mientras tenga la yubikey pinchada no me pregunta nada",
+        "user": "U7PQZMZ4L",
+        "ts": "1589537322.017300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DHeu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo por ejemplo lo integro con algunos scripts que tengo para  hacer cambios en AWS, mientras tenga la yubikey pinchada no me pregunta nada"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589536827.015800",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "b16dc9f2-3298-41b3-952b-74c0a292bd52",
+        "type": "message",
+        "text": "si la desenchufo me pregunta un MFA normal",
+        "user": "U7PQZMZ4L",
+        "ts": "1589537340.017500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kC=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si la desenchufo me pregunta un MFA normal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589536827.015800",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "96e13908-c157-4d88-ba2a-e8f57ab8c3e7",
+        "type": "message",
+        "text": "Yo uso FreeOTP en Android, pero tampoco te puedo decir gran cosa... funciona... (y está en F-Droid)",
+        "user": "UGYRCFL1X",
+        "ts": "1589540346.017700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "57f47da2421d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-24\/586582380693_57f47da2421d80b63c86_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Corcoles",
+            "display_name": "Alex Corcoles",
+            "team": "T2Y6L54R3",
+            "name": "alex800",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bs9v5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo uso FreeOTP en Android, pero tampoco te puedo decir gran cosa... funciona... (y está en F-Droid)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589536753.015000",
+        "parent_user_id": "U2Y6QQHST"
+    }
+]

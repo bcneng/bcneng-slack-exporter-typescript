@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "5243dd2e-96da-48ae-8cfd-c6651d391cdb",
+        "type": "message",
+        "text": "Sí, yo siempre he usado Gdrive. Tienen plan business con features muy chulas.\n\nSobre la migración de correo, yo mismo tuve que migrar un exchange con 200 cuentas a Gsuite.\nLa parte técnica del proceso: bien, más o menos.\nLo de pedir a esos 200 usuarios que hicieran X tareas para preparar sus buzones, copias de seguridad, limpieza de buzones.... un horror.",
+        "user": "UAG4H8GMD",
+        "ts": "1589620825.160000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4ba5b84381b7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-06-29\/682191906919_4ba5b84381b7ff8b036a_72.jpg",
+            "first_name": "Ivan",
+            "real_name": "Ivan Vihe",
+            "display_name": "Ivan Vihe",
+            "team": "T2Y6L54R3",
+            "name": "ivan.vihe",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sbjl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sí, yo siempre he usado Gdrive. Tienen plan business con features muy chulas.\n\nSobre la migración de correo, yo mismo tuve que migrar un exchange con 200 cuentas a Gsuite.\nLa parte técnica del proceso: bien, más o menos.\nLo de pedir a esos 200 usuarios que hicieran X tareas para preparar sus buzones, copias de seguridad, limpieza de buzones.... un horror."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1584709612.267500",
+        "parent_user_id": "UV9JKGR7S"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "7526ca20-f7c5-435f-8bde-757d788bfaf2",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=VFZNvj-HfBU>",
+        "user": "U7PQZMZ4L",
+        "ts": "1589926071.021700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Think About Things :: Daði Freyr (Daði &amp; Gagnamagnið) :: OFFICIAL VIDEO",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=VFZNvj-HfBU",
+                "author_name": "Daði Freyr",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCF18N219OPiOcElz_hSYoIQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/VFZNvj-HfBU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Think About Things :: Daði Freyr (Daði & Gagnamagnið) :: OFFICIAL VIDEO",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/VFZNvj-HfBU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=VFZNvj-HfBU",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=VFZNvj-HfBU"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lyLsS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=VFZNvj-HfBU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589926071.021700",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1589967647.023000",
+        "reply_users": [
+            "U2Z2ABKFB",
+            "U7PQZMZ4L"
+        ],
+        "replies": [
+            {
+                "user": "U2Z2ABKFB",
+                "ts": "1589965710.022100"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589966289.022400"
+            },
+            {
+                "user": "U2Z2ABKFB",
+                "ts": "1589966725.022600"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589967464.022800"
+            },
+            {
+                "user": "U2Z2ABKFB",
+                "ts": "1589967647.023000"
+            }
+        ],
+        "subscribed": false
+    }
+]

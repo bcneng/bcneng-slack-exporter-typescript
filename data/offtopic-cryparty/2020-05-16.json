@@ -1,0 +1,95 @@
+[
+    {
+        "client_msg_id": "cb5a48cb-5536-4080-95dd-85b3c426ad99",
+        "type": "message",
+        "text": "Depende tuvimos a una que ve TV hasta las 23.30 a todo volumen era su compañía",
+        "user": "UEDFE7J07",
+        "ts": "1589613813.058000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kAU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Depende tuvimos a una que ve TV hasta las 23.30 a todo volumen era su compañía"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529337.047600",
+        "parent_user_id": "UN6S9CCGH",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U35MRAK6E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0d8f5325-17f8-4d7c-9ccb-1cffc1308ed3",
+        "type": "message",
+        "text": "En mi caso la de abajo es una abuela con sonotone, y arriba estaba vacío cuando vine a vivir aquí :disappointed:",
+        "user": "UN6S9CCGH",
+        "ts": "1589619162.058300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fYf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En mi caso la de abajo es una abuela con sonotone, y arriba estaba vacío cuando vine a vivir aquí "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529337.047600",
+        "parent_user_id": "UN6S9CCGH"
+    }
+]

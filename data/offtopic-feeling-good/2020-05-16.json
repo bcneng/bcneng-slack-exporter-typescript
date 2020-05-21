@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "d1286474-6d1e-44ce-b4a8-a99ab4a5177e",
+        "type": "message",
+        "text": "Estar preparando una presentación de “Docker for developers” y buscar memes que son totalmente reales.",
+        "user": "UN6S9CCGH",
+        "ts": "1589627393.128500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3VICl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Estar preparando una presentación de “Docker for developers” y buscar memes que son totalmente reales."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627393.128500",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1589796856.129700",
+        "reply_users": [
+            "U40KDVDQF",
+            "UN6S9CCGH",
+            "U32L364NL"
+        ],
+        "replies": [
+            {
+                "user": "U40KDVDQF",
+                "ts": "1589791957.128900"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589791996.129100"
+            },
+            {
+                "user": "U32L364NL",
+                "ts": "1589796790.129500"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589796856.129700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U6A845RPY",
+                    "UEDFE7J07",
+                    "UGMMSM2KD"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

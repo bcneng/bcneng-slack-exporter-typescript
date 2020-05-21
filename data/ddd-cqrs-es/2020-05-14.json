@@ -1,0 +1,1305 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589447452.073300",
+        "user": "U013KS87YAX",
+        "text": "<@U013KS87YAX> has joined the channel"
+    },
+    {
+        "client_msg_id": "0d888791-ad87-4ea7-a90c-87de898a11a5",
+        "type": "message",
+        "text": "Artículo de Matthias Noback, que os parece? <https:\/\/matthiasnoback.nl\/2020\/05\/ddd-and-your-database\/>",
+        "user": "U36H6F3CN",
+        "ts": "1589450095.073700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "DDD and your database",
+                "title_link": "https:\/\/matthiasnoback.nl\/2020\/05\/ddd-and-your-database\/",
+                "text": "Infrastructure code in your entities | Entities should be testable in isolation | Testing persistence | Reconsider using Active Record | Conclusion",
+                "fallback": "DDD and your database",
+                "thumb_url": "https:\/\/matthiasnoback.nl\/images\/matthias-noback-small.jpg",
+                "from_url": "https:\/\/matthiasnoback.nl\/2020\/05\/ddd-and-your-database\/",
+                "thumb_width": 180,
+                "thumb_height": 180,
+                "service_icon": "https:\/\/matthiasnoback.nl\/apple-icon-57x57.png",
+                "service_name": "matthiasnoback.nl",
+                "id": 1,
+                "original_url": "https:\/\/matthiasnoback.nl\/2020\/05\/ddd-and-your-database\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jp\/fs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Artículo de Matthias Noback, que os parece? "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/matthiasnoback.nl\/2020\/05\/ddd-and-your-database\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "reply_count": 18,
+        "reply_users_count": 8,
+        "latest_reply": "1589656685.112300",
+        "reply_users": [
+            "U36Q35JRH",
+            "U39LREC7M",
+            "U36H6F3CN",
+            "U30CJP81G",
+            "U3EPGSQQ1",
+            "U2Y6QQHST",
+            "U0142SPE1B3",
+            "U328H3W2X"
+        ],
+        "replies": [
+            {
+                "user": "U36Q35JRH",
+                "ts": "1589456176.074000"
+            },
+            {
+                "user": "U39LREC7M",
+                "ts": "1589457274.074300"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589457343.074500"
+            },
+            {
+                "user": "U30CJP81G",
+                "ts": "1589524433.077500"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589524504.077900"
+            },
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589525005.078200"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589525236.079100"
+            },
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589525281.079800"
+            },
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589525286.080000"
+            },
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589525372.080200"
+            },
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589525392.080400"
+            },
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589525413.080600"
+            },
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589525435.080800"
+            },
+            {
+                "user": "U0142SPE1B3",
+                "ts": "1589566276.089500"
+            },
+            {
+                "user": "U0142SPE1B3",
+                "ts": "1589566406.089700"
+            },
+            {
+                "user": "U39LREC7M",
+                "ts": "1589615772.101000"
+            },
+            {
+                "user": "U328H3W2X",
+                "ts": "1589648931.101400"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589656685.112300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1589659127.863007",
+        "reactions": [
+            {
+                "name": "ty",
+                "users": [
+                    "UJU5RUZ51"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7b2165dd-a1c0-448f-b01c-d463b772066a",
+        "type": "message",
+        "text": "Si a el le va bien trabajar con Active Record pues adelante. No he encontrado el caso en el que el ORM solo con configuracion en infraestructura, persista y levante la entidad sin tener que alterar tu codigo de dominio. Igualmente siempre es mas recomendable usar yamls o xml que annotations para no \"ensuciar\" la entidad.",
+        "user": "U36Q35JRH",
+        "ts": "1589456176.074000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g27a2bb5a9c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e27a2bb5a9c8324b8f5da5717e96c3f7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Sergio",
+            "real_name": "Sergio Baños",
+            "display_name": "sergiodb",
+            "team": "T2Y6L54R3",
+            "name": "sergiodb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36Q35JRH",
+            "ts": "1589456577.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1irGp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si a el le va bien trabajar con Active Record pues adelante. No he encontrado el caso en el que el ORM solo con configuracion en infraestructura, persista y levante la entidad sin tener que alterar tu codigo de dominio. Igualmente siempre es mas recomendable usar yamls o xml que annotations para no \"ensuciar\" la entidad."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN",
+        "reactions": [
+            {
+                "name": "trump-top",
+                "users": [
+                    "U4SM3C8H3",
+                    "U7BG5P0H3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clapping",
+                "users": [
+                    "UTWA4PFHN",
+                    "UV1P1S6P2"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b2aac39-ccdb-435e-b91c-0fd80d784b87",
+        "type": "message",
+        "text": "En general estoy de acuerdo con lo que dice, a veces hay que saber \"esquivar\" normas que por escrito quedan muy bien pero en ciertos casos es demasiado costoso seguir (como lo que dice del Active Record). Pocas veces se trabaja en greenfield para poder seguir todo al dedillo.\n\nLo que no me mola nada, como dice Sergio, es lo de tener anotaciones en entidades de dominio, no porque las hagan no testables como dice, sino por la carga cognitiva que supone mezclar movidas de persistencia en el inmaculado modelo del dominio. La vida es demasiado corta para gastar tiempo en hacer scroll en 5 páginas declarando propiedades anotadas",
+        "user": "U39LREC7M",
+        "ts": "1589457274.074300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "0dcadc6f7063",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-02\/447297188211_0dcadc6f70637b76d401_72.png",
+            "first_name": "Carlos",
+            "real_name": "Carlos Gándara",
+            "display_name": "xoubaman",
+            "team": "T2Y6L54R3",
+            "name": "xoubaman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+U+s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En general estoy de acuerdo con lo que dice, a veces hay que saber \"esquivar\" normas que por escrito quedan muy bien pero en ciertos casos es demasiado costoso seguir (como lo que dice del Active Record). Pocas veces se trabaja en greenfield para poder seguir todo al dedillo.\n\nLo que no me mola nada, como dice Sergio, es lo de tener anotaciones en entidades de dominio, no porque las hagan no testables como dice, sino por la carga cognitiva que supone mezclar movidas de persistencia en el inmaculado modelo del dominio. La vida es demasiado corta para gastar tiempo en hacer scroll en 5 páginas declarando propiedades anotadas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "cd2d9911-e83b-4f35-bef9-4f19886a0f05",
+        "type": "message",
+        "text": "Totalmente, a mi las anotaciones en las entidades no me gustan y prefiero evitarlas siempre que sea posible y también prefiero trabajar siempre con data mapping antes que active record",
+        "user": "U36H6F3CN",
+        "ts": "1589457343.074500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Totalmente, a mi las anotaciones en las entidades no me gustan y prefiero evitarlas siempre que sea posible y también prefiero trabajar siempre con data mapping antes que active record"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589472816.075300",
+        "user": "U013DUST9S8",
+        "text": "<@U013DUST9S8> has joined the channel"
+    },
+    {
+        "client_msg_id": "ece7d26e-49d4-4c0f-bcc4-b2da0ac2b373",
+        "type": "message",
+        "text": "Vaya, el gurú de los microservices ha visto que ha cambiado la dirección del viento y ya está cambiando de bando <https:\/\/www.infoq.com\/news\/2020\/05\/monolith-decomposition-newman\/|https:\/\/www.infoq.com\/news\/2020\/05\/monolith-decomposition-newman\/>",
+        "user": "U2YH82SRM",
+        "ts": "1589523327.077000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "InfoQ",
+                "title": "Decomposing a Monolith Does Not Require Microservices - Sam Newman at QCon London",
+                "title_link": "https:\/\/www.infoq.com\/news\/2020\/05\/monolith-decomposition-newman\/",
+                "text": "Sam Newman says the goal of decomposing a monolith must be independent deployability, and developers need to focus on the outcome, not the technology. Speaking at QCon London, he said, \"The monolith is not the enemy\" and, \"Microservices should not be the default choice.\"",
+                "fallback": "InfoQ: Decomposing a Monolith Does Not Require Microservices - Sam Newman at QCon London",
+                "thumb_url": "https:\/\/res.infoq.com\/news\/2020\/05\/monolith-decomposition-newman\/en\/headerimage\/LIxnX4gE-1589374871392.jpg",
+                "from_url": "https:\/\/www.infoq.com\/news\/2020\/05\/monolith-decomposition-newman\/",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/cdn.infoq.com\/statics_s1_20200513-0230\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.infoq.com\/news\/2020\/05\/monolith-decomposition-newman\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OCw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vaya, el gurú de los microservices ha visto que ha cambiado la dirección del viento y ya está cambiando de bando "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.infoq.com\/news\/2020\/05\/monolith-decomposition-newman\/",
+                                "text": "https:\/\/www.infoq.com\/news\/2020\/05\/monolith-decomposition-newman\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "reply_count": 55,
+        "reply_users_count": 6,
+        "latest_reply": "1589655979.111500",
+        "reply_users": [
+            "U3EPGSQQ1",
+            "U36343539",
+            "U2Y6KTWRZ",
+            "U2YH82SRM",
+            "U3DPLBVQE",
+            "U2YETHC12"
+        ],
+        "replies": [
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589525135.078400"
+            },
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589525150.078600"
+            },
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589525152.078800"
+            },
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589525237.079300"
+            },
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589525254.079600"
+            },
+            {
+                "user": "U36343539",
+                "ts": "1589527457.081300"
+            },
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589527962.081500"
+            },
+            {
+                "user": "U2Y6KTWRZ",
+                "ts": "1589529838.081800"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589530533.082000"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589533246.082200"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589533291.082400"
+            },
+            {
+                "user": "U2Y6KTWRZ",
+                "ts": "1589534065.082600"
+            },
+            {
+                "user": "U2Y6KTWRZ",
+                "ts": "1589534097.082800"
+            },
+            {
+                "user": "U36343539",
+                "ts": "1589535080.083000"
+            },
+            {
+                "user": "U36343539",
+                "ts": "1589535109.083200"
+            },
+            {
+                "user": "U36343539",
+                "ts": "1589535149.083400"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589535155.083700"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589535200.083900"
+            },
+            {
+                "user": "U36343539",
+                "ts": "1589535203.084100"
+            },
+            {
+                "user": "U36343539",
+                "ts": "1589535255.084300"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589535291.084500"
+            },
+            {
+                "user": "U36343539",
+                "ts": "1589535318.084700"
+            },
+            {
+                "user": "U36343539",
+                "ts": "1589535347.084900"
+            },
+            {
+                "user": "U36343539",
+                "ts": "1589535358.085100"
+            },
+            {
+                "user": "U36343539",
+                "ts": "1589535363.085300"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589535459.085600"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589535463.086000"
+            },
+            {
+                "user": "U36343539",
+                "ts": "1589535484.086200"
+            },
+            {
+                "user": "U36343539",
+                "ts": "1589535506.086400"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589556012.087500"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589556034.087700"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589556049.087900"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589556065.088100"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589556131.088400"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589556148.088700"
+            },
+            {
+                "user": "U2YETHC12",
+                "ts": "1589556361.088900"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589567122.090100"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589567174.091200"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589567212.092500"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589567253.094000"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589567270.094600"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589567295.095500"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589567312.096200"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589567787.097100"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589567801.097600"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589567842.098700"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589568008.099700"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589568063.100600"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589649940.101600"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589655677.104500"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589655722.105800"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589655752.106700"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589655833.108800"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589655902.110000"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589655979.111500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U30CJP81G",
+                    "UNR7EF5EU",
+                    "U7BG5P0H3",
+                    "U6A845RPY",
+                    "UGVNLB7LL",
+                    "U38R76FV4"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5b350e3-0894-4312-be8c-6ebcb46a4c66",
+        "type": "message",
+        "text": "&gt; Si a el le va bien trabajar con Active Record pues adelante.\nEn el texto noback no invita a usar active record, ni que a él le vaya bien usarlo. De hecho, hay que evitarlo a toda costa para obtener más facilidad de testeo.",
+        "user": "U30CJP81G",
+        "ts": "1589524433.077500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "26c3924685c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/103260302865_26c3924685c707b37735_72.jpg",
+            "first_name": "Tomas",
+            "real_name": "Tomas Prado",
+            "display_name": "tomas.p",
+            "team": "T2Y6L54R3",
+            "name": "tomas.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U30CJP81G",
+            "ts": "1589524489.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QrCf",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si a el le va bien trabajar con Active Record pues adelante."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En el texto noback no invita a usar active record, ni que a él le vaya bien usarlo. De hecho, hay que evitarlo a toda costa para obtener más facilidad de testeo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "e3bca51c-d535-4763-892c-5eaac56f172b",
+        "type": "message",
+        "text": "Vale, me había parecido entender eso. De hecho creo que aconseja no usarlo y ofrece una posibilidad de abstraer funcionalidad del active record de la entidad a un repositorio",
+        "user": "U36H6F3CN",
+        "ts": "1589524504.077900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C6m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vale, me había parecido entender eso. De hecho creo que aconseja no usarlo y ofrece una posibilidad de abstraer funcionalidad del active record de la entidad a un repositorio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "d8c86cf5-086f-4aeb-ae21-1b56807f8f8e",
+        "type": "message",
+        "text": "aconseja no usarlo en favor del testing, mas alla del SRP (que tambien)",
+        "user": "U3EPGSQQ1",
+        "ts": "1589525005.078200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t+A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aconseja no usarlo en favor del testing, mas alla del SRP (que tambien)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U36H6F3CN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0907150-83c8-4409-9791-feb5ff29e12a",
+        "type": "message",
+        "text": "esto es interesante. es curioso como los microservices estan pasando de bala de plata para todo a ser despreciados totalmente. Cuando al final tenemos distintas opciones de arquitectura que resuelven distintos tipos de problemas",
+        "user": "U3EPGSQQ1",
+        "ts": "1589525135.078400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bPX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "esto es interesante. es curioso como los microservices estan pasando de bala de plata para todo a ser despreciados totalmente. Cuando al final tenemos distintas opciones de arquitectura que resuelven distintos tipos de problemas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "56fe4224-273a-4322-969e-8f97a35ee3a5",
+        "type": "message",
+        "text": "hay una charla de mark richards bastante guay sobre este tema",
+        "user": "U3EPGSQQ1",
+        "ts": "1589525150.078600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bFfBr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hay una charla de mark richards bastante guay sobre este tema"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "01bf168a-2e09-4f3e-bfe2-5f64e3e748a2",
+        "type": "message",
+        "text": "la busco :slightly_smiling_face:",
+        "user": "U3EPGSQQ1",
+        "ts": "1589525152.078800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la busco "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "5235e1d7-2cda-426e-b3b9-9bef7af63fca",
+        "type": "message",
+        "text": "Yo simplemente aconsejaría no usarlo básicamente :joy:",
+        "user": "U36H6F3CN",
+        "ts": "1589525236.079100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "avQs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo simplemente aconsejaría no usarlo básicamente "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "0f300a82-0d8c-4566-b71e-9c03d054549a",
+        "type": "message",
+        "text": "creo que esta <https:\/\/www.youtube.com\/watch?v=5YilcPUlbaI>",
+        "user": "U3EPGSQQ1",
+        "ts": "1589525237.079300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Architectural Thinking - Mark Richards",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=5YilcPUlbaI",
+                "author_name": "Autentia",
+                "author_link": "https:\/\/www.youtube.com\/user\/AutentiaMedia",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/5YilcPUlbaI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Architectural Thinking - Mark Richards",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/5YilcPUlbaI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=5YilcPUlbaI",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=5YilcPUlbaI"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "km7ye",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "creo que esta "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=5YilcPUlbaI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UTTLKD9AM",
+                    "U38R76FV4"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53b39bd9-aa3c-4fe1-9528-40c8dbb51302",
+        "type": "message",
+        "text": "si alguien la ve que comparta opiniones :muscle:",
+        "user": "U3EPGSQQ1",
+        "ts": "1589525254.079600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cgoO+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si alguien la ve que comparta opiniones "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "1d8aea21-8c69-403d-8719-20751b836271",
+        "type": "message",
+        "text": "nada nuevo bajo el sol, dice que si usas AR estás acoplando el modelo a la base de datos y que eso no es bueno. Preferiría que diera una solución como hacen Codely...",
+        "user": "U2Y6QQHST",
+        "ts": "1589525281.079800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I=H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nada nuevo bajo el sol, dice que si usas AR estás acoplando el modelo a la base de datos y que eso no es bueno. Preferiría que diera una solución como hacen Codely..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "d3ad524b-24af-44e6-a11d-a1894e50615c",
+        "type": "message",
+        "text": "jaja si, pero todo tiene sus tradeoffs",
+        "user": "U3EPGSQQ1",
+        "ts": "1589525286.080000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xz3+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "jaja si, pero todo tiene sus tradeoffs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "a2ec492e-f26a-4307-beda-11a8fe3f509f",
+        "type": "message",
+        "text": "yo me imagino el siguiente escenario y puedo entender que se utilice: empiezas un proyecto, la unica mentalidad ahora mismo es timing y validar idea de negocio. Asi que usas un framework y te acoplas al infinito a el, y usas active record y ademas no haces ni un test. Metiendo deuda a tope",
+        "user": "U3EPGSQQ1",
+        "ts": "1589525372.080200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f=U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo me imagino el siguiente escenario y puedo entender que se utilice: empiezas un proyecto, la unica mentalidad ahora mismo es timing y validar idea de negocio. Asi que usas un framework y te acoplas al infinito a el, y usas active record y ademas no haces ni un test. Metiendo deuda a tope"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "622e54f9-2536-4425-b710-39633bfafc0b",
+        "type": "message",
+        "text": "no validas negocio -&gt; lo tiras\nvalidas -&gt; lo tiras y lo rehaces :joy:",
+        "user": "U3EPGSQQ1",
+        "ts": "1589525392.080400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5z+R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no validas negocio -> lo tiras\nvalidas -> lo tiras y lo rehaces "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "a4975b17-adef-4001-bacb-095fc1e5598d",
+        "type": "message",
+        "text": "aun asi, yo active record personalmente no lo usaria, pero puedo entender perfectamente ese escenario",
+        "user": "U3EPGSQQ1",
+        "ts": "1589525413.080600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4oskR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aun asi, yo active record personalmente no lo usaria, pero puedo entender perfectamente ese escenario"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "40fc1046-145f-45b2-8c86-5440cbd82060",
+        "type": "message",
+        "text": "al final es meter deuda tecnica (si lo haces conscientemente), siempre que sepas que la vas a pagar… pues tiene su marco",
+        "user": "U3EPGSQQ1",
+        "ts": "1589525435.080800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nhm1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "al final es meter deuda tecnica (si lo haces conscientemente), siempre que sepas que la vas a pagar… pues tiene su marco"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U2Y6QQHST"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

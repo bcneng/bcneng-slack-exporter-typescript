@@ -1,0 +1,327 @@
+[
+    {
+        "client_msg_id": "ebb51bff-f221-4064-a97c-06ce9d1dcabf",
+        "type": "message",
+        "text": "<https:\/\/github.com\/denoland\/deno\/pull\/5273|https:\/\/github.com\/denoland\/deno\/pull\/5273>\n<#C30TGE9E1|lang-js-node-ts> -&gt; #lang-js-deno-ts",
+        "user": "U30CJP81G",
+        "ts": "1589445449.050000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "26c3924685c7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-13\/103260302865_26c3924685c707b37735_72.jpg",
+            "first_name": "Tomas",
+            "real_name": "Tomas Prado",
+            "display_name": "tomas.p",
+            "team": "T2Y6L54R3",
+            "name": "tomas.p",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "v1.0.0 by bartlomieju · Pull Request #5273 · denoland\/deno",
+                "title_link": "https:\/\/github.com\/denoland\/deno\/pull\/5273",
+                "text": "Closes #2473",
+                "fallback": "GitHub: v1.0.0 by bartlomieju · Pull Request #5273 · denoland\/deno",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/42048915?s=400&v=4",
+                "from_url": "https:\/\/github.com\/denoland\/deno\/pull\/5273",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/denoland\/deno\/pull\/5273"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PWE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/denoland\/deno\/pull\/5273",
+                                "text": "https:\/\/github.com\/denoland\/deno\/pull\/5273"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C30TGE9E1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " -> #lang-js-deno-ts"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589445449.050000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1589445999.050500",
+        "reply_users": [
+            "U36H6F3CN",
+            "U2XSANH4G"
+        ],
+        "replies": [
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589445723.050200"
+            },
+            {
+                "user": "U2XSANH4G",
+                "ts": "1589445999.050500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U326S0XLJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cfbba641-0195-4d6a-bc58-13ca4bf8a71c",
+        "type": "message",
+        "text": "Ya está la primera versión estable?",
+        "user": "U36H6F3CN",
+        "ts": "1589445723.050200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0mlB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ya está la primera versión estable?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589445449.050000",
+        "parent_user_id": "U30CJP81G"
+    },
+    {
+        "client_msg_id": "67f93b5d-c3b1-49f7-bf85-088f89ce2156",
+        "type": "message",
+        "text": "si, aunque esta muy verde a mi parecer",
+        "user": "U2XSANH4G",
+        "ts": "1589445999.050500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g1c73a0ed261",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1c73a0ed261b8a717f0c1f86147cb3d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Gerard",
+            "real_name": "Gerard Brull",
+            "display_name": "poteirard",
+            "team": "T2Y6L54R3",
+            "name": "poteirard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2XSANH4G",
+            "ts": "1589446306.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bzf2K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si, aunque esta muy verde a mi parecer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589445449.050000",
+        "parent_user_id": "U30CJP81G"
+    },
+    {
+        "client_msg_id": "605f7c89-3e66-43b3-90aa-b4c71a724df1",
+        "type": "message",
+        "text": "opinions on `ts-node` in production? Kind of like the source-map feature of node 12",
+        "user": "UK0AC61HS",
+        "ts": "1589466030.051200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g36cef01195c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c36cef01195c0a581ece67aa81ee40a8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Christian Giordano",
+            "display_name": "Christian Giordano",
+            "team": "T2Y6L54R3",
+            "name": "christian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UK0AC61HS",
+            "ts": "1589466100.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2TCdE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "opinions on "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ts-node",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in production? Kind of like the source-map feature of node 12"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589466030.051200",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1589548185.053900",
+        "reply_users": [
+            "UK0AC61HS",
+            "UB82Y3A3W"
+        ],
+        "replies": [
+            {
+                "user": "UK0AC61HS",
+                "ts": "1589467902.051600"
+            },
+            {
+                "user": "UB82Y3A3W",
+                "ts": "1589546134.053200"
+            },
+            {
+                "user": "UB82Y3A3W",
+                "ts": "1589546161.053400"
+            },
+            {
+                "user": "UK0AC61HS",
+                "ts": "1589548057.053700"
+            },
+            {
+                "user": "UB82Y3A3W",
+                "ts": "1589548185.053900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5ca2e206-3f94-49ae-85b3-0b1411388b42",
+        "type": "message",
+        "text": "Good timing: <https:\/\/twitter.com\/mjackson\/status\/1260639156767567873>",
+        "user": "UK0AC61HS",
+        "ts": "1589467902.051600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g36cef01195c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c36cef01195c0a581ece67aa81ee40a8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Christian Giordano",
+            "display_name": "Christian Giordano",
+            "team": "T2Y6L54R3",
+            "name": "christian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/mjackson|@mjackson>: How does one run TypeScript files directly in node? Is ts-node the thing to use?\n\nOr is today the day I finally break free and use deno for everything?!",
+                "ts": 1589394771,
+                "author_name": "Michael Jackson",
+                "author_link": "https:\/\/twitter.com\/mjackson\/status\/1260639156767567873",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1095819845382299649\/zG-2_UHS_normal.jpg",
+                "author_subname": "@mjackson",
+                "text": "How does one run TypeScript files directly in node? Is ts-node the thing to use?\n\nOr is today the day I finally break free and use deno for everything?!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/mjackson\/status\/1260639156767567873",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/mjackson\/status\/1260639156767567873",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "96Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Good timing: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/mjackson\/status\/1260639156767567873"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589466030.051200",
+        "parent_user_id": "UK0AC61HS"
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "09dbfc15-8d07-4731-8b2f-bafb885253a6",
+        "type": "message",
+        "text": "True, but the approach would be slightly different. I realise as well and I went through the questions you are doing. Your survey it's more focused in \"how the day to day of a developer changed\". The meetup will be about \"how the market is changing or will change\"",
+        "user": "U9555FDJ8",
+        "ts": "1589874529.085300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ge82bf7af83a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0e82bf7af83af0c3de90cc8b69500961.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Dani",
+            "real_name": "Dani",
+            "display_name": "Dani",
+            "team": "T2Y6L54R3",
+            "name": "dani369",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gMXL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "True, but the approach would be slightly different. I realise as well and I went through the questions you are doing. Your survey it's more focused in \"how the day to day of a developer changed\". The meetup will be about \"how the market is changing or will change\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589814095.084700",
+        "parent_user_id": "U3FGG385U",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U2WPLA0KA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ty",
+                "users": [
+                    "U2WPLA0KA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "096504d4-b6d0-4d50-bf53-c6f49a97161d",
+        "type": "message",
+        "text": "interesting :100: :thumbsup:",
+        "user": "U2WPLA0KA",
+        "ts": "1589878033.085600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LUN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "interesting "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "100"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thumbsup"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589814095.084700",
+        "parent_user_id": "U3FGG385U"
+    }
+]

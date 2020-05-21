@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "df5edda8-526e-49e4-b88b-fe6437160fb2",
+        "type": "message",
+        "text": "Yo lo usé cuando fui a la Defcon, junto con AlgoVPN, siguiendo la recomendación de Kenn White:\n\n<https:\/\/twitter.com\/kennwhite\/status\/1147534975052500992>\n\nSuper fácil de meter en una EC2 en AWS y levantar cuando haga falta.\n\n<https:\/\/github.com\/trailofbits\/algo>",
+        "user": "UFT460KF1",
+        "ts": "1589813017.347700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g4b0ef2e4fd5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b4b0ef2e4fd524313064f83604aaa4c9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Ricard Flores",
+            "display_name": "riveck",
+            "team": "T2Y6L54R3",
+            "name": "riveck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/kennwhite|@kennwhite>: For the benefit of new followers, to be completely clear: nearly _all_ consumer VPN services are actively unsafe, incompetently designed, or both. If you must use one, <https:\/\/twitter.com\/AlgoVPN|@AlgoVPN> w\/ Wireguard is best for self-managed, <https:\/\/twitter.com\/chronic|@chronic>'s <https:\/\/twitter.com\/guardianiosapp|@guardianiosapp> looks promising for hosted.",
+                "ts": 1562428632,
+                "author_name": "Kenn White",
+                "author_link": "https:\/\/twitter.com\/kennwhite\/status\/1147534975052500992",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/2409299713\/m4lsp3hhev776f6zogc9_normal.jpeg",
+                "author_subname": "@kennwhite",
+                "text": "For the benefit of new followers, to be completely clear: nearly _all_ consumer VPN services are actively unsafe, incompetently designed, or both. If you must use one, <https:\/\/twitter.com\/AlgoVPN|@AlgoVPN> w\/ Wireguard is best for self-managed, <https:\/\/twitter.com\/chronic|@chronic>'s <https:\/\/twitter.com\/guardianiosapp|@guardianiosapp> looks promising for hosted.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/kennwhite\/status\/1147534975052500992",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/kennwhite\/status\/1147534975052500992",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "service_name": "GitHub",
+                "title": "trailofbits\/algo",
+                "title_link": "https:\/\/github.com\/trailofbits\/algo",
+                "text": "Set up a personal VPN in the cloud. Contribute to trailofbits\/algo development by creating an account on GitHub.",
+                "fallback": "GitHub: trailofbits\/algo",
+                "from_url": "https:\/\/github.com\/trailofbits\/algo",
+                "thumb_url": "https:\/\/repository-images.githubusercontent.com\/58842707\/1ee0c800-614b-11e9-961a-a52b540efde2",
+                "thumb_width": 625,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 2,
+                "original_url": "https:\/\/github.com\/trailofbits\/algo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "810ua",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo lo usé cuando fui a la Defcon, junto con AlgoVPN, siguiendo la recomendación de Kenn White:\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/kennwhite\/status\/1147534975052500992"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nSuper fácil de meter en una EC2 en AWS y levantar cuando haga falta.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/trailofbits\/algo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588849650.274500",
+        "parent_user_id": "U32L364NL"
+    }
+]

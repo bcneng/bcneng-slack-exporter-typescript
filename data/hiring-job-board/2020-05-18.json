@@ -1,0 +1,56 @@
+[
+    {
+        "client_msg_id": "9f1ae666-7f39-41db-91b5-6e6fc3c6cd4a",
+        "type": "message",
+        "text": "Son bastante caretes...no están a mi alcance ahora mismo",
+        "user": "U013QUD0WGL",
+        "ts": "1589800932.177300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "35d135a3b619",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-13\/1144701800592_35d135a3b619bdb23b5b_72.jpg",
+            "first_name": "Anxela",
+            "real_name": "Anxela Caldera Fernández",
+            "display_name": "Anxela Caldera Fernández",
+            "team": "T2Y6L54R3",
+            "name": "anxelacaldera",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "88m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Son bastante caretes...no están a mi alcance ahora mismo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589363819.167900",
+        "parent_user_id": "U013QUD0WGL"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589810823.178000",
+        "user": "U014J8P6T2L",
+        "text": "<@U014J8P6T2L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589869634.178300",
+        "user": "U013ULXQ6HK",
+        "text": "<@U013ULXQ6HK> has joined the channel"
+    }
+]

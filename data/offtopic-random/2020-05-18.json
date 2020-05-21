@@ -1,0 +1,2120 @@
+[
+    {
+        "type": "message",
+        "text": "Por fin llegó :D",
+        "files": [
+            {
+                "id": "F013TTBJXDZ",
+                "created": 1589788488,
+                "timestamp": 1589788488,
+                "name": "IMG_20200518_095358.jpg",
+                "title": "IMG_20200518_095358.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UFW0A1GV8",
+                "editable": false,
+                "size": 1003536,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013TTBJXDZ\/img_20200518_095358.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013TTBJXDZ\/download\/img_20200518_095358.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013TTBJXDZ-3624ba29e0\/img_20200518_095358_64.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013TTBJXDZ-3624ba29e0\/img_20200518_095358_80.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013TTBJXDZ-3624ba29e0\/img_20200518_095358_360.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013TTBJXDZ-3624ba29e0\/img_20200518_095358_480.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013TTBJXDZ-3624ba29e0\/img_20200518_095358_160.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013TTBJXDZ-3624ba29e0\/img_20200518_095358_720.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013TTBJXDZ-3624ba29e0\/img_20200518_095358_800.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013TTBJXDZ-3624ba29e0\/img_20200518_095358_960.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013TTBJXDZ-3624ba29e0\/img_20200518_095358_1024.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSvJdMeE4Hr3quSSck5JoqRYHYA8c0tEOzZGjsjBlJBFW4r0FgJFx6sKh+zP3I\/KoSCCQeoo0YWaNZWDDIwQe4pfwrIDMvAYj6Gl8x\/77fnRYLi1ftTmJc\/SqFXLRv3f0NKWxUNywwwOnWsyYYkb3NakhzjjvWZcf62ktxv4SKiloqzMeadHK0YwuOaQ02luNOxKbmQ+lROxdsnriik70JA22FFFFMR\/9k=",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/UFW0A1GV8\/F013TTBJXDZ\/img_20200518_095358.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013TTBJXDZ-14f45cfe02",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q6z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Por fin llegó :D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UFW0A1GV8",
+        "display_as_bot": false,
+        "ts": "1589788494.480200",
+        "client_msg_id": "9f068e01-3c6f-4644-8aba-13df54ff81ba",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UFW0A1GV8",
+                    "UM4BZ5MPH",
+                    "U6A845RPY",
+                    "UKX69JY1F",
+                    "U35UMTQ6L",
+                    "UEDFE7J07",
+                    "U3S8PPA3S",
+                    "UC58U6AP9",
+                    "U9FGURKJP",
+                    "U36ALHDBQ",
+                    "U7BG5P0H3",
+                    "U88TVKT7V"
+                ],
+                "count": 12
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d342f63-281b-4219-a7b1-994a5bb9ef19",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/Unika_Amapola\/status\/1261777562407231494?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1261777562407231494&amp;ref_url=https%3A%2F%2Fwww.forocoches.com%2Fforo%2Fshowthread.php%3Ft%3D7953857>",
+        "user": "UJKRKCVUN",
+        "ts": "1589797333.481900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g23d054b47d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b23d054b47d4f93caaa352a0b5d56d61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Jake Torra Bigaire",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "jtorra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/Unika_Amapola|@Unika_Amapola>: Comunismo chino parte primera <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1261777385625718790\/pu\/img\/ksQHNbWccfAu9zd8.jpg>",
+                "ts": 1589666188,
+                "author_name": "M@ry&Blonde",
+                "author_link": "https:\/\/twitter.com\/Unika_Amapola\/status\/1261777562407231494",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1262142400992022528\/6CBR9OAm_normal.jpg",
+                "author_subname": "@Unika_Amapola",
+                "text": "Comunismo chino parte primera",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/Unika_Amapola\/status\/1261777562407231494?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1261777562407231494&amp;ref_url=https%3A%2F%2Fwww.forocoches.com%2Fforo%2Fshowthread.php%3Ft%3D7953857",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1261777385625718790\/pu\/img\/ksQHNbWccfAu9zd8.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1261777385625718790\/pu\/img\/ksQHNbWccfAu9zd8.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1261777385625718790\/pu\/vid\/1280x720\/m1-ChF2AvrwnLN0X.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/Unika_Amapola\/status\/1261777562407231494?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1261777562407231494&amp;ref_url=https%3A%2F%2Fwww.forocoches.com%2Fforo%2Fshowthread.php%3Ft%3D7953857",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xPA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/Unika_Amapola\/status\/1261777562407231494?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1261777562407231494&ref_url=https%3A%2F%2Fwww.forocoches.com%2Fforo%2Fshowthread.php%3Ft%3D7953857"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "reply_count": 29,
+        "reply_users_count": 7,
+        "latest_reply": "1589807829.489300",
+        "reply_users": [
+            "U4HCQ4X1S",
+            "UJKRKCVUN",
+            "U326S0XLJ",
+            "U74LQR50X",
+            "UR1V53P2T",
+            "U3FGG385U",
+            "UFW0A1GV8"
+        ],
+        "replies": [
+            {
+                "user": "U4HCQ4X1S",
+                "ts": "1589797740.482600"
+            },
+            {
+                "user": "UJKRKCVUN",
+                "ts": "1589798064.482800"
+            },
+            {
+                "user": "U326S0XLJ",
+                "ts": "1589798156.483000"
+            },
+            {
+                "user": "U74LQR50X",
+                "ts": "1589799413.483300"
+            },
+            {
+                "user": "UR1V53P2T",
+                "ts": "1589800491.483500"
+            },
+            {
+                "user": "U3FGG385U",
+                "ts": "1589800581.483700"
+            },
+            {
+                "user": "U3FGG385U",
+                "ts": "1589800623.483900"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589802774.484300"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589802789.484600"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589802803.484800"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589802820.485000"
+            },
+            {
+                "user": "UR1V53P2T",
+                "ts": "1589802932.485300"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589802982.485500"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589803015.485700"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589803050.485900"
+            },
+            {
+                "user": "UR1V53P2T",
+                "ts": "1589803099.486100"
+            },
+            {
+                "user": "UR1V53P2T",
+                "ts": "1589803133.486300"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589803145.486500"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589803169.486700"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589803238.486900"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589803247.487100"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589803267.487300"
+            },
+            {
+                "user": "UR1V53P2T",
+                "ts": "1589803270.487500"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589803311.487700"
+            },
+            {
+                "user": "UR1V53P2T",
+                "ts": "1589803587.488000"
+            },
+            {
+                "user": "UJKRKCVUN",
+                "ts": "1589805764.488300"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589807772.488600"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589807816.489100"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589807829.489300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U4HCQ4X1S",
+                    "UPR5RC8C9",
+                    "U2Y6KTWRZ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4a5b6a0e-7cf1-4f49-9ebb-ee99729f15ff",
+        "type": "message",
+        "text": "Blackmirror ya lo aviso",
+        "user": "UJKRKCVUN",
+        "ts": "1589797363.482300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g23d054b47d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b23d054b47d4f93caaa352a0b5d56d61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Jake Torra Bigaire",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "jtorra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r8Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Blackmirror ya lo aviso"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04603b48-28de-42c1-ae4d-99bb1febe6b6",
+        "type": "message",
+        "text": "aunque no se que tiene que ver esto con el comunismo igualmente",
+        "user": "U4HCQ4X1S",
+        "ts": "1589797740.482600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g984f08113d1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6984f08113d1647436af46a751dbef08.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Montolio Romo",
+            "display_name": "amontolio",
+            "team": "T2Y6L54R3",
+            "name": "amontolio",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZZV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aunque no se que tiene que ver esto con el comunismo igualmente"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "47908c92-a5ad-4114-83b2-fbc56cc40750",
+        "type": "message",
+        "text": "bueno no es lo importante aquí, evidentemente en  china es mas fácil implementar estas cosas",
+        "user": "UJKRKCVUN",
+        "ts": "1589798064.482800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g23d054b47d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b23d054b47d4f93caaa352a0b5d56d61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Jake Torra Bigaire",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "jtorra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qQ5p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bueno no es lo importante aquí, evidentemente en  china es mas fácil implementar estas cosas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "19752dc0-3767-4af6-acde-5622996131a2",
+        "type": "message",
+        "text": "<@U4HCQ4X1S> pregúntale a @Unika_Amapola en su Twitter, tiene pinta de saber de estas cosas :stuck_out_tongue_winking_eye:",
+        "user": "U326S0XLJ",
+        "ts": "1589798156.483000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7620a01fab04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-15\/909450568838_7620a01fab0467dc0551_72.jpg",
+            "first_name": "Tom",
+            "real_name": "Tom Fenech",
+            "display_name": "tom-fenech",
+            "team": "T2Y6L54R3",
+            "name": "tom-fenech",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JFyz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U4HCQ4X1S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pregúntale a @Unika_Amapola en su Twitter, tiene pinta de saber de estas cosas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue_winking_eye"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U4HCQ4X1S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b0a42dc-fd69-4188-82d1-8db9ed9e9d9f",
+        "type": "message",
+        "text": "bueno aqui, UK, y otros muchos paises tenemos el credit score, que parece lo mismo. El video es un poco sensacionalista",
+        "user": "U74LQR50X",
+        "ts": "1589799413.483300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g7da74d4460f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/07da74d4460f63c75ff0dc3dda8e31c9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Sergi",
+            "real_name": "Sergi Uceda",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "sergi.uceda.santos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yBXQ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bueno aqui, UK, y otros muchos paises tenemos el credit score, que parece lo mismo. El video es un poco sensacionalista"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "c724074b-c170-433f-a70d-965f0b30fe5d",
+        "type": "message",
+        "text": "Amen con lo del credit score, para lo que quieras...",
+        "user": "UR1V53P2T",
+        "ts": "1589800491.483500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g43f1acb23ed",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/43f1acb23ed5db0fe119916ab139a6ab.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Mikel Díez Buil",
+            "display_name": "Mikel Díez Buil",
+            "team": "T2Y6L54R3",
+            "name": "mikeldiezbuil",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cMRE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Amen con lo del credit score, para lo que quieras..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "b4a7c893-7702-46b1-8656-d3c6010c95d4",
+        "type": "message",
+        "text": "hace años que China no es un país comunista. Lo que sí que es es un estado policial. Estando allí tienes recordatorios cada 5 minutos de que no es un país libre (ya sea por una cámara de seguridad, un control de pasaporte, o una página web que no te deja cargar)",
+        "user": "U3FGG385U",
+        "ts": "1589800581.483700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g6eb958d5b21",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6eb958d5b21898e27750571962e0eef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Jordi",
+            "real_name": "Jordi Soucheiron",
+            "display_name": "jordixou",
+            "team": "T2Y6L54R3",
+            "name": "jordixou",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xrjbz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hace años que China no es un país comunista. Lo que sí que es es un estado policial. Estando allí tienes recordatorios cada 5 minutos de que no es un país libre (ya sea por una cámara de seguridad, un control de pasaporte, o una página web que no te deja cargar)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "ae1b08b9-d715-40ce-8846-01c31c44bfa6",
+        "type": "message",
+        "text": "y que conste que no les parece mal del todo a ellos. Eso sí, traed una app de VPN de casa si vais a ir, que allí no se pueden bajar",
+        "user": "U3FGG385U",
+        "ts": "1589800623.483900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g6eb958d5b21",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6eb958d5b21898e27750571962e0eef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Jordi",
+            "real_name": "Jordi Soucheiron",
+            "display_name": "jordixou",
+            "team": "T2Y6L54R3",
+            "name": "jordixou",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sa+Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y que conste que no les parece mal del todo a ellos. Eso sí, traed una app de VPN de casa si vais a ir, que allí no se pueden bajar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN",
+        "reactions": [
+            {
+                "name": "no_mouth",
+                "users": [
+                    "U2Y6KTWRZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "079e6864-53de-4edd-bf17-a33f8e6f6d25",
+        "type": "message",
+        "text": "no es lo mismo lo del credit score",
+        "user": "UFW0A1GV8",
+        "ts": "1589802774.484300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XOrj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no es lo mismo lo del credit score"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "64caf57c-31e8-4b0f-b917-e2425cc3b8a4",
+        "type": "message",
+        "text": "el score de tus amigos y familiares afecta el tuyo",
+        "user": "UFW0A1GV8",
+        "ts": "1589802789.484600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a0M8g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el score de tus amigos y familiares afecta el tuyo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "fabee856-80c4-418a-8627-a6fb20424161",
+        "type": "message",
+        "text": "a menos que avises al gobierno que ya no tenes contacto con ellos",
+        "user": "UFW0A1GV8",
+        "ts": "1589802803.484800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dHekf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a menos que avises al gobierno que ya no tenes contacto con ellos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "d54c13a2-2a09-422d-87b3-22f1664c9cb6",
+        "type": "message",
+        "text": "y afecta a mucho mas que bancos, afecta cosas como el precio que pagas por transporte publico y que servicios te dan",
+        "user": "UFW0A1GV8",
+        "ts": "1589802820.485000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tYV=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y afecta a mucho mas que bancos, afecta cosas como el precio que pagas por transporte publico y que servicios te dan"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "76f1e5f2-902e-4d06-b23a-dcf9dbd84cee",
+        "type": "message",
+        "text": "No esta al mismo nivel en eso creo que todos estamos deacuerdo. Pero el credit score no afecta solo a bancos. Te afecta al conseguir un alquiler o que te permitan pagar algo a plazos por ejemplo una ortodoncia",
+        "user": "UR1V53P2T",
+        "ts": "1589802932.485300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g43f1acb23ed",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/43f1acb23ed5db0fe119916ab139a6ab.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Mikel Díez Buil",
+            "display_name": "Mikel Díez Buil",
+            "team": "T2Y6L54R3",
+            "name": "mikeldiezbuil",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iYe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No esta al mismo nivel en eso creo que todos estamos deacuerdo. Pero el credit score no afecta solo a bancos. Te afecta al conseguir un alquiler o que te permitan pagar algo a plazos por ejemplo una ortodoncia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "5bc585b1-692e-42c9-af73-45babf4ca96f",
+        "type": "message",
+        "text": "es que el credit score es eso, que tan probable es que pagas de vuelta lo que te prestan. Esto es otro nivel completamente",
+        "user": "UFW0A1GV8",
+        "ts": "1589802982.485500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v=H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "es que el credit score es eso, que tan probable es que pagas de vuelta lo que te prestan. Esto es otro nivel completamente"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "1caea5ee-62e5-4676-9ffb-1ae2424f68d6",
+        "type": "message",
+        "text": "y aviso que no me parece mal que haya un credit score, los que llevamos bien las financias pagamos menos porque el banco no tiene que usar un promedio de cuanto cree que vamos a poder pagar",
+        "user": "UFW0A1GV8",
+        "ts": "1589803015.485700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TdE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y aviso que no me parece mal que haya un credit score, los que llevamos bien las financias pagamos menos porque el banco no tiene que usar un promedio de cuanto cree que vamos a poder pagar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "bbf8a7e7-7524-4f07-b900-9d98f41a137c",
+        "type": "message",
+        "text": "afecta a los que perdieron pagos, y se puede volver de eso(ademas de que expira)",
+        "user": "UFW0A1GV8",
+        "ts": "1589803050.485900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I4SC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "afecta a los que perdieron pagos, y se puede volver de eso(ademas de que expira)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "ef5a9465-b4bc-4970-8962-7596eb8e704f",
+        "type": "message",
+        "text": "Cuando te mudas a un pais que lo usa es divertidisimo, como no tienen historial tuyo para hacerte un credit score te lo deniegan todo",
+        "user": "UR1V53P2T",
+        "ts": "1589803099.486100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g43f1acb23ed",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/43f1acb23ed5db0fe119916ab139a6ab.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Mikel Díez Buil",
+            "display_name": "Mikel Díez Buil",
+            "team": "T2Y6L54R3",
+            "name": "mikeldiezbuil",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tNyt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cuando te mudas a un pais que lo usa es divertidisimo, como no tienen historial tuyo para hacerte un credit score te lo deniegan todo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "0b8596e9-07af-4328-952a-a4962a6feb69",
+        "type": "message",
+        "text": "al final es algo que si que afecta a gente que no cumple pero tambien afecta a los más desfavorecidos poniendoles en una situación aún peor",
+        "user": "UR1V53P2T",
+        "ts": "1589803133.486300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g43f1acb23ed",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/43f1acb23ed5db0fe119916ab139a6ab.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Mikel Díez Buil",
+            "display_name": "Mikel Díez Buil",
+            "team": "T2Y6L54R3",
+            "name": "mikeldiezbuil",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zeBWT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "al final es algo que si que afecta a gente que no cumple pero tambien afecta a los más desfavorecidos poniendoles en una situación aún peor"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "e9077fcd-eaa9-42f0-bbe8-c31b531d9492",
+        "type": "message",
+        "text": "es que lo mismo pasa aca y no tenemos ese sistema, con ese sistema los datos se comparten en  vez de cada banco empezarlo de cero",
+        "user": "UFW0A1GV8",
+        "ts": "1589803145.486500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uvv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "es que lo mismo pasa aca y no tenemos ese sistema, con ese sistema los datos se comparten en  vez de cada banco empezarlo de cero"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "69fb5325-d82e-42a2-82b6-93122f8fb0a5",
+        "type": "message",
+        "text": "y construir una historia crediticia empieza desde tener una tarjeta de credito (pagandola siempre)",
+        "user": "UFW0A1GV8",
+        "ts": "1589803169.486700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SdWC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y construir una historia crediticia empieza desde tener una tarjeta de credito (pagandola siempre)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "c4917a4d-36eb-4496-ba64-5dcba8ad6b20",
+        "type": "message",
+        "text": "yo probe apenas llege que interes me darian en un prestamo mimino en openbank y era 26% por 300 euros",
+        "user": "UFW0A1GV8",
+        "ts": "1589803238.486900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pszr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo probe apenas llege que interes me darian en un prestamo mimino en openbank y era 26% por 300 euros"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "ccf4adf6-59e7-47cc-9b67-4030a584be7b",
+        "type": "message",
+        "text": "hice la misma prueba hace un mes y era 10% por la misma cantidad",
+        "user": "UFW0A1GV8",
+        "ts": "1589803247.487100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bl0q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hice la misma prueba hace un mes y era 10% por la misma cantidad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "52286356-17dc-4784-95a4-c119656bc179",
+        "type": "message",
+        "text": "la unica diferencia entre tener un country-wide credit score o que cada banco lo haga es que se comunica mejor esos datos",
+        "user": "UFW0A1GV8",
+        "ts": "1589803267.487300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R2m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la unica diferencia entre tener un country-wide credit score o que cada banco lo haga es que se comunica mejor esos datos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "87ccdba6-3129-4999-ba70-756639ca87ac",
+        "type": "message",
+        "text": "a mi en españa par alquilar un piso nunca me han pasado ningun check crediticio. Y aqui muchas inmobiliarias al llegar se negaron directamente a que alquilase con ellos porque no podían comprobar nada.",
+        "user": "UR1V53P2T",
+        "ts": "1589803270.487500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g43f1acb23ed",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/43f1acb23ed5db0fe119916ab139a6ab.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Mikel Díez Buil",
+            "display_name": "Mikel Díez Buil",
+            "team": "T2Y6L54R3",
+            "name": "mikeldiezbuil",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1+eN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a mi en españa par alquilar un piso nunca me han pasado ningun check crediticio. Y aqui muchas inmobiliarias al llegar se negaron directamente a que alquilase con ellos porque no podían comprobar nada."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "7edffbc7-b22e-41e1-8eda-32c0071f46d1",
+        "type": "message",
+        "text": "En argentina esta el veraz que es el mismo sistema y nadie lo chequea. Aca se cubren con el deposito",
+        "user": "UFW0A1GV8",
+        "ts": "1589803311.487700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "acMSd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En argentina esta el veraz que es el mismo sistema y nadie lo chequea. Aca se cubren con el deposito"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "d34d0c87-46fa-4bbd-8c3f-fc808d8a9a47",
+        "type": "message",
+        "text": "A mi es que me parece que esto lleva a situaciones que hunden más al que tiene menos. Como no podía acceder a todas las inmobiliarias tuve que restringirme a unas pocas, estas obviamente lo saben y te cobran más. Esto a una persona que trabaja en un sector como el nuestro. Y no te ofrecen otras opciones, simplemente te dicen que no. No me quiero imaginar alguien que haya pasado una mala racha (a ver como deja el covid los scores) y encima de estar jodido por un lado le jodan por el otro. Tengo muy poca fe en los bancos xD",
+        "user": "UR1V53P2T",
+        "ts": "1589803587.488000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g43f1acb23ed",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/43f1acb23ed5db0fe119916ab139a6ab.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "",
+            "real_name": "Mikel Díez Buil",
+            "display_name": "Mikel Díez Buil",
+            "team": "T2Y6L54R3",
+            "name": "mikeldiezbuil",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "363",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A mi es que me parece que esto lleva a situaciones que hunden más al que tiene menos. Como no podía acceder a todas las inmobiliarias tuve que restringirme a unas pocas, estas obviamente lo saben y te cobran más. Esto a una persona que trabaja en un sector como el nuestro. Y no te ofrecen otras opciones, simplemente te dicen que no. No me quiero imaginar alguien que haya pasado una mala racha (a ver como deja el covid los scores) y encima de estar jodido por un lado le jodan por el otro. Tengo muy poca fe en los bancos xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "df32d34a-ef8a-4778-8a60-162b3fe930b0",
+        "type": "message",
+        "text": "Totalmente, se crea una discriminación desde el minuto 1",
+        "user": "UJKRKCVUN",
+        "ts": "1589805764.488300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g23d054b47d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b23d054b47d4f93caaa352a0b5d56d61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Jake Torra Bigaire",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "jtorra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S3L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Totalmente, se crea una discriminación desde el minuto 1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "d06a138f-f03c-4eb6-ae72-6ba4ba7c4224",
+        "type": "message",
+        "text": "lo que digo es que esa discriminacion ya existe",
+        "user": "UFW0A1GV8",
+        "ts": "1589807772.488600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hXKko",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo que digo es que esa discriminacion ya existe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "type": "message",
+        "text": "hay que hacer que los chicos vuelen",
+        "files": [
+            {
+                "id": "F013MHJ7V6J",
+                "created": 1589807769,
+                "timestamp": 1589807769,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFW0A1GV8",
+                "editable": false,
+                "size": 501503,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013MHJ7V6J\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013MHJ7V6J\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013MHJ7V6J-32add6abe8\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013MHJ7V6J-32add6abe8\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013MHJ7V6J-32add6abe8\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 287,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013MHJ7V6J-32add6abe8\/image_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 383,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013MHJ7V6J-32add6abe8\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "original_w": 640,
+                "original_h": 510,
+                "thumb_tiny": "AwAmADBFRGGec0vGcbaQOsqHahUgjHPWkYFXViDtzyDwTTRWhKgDAnaKrmcKdpjX3wamtm3o4PJ7fSqyxET7T1AzQSxfP54SpPtJ24KAfSpDahQWyCSPzphiViuRg\/xDNFyS2oC9ABTTN+8CkdehppmGOOarsxMqvwQKC7Mt9OnH0qoARegMDnHQ\/Sp\/NBHGaqNHIz7u\/ruoFY0GcY5KBu3fFV1Ea7y0vJPUHrVbyWJHPNAjKnlWJHcUWFYctwno35U4Tr\/tVTWpBQi+Zlnzl9DTvMHoarinjpQHMyTfkelMLkHHtmlX7oqNv9YP93+tIfO0f\/\/Z",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/UFW0A1GV8\/F013MHJ7V6J\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013MHJ7V6J-be7eb89201",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6aZO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hay que hacer que los chicos vuelen"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UFW0A1GV8",
+        "display_as_bot": false,
+        "ts": "1589807772.488800",
+        "client_msg_id": "531233b0-5c63-49e3-844f-3e236368e659",
+        "thread_ts": "1589807772.488800",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1589810750.490800",
+        "reply_users": [
+            "UUPUNRWKZ",
+            "U2YEH6F88",
+            "U6SF71BFT",
+            "U2YM1G5CM"
+        ],
+        "replies": [
+            {
+                "user": "UUPUNRWKZ",
+                "ts": "1589808009.489500"
+            },
+            {
+                "user": "U2YEH6F88",
+                "ts": "1589808204.489700"
+            },
+            {
+                "user": "U6SF71BFT",
+                "ts": "1589809992.490300"
+            },
+            {
+                "user": "U2YM1G5CM",
+                "ts": "1589810750.490800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "helicopter",
+                "users": [
+                    "U2YEY1745",
+                    "UFW0A1GV8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b410e469-1f63-4567-952c-a241159f5e9b",
+        "type": "message",
+        "text": "pero un credit score para todo el pais vs el que tenga cada banco o inmobiliaria hace que sea mas dificil subirlo, dejandote \"hundido\" mas tiempo",
+        "user": "UFW0A1GV8",
+        "ts": "1589807816.489100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7cgNg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pero un credit score para todo el pais vs el que tenga cada banco o inmobiliaria hace que sea mas dificil subirlo, dejandote \"hundido\" mas tiempo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "6810ae3c-9943-4c50-ab55-c61d12556a4d",
+        "type": "message",
+        "text": "porque no se comunica a todos lados que si estas cumpliendo con pagos, o que tenes pagos",
+        "user": "UFW0A1GV8",
+        "ts": "1589807829.489300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uB3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "porque no se comunica a todos lados que si estas cumpliendo con pagos, o que tenes pagos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589797333.481900",
+        "parent_user_id": "UJKRKCVUN"
+    },
+    {
+        "client_msg_id": "a3e53407-2af8-4ad0-99e5-3afb0231bc34",
+        "type": "message",
+        "text": "mirar este canal es como un filtro de reddit, me gusta!",
+        "user": "UUPUNRWKZ",
+        "ts": "1589808009.489500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "297cb9d26770",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-28\/973663387844_297cb9d2677004e9de43_72.jpg",
+            "first_name": "",
+            "real_name": "Manu Obre",
+            "display_name": "Manu Obre",
+            "team": "T2Y6L54R3",
+            "name": "obregozo.manuel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RIS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mirar este canal es como un filtro de reddit, me gusta!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589807772.488800",
+        "parent_user_id": "UFW0A1GV8",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UCRBKBDNU",
+                    "UFW0A1GV8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d80a5de2-0052-403c-83bd-0373c840c945",
+        "type": "message",
+        "text": "Eso es demasiado old school",
+        "user": "U2YEH6F88",
+        "ts": "1589808204.489700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "80ce59b5a188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-07\/827679219590_80ce59b5a188352488e7_72.jpg",
+            "first_name": "Pau",
+            "real_name": "Pau Bartrina",
+            "display_name": "pau",
+            "team": "T2Y6L54R3",
+            "name": "pau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2YEH6F88",
+            "ts": "1589808211.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vfZWg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Eso es demasiado old school"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589807772.488800",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "8562d0ef-2f97-4ccd-b598-c573e5a05317",
+        "type": "message",
+        "text": "ostras, alejo y valentina, no hace años...",
+        "user": "U6SF71BFT",
+        "ts": "1589809992.490300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gksgU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ostras, alejo y valentina, no hace años..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589807772.488800",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "2ae02339-155b-410f-89d7-72f86893fa6a",
+        "type": "message",
+        "text": "Mirá cómo revoleo las patas!",
+        "user": "U2YM1G5CM",
+        "ts": "1589810750.490800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd6cefe6793b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d6cefe6793bce07335ca4168bc22ba7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Míguez",
+            "display_name": "mrzard",
+            "team": "T2Y6L54R3",
+            "name": "mrzard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "71N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mirá cómo revoleo las patas!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589807772.488800",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589810823.491000",
+        "user": "U014J8P6T2L",
+        "text": "<@U014J8P6T2L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "aparentemente hay un @aqui :joy:",
+        "files": [
+            {
+                "id": "F014JENT2E4",
+                "created": 1589815065,
+                "timestamp": 1589815065,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFW0A1GV8",
+                "editable": false,
+                "size": 417207,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F014JENT2E4\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F014JENT2E4\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F014JENT2E4-719a2b999d\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F014JENT2E4-719a2b999d\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F014JENT2E4-719a2b999d\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 184,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F014JENT2E4-719a2b999d\/image_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 245,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F014JENT2E4-719a2b999d\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F014JENT2E4-719a2b999d\/image_720.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720_w": 367,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F014JENT2E4-719a2b999d\/image_800.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_800_w": 408,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F014JENT2E4-719a2b999d\/image_960.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_960_w": 490,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F014JENT2E4-719a2b999d\/image_1024.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_1024_w": 522,
+                "thumb_1024_h": 1024,
+                "original_w": 653,
+                "original_h": 1280,
+                "thumb_tiny": "AwAwABh7WI4y4GBj7tJ\/ZynpN+S1fYAdOOaaOeh6HHencLlP+zB\/z1P\/AHzR\/ZY\/56n\/AL5q8Fx3p1Fx3IygXJG45OaVQfU0jgDqeWPGaUbuxpCHge+aKQA9zS0AQgtltyHg4BJ604BOpHPuc07IbjOCO1G0etA7sbhSeMj6U7Z\/tN+dGVX60bx6N+VAan\/\/2Q==",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/UFW0A1GV8\/F014JENT2E4\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F014JENT2E4-de028ac28e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Yknv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aparentemente hay un @aqui "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UFW0A1GV8",
+        "display_as_bot": false,
+        "ts": "1589815069.491700",
+        "client_msg_id": "133c0556-4942-4e0c-a2e1-56f2c82ac353",
+        "reactions": [
+            {
+                "name": "question2",
+                "users": [
+                    "U4RAEJQGK",
+                    "UFW0A1GV8",
+                    "U5FS4BH96",
+                    "UUPUNRWKZ"
+                ],
+                "count": 4
+            },
+            {
+                "name": "shrug",
+                "users": [
+                    "U4RAEJQGK",
+                    "U2Y6KTWRZ",
+                    "UFW0A1GV8",
+                    "U5FS4BH96",
+                    "UGVNLB7LL"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1952272a-07ac-4e22-ba23-8d108456cfd5",
+        "type": "message",
+        "text": "<https:\/\/time.com\/5838033\/kansas-city-zoo-humboldt-penguins-nelson-atkins-museum-of-art\/?amp=true&amp;__twitter_impression=true|https:\/\/time.com\/5838033\/kansas-city-zoo-humboldt-penguins-nelson-atkins-museum-of-art\/?amp=true&amp;__twitter_impression=true>",
+        "user": "UDHAZQNF9",
+        "ts": "1589816096.493000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Time",
+                "title": "While Most Museums Remain Closed, 3 Kansas City Penguins Enjoyed a Day of Experiencing Great Works of Art",
+                "title_link": "https:\/\/time.com\/5838033\/kansas-city-zoo-humboldt-penguins-nelson-atkins-museum-of-art\/?amp=true&__twitter_impression=true",
+                "text": "The waddling visitors seemed to be most engaged with the Baroque works",
+                "fallback": "Time: While Most Museums Remain Closed, 3 Kansas City Penguins Enjoyed a Day of Experiencing Great Works of Art",
+                "image_url": "https:\/\/api.time.com\/wp-content\/uploads\/2020\/05\/Penguins-2.jpg?quality=85&w=1024&h=512&crop=1",
+                "image_width": 500,
+                "image_height": 250,
+                "from_url": "https:\/\/time.com\/5838033\/kansas-city-zoo-humboldt-penguins-nelson-atkins-museum-of-art\/?amp=true&__twitter_impression=true",
+                "image_bytes": 148555,
+                "service_icon": "https:\/\/time.com\/img\/favicons\/favicon-57.png",
+                "id": 1,
+                "original_url": "https:\/\/time.com\/5838033\/kansas-city-zoo-humboldt-penguins-nelson-atkins-museum-of-art\/?amp=true&amp;__twitter_impression=true"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lvu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/time.com\/5838033\/kansas-city-zoo-humboldt-penguins-nelson-atkins-museum-of-art\/?amp=true&__twitter_impression=true",
+                                "text": "https:\/\/time.com\/5838033\/kansas-city-zoo-humboldt-penguins-nelson-atkins-museum-of-art\/?amp=true&__twitter_impression=true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UEDFE7J07",
+                    "UTJM0J0UV",
+                    "U2ZS36LQN",
+                    "UDYMW0QH5"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "39bf4e9e-5e03-4273-a868-4571a7b41a5b",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/itsmaeril\/status\/1262090253848006657?s=19|https:\/\/twitter.com\/itsmaeril\/status\/1262090253848006657?s=19>",
+        "user": "U2YM1G5CM",
+        "ts": "1589822535.493900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd6cefe6793b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d6cefe6793bce07335ca4168bc22ba7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Míguez",
+            "display_name": "mrzard",
+            "team": "T2Y6L54R3",
+            "name": "mrzard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/itsmaeril|@itsmaeril>: Me: *writes something wrong*\nCode: *follows what I wrote and crashes*\nMe: how dare you",
+                "ts": 1589740739,
+                "author_name": "Maeril",
+                "author_link": "https:\/\/twitter.com\/itsmaeril\/status\/1262090253848006657",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1261835464580968449\/xONe_r78_normal.jpg",
+                "author_subname": "@itsmaeril",
+                "text": "Me: *writes something wrong*\nCode: *follows what I wrote and crashes*\nMe: how dare you",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/itsmaeril\/status\/1262090253848006657?s=19",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/itsmaeril\/status\/1262090253848006657?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XJ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/itsmaeril\/status\/1262090253848006657?s=19",
+                                "text": "https:\/\/twitter.com\/itsmaeril\/status\/1262090253848006657?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c87d9e6a-6373-41b1-aad9-1e2b65c72193",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=k3S5bHEcmeg>",
+        "user": "UFW0A1GV8",
+        "ts": "1589834271.494500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Marbula E Race 2 \"Seoul\" - Marble Race by Jelle's Marble Runs &amp; Formula E",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=k3S5bHEcmeg",
+                "author_name": "Jelle's Marble Runs",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCYJdpnjuSWVOLgGT9fIzL0g",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/k3S5bHEcmeg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Marbula E Race 2 \"Seoul\" - Marble Race by Jelle's Marble Runs & Formula E",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/k3S5bHEcmeg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=k3S5bHEcmeg",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=k3S5bHEcmeg"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xXX8z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=k3S5bHEcmeg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UFW0A1GV8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589869634.495000",
+        "user": "U013ULXQ6HK",
+        "text": "<@U013ULXQ6HK> has joined the channel"
+    }
+]

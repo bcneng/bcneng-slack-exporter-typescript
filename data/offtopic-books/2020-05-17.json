@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "b2544567-756c-4339-a852-cebd4dc94f82",
+        "type": "message",
+        "text": "al final he hecho esto <@U5FS4BH96> <https:\/\/gitlab.com\/jpallares\/myclippings-to-markdown>, para luego poderlo poner en Jekyll facil <https:\/\/juan.pallares.me\/books\/>",
+        "user": "UEE9HD3U0",
+        "ts": "1589720086.030500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "237bb36ef632",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-04\/494651261748_237bb36ef6329156ba22_72.jpg",
+            "first_name": "Juan",
+            "real_name": "Juan Pallarès",
+            "display_name": "juan",
+            "team": "T2Y6L54R3",
+            "name": "juan134",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitLab",
+                "title": "Juan Pallarès \/ MyClippings to Markdown",
+                "title_link": "https:\/\/gitlab.com\/jpallares\/myclippings-to-markdown",
+                "text": "<http:\/\/GitLab.com|GitLab.com>",
+                "fallback": "GitLab: Juan Pallarès \/ MyClippings to Markdown",
+                "thumb_url": "https:\/\/assets.gitlab-static.net\/assets\/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+                "from_url": "https:\/\/gitlab.com\/jpallares\/myclippings-to-markdown",
+                "thumb_width": 128,
+                "thumb_height": 128,
+                "service_icon": "https:\/\/assets.gitlab-static.net\/assets\/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+                "id": 1,
+                "original_url": "https:\/\/gitlab.com\/jpallares\/myclippings-to-markdown"
+            },
+            {
+                "service_name": "Juan Pallarès Garbí",
+                "title": "Books",
+                "title_link": "https:\/\/juan.pallares.me\/books\/",
+                "text": "Landing page.",
+                "fallback": "Juan Pallarès Garbí: Books",
+                "thumb_url": "https:\/\/juan.pallares.me\/images\/Untitled.png",
+                "from_url": "https:\/\/juan.pallares.me\/books\/",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/juan.pallares.me\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/juan.pallares.me\/books\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cu7S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "al final he hecho esto "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U5FS4BH96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gitlab.com\/jpallares\/myclippings-to-markdown"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", para luego poderlo poner en Jekyll facil "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/juan.pallares.me\/books\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588249972.025300",
+        "parent_user_id": "U5FS4BH96",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U5FS4BH96"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

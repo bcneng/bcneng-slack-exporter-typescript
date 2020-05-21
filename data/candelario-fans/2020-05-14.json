@@ -1,0 +1,126 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589461663.029800",
+        "user": "U2Y5FEY1H",
+        "text": "<@U2Y5FEY1H> has joined the channel",
+        "reactions": [
+            {
+                "name": "hug",
+                "users": [
+                    "U36H6F3CN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589482761.030000",
+        "user": "U8QMJ1DUH",
+        "text": "<@U8QMJ1DUH> has joined the channel"
+    },
+    {
+        "client_msg_id": "08fff086-ce82-4c2b-8047-cd10e0983bd5",
+        "type": "message",
+        "text": "<@UJNQU8N5Q> candebirthday",
+        "user": "U36H6F3CN",
+        "ts": "1589525301.030600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vhq7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJNQU8N5Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " candebirthday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "BJNQBKGJF",
+        "type": "message",
+        "text": ":birthday: 125 days until <@U36H6F3CN> birthday! :birthday:",
+        "user": "UJNQU8N5Q",
+        "ts": "1589525301.030700",
+        "team": "T2Y6L54R3",
+        "bot_profile": {
+            "id": "BJNQBKGJF",
+            "deleted": false,
+            "name": "Candebot",
+            "updated": 1558820403,
+            "app_id": "AK22THGCF",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2019-05-25\/634885518034_68b9e6615588d0cf48f6_36.jpg",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2019-05-25\/634885518034_68b9e6615588d0cf48f6_48.jpg",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-25\/634885518034_68b9e6615588d0cf48f6_72.jpg"
+            },
+            "team_id": "T2Y6L54R3"
+        }
+    },
+    {
+        "client_msg_id": "f964adfe-6b3d-478a-a917-9b22d45b66ef",
+        "type": "message",
+        "text": ":eyes:",
+        "user": "U7BG5P0H3",
+        "ts": "1589525781.031200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "181ed0498e5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-02\/249542169600_181ed0498e5d0017edab_72.jpg",
+            "first_name": "Luis",
+            "real_name": "Luis Tacón",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "luis824",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HOr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

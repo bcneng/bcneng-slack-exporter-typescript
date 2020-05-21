@@ -1,0 +1,592 @@
+[
+    {
+        "client_msg_id": "546c0f79-b645-4d58-9b88-c3aa64ffb97c",
+        "type": "message",
+        "text": "Buenas,\nHe acabado con el MVP y me gustaria probar el site con real data, alguien tiene algun repo con la informacion o alguien puede exportarla?",
+        "user": "UBHPY3L5C",
+        "ts": "1589986990.029600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g95db1b08f53",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b95db1b08f53f475bd9c24ff2ee9aa15.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alejandro",
+            "real_name": "Alejandro",
+            "display_name": "Alejandro",
+            "team": "T2Y6L54R3",
+            "name": "alexdelamo06",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YdYJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Buenas,\nHe acabado con el MVP y me gustaria probar el site con real data, alguien tiene algun repo con la informacion o alguien puede exportarla?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6d7f6f04-83ff-400d-a0b4-afe8db080bf0",
+        "type": "message",
+        "text": "<@U2WPLA0KA> <@U2Y6QQHST>",
+        "user": "UFW0A1GV8",
+        "ts": "1589987739.030000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ao",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2WPLA0KA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2Y6QQHST"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dffe296c-80e9-4b6d-98e0-18a5157cc392",
+        "type": "message",
+        "text": "<@UBHPY3L5C> que es exactamente lo que necesitas?",
+        "user": "U2WPLA0KA",
+        "ts": "1589991337.030600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uaY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UBHPY3L5C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " que es exactamente lo que necesitas?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589991337.030600",
+        "reply_count": 22,
+        "reply_users_count": 3,
+        "latest_reply": "1590059076.040400",
+        "reply_users": [
+            "UBHPY3L5C",
+            "U2WPLA0KA",
+            "UFW0A1GV8"
+        ],
+        "replies": [
+            {
+                "user": "UBHPY3L5C",
+                "ts": "1589992041.031300"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589992571.031600"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589992618.031800"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589992639.032000"
+            },
+            {
+                "user": "UBHPY3L5C",
+                "ts": "1589996253.032200"
+            },
+            {
+                "user": "UBHPY3L5C",
+                "ts": "1590006962.032400"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1590051528.032700"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1590054714.032900"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1590054728.033100"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1590055269.033300"
+            },
+            {
+                "user": "UBHPY3L5C",
+                "ts": "1590056186.033500"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1590056370.033700"
+            },
+            {
+                "user": "UBHPY3L5C",
+                "ts": "1590057399.034200"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1590057420.034500"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1590057431.034700"
+            },
+            {
+                "user": "UBHPY3L5C",
+                "ts": "1590057942.035000"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1590058038.035300"
+            },
+            {
+                "user": "UBHPY3L5C",
+                "ts": "1590058706.036200"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1590058774.036700"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1590058784.036900"
+            },
+            {
+                "user": "UBHPY3L5C",
+                "ts": "1590059046.039100"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1590059076.040400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "72b70f23-13f3-4011-b479-268753a8f8b4",
+        "type": "message",
+        "text": "el export de datos de Slack?",
+        "user": "U2WPLA0KA",
+        "ts": "1589991345.030900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5=M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el export de datos de Slack?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d60e9243-e121-4353-aed0-b453fc053568",
+        "type": "message",
+        "text": "Donde esta el MVP?",
+        "user": "U2WPLA0KA",
+        "ts": "1589991348.031100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2WPLA0KA",
+            "ts": "1589991349.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZN7a2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Donde esta el MVP?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ac7eb44-a833-4a2d-8925-7149ff383285",
+        "type": "message",
+        "text": "Si, el exporter \n<https:\/\/slack.com\/intl\/es-la\/help\/articles\/201658943-Exportar-los-datos-de-tu-espacio-de-trabajo|https:\/\/slack.com\/intl\/es-la\/help\/articles\/201658943-Exportar-los-datos-de-tu-espacio-de-trabajo>\n\nEl MVP lo tengo en un repo mío",
+        "user": "UBHPY3L5C",
+        "ts": "1589992041.031300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g95db1b08f53",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b95db1b08f53f475bd9c24ff2ee9aa15.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alejandro",
+            "real_name": "Alejandro",
+            "display_name": "Alejandro",
+            "team": "T2Y6L54R3",
+            "name": "alexdelamo06",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Slack Help Center",
+                "title": "Exportar los datos de tu espacio de trabajo",
+                "title_link": "https:\/\/slack.com\/intl\/es-la\/help\/articles\/201658943-Exportar-los-datos-de-tu-espacio-de-trabajo",
+                "text": "Slack ofrece dos opciones para exportar los datos de un espacio de trabajo: Exportación estándar y Exportación corporativa. Exportación estándarIndependientemente de su plan, todos los prop...",
+                "fallback": "Slack Help Center: Exportar los datos de tu espacio de trabajo",
+                "thumb_url": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/slack_hash_256.png",
+                "from_url": "https:\/\/slack.com\/intl\/es-la\/help\/articles\/201658943-Exportar-los-datos-de-tu-espacio-de-trabajo",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/meta\/favicon-32.png",
+                "id": 1,
+                "original_url": "https:\/\/slack.com\/intl\/es-la\/help\/articles\/201658943-Exportar-los-datos-de-tu-espacio-de-trabajo"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R1V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si, el exporter \n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/slack.com\/intl\/es-la\/help\/articles\/201658943-Exportar-los-datos-de-tu-espacio-de-trabajo",
+                                "text": "https:\/\/slack.com\/intl\/es-la\/help\/articles\/201658943-Exportar-los-datos-de-tu-espacio-de-trabajo"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEl MVP lo tengo en un repo mío"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589991337.030600",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "b13480b4-d64f-4617-97d0-0332a952f7bf",
+        "type": "message",
+        "text": "Puedes transferirlo a la org de bcneng somehow?",
+        "user": "U2WPLA0KA",
+        "ts": "1589992571.031600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wFgSu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Puedes transferirlo a la org de bcneng somehow?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589991337.030600",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "f94a32a5-98e9-4a11-b3d2-037c25aff4a3",
+        "type": "message",
+        "text": "dame tu username de github. Ya tenemos un team bajo nuestra org para el project del exporter.",
+        "user": "U2WPLA0KA",
+        "ts": "1589992618.031800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lAv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dame tu username de github. Ya tenemos un team bajo nuestra org para el project del exporter."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589991337.030600",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "fe43e096-17b2-413a-b9ff-e897bb57d064",
+        "type": "message",
+        "text": "En el cual esta <@UN6S9CCGH> y <@UFW0A1GV8>",
+        "user": "U2WPLA0KA",
+        "ts": "1589992639.032000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sJIhV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En el cual esta "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UN6S9CCGH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " y "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UFW0A1GV8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589991337.030600",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "1b68289a-72f8-47a5-9d87-7419abcc938a",
+        "type": "message",
+        "text": "alexon1234",
+        "user": "UBHPY3L5C",
+        "ts": "1589996253.032200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g95db1b08f53",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b95db1b08f53f475bd9c24ff2ee9aa15.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alejandro",
+            "real_name": "Alejandro",
+            "display_name": "Alejandro",
+            "team": "T2Y6L54R3",
+            "name": "alexdelamo06",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UeBY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alexon1234"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589991337.030600",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "52984609-24e4-4f10-b61e-46f7ae4b4221",
+        "type": "message",
+        "text": "He transaferido el repositorio a `bcneng`",
+        "user": "UBHPY3L5C",
+        "ts": "1590006962.032400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g95db1b08f53",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b95db1b08f53f475bd9c24ff2ee9aa15.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "Alejandro",
+            "real_name": "Alejandro",
+            "display_name": "Alejandro",
+            "team": "T2Y6L54R3",
+            "name": "alexdelamo06",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7X=Qs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He transaferido el repositorio a "
+                            },
+                            {
+                                "type": "text",
+                                "text": "bcneng",
+                                "style": {
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589991337.030600",
+        "parent_user_id": "U2WPLA0KA"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "client_msg_id": "ba454508-26da-4355-80d5-21eaad029325",
+        "type": "message",
+        "text": "lots of gopls :heart: <https:\/\/github.com\/fatih\/vim-go\/blob\/v1.23\/CHANGELOG.md>",
+        "user": "U2Y6QQHST",
+        "ts": "1589708829.165800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2Y6QQHST",
+            "ts": "1589709526.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "fatih\/vim-go",
+                "title_link": "https:\/\/github.com\/fatih\/vim-go\/blob\/v1.23\/CHANGELOG.md",
+                "text": "Go development plugin for Vim. Contribute to fatih\/vim-go development by creating an account on GitHub.",
+                "fallback": "GitHub: fatih\/vim-go",
+                "from_url": "https:\/\/github.com\/fatih\/vim-go\/blob\/v1.23\/CHANGELOG.md",
+                "thumb_url": "https:\/\/repository-images.githubusercontent.com\/18062944\/b9a5f600-6347-11e9-84b9-d1e7569edb83",
+                "thumb_width": 500,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/fatih\/vim-go\/blob\/v1.23\/CHANGELOG.md"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O9OrI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lots of gopls "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/fatih\/vim-go\/blob\/v1.23\/CHANGELOG.md"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589708829.165800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589709665.166100",
+        "reply_users": [
+            "U2Y6QQHST"
+        ],
+        "replies": [
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589709665.166100"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1589709665.166100"
+    },
+    {
+        "client_msg_id": "e5987192-52c5-4c1a-aeed-b88bccff2adb",
+        "type": "message",
+        "text": "btw I update gopls with this script <https:\/\/gist.github.com\/gonzaloserrano\/0822cc31fe27791acf54b6c11041d59c>",
+        "user": "U2Y6QQHST",
+        "ts": "1589709665.166100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2Y6QQHST",
+            "ts": "1589709670.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HcnKZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "btw I update gopls with this script "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gist.github.com\/gonzaloserrano\/0822cc31fe27791acf54b6c11041d59c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589708829.165800",
+        "parent_user_id": "U2Y6QQHST"
+    }
+]

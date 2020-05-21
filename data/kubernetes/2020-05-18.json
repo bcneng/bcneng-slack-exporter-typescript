@@ -1,0 +1,293 @@
+[
+    {
+        "client_msg_id": "90a1680c-1c14-4449-8e7c-759f7d612d08",
+        "type": "message",
+        "text": "Hola. Tengo una duda sobre ingress controllers y grpc server streams. Honestamente, no sé si esta pregunta va aquí. En caso de no ser así, estaría muy agradecido si me pudierais redirigir al channel adecuado.\nLa cuestión es que tenemos un servicio gRPC que ofrece una server stream rpc. Este server stream ha de permanecer abierto mientras el cliente gRPC (en este caso es una app móvil) esté conectado. El problema que sucede es que entre medio del servidor gRPC y el cliente gRPC hay un ingress controller (NGINX) con una configuración que, en caso de ver un server stream inactivo (idle) durante 60segs, lo cierra. Desafortunadamente y por razones que no vienen al caso, la configuración del ingress controller (en concreto la de los timeouts del grpc) no la podemos cambiar.\nHe visto problemas similares por foros de Internet y parecía que la solución era activar el keep alive de http2 para que el server stream no estuviera idle, pero al ingress controller le da igual y lo cierra igual. De momento y para salir del paso, hemos implementado un keep alive casero a nivel grpc que va enviando info cada x segundos, para que el server stream esté activo, pero me gustaría evitar esto.\nAlguien ha estado en un escenario similar o puede arrojar luz sobre este tema? Gracias y perdonad por la turra.",
+        "user": "U2X2D7R8Q",
+        "ts": "1589822838.215800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "d1149958f8c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-21\/964739846231_d1149958f8c10ccd4c25_72.jpg",
+            "first_name": "Toledoom",
+            "real_name": "Toledoom",
+            "display_name": "Toledoom",
+            "team": "T2Y6L54R3",
+            "name": "toledoom",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y4DT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola. Tengo una duda sobre ingress controllers y grpc server streams. Honestamente, no sé si esta pregunta va aquí. En caso de no ser así, estaría muy agradecido si me pudierais redirigir al channel adecuado.\nLa cuestión es que tenemos un servicio gRPC que ofrece una server stream rpc. Este server stream ha de permanecer abierto mientras el cliente gRPC (en este caso es una app móvil) esté conectado. El problema que sucede es que entre medio del servidor gRPC y el cliente gRPC hay un ingress controller (NGINX) con una configuración que, en caso de ver un server stream inactivo (idle) durante 60segs, lo cierra. Desafortunadamente y por razones que no vienen al caso, la configuración del ingress controller (en concreto la de los timeouts del grpc) no la podemos cambiar.\nHe visto problemas similares por foros de Internet y parecía que la solución era activar el keep alive de http2 para que el server stream no estuviera idle, pero al ingress controller le da igual y lo cierra igual. De momento y para salir del paso, hemos implementado un keep alive casero a nivel grpc que va enviando info cada x segundos, para que el server stream esté activo, pero me gustaría evitar esto.\nAlguien ha estado en un escenario similar o puede arrojar luz sobre este tema? Gracias y perdonad por la turra."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589822838.215800",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1589885974.221700",
+        "reply_users": [
+            "U2WPNDKA4",
+            "U30B8KQVB",
+            "U2X2D7R8Q",
+            "U3DPLBVQE"
+        ],
+        "replies": [
+            {
+                "user": "U2WPNDKA4",
+                "ts": "1589823403.215900"
+            },
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589825596.216100"
+            },
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589825603.216300"
+            },
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589825618.216500"
+            },
+            {
+                "user": "U2X2D7R8Q",
+                "ts": "1589871464.217500"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589875681.217800"
+            },
+            {
+                "user": "U2X2D7R8Q",
+                "ts": "1589885974.221700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7102011e-4d1d-4116-b9f9-45c428ea9880",
+        "type": "message",
+        "text": "estais conectados al cluster directamente o tenéis un load balancer delante o algo?",
+        "user": "U2WPNDKA4",
+        "ts": "1589823403.215900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4dc9526d3ce1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-29\/162282075078_4dc9526d3ce15ee71b5d_72.jpg",
+            "first_name": "Alberto",
+            "real_name": "Alberto Fernández",
+            "display_name": "albertofem",
+            "team": "T2Y6L54R3",
+            "name": "albertofem",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5rZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "estais conectados al cluster directamente o tenéis un load balancer delante o algo?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589822838.215800",
+        "parent_user_id": "U2X2D7R8Q"
+    },
+    {
+        "client_msg_id": "d66ea44c-35f3-4512-835c-62fb9fbb3ad1",
+        "type": "message",
+        "text": "Simpre puedes montar otro ingress controller",
+        "user": "U30B8KQVB",
+        "ts": "1589825596.216100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RdRt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Simpre puedes montar otro ingress controller"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589822838.215800",
+        "parent_user_id": "U2X2D7R8Q"
+    },
+    {
+        "client_msg_id": "cd7ae19d-ce46-4e51-baa6-2cdc7eab158c",
+        "type": "message",
+        "text": "definirle otro ingress class",
+        "user": "U30B8KQVB",
+        "ts": "1589825603.216300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "efM+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "definirle otro ingress class"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589822838.215800",
+        "parent_user_id": "U2X2D7R8Q"
+    },
+    {
+        "client_msg_id": "e973d4c5-e793-4fb4-acdf-0babf3547262",
+        "type": "message",
+        "text": "y adaptarlo a las necesidades de ese backend",
+        "user": "U30B8KQVB",
+        "ts": "1589825618.216500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mj4zX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y adaptarlo a las necesidades de ese backend"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589822838.215800",
+        "parent_user_id": "U2X2D7R8Q"
+    },
+    {
+        "client_msg_id": "b6a12feb-6bbb-4ecd-8bf8-40313e2fc475",
+        "type": "message",
+        "text": "<@U2WPNDKA4> hay un elb delante del ingress controller. Hasta donde yo sé, la infra sería algo parecido a esto: elb -&gt; ingress controller -&gt; envoy -&gt; gRPC service (Tanto el envoy como el gRPC service están dentro de un pod)\n<@U30B8KQVB> creo que también estamos limitados a un ingress controller. Y digo creo porque el cluster de kubernetes no lo gestiono yo.\nBásicamente estoy buscando una manera de que el ingress controller no cierre el server stream sin tener que estar enviando un mensaje periódicamente. Pensaba que el keep alive ya lo hacía, pero parece que no.",
+        "user": "U2X2D7R8Q",
+        "ts": "1589871464.217500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "d1149958f8c1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-21\/964739846231_d1149958f8c10ccd4c25_72.jpg",
+            "first_name": "Toledoom",
+            "real_name": "Toledoom",
+            "display_name": "Toledoom",
+            "team": "T2Y6L54R3",
+            "name": "toledoom",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wiI=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2WPNDKA4"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hay un elb delante del ingress controller. Hasta donde yo sé, la infra sería algo parecido a esto: elb -> ingress controller -> envoy -> gRPC service (Tanto el envoy como el gRPC service están dentro de un pod)\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U30B8KQVB"
+                            },
+                            {
+                                "type": "text",
+                                "text": " creo que también estamos limitados a un ingress controller. Y digo creo porque el cluster de kubernetes no lo gestiono yo.\nBásicamente estoy buscando una manera de que el ingress controller no cierre el server stream sin tener que estar enviando un mensaje periódicamente. Pensaba que el keep alive ya lo hacía, pero parece que no."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589822838.215800",
+        "parent_user_id": "U2X2D7R8Q"
+    }
+]

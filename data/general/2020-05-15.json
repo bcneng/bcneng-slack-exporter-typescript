@@ -1,0 +1,742 @@
+[
+    {
+        "client_msg_id": "a7ba492b-1314-43a7-aa2c-bf84b463115e",
+        "type": "message",
+        "text": "so true!!!! congrats!",
+        "user": "UEDFE7J07",
+        "ts": "1589526418.349700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T4r0=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "so true!!!! congrats!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L",
+        "reactions": [
+            {
+                "name": "ty",
+                "users": [
+                    "U36UNRM4N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1881d8e-35fb-40f6-b196-3cf29109b023",
+        "type": "message",
+        "text": "Sorry to ask, but there is no mention around the LOPD (and I think it is mandatory to include something about it).\nAlso, I think you should describe who is the responsible and who will handle and save this data (Bcneng as an organization? only a person who created the form?)\nAlso I think you are asking questions about health, be careful, this data is declared as _HIGH_ in the LOPD and I don’t know if Google Forms is valid for that kind of sensible data (this data should be handled with extremely care, etc)",
+        "user": "U30H5NBSB",
+        "ts": "1589526421.349900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "e2828b44875a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-08\/101988839813_e2828b44875ae0c7cbb0_72.jpg",
+            "first_name": "Nacho",
+            "real_name": "Nacho Cougil",
+            "display_name": "nacho",
+            "team": "T2Y6L54R3",
+            "name": "nacho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gIrGl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sorry to ask, but there is no mention around the LOPD (and I think it is mandatory to include something about it).\nAlso, I think you should describe who is the responsible and who will handle and save this data (Bcneng as an organization? only a person who created the form?)\nAlso I think you are asking questions about health, be careful, this data is declared as "
+                            },
+                            {
+                                "type": "text",
+                                "text": "HIGH",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " in the LOPD and I don’t know if Google Forms is valid for that kind of sensible data (this data should be handled with extremely care, etc)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589526727.350100",
+        "user": "U014154HF97",
+        "text": "<@U014154HF97> has joined the channel"
+    },
+    {
+        "client_msg_id": "16a096b6-4f82-4f94-a709-758072adf5c6",
+        "type": "message",
+        "text": "The info there is not PII, there is no way to identify the person, so the LOPD\/GDPR\/etc doesn't really apply. No ids, and no links to your profile, email, whatever.\nThe only exception is if, in \"Location\" (text field), someone could write something like \"_I'm John Doe and my DNI is 123456789A_\".\n\n&gt; *Personal data*, also known as *personal information* or *personally identifiable information (PII)* is any information relating to an identifiable person.\n&gt; Personal data is defined under the GDPR as \"any information which [is] related to an *identified or identifiable* natural person\".\n&gt; <https:\/\/en.wikipedia.org\/wiki\/Personally_identifiable_information>",
+        "user": "U36UNRM4N",
+        "ts": "1589527574.350400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaa15c3f6948",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aa15c3f6948e5977fa9c0ebbc923aeb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "David",
+            "real_name": "David Arcos",
+            "display_name": "david.arcos",
+            "team": "T2Y6L54R3",
+            "name": "david.arcos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36UNRM4N",
+            "ts": "1589527579.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gqYOT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The info there is not PII, there is no way to identify the person, so the LOPD\/GDPR\/etc doesn't really apply. No ids, and no links to your profile, email, whatever.\nThe only exception is if, in \"Location\" (text field), someone could write something like \""
+                            },
+                            {
+                                "type": "text",
+                                "text": "I'm John Doe and my DNI is 123456789A",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\".\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Personal data",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", also known as "
+                            },
+                            {
+                                "type": "text",
+                                "text": "personal information",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " or "
+                            },
+                            {
+                                "type": "text",
+                                "text": "personally identifiable information (PII) ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "is any information relating to an identifiable person.\nPersonal data is defined under the GDPR as \"any information which [is] related to an "
+                            },
+                            {
+                                "type": "text",
+                                "text": "identified or identifiable",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " natural person\".\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/en.wikipedia.org\/wiki\/Personally_identifiable_information"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "a89cba8d-02fb-4927-a51a-6e619a0cf21e",
+        "type": "message",
+        "text": "PII is not only directly identifiable information according to GDPR, indirectly identifiable information(which even includes things like gender) are pieces of data that be correlated with other indirectly identifiable information to narrow down to a person",
+        "user": "UFW0A1GV8",
+        "ts": "1589527898.350800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NFk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PII is not only directly identifiable information according to GDPR, indirectly identifiable information(which even includes things like gender) are pieces of data that be correlated with other indirectly identifiable information to narrow down to a person"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "f55b90d6-2abf-4317-839a-314ec6953fe9",
+        "type": "message",
+        "text": "Las preguntas han sido revisadas por un abogado.",
+        "user": "U2WPLA0KA",
+        "ts": "1589529318.351000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "egfw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Las preguntas han sido revisadas por un abogado."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "34b6128e-151c-400b-a651-84219a91e225",
+        "type": "message",
+        "text": "Pero si de verdad tenéis dudas, no respondáis. Y si quereis dar feedback, please <#C2YUDTUDD|offtopic-staff> o email a <mailto:bcnengineers@gmail.com|bcnengineers@gmail.com>",
+        "user": "U2WPLA0KA",
+        "ts": "1589529374.351200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8\/d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pero si de verdad tenéis dudas, no respondáis. Y si quereis dar feedback, please "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C2YUDTUDD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " o email a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:bcnengineers@gmail.com",
+                                "text": "bcnengineers@gmail.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "fa88bb12-8787-410a-951c-657ff1e65cc7",
+        "type": "message",
+        "text": "Mil gracias :ty:",
+        "user": "U2WPLA0KA",
+        "ts": "1589529394.351400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bBt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mil gracias "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ty"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "c9894a4d-e9d5-4e75-ae8a-0254b98a11e2",
+        "type": "message",
+        "text": "yo he cambiado de curro durante la pandemia, tiene sentido que conteste o distorsionará los resultados?",
+        "user": "U2YKVTT5L",
+        "ts": "1589535056.351700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "411ba6019306",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-07\/884869458243_411ba60193065c6339a6_72.jpg",
+            "first_name": "Vicent",
+            "real_name": "Vicent Soria",
+            "display_name": "vicent",
+            "team": "T2Y6L54R3",
+            "name": "vicentsoria",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UlDy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo he cambiado de curro durante la pandemia, tiene sentido que conteste o distorsionará los resultados?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L",
+        "reactions": [
+            {
+                "name": "high-five",
+                "users": [
+                    "U36UNRM4N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c87c4fb3-54d7-4547-a45c-561790f89296",
+        "type": "message",
+        "text": "feel free, todo esto es solo para ayudar a la comunidad y ver como nos va a todos en general, no pasa nada si la respuesta no es 100% precisa :slightly_smiling_face: hasta te lo podrias inventar todo ! :slightly_smiling_face:",
+        "user": "U7PQZMZ4L",
+        "ts": "1589535138.351900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rnh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "feel free, todo esto es solo para ayudar a la comunidad y ver como nos va a todos en general, no pasa nada si la respuesta no es 100% precisa "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hasta te lo podrias inventar todo ! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "a555521c-ea6e-4fa6-b994-e3febee6f65f",
+        "type": "message",
+        "text": "bueno, si respondo no es para inventarme nada, es por ayudar, :joy:",
+        "user": "U2YKVTT5L",
+        "ts": "1589535213.352100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "411ba6019306",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-07\/884869458243_411ba60193065c6339a6_72.jpg",
+            "first_name": "Vicent",
+            "real_name": "Vicent Soria",
+            "display_name": "vicent",
+            "team": "T2Y6L54R3",
+            "name": "vicentsoria",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q3p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bueno, si respondo no es para inventarme nada, es por ayudar, "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U3256HZH9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44d8f2d3-758f-4372-ae6e-d3ef4aea178f",
+        "type": "message",
+        "text": "muchas gracias, responde lo que veas que se ajusta mas a la realidad sin preocuparte demasiado, al final todo es pura estadistica y las respuestas se diluyen entre el total",
+        "user": "U7PQZMZ4L",
+        "ts": "1589535297.352300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3D=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "muchas gracias, responde lo que veas que se ajusta mas a la realidad sin preocuparte demasiado, al final todo es pura estadistica y las respuestas se diluyen entre el total"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589537232.353000",
+        "user": "U0142SPE1B3",
+        "text": "<@U0142SPE1B3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589537889.353200",
+        "user": "U014E46RRB2",
+        "text": "<@U014E46RRB2> has joined the channel"
+    },
+    {
+        "client_msg_id": "11571354-b455-4777-895e-535c55938d76",
+        "type": "message",
+        "text": "Si me equivoco la puedo volver a hacer?:smirk:",
+        "user": "UKVNV1U8M",
+        "ts": "1589541042.353400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "c73c6ff4f217",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1126605920211_c73c6ff4f217449d4728_72.jpg",
+            "first_name": "",
+            "real_name": "Rvl",
+            "display_name": "Rvl",
+            "team": "T2Y6L54R3",
+            "name": "r.garridodiaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x4eW1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si me equivoco la puedo volver a hacer?"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smirk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "U7PQZMZ4L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c3b8986-dbcf-4223-b88e-ff47ccdb91de",
+        "type": "message",
+        "text": "La veces que quieras, no se guarda ni email, ni IP , ni nada de nada.",
+        "user": "U7PQZMZ4L",
+        "ts": "1589541943.353700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "12EuX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La veces que quieras, no se guarda ni email, ni IP , ni nada de nada."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "b7f18633-775e-47fc-8464-5a675f196b97",
+        "type": "message",
+        "text": "convocando a los troles ehhhh",
+        "user": "UEDFE7J07",
+        "ts": "1589542040.353900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uTiKE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "convocando a los troles ehhhh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589543122.354100",
+        "user": "U013QEG342F",
+        "text": "<@U013QEG342F> has joined the channel"
+    }
+]

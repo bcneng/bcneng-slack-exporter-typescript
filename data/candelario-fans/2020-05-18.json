@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "27ab412d-9623-4db5-998a-987d21b5e53f",
+        "type": "message",
+        "text": "<@UJNQU8N5Q> candebirthday",
+        "user": "U2YEY1745",
+        "ts": "1589796290.036500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "787b16a5d201",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-11\/994247683317_787b16a5d2013bc6fbc9_72.jpg",
+            "first_name": "Roger",
+            "real_name": "Roger Clotet",
+            "display_name": "rogerclotet",
+            "team": "T2Y6L54R3",
+            "name": "rogerclotet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EVL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UJNQU8N5Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " candebirthday"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "bot_id": "BJNQBKGJF",
+        "type": "message",
+        "text": ":birthday: 122 days until <@U36H6F3CN> birthday! :birthday:",
+        "user": "UJNQU8N5Q",
+        "ts": "1589796290.036600",
+        "team": "T2Y6L54R3",
+        "bot_profile": {
+            "id": "BJNQBKGJF",
+            "deleted": false,
+            "name": "Candebot",
+            "updated": 1558820403,
+            "app_id": "AK22THGCF",
+            "icons": {
+                "image_36": "https:\/\/avatars.slack-edge.com\/2019-05-25\/634885518034_68b9e6615588d0cf48f6_36.jpg",
+                "image_48": "https:\/\/avatars.slack-edge.com\/2019-05-25\/634885518034_68b9e6615588d0cf48f6_48.jpg",
+                "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-25\/634885518034_68b9e6615588d0cf48f6_72.jpg"
+            },
+            "team_id": "T2Y6L54R3"
+        }
+    }
+]

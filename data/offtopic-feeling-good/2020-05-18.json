@@ -1,0 +1,186 @@
+[
+    {
+        "client_msg_id": "eb49a18b-e293-4a4c-9c7a-a03858a66db6",
+        "type": "message",
+        "text": "in-house?",
+        "user": "U40KDVDQF",
+        "ts": "1589791957.128900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "66700131c09f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-24\/186611189392_66700131c09f32aa413e_72.jpg",
+            "first_name": "Álvaro",
+            "real_name": "Álvaro Salvá",
+            "display_name": "redbaron",
+            "team": "T2Y6L54R3",
+            "name": "redbaron",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9oM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "in-house?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627393.128500",
+        "parent_user_id": "UN6S9CCGH"
+    },
+    {
+        "client_msg_id": "a59b1de6-9865-431f-8bb3-a51941d8e284",
+        "type": "message",
+        "text": "Sí, un workshop interno, que va siendo hora de darle un remeneo a todo el backend. Y todos los memes que estoy usando tienen su contrapartida real que me ha pasado aquí.",
+        "user": "UN6S9CCGH",
+        "ts": "1589791996.129100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UN6S9CCGH",
+            "ts": "1589792018.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c5DOG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sí, un workshop interno, que va siendo hora de darle un remeneo a todo el backend. Y todos los memes que estoy usando tienen su contrapartida real que me ha pasado aquí."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627393.128500",
+        "parent_user_id": "UN6S9CCGH",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-4",
+                "users": [
+                    "U40KDVDQF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37e071c2-c628-468a-bfb5-aef560bdd89d",
+        "type": "message",
+        "text": "el mas importante es el de: In my devel it works, but in production doesn’t",
+        "user": "U32L364NL",
+        "ts": "1589796790.129500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gc0ff3b33c59",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2c0ff3b33c5906b7fc611bbc76843e80.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Elliot",
+            "real_name": "Elliot Morales",
+            "display_name": "elliotmoso",
+            "team": "T2Y6L54R3",
+            "name": "elliotmoso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0SNrA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el mas importante es el de: In my devel it works, but in production doesn’t"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627393.128500",
+        "parent_user_id": "UN6S9CCGH"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F013M7MPW8N",
+                "created": 1589796853,
+                "timestamp": 1589796853,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UN6S9CCGH",
+                "editable": false,
+                "size": 480051,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013M7MPW8N\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013M7MPW8N\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013M7MPW8N-d61a5b4f72\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013M7MPW8N-d61a5b4f72\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013M7MPW8N-d61a5b4f72\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 260,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013M7MPW8N-d61a5b4f72\/image_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 346,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013M7MPW8N-d61a5b4f72\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "original_w": 422,
+                "original_h": 585,
+                "thumb_tiny": "AwAwACLNBwQR1FW0md2OOBTFspWzgpxjvT1s50cD5Pm\/2qTC4YLyAOx2j0HU0+ULGgaME\/Ng5p6xygj7gLcD5vT\/APVUrxSOMYX\/AL6oGtiqetFKY2BIJHHvSbD6ikIiAG7IPFTMB8vyZIXqBSLBlAd6c\/7VOWNsFfNjBHTDUwiPtsGXbkZPJBq5JNHFwQCR7VmCAl95liwD\/e54qWWB2cnzY\/xagCz9th\/55n\/vmj7bD\/zzP\/fNZbMVYjIODjik3mgC6IP723qB1pr2yZ+Xj8M1JhSctIMn0zxTf3e3JlA+uaLEldkRZghGeMnAp5iaRc7yR6UjQrw7XC5PsalRI8\/61SPbNFiuhD9mb0pPszelTkKCe\/50fL7\/AJ07CP\/Z",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/UN6S9CCGH\/F013M7MPW8N\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013M7MPW8N-24d96cca40",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UN6S9CCGH",
+        "display_as_bot": false,
+        "ts": "1589796856.129700",
+        "client_msg_id": "25c31e88-c91b-4e0b-b379-955db6d65b3d",
+        "thread_ts": "1589627393.128500",
+        "parent_user_id": "UN6S9CCGH"
+    }
+]

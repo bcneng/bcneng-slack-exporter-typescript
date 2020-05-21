@@ -1,0 +1,2383 @@
+[
+    {
+        "client_msg_id": "55413837-d776-489e-8073-3b00d8673538",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/blockfolio\/status\/1262175586937720832>",
+        "user": "U57NW5K7T",
+        "ts": "1589871634.304500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/blockfolio|@blockfolio>: The Federal Reserve Chairman, \"We print money digitally. As a central bank, we have the ability to create money.\" <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1262175058413457409\/pu\/img\/McaD_LPPp8t0XooP.jpg>",
+                "ts": 1589761084,
+                "author_name": "Blockfolio",
+                "author_link": "https:\/\/twitter.com\/blockfolio\/status\/1262175586937720832",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1052694236053757952\/wcfxl0GO_normal.jpg",
+                "author_subname": "@blockfolio",
+                "text": "The Federal Reserve Chairman, \"We print money digitally. As a central bank, we have the ability to create money.\"",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/blockfolio\/status\/1262175586937720832",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1262175058413457409\/pu\/img\/McaD_LPPp8t0XooP.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1262175058413457409\/pu\/img\/McaD_LPPp8t0XooP.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1262175058413457409\/pu\/vid\/1280x720\/ITYTKBg6_NYxn3re.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/blockfolio\/status\/1262175586937720832",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N96M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/blockfolio\/status\/1262175586937720832"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589871634.304500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589872064.307900",
+        "reply_users": [
+            "U57NW5K7T"
+        ],
+        "replies": [
+            {
+                "user": "U57NW5K7T",
+                "ts": "1589872064.307900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "c6c86b68-1b48-4676-b6bc-e89f06abcd03",
+        "type": "message",
+        "text": "De todos modos, llevan la mayoría de mercados un mes en lateral, el SP entre 2700 y 2980. Una semana se caen, tocan suelo, suben, tocan techo, caen…. A la que haya un catalizador, o se hunde o se dispara.",
+        "user": "U57NW5K7T",
+        "ts": "1589871996.307200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U57NW5K7T",
+            "ts": "1589873841.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j9\/8=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De todos modos, llevan la mayoría de mercados un mes en lateral, el SP entre 2700 y 2980. Una semana se caen, tocan suelo, suben, tocan techo, caen…. A la que haya un catalizador, o se hunde o se dispara."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F013W4CFYCS",
+                "created": 1589872013,
+                "timestamp": 1589872013,
+                "name": "Screenshot 2020-05-19 at 09.06.49.png",
+                "title": "Screenshot 2020-05-19 at 09.06.49.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U57NW5K7T",
+                "editable": false,
+                "size": 402390,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013W4CFYCS\/screenshot_2020-05-19_at_09.06.49.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013W4CFYCS\/download\/screenshot_2020-05-19_at_09.06.49.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013W4CFYCS-fabb2a8ee3\/screenshot_2020-05-19_at_09.06.49_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013W4CFYCS-fabb2a8ee3\/screenshot_2020-05-19_at_09.06.49_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013W4CFYCS-fabb2a8ee3\/screenshot_2020-05-19_at_09.06.49_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 213,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013W4CFYCS-fabb2a8ee3\/screenshot_2020-05-19_at_09.06.49_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 284,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013W4CFYCS-fabb2a8ee3\/screenshot_2020-05-19_at_09.06.49_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013W4CFYCS-fabb2a8ee3\/screenshot_2020-05-19_at_09.06.49_720.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720_w": 720,
+                "thumb_720_h": 426,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013W4CFYCS-fabb2a8ee3\/screenshot_2020-05-19_at_09.06.49_800.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 473,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013W4CFYCS-fabb2a8ee3\/screenshot_2020-05-19_at_09.06.49_960.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_960_w": 960,
+                "thumb_960_h": 567,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013W4CFYCS-fabb2a8ee3\/screenshot_2020-05-19_at_09.06.49_1024.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 605,
+                "original_w": 2944,
+                "original_h": 1740,
+                "thumb_tiny": "AwAcADDRAweMUuOaRgc\/LwT3pQck+3WgApaTvRmgBc0ZpuaCxzgDmgBe9NLAP7d6CvPejaKBgGycjkUqgYx1pNoGKNooEO7UMAeDTdo96ULzQB\/\/2Q==",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U57NW5K7T\/F013W4CFYCS\/screenshot_2020-05-19_at_09.06.49.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013W4CFYCS-55144efb60",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U57NW5K7T",
+        "display_as_bot": false,
+        "ts": "1589872017.307300",
+        "client_msg_id": "28472c6c-d694-4035-a285-0aaf964b1e6f"
+    },
+    {
+        "client_msg_id": "7ea4e8cb-1139-4811-b540-190a576e873f",
+        "type": "message",
+        "text": "<https:\/\/cointelegraph.com\/news\/fed-chair-we-have-the-ability-to-create-money-digitally>",
+        "user": "U57NW5K7T",
+        "ts": "1589872064.307900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Cointelegraph",
+                "title": "Fed Chair: ‘We Have the Ability to Create Money Digitally’",
+                "title_link": "https:\/\/cointelegraph.com\/news\/fed-chair-we-have-the-ability-to-create-money-digitally",
+                "text": "Fed Chair Jerome Powell said the bank has flooded the economy with money and would continue lending programs for as long as they’re needed",
+                "fallback": "Cointelegraph: Fed Chair: ‘We Have the Ability to Create Money Digitally’",
+                "image_url": "https:\/\/s3.cointelegraph.com\/storage\/uploads\/view\/7029d8216fdac42f345d1bf1fa4e14c7.jpg",
+                "from_url": "https:\/\/cointelegraph.com\/news\/fed-chair-we-have-the-ability-to-create-money-digitally",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 240164,
+                "service_icon": "https:\/\/cointelegraph.com\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/cointelegraph.com\/news\/fed-chair-we-have-the-ability-to-create-money-digitally"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h=9ZX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/cointelegraph.com\/news\/fed-chair-we-have-the-ability-to-create-money-digitally"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589871634.304500",
+        "parent_user_id": "U57NW5K7T"
+    },
+    {
+        "client_msg_id": "19f88958-63f7-4dbc-b811-0c826d8f2462",
+        "type": "message",
+        "text": "me mola ver como al final todos nos damos cuenta de que no tenemos ni idea de que va a hacer el mercado, y que esta crisis lo ha demostrado otra vez más",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589875220.308900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNId",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me mola ver como al final todos nos damos cuenta de que no tenemos ni idea de que va a hacer el mercado, y que esta crisis lo ha demostrado otra vez más"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UEDFE7J07",
+                    "U9SLAAAPM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40c1f640-927c-4811-bd67-2a190b216a8a",
+        "type": "message",
+        "text": "no se podía saber :slightly_smiling_face:",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589875224.309200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gbP6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no se podía saber "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9cc8c53e-3623-4e05-a557-d67db3340dc5",
+        "type": "message",
+        "text": "Yo sigo pensando que en algún momento se caerá xD",
+        "user": "U57NW5K7T",
+        "ts": "1589875260.309700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0EHxj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo sigo pensando que en algún momento se caerá xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b77cafda-5ff5-4e78-844a-fc088a01acac",
+        "type": "message",
+        "text": "También te digo que la declaración de Powell es bastante dura y las consecuencias de crear dinero a este ritmo no se saben muy bien.",
+        "user": "U57NW5K7T",
+        "ts": "1589875317.311300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Gh5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "También te digo que la declaración de Powell es bastante dura y las consecuencias de crear dinero a este ritmo no se saben muy bien."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3dd524f0-5794-461e-aa41-06c4f02c2ed1",
+        "type": "message",
+        "text": "si, mi yo irracional que cree que puede adivinar el futuro tambien cree que puede bajar\npor suerte mi yo racional con las inversiones automatizadas ya montadas de antes de todo esto ya se documentó antes y montó un sistema para que mi yo irracional no tenga mucha influencia",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589875346.312200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j5D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si, mi yo irracional que cree que puede adivinar el futuro tambien cree que puede bajar\npor suerte mi yo racional con las inversiones automatizadas ya montadas de antes de todo esto ya se documentó antes y montó un sistema para que mi yo irracional no tenga mucha influencia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "UEE9HD3U0"
+                ],
+                "count": 1
+            },
+            {
+                "name": "100",
+                "users": [
+                    "U57NW5K7T",
+                    "UCRBKBDNU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UCRBKBDNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b33cb58f-ac34-4a74-aa38-d6effad8a9f7",
+        "type": "message",
+        "text": "Y ahora mismo es un mercado que genera mucha desconfianza, que suba o que baje depende de que una farmacéutica diga algo, un tweet de trump o una declaración de Powell.",
+        "user": "U57NW5K7T",
+        "ts": "1589875383.312700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IOq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y ahora mismo es un mercado que genera mucha desconfianza, que suba o que baje depende de que una farmacéutica diga algo, un tweet de trump o una declaración de Powell."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c061f69-33fa-4a38-9f69-7095200fc887",
+        "type": "message",
+        "text": "una cosa es lo que opinamos y la otra lo q ejecutamos xD pero yo no tengo una gran confianza en q cuando la economia se ponga en marcha y la gente gaste la mitad (o porque no tiene seguridad o porque no puede) esto continue igual, Que la bolsa ha subido unica y exclusivamente pq este señor se ha puesto a imprimir a destajo no tranquiliza mucho...",
+        "user": "U2YMTLRUK",
+        "ts": "1589876004.316400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "20eaf1beee13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-06\/787244573575_20eaf1beee131c747920_72.jpg",
+            "first_name": "Joan",
+            "real_name": "Joan",
+            "display_name": "mezod",
+            "team": "T2Y6L54R3",
+            "name": "mezod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xn3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "una cosa es lo que opinamos y la otra lo q ejecutamos xD pero yo no tengo una gran confianza en q cuando la economia se ponga en marcha y la gente gaste la mitad (o porque no tiene seguridad o porque no puede) esto continue igual, Que la bolsa ha subido unica y exclusivamente pq este señor se ha puesto a imprimir a destajo no tranquiliza mucho..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0968e40b-61ea-4d98-a1a8-08d07998416e",
+        "type": "message",
+        "text": "Falta por ver como acaban los números del paro con la reapertura, falta ver que empresas van a quebrar, falta ver la foto de la deuda pública de los estados, falta ver que pasará con el turismo del que tanto dependen muchos países, la industria del automóvil ha caído en picado y con el impacto económico no creo que muchos salgan a comprar un coche si no es por necesidad, falta ver si hay rebrotes ahora que se van abriendo los confinamientos, nadie sabe si en Octubre volveremos otra vez a la casilla de salida, y así un largo etcétera de incertidumbres.",
+        "user": "U57NW5K7T",
+        "ts": "1589876361.320600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qWxdG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Falta por ver como acaban los números del paro con la reapertura, falta ver que empresas van a quebrar, falta ver la foto de la deuda pública de los estados, falta ver que pasará con el turismo del que tanto dependen muchos países, la industria del automóvil ha caído en picado y con el impacto económico no creo que muchos salgan a comprar un coche si no es por necesidad, falta ver si hay rebrotes ahora que se van abriendo los confinamientos, nadie sabe si en Octubre volveremos otra vez a la casilla de salida, y así un largo etcétera de incertidumbres."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ace18a23-8b92-46d8-9053-a11955bc696e",
+        "type": "message",
+        "text": "Que al final lo mejor es olvidarse como dice Gerard, pues quizás es posible por salud mental xD",
+        "user": "U57NW5K7T",
+        "ts": "1589876387.321200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RWJj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Que al final lo mejor es olvidarse como dice Gerard, pues quizás es posible por salud mental xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9851ff3-9b9d-4346-b58e-2a1282975aca",
+        "type": "message",
+        "text": "<https:\/\/www.bloomberg.com\/news\/articles\/2020-05-18\/over-100-million-in-china-s-northeast-thrown-back-under-lockdown>",
+        "user": "U2YMTLRUK",
+        "ts": "1589876483.321800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "20eaf1beee13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-06\/787244573575_20eaf1beee131c747920_72.jpg",
+            "first_name": "Joan",
+            "real_name": "Joan",
+            "display_name": "mezod",
+            "team": "T2Y6L54R3",
+            "name": "mezod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Bloomberg.com",
+                "title": "Over 100 Million in China’s Northeast Face Renewed Lockdown",
+                "title_link": "https:\/\/www.bloomberg.com\/news\/articles\/2020-05-18\/over-100-million-in-china-s-northeast-thrown-back-under-lockdown",
+                "text": "Some 108 million people in China’s northeast region are being plunged back under lockdown conditions as a new and growing cluster of infections causes a backslide in the nation’s return to normal.",
+                "fallback": "Bloomberg.com: Over 100 Million in China’s Northeast Face Renewed Lockdown",
+                "image_url": "https:\/\/assets.bwbx.io\/images\/users\/iqjWHBFdfxIU\/ihiMplk48K6U\/v0\/1200x800.jpg",
+                "from_url": "https:\/\/www.bloomberg.com\/news\/articles\/2020-05-18\/over-100-million-in-china-s-northeast-thrown-back-under-lockdown",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 142202,
+                "service_icon": "https:\/\/assets.bwbx.io\/s3\/javelin\/public\/javelin\/images\/favicon-black-63fe5249d3.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bloomberg.com\/news\/articles\/2020-05-18\/over-100-million-in-china-s-northeast-thrown-back-under-lockdown"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VPDC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.bloomberg.com\/news\/articles\/2020-05-18\/over-100-million-in-china-s-northeast-thrown-back-under-lockdown"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2fe1217b-28e3-43df-b92c-89371394be04",
+        "type": "message",
+        "text": "Pero bueno, al final es la estrategia que he decidido y la seguiré hasta el final.",
+        "user": "U57NW5K7T",
+        "ts": "1589876491.322200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tmjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pero bueno, al final es la estrategia que he decidido y la seguiré hasta el final."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a862a9c-af3a-455b-9a3b-2d042cb610bc",
+        "type": "message",
+        "text": "Ya he visto, y Corea también.",
+        "user": "U57NW5K7T",
+        "ts": "1589876507.322700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vM8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ya he visto, y Corea también."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43362b3d-1fbf-4e7b-8557-0408a50cc2d7",
+        "type": "message",
+        "text": "Y no quiero decir que los Españoles no seamos conscientes del problema, pero vamos, visto lo visto con las reaperturas. Me sorprendería que no batiéramos otro record del mundo en país que consigue el rebrote más rápido del mundo.",
+        "user": "U57NW5K7T",
+        "ts": "1589876566.324000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q5Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y no quiero decir que los Españoles no seamos conscientes del problema, pero vamos, visto lo visto con las reaperturas. Me sorprendería que no batiéramos otro record del mundo en país que consigue el rebrote más rápido del mundo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa5008ec-a47f-4101-b5bc-21d12e1da722",
+        "type": "message",
+        "text": "ayer la barceloneta era un buen caldo para el covid parece",
+        "user": "U2YMTLRUK",
+        "ts": "1589876606.324400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "20eaf1beee13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-06\/787244573575_20eaf1beee131c747920_72.jpg",
+            "first_name": "Joan",
+            "real_name": "Joan",
+            "display_name": "mezod",
+            "team": "T2Y6L54R3",
+            "name": "mezod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E4Xr+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ayer la barceloneta era un buen caldo para el covid parece"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "198bed20-c06d-462b-8f7a-0eee05eeb294",
+        "type": "message",
+        "text": "Pues estamos en fase 0,3141",
+        "user": "U57NW5K7T",
+        "ts": "1589876684.325800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aljae",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pues estamos en fase 0,3141"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F013WEMQHT5",
+                "created": 1589876717,
+                "timestamp": 1589876717,
+                "name": "telegram-cloud-document-4-5918070200623696229.mp4",
+                "title": "telegram-cloud-document-4-5918070200623696229.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U57NW5K7T",
+                "editable": false,
+                "size": 1811255,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013WEMQHT5\/telegram-cloud-document-4-5918070200623696229.mp4?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013WEMQHT5\/download\/telegram-cloud-document-4-5918070200623696229.mp4?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WEMQHT5-806db7c2e3\/telegram-cloud-document-4-5918070200623696229_thumb_video.jpeg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U57NW5K7T\/F013WEMQHT5\/telegram-cloud-document-4-5918070200623696229.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013WEMQHT5-b21451ed58",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U57NW5K7T",
+        "display_as_bot": false,
+        "ts": "1589876718.326200",
+        "client_msg_id": "352ac43b-4919-4e33-a162-b95cef47d9e3"
+    },
+    {
+        "client_msg_id": "972cda00-4a60-4547-9f71-cca3b44bafae",
+        "type": "message",
+        "text": "aunque es verdad que la reducción de casos es sorprendentemente positiva, o los trabajadores \"esenciales\" con más riesgo de contagio ya tienen herd immunity y nos estan haciendo de barrera a todos o el calor ha hecho su trabajo y noviembre sera otro bloodbath",
+        "user": "U2YMTLRUK",
+        "ts": "1589876722.326600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "20eaf1beee13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-06\/787244573575_20eaf1beee131c747920_72.jpg",
+            "first_name": "Joan",
+            "real_name": "Joan",
+            "display_name": "mezod",
+            "team": "T2Y6L54R3",
+            "name": "mezod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lq+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aunque es verdad que la reducción de casos es sorprendentemente positiva, o los trabajadores \"esenciales\" con más riesgo de contagio ya tienen herd immunity y nos estan haciendo de barrera a todos o el calor ha hecho su trabajo y noviembre sera otro bloodbath"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e590fc21-e714-430a-8c10-3fd0de6a1b21",
+        "type": "message",
+        "text": "cada vez q veo esos videos, me pregunto si la mejor inversión no es una casita en un pueblo a 100km de todo con 4 gallinas y un huerto xD",
+        "user": "U2YMTLRUK",
+        "ts": "1589876805.328700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "20eaf1beee13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-06\/787244573575_20eaf1beee131c747920_72.jpg",
+            "first_name": "Joan",
+            "real_name": "Joan",
+            "display_name": "mezod",
+            "team": "T2Y6L54R3",
+            "name": "mezod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DlSyF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cada vez q veo esos videos, me pregunto si la mejor inversión no es una casita en un pueblo a 100km de todo con 4 gallinas y un huerto xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UCRBKBDNU",
+                    "UN56V9KED",
+                    "U38SUJJV7"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60955503-4cc0-4666-b2bf-31de2d5d8407",
+        "type": "message",
+        "text": "No tengo claro que el calor afecte mucho, al final mira la expansión del virus en países sudamericanos que tienen climas cálidos",
+        "user": "U57NW5K7T",
+        "ts": "1589876823.329000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kznCv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No tengo claro que el calor afecte mucho, al final mira la expansión del virus en países sudamericanos que tienen climas cálidos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589876823.329000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1589877362.339600",
+        "reply_users": [
+            "U2YMTLRUK",
+            "U57NW5K7T"
+        ],
+        "replies": [
+            {
+                "user": "U2YMTLRUK",
+                "ts": "1589877318.339200"
+            },
+            {
+                "user": "U57NW5K7T",
+                "ts": "1589877362.339600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0c6f7b3a-5799-420b-91e0-1624db4a422e",
+        "type": "message",
+        "text": "lo que no tienen que olvidar es que todo esto el mercado ya lo tenia en el precio, por eso la caida tan grande",
+        "user": "UFW0A1GV8",
+        "ts": "1589876838.329400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wnRvy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo que no tienen que olvidar es que todo esto el mercado ya lo tenia en el precio, por eso la caida tan grande"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0fa8e3c-c207-4eff-bec3-70f453fc50ee",
+        "type": "message",
+        "text": "por lo que cada noticia positiva lo hace subir",
+        "user": "UFW0A1GV8",
+        "ts": "1589876845.329700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ERCe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "por lo que cada noticia positiva lo hace subir"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0905ab29-6994-489d-869b-c77aeb164a6b",
+        "type": "message",
+        "text": "La caída ha sido bastante pequeña para la crisis que tenemos encima",
+        "user": "U57NW5K7T",
+        "ts": "1589876880.330200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8G2f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La caída ha sido bastante pequeña para la crisis que tenemos encima"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f4e757af-0682-42d5-92ca-51ecc59185ea",
+        "type": "message",
+        "text": "No es normal que la mayoría de indices estén en valores de finales de 2019",
+        "user": "U57NW5K7T",
+        "ts": "1589876898.330700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TTUam",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No es normal que la mayoría de indices estén en valores de finales de 2019"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "36281a81-654f-4384-9605-1652bb481ff0",
+        "type": "message",
+        "text": "O que los índinces americanos estén en positivo este año ya",
+        "user": "U57NW5K7T",
+        "ts": "1589876915.331400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "71si",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "O que los índinces americanos estén en positivo este año ya"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "01d9413a-6518-4ff3-8202-143676dbf736",
+        "type": "message",
+        "text": "Es simplemente absurdo",
+        "user": "U57NW5K7T",
+        "ts": "1589876921.331700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N6mU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Es simplemente absurdo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f587cf99-618f-4e77-b01e-d043b702e4e7",
+        "type": "message",
+        "text": "la caida no fue pequena, todo parece peor desde aca",
+        "user": "UFW0A1GV8",
+        "ts": "1589876922.331800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bhD2w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la caida no fue pequena, todo parece peor desde aca"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a38c6e6-57dd-466c-803d-3ab4d4da760e",
+        "type": "message",
+        "text": "hay que pensar que la mayoria de las caidas son temporales y con una fecha mas o menos cierta de cuando se va a levantar",
+        "user": "UFW0A1GV8",
+        "ts": "1589876939.332300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6nW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hay que pensar que la mayoria de las caidas son temporales y con una fecha mas o menos cierta de cuando se va a levantar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5de3b542-7c23-4190-9d32-b7ecfa4a83eb",
+        "type": "message",
+        "text": "al contrario de otras recesiones",
+        "user": "UFW0A1GV8",
+        "ts": "1589876942.332600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cttr6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "al contrario de otras recesiones"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22047619-315f-4551-aff1-9b71e3184e2c",
+        "type": "message",
+        "text": "el nivel de desempleo por ejemplo, aca en espana deberiamos estar igual, pero el ERTE esconde eso",
+        "user": "UFW0A1GV8",
+        "ts": "1589876962.333300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rFvR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el nivel de desempleo por ejemplo, aca en espana deberiamos estar igual, pero el ERTE esconde eso"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c2cb36c-dc87-48e9-8973-c60f561149f0",
+        "type": "message",
+        "text": "al igual que muchisima gente la van a recontratar en USA apenas se abra",
+        "user": "UFW0A1GV8",
+        "ts": "1589876973.333700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ogTIL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "al igual que muchisima gente la van a recontratar en USA apenas se abra"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1b5a933-f447-4e94-9428-dbb6bf4e3b57",
+        "type": "message",
+        "text": "Pero es que si aún no ha empezado la recesión per sé,",
+        "user": "U57NW5K7T",
+        "ts": "1589876976.333800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hMw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pero es que si aún no ha empezado la recesión per sé,"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77e0a4a2-0af5-4754-8cc3-140950026756",
+        "type": "message",
+        "text": "Ahora son estimaciones de PIB y GDP",
+        "user": "U57NW5K7T",
+        "ts": "1589877000.334500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b6Efh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahora son estimaciones de PIB y GDP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f36ff5c7-0e45-44b0-baa8-5c2eadc29a1b",
+        "type": "message",
+        "text": "En cuanto se reabra la economía y se vea que empresas quedan y cuales quiebran, que pasa con la deuda pública, como afectan las restricciones a los negocios, como queda el mercado inmobiliario, como queda el poder adquisitivo de los consumidores, como quedan las cifras de paro y un largo etcétera",
+        "user": "U57NW5K7T",
+        "ts": "1589877059.336000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vCv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En cuanto se reabra la economía y se vea que empresas quedan y cuales quiebran, que pasa con la deuda pública, como afectan las restricciones a los negocios, como queda el mercado inmobiliario, como queda el poder adquisitivo de los consumidores, como quedan las cifras de paro y un largo etcétera"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7040ff18-11e2-4f8c-badd-9747a5ad92bd",
+        "type": "message",
+        "text": "Entonces es cuando se verá el impacto de la crisis y la recesión que vendrá",
+        "user": "U57NW5K7T",
+        "ts": "1589877072.336400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zn9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Entonces es cuando se verá el impacto de la crisis y la recesión que vendrá"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73b9df98-2998-4d45-951a-fb63f57534e5",
+        "type": "message",
+        "text": "De todos modos, nadie sabe qué pasará y todos son conjeturas. Si la bolsa fuera predecible, todos serían ricos.",
+        "user": "U57NW5K7T",
+        "ts": "1589877270.338400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ztJtI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "De todos modos, nadie sabe qué pasará y todos son conjeturas. Si la bolsa fuera predecible, todos serían ricos."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce7c7076-a9e8-413c-8bad-9ba06063b0c7",
+        "type": "message",
+        "text": "Y el SP ha subido porque el 25%  del índice son las FAANG",
+        "user": "U57NW5K7T",
+        "ts": "1589877297.338900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "laEQy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y el SP ha subido porque el 25%  del índice son las FAANG"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "79467826-1d83-4cc4-b511-0d423c572896",
+        "type": "message",
+        "text": "yo tampoco, era una forma de decir que no enntiendo que hayamos pasado de estar pillandolo todos hace 3 meses a que ahora no lo pille ni cristo",
+        "user": "U2YMTLRUK",
+        "ts": "1589877318.339200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "20eaf1beee13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-06\/787244573575_20eaf1beee131c747920_72.jpg",
+            "first_name": "Joan",
+            "real_name": "Joan",
+            "display_name": "mezod",
+            "team": "T2Y6L54R3",
+            "name": "mezod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oq7Nk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo tampoco, era una forma de decir que no enntiendo que hayamos pasado de estar pillandolo todos hace 3 meses a que ahora no lo pille ni cristo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589876823.329000",
+        "parent_user_id": "U57NW5K7T"
+    },
+    {
+        "client_msg_id": "42bd941b-7e21-46ab-9bd8-ad8c178ba1b7",
+        "type": "message",
+        "text": "Lo veremos en 15 días",
+        "user": "U57NW5K7T",
+        "ts": "1589877362.339600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xq+1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lo veremos en 15 días"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589876823.329000",
+        "parent_user_id": "U57NW5K7T",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UEDFE7J07",
+                    "UCRBKBDNU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "857e109b-030c-4423-a817-04debc4303be",
+        "type": "message",
+        "text": "Es un caso extremo, pero mira los bancos del IBEX lo recuperados que están y eso que aún no ha venido la oleada de morosidad que se espera.",
+        "user": "U57NW5K7T",
+        "ts": "1589877410.340400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RET",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Es un caso extremo, pero mira los bancos del IBEX lo recuperados que están y eso que aún no ha venido la oleada de morosidad que se espera."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F013WFBCQLB",
+                "created": 1589877414,
+                "timestamp": 1589877414,
+                "name": "IBEX_BANK.jpeg",
+                "title": "IBEX_BANK.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U57NW5K7T",
+                "editable": false,
+                "size": 54652,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013WFBCQLB\/ibex_bank.jpeg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013WFBCQLB\/download\/ibex_bank.jpeg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WFBCQLB-c3bd514c0b\/ibex_bank_64.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WFBCQLB-c3bd514c0b\/ibex_bank_80.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WFBCQLB-c3bd514c0b\/ibex_bank_360.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 137,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WFBCQLB-c3bd514c0b\/ibex_bank_480.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 182,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WFBCQLB-c3bd514c0b\/ibex_bank_160.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "original_w": 705,
+                "original_h": 268,
+                "thumb_tiny": "AwASADDRccZwCfemIG6uiAdsGnv1pf4aAEGFPAAzS5FIfuil\/i\/CgBC4GMDOaAwI9Kaeo\/Ghf6mgBzUD7tDUD7tAB2FL\/FSdhS96AIZyQowcc0sPMYJ55NNuPuj606D\/AFY+poGf\/9k=",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U57NW5K7T\/F013WFBCQLB\/ibex_bank.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013WFBCQLB-9ac2539d3e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U57NW5K7T",
+        "display_as_bot": false,
+        "ts": "1589877415.340500",
+        "client_msg_id": "0c8f52e1-27b5-470f-ac53-d8f84042addc"
+    },
+    {
+        "client_msg_id": "1f07461c-6562-450a-abfc-fa1e78844c44",
+        "type": "message",
+        "text": "Warren Buffett en estas semanas ha vendido la gran parte de sus acciones de bancos y aerolíneas, y ha vivido ya unas cuantas crisis.",
+        "user": "U57NW5K7T",
+        "ts": "1589877495.341700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y=l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Warren Buffett en estas semanas ha vendido la gran parte de sus acciones de bancos y aerolíneas, y ha vivido ya unas cuantas crisis."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64583d5c-0721-4a2a-ae5d-4c1e72b66179",
+        "type": "message",
+        "text": "la mayoria de los prestamistas y bancos ya se preparon para la oleada de morosidad",
+        "user": "UFW0A1GV8",
+        "ts": "1589877690.342100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Yl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la mayoria de los prestamistas y bancos ya se preparon para la oleada de morosidad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "218a4316-1214-4bc5-be45-62b422cc41b7",
+        "type": "message",
+        "text": "source: trabajo en uno",
+        "user": "UFW0A1GV8",
+        "ts": "1589877693.342400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4v=H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "source: trabajo en uno"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a0b11ebd-4b0d-4348-a79b-84280c6aab64",
+        "type": "message",
+        "text": "Qué oleada de morosidad? La del COVID?",
+        "user": "U57NW5K7T",
+        "ts": "1589877773.343200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U57NW5K7T",
+            "ts": "1589877843.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LYQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Qué oleada de morosidad? La del COVID?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f9d3ff4-5c88-4a0d-9095-c4530118ccd5",
+        "type": "message",
+        "text": "y estan preparados desde el dia 1, controlando mucho mas a quien se presta mientras ayudan a los que ya prestaron para que no se conviertan en morosos",
+        "user": "UFW0A1GV8",
+        "ts": "1589877780.343500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ajyf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y estan preparados desde el dia 1, controlando mucho mas a quien se presta mientras ayudan a los que ya prestaron para que no se conviertan en morosos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec113c38-814b-47ca-833d-4f3ab8a76008",
+        "type": "message",
+        "text": "lo que ves ahi son los banos prestando menos y controlando a quien le prestan, por lo que short term tienen menos ganancias",
+        "user": "UFW0A1GV8",
+        "ts": "1589877936.344800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ML2X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo que ves ahi son los banos prestando menos y controlando a quien le prestan, por lo que short term tienen menos ganancias"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ed59e572-9cdf-44a9-97a1-4a62cbefaf69",
+        "type": "message",
+        "text": "pero tambien tienen un colchon gigante",
+        "user": "UFW0A1GV8",
+        "ts": "1589877954.345200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mL9fE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pero tambien tienen un colchon gigante"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a56adc81-df66-4617-85e0-9aa234948279",
+        "type": "message",
+        "text": "Ojalá tengas razón",
+        "user": "U57NW5K7T",
+        "ts": "1589877958.345400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tlb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ojalá tengas razón"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be618118-912b-4127-8c6b-514bfb28299c",
+        "type": "message",
+        "text": "no puedo dar los numeros que esta haciendo Zopa, pero es lo mismo que estan haciendo todos",
+        "user": "UFW0A1GV8",
+        "ts": "1589877967.345700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qzuS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no puedo dar los numeros que esta haciendo Zopa, pero es lo mismo que estan haciendo todos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa3c59a6-e29c-4310-a25f-53f36a09aa3c",
+        "type": "message",
+        "text": "<https:\/\/group.softbank\/system\/files\/pdf\/ir\/presentations\/2019\/earnings-presentation_q4fy2019_01_en.pdf>",
+        "user": "UFW0A1GV8",
+        "ts": "1589878209.345900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oCpft",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/group.softbank\/system\/files\/pdf\/ir\/presentations\/2019\/earnings-presentation_q4fy2019_01_en.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589878209.345900",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1589878762.347800",
+        "reply_users": [
+            "U57NW5K7T"
+        ],
+        "replies": [
+            {
+                "user": "U57NW5K7T",
+                "ts": "1589878729.347600"
+            },
+            {
+                "user": "U57NW5K7T",
+                "ts": "1589878762.347800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "chart_with_upwards_trend",
+                "users": [
+                    "U57NW5K7T",
+                    "UFW0A1GV8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3d0aa15-6b59-41e9-8cdb-1458ccce0792",
+        "type": "message",
+        "text": "Cómo indica la diapositiva del unicornio, en las crisis hay empresas que mueren y otras que sobreviven. Si intentas salvar a todas imprimiendo dinero infinito, te cargas un poco el saneamiento.",
+        "user": "U57NW5K7T",
+        "ts": "1589878729.347600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZwO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cómo indica la diapositiva del unicornio, en las crisis hay empresas que mueren y otras que sobreviven. Si intentas salvar a todas imprimiendo dinero infinito, te cargas un poco el saneamiento."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589878209.345900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F013FJ1SF9V",
+                "created": 1589878759,
+                "timestamp": 1589878759,
+                "name": "Screenshot 2020-05-19 at 10.59.14.png",
+                "title": "Screenshot 2020-05-19 at 10.59.14.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U57NW5K7T",
+                "editable": false,
+                "size": 136528,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013FJ1SF9V\/screenshot_2020-05-19_at_10.59.14.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013FJ1SF9V\/download\/screenshot_2020-05-19_at_10.59.14.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013FJ1SF9V-feb66b832f\/screenshot_2020-05-19_at_10.59.14_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013FJ1SF9V-feb66b832f\/screenshot_2020-05-19_at_10.59.14_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013FJ1SF9V-feb66b832f\/screenshot_2020-05-19_at_10.59.14_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 227,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013FJ1SF9V-feb66b832f\/screenshot_2020-05-19_at_10.59.14_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 303,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013FJ1SF9V-feb66b832f\/screenshot_2020-05-19_at_10.59.14_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013FJ1SF9V-feb66b832f\/screenshot_2020-05-19_at_10.59.14_720.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720_w": 720,
+                "thumb_720_h": 455,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013FJ1SF9V-feb66b832f\/screenshot_2020-05-19_at_10.59.14_800.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 505,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013FJ1SF9V-feb66b832f\/screenshot_2020-05-19_at_10.59.14_960.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_960_w": 960,
+                "thumb_960_h": 607,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013FJ1SF9V-feb66b832f\/screenshot_2020-05-19_at_10.59.14_1024.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 647,
+                "original_w": 1168,
+                "original_h": 738,
+                "thumb_tiny": "AwAeADDToqKW5ii++4z6Dk1FDerNMI1UgHPJouBaoopsrFInYdQCaAI3mEWTIw9h3NVZb9jxGNo9T1qkXLHLHJPekzUNsqwzNT2cmy6jJ6ZxVbNGaYjowcjIqvfSCO1f1IwKhtr7fES4OUHOO9Ubq6a5cEjCDoKoRFmjNG\/60hOfWpKP\/9k=",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U57NW5K7T\/F013FJ1SF9V\/screenshot_2020-05-19_at_10.59.14.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013FJ1SF9V-429ebdb9ca",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U57NW5K7T",
+        "display_as_bot": false,
+        "ts": "1589878762.347800",
+        "client_msg_id": "f7411842-19a6-4b81-af02-54f2bb808580",
+        "thread_ts": "1589878209.345900",
+        "parent_user_id": "UFW0A1GV8"
+    }
+]

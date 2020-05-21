@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "179dc556-ab8d-4f9a-9275-acb963461242",
+        "type": "message",
+        "text": "Es reciente, pero ahora Google Authenticator te permite exportar :slightly_smiling_face:",
+        "user": "U36UNRM4N",
+        "ts": "1589628297.017900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaa15c3f6948",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aa15c3f6948e5977fa9c0ebbc923aeb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "David",
+            "real_name": "David Arcos",
+            "display_name": "david.arcos",
+            "team": "T2Y6L54R3",
+            "name": "david.arcos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cNkn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Es reciente, pero ahora Google Authenticator te permite exportar "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589536753.015000",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "26ebd9a2-9768-4398-ac8a-a6e8db1642cf",
+        "type": "message",
+        "text": "en todo caso, los códigos del QR tienen que ir al KeePassXC SIEMPRE, incluso antes que al móvil. Hay que tratarlos como si fuesen códigos de recuperación...\nsi en algún caso no tienes código QR, mejor generar uno nuevo",
+        "user": "U36UNRM4N",
+        "ts": "1589628375.018100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaa15c3f6948",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aa15c3f6948e5977fa9c0ebbc923aeb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "David",
+            "real_name": "David Arcos",
+            "display_name": "david.arcos",
+            "team": "T2Y6L54R3",
+            "name": "david.arcos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VuX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en todo caso, los códigos del QR tienen que ir al KeePassXC SIEMPRE, incluso antes que al móvil. Hay que tratarlos como si fuesen códigos de recuperación...\nsi en algún caso no tienes código QR, mejor generar uno nuevo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589536753.015000",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "5EEB827A-CB09-4F02-83FD-BA0D28B1F640",
+        "type": "message",
+        "text": "Merci! La versión de iOS no soporta exportar aún, a ver si hay suerte :crossed_fingers:",
+        "user": "U2Y6QQHST",
+        "ts": "1589630458.019100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Clj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci! La versión de iOS no soporta exportar aún, a ver si hay suerte "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crossed_fingers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589536753.015000",
+        "parent_user_id": "U2Y6QQHST"
+    }
+]

@@ -1,0 +1,372 @@
+[
+    {
+        "client_msg_id": "d2c2c44b-3b81-463c-86ee-bcbefecc877a",
+        "type": "message",
+        "text": "es posible usar el web interface de pprof consumiendo de la api en vez de file dump?",
+        "user": "U2Z3YGJ3D",
+        "ts": "1589538322.162200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga75b593d1b8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa75b593d1b8a1bb44e60094d513952f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Hernandez",
+            "display_name": "jhvaras",
+            "team": "T2Y6L54R3",
+            "name": "jhvaras",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e8kLA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "es posible usar el web interface de pprof consumiendo de la api en vez de file dump?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UPPQ02W4Q"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8433147-9ebb-4ff0-a18f-d592fa3dc7c4",
+        "type": "message",
+        "text": "yup, `go get` is module aware",
+        "user": "U2Y6QQHST",
+        "ts": "1589538560.162300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6eu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yup, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "go get",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " is module aware"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589109670.159200",
+        "parent_user_id": "U2Y940E02"
+    },
+    {
+        "client_msg_id": "c44103f7-6464-4897-b08a-3e57d229f29c",
+        "type": "message",
+        "text": "`go tool pprof -http :9999 <http:\/\/localhost:8888\/debug\/pprof>`  &lt;- cpu\n`go tool pprof -http :9999 <http:\/\/localhost:8888\/debug\/pprof\/heap>`  &lt;- heap, etc",
+        "user": "UDA6JS2AC",
+        "ts": "1589539250.163300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g291d5736525",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d291d57365259cb0bc01e9eef1f77448.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Adrian Serrano",
+            "display_name": "Adrian Serrano",
+            "team": "T2Y6L54R3",
+            "name": "adrisr83",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UzXJI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "go tool pprof -http :9999 ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:8888\/debug\/pprof",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  <- cpu\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "go tool pprof -http :9999 ",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/localhost:8888\/debug\/pprof\/heap",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  <- heap, etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589539250.163300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589539923.164300",
+        "reply_users": [
+            "U2Z3YGJ3D"
+        ],
+        "replies": [
+            {
+                "user": "U2Z3YGJ3D",
+                "ts": "1589539923.164300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "513f2267-2025-4a66-82d0-3bee7a690bdb",
+        "type": "message",
+        "text": "pero no se actualiza, descarga un snapshot y te lo presenta en web",
+        "user": "UDA6JS2AC",
+        "ts": "1589539297.163800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g291d5736525",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d291d57365259cb0bc01e9eef1f77448.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "",
+            "real_name": "Adrian Serrano",
+            "display_name": "Adrian Serrano",
+            "team": "T2Y6L54R3",
+            "name": "adrisr83",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9B\/nT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pero no se actualiza, descarga un snapshot y te lo presenta en web"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U2Z3YGJ3D",
+                    "U6WTNB7G9"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "add91057-fae1-4af8-b575-b36987160d38",
+        "type": "message",
+        "text": "awe, no sabía que había que pasarle los paths, GRACIAS!",
+        "user": "U2Z3YGJ3D",
+        "ts": "1589539923.164300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga75b593d1b8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa75b593d1b8a1bb44e60094d513952f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Hernandez",
+            "display_name": "jhvaras",
+            "team": "T2Y6L54R3",
+            "name": "jhvaras",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HSd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "awe, no sabía que había que pasarle los paths, GRACIAS!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589539250.163300",
+        "parent_user_id": "UDA6JS2AC"
+    },
+    {
+        "client_msg_id": "5f0028d8-a17f-4d5f-a75c-9b3169d9224d",
+        "type": "message",
+        "text": "do you know any other differences when module mode ON?",
+        "user": "U2Y940E02",
+        "ts": "1589540064.164500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "b83012e35a1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-17\/143013931237_b83012e35a1aafd9c4e2_72.jpg",
+            "first_name": "Jose",
+            "real_name": "Jose Armesto",
+            "display_name": "fiunchinho",
+            "team": "T2Y6L54R3",
+            "name": "fiunchinho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VE9Sg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "do you know any other differences when module mode ON?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589109670.159200",
+        "parent_user_id": "U2Y940E02"
+    },
+    {
+        "client_msg_id": "19fe0f5a-3488-4790-a9e1-18558be622a5",
+        "type": "message",
+        "text": "maybe this can help <https:\/\/github.com\/golang\/go\/issues\/26591#issuecomment-407711420>",
+        "user": "U2Y6QQHST",
+        "ts": "1589540144.164800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "cmd\/go: confusion with module-aware get changes · Issue #26591 · golang\/go",
+                "title_link": "https:\/\/github.com\/golang\/go\/issues\/26591#issuecomment-407711420",
+                "text": "Previously go get would check out code necessary to install something. With go modules, that changes. go install is now required to install something external to the current module. Go get will mer...",
+                "fallback": "GitHub: cmd\/go: confusion with module-aware get changes · Issue #26591 · golang\/go",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/4314092?s=400&v=4",
+                "from_url": "https:\/\/github.com\/golang\/go\/issues\/26591#issuecomment-407711420",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/golang\/go\/issues\/26591#issuecomment-407711420"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KOJGf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "maybe this can help "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/golang\/go\/issues\/26591#issuecomment-407711420"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589109670.159200",
+        "parent_user_id": "U2Y940E02"
+    }
+]

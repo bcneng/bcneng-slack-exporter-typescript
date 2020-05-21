@@ -1,0 +1,373 @@
+[
+    {
+        "client_msg_id": "7785073a-1e9a-4f00-8430-626fe7205b49",
+        "type": "message",
+        "text": "<https:\/\/open.spotify.com\/playlist\/0mIYRpoY4Yehl24v3zfVgg?si=GABiR9dIQZmlLCsTiUdwTg>",
+        "user": "UG03G2LRE",
+        "ts": "1589962398.022000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "c82c013cfccc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-06\/812306550355_c82c013cfcccc059225b_72.jpg",
+            "first_name": "Daniel",
+            "real_name": "Daniel Rozo",
+            "display_name": "Daniel Rozo",
+            "team": "T2Y6L54R3",
+            "name": "daniel587",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mF1N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/playlist\/0mIYRpoY4Yehl24v3zfVgg?si=GABiR9dIQZmlLCsTiUdwTg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589962398.022000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1589988363.023400",
+        "reply_users": [
+            "U36H6F3CN",
+            "UG03G2LRE"
+        ],
+        "replies": [
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589987715.023200"
+            },
+            {
+                "user": "UG03G2LRE",
+                "ts": "1589988363.023400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fc628ff7-8d94-47ba-8af7-94098baf43f6",
+        "type": "message",
+        "text": "el niño la ha cogido con ganas desde hace días… la oigo 30 veces al día",
+        "user": "U2Z2ABKFB",
+        "ts": "1589965710.022100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g687f68ead32",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4687f68ead322f4fc07f2364cc0c25e9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Jaime",
+            "real_name": "Jaime Merino",
+            "display_name": "cobak",
+            "team": "T2Y6L54R3",
+            "name": "cobak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MqJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el niño la ha cogido con ganas desde hace días… la oigo 30 veces al día"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589926071.021700",
+        "parent_user_id": "U7PQZMZ4L",
+        "reactions": [
+            {
+                "name": "conga_party_parrot",
+                "users": [
+                    "U6A845RPY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa09c7e0-b022-429a-849c-4f59d268a7fa",
+        "type": "message",
+        "text": "jajajaj, en loop la tengo yo :smile:",
+        "user": "U7PQZMZ4L",
+        "ts": "1589966289.022400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DzUIn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "jajajaj, en loop la tengo yo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589926071.021700",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "fbba90d0-d7f4-4824-88f4-d44b02396de5",
+        "type": "message",
+        "text": "cuando baila el crío me parto, eso sí",
+        "user": "U2Z2ABKFB",
+        "ts": "1589966725.022600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g687f68ead32",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4687f68ead322f4fc07f2364cc0c25e9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Jaime",
+            "real_name": "Jaime Merino",
+            "display_name": "cobak",
+            "team": "T2Y6L54R3",
+            "name": "cobak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3jKRd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cuando baila el crío me parto, eso sí"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589926071.021700",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "66c36931-7a7f-46f9-bc7c-18aa8c1f2e0e",
+        "type": "message",
+        "text": "yo no he llegado a la fase de bailarla :smile:",
+        "user": "U7PQZMZ4L",
+        "ts": "1589967464.022800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ci9L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo no he llegado a la fase de bailarla "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589926071.021700",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "dd339f8a-9f51-4d24-9f67-e989aa3282b0",
+        "type": "message",
+        "text": "yet",
+        "user": "U2Z2ABKFB",
+        "ts": "1589967647.023000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g687f68ead32",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4687f68ead322f4fc07f2364cc0c25e9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Jaime",
+            "real_name": "Jaime Merino",
+            "display_name": "cobak",
+            "team": "T2Y6L54R3",
+            "name": "cobak",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VX6Ge",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yet"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589926071.021700",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "01d3083b-170e-4500-9b2c-07b989e4229b",
+        "type": "message",
+        "text": "Me da fallo al abrirla",
+        "user": "U36H6F3CN",
+        "ts": "1589987715.023200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1UVx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me da fallo al abrirla"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589962398.022000",
+        "parent_user_id": "UG03G2LRE"
+    },
+    {
+        "client_msg_id": "e303144f-45d7-4ba6-a159-2d59c9713622",
+        "type": "message",
+        "text": "Parece que había mucho tráfico desde Reddit. A mi me acaba de funcionar, si no prueba buscando \"never heard of\" playlist de *<https:\/\/open.spotify.com\/user\/1235560440|Ileokei>*",
+        "user": "UG03G2LRE",
+        "ts": "1589988363.023400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "c82c013cfccc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-06\/812306550355_c82c013cfcccc059225b_72.jpg",
+            "first_name": "Daniel",
+            "real_name": "Daniel Rozo",
+            "display_name": "Daniel Rozo",
+            "team": "T2Y6L54R3",
+            "name": "daniel587",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3R8KZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Parece que había mucho tráfico desde Reddit. A mi me acaba de funcionar, si no prueba buscando \"never heard of\" playlist de "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/open.spotify.com\/user\/1235560440",
+                                "text": "Ileokei",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589962398.022000",
+        "parent_user_id": "UG03G2LRE",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U36H6F3CN"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,965 @@
+[
+    {
+        "client_msg_id": "b52d6804-be0f-4d86-8a30-da150360bea7",
+        "type": "message",
+        "text": "En las últimas semanas se comentó bastante el tema del poder de GitHub como servicio, y bastantes me preguntastéis cómo funcionaba <http:\/\/rfm.sospedra.me|rfm.sospedra.me> (que va 100% en Github y nada más), así que he escrito un post. Al grano y con ejemplos :slightly_smiling_face:\n<https:\/\/www.sospedra.me\/papers\/gaas>",
+        "user": "U2Z1D7MHU",
+        "ts": "1589983902.202600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8e1dfe680ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/08e1dfe680ef6cbd4008b1e8ad559e0f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Rubén",
+            "real_name": "Rubén Sospedra",
+            "display_name": "sospedra",
+            "team": "T2Y6L54R3",
+            "name": "sospedra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "GaaS: GitHub as a Service ▼ Rubén Sospedra",
+                "title_link": "https:\/\/www.sospedra.me\/papers\/gaas",
+                "text": "In the past years, GitHub became a technology mastodon. Since the acquisition by Microsoft, the company added a myriad of outstanding features. In fact, GitHub is so powerful nowadays that it can be your all-in-all provider. You can use GitHub as a Service. Don’t believe me? Let’s go through my journey building Request For Maintainers a GitHub-only powered project.",
+                "fallback": "GaaS: GitHub as a Service ▼ Rubén Sospedra",
+                "image_url": "https:\/\/www.sospedra.me\/sospedra.png",
+                "from_url": "https:\/\/www.sospedra.me\/papers\/gaas",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 37569,
+                "service_icon": "https:\/\/www.sospedra.me\/favicon\/apple-touch-icon.png",
+                "service_name": "sospedra.me",
+                "id": 1,
+                "original_url": "https:\/\/www.sospedra.me\/papers\/gaas"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p7dcs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En las últimas semanas se comentó bastante el tema del poder de GitHub como servicio, y bastantes me preguntastéis cómo funcionaba rfm.sospedra.me (que va 100% en Github y nada más), así que he escrito un post. Al grano y con ejemplos "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.sospedra.me\/papers\/gaas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "reply_count": 23,
+        "reply_users_count": 6,
+        "latest_reply": "1590067895.211600",
+        "reply_users": [
+            "UPPQ02W4Q",
+            "U2Z1D7MHU",
+            "U486R9SNP",
+            "UCRBKBDNU",
+            "UC7F3TZAR",
+            "U2Y783VTM"
+        ],
+        "replies": [
+            {
+                "user": "UPPQ02W4Q",
+                "ts": "1589984637.203000"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1589984664.203200"
+            },
+            {
+                "user": "U486R9SNP",
+                "ts": "1589984675.203400"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1589984711.203700"
+            },
+            {
+                "user": "U486R9SNP",
+                "ts": "1589984777.203900"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1589984912.204100"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1589984918.204300"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1589984921.204500"
+            },
+            {
+                "user": "U486R9SNP",
+                "ts": "1589984953.204700"
+            },
+            {
+                "user": "U486R9SNP",
+                "ts": "1589984956.204900"
+            },
+            {
+                "user": "UCRBKBDNU",
+                "ts": "1589986268.205400"
+            },
+            {
+                "user": "UC7F3TZAR",
+                "ts": "1589986357.205700"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1589994484.206200"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1589994492.206400"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1589994494.206600"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1589994496.206800"
+            },
+            {
+                "user": "UCRBKBDNU",
+                "ts": "1590002504.207000"
+            },
+            {
+                "user": "U2Y783VTM",
+                "ts": "1590047180.207600"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1590051443.208100"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1590067836.211000"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1590067838.211200"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1590067893.211400"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1590067895.211600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ty",
+                "users": [
+                    "U486R9SNP",
+                    "UC58U6AP9",
+                    "UGUQTPSQM",
+                    "UGV6YGFU4"
+                ],
+                "count": 4
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "UC7F3TZAR",
+                    "UCRBKBDNU",
+                    "U2Y783VTM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "top",
+                "users": [
+                    "UGC8J6E8J"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "edfa40b0-2041-4f4b-86d5-f610fa68179a",
+        "type": "message",
+        "text": "`GaaS, Gaas, Gaas!` &lt;-- lo que me he reido aqui",
+        "user": "UPPQ02W4Q",
+        "ts": "1589984637.203000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "bfd61de0ff8b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-23\/805621287076_bfd61de0ff8bb5f971b8_72.jpg",
+            "first_name": "",
+            "real_name": "positiveblue",
+            "display_name": "positiveblue",
+            "team": "T2Y6L54R3",
+            "name": "jordi.montes.sanabria",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rX+v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GaaS, Gaas, Gaas!",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " <-- lo que me he reido aqui"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU"
+    },
+    {
+        "client_msg_id": "f39e86d3-50b9-4a8f-9df5-c8b4faf86ec9",
+        "type": "message",
+        "text": "jiijiji :full_moon_with_face:",
+        "user": "U2Z1D7MHU",
+        "ts": "1589984664.203200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8e1dfe680ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/08e1dfe680ef6cbd4008b1e8ad559e0f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Rubén",
+            "real_name": "Rubén Sospedra",
+            "display_name": "sospedra",
+            "team": "T2Y6L54R3",
+            "name": "sospedra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4UVS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "jiijiji "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "full_moon_with_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU"
+    },
+    {
+        "client_msg_id": "d5cf8a41-ca2d-4d30-b266-446825868096",
+        "type": "message",
+        "text": "xD Leído! Muy interesante... últimamente iba mirando headless cms y cosas así para hacer un blog personal, pero hacer algo como lo tuyo es mucho más barato :smile:",
+        "user": "U486R9SNP",
+        "ts": "1589984675.203400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gc8fa2381b16",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc8fa2381b16cbc541e55683950658b8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Genís",
+            "real_name": "Genís Díaz",
+            "display_name": "genisdiaz",
+            "team": "T2Y6L54R3",
+            "name": "genisdiaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yR2D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "xD Leído! Muy interesante... últimamente iba mirando headless cms y cosas así para hacer un blog personal, pero hacer algo como lo tuyo es mucho más barato "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU",
+        "reactions": [
+            {
+                "name": "top",
+                "users": [
+                    "U2Z1D7MHU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8f19b1d7-5a16-4da5-b392-164f354726ef",
+        "type": "message",
+        "text": "It’s free real estate :full_moon_with_face:",
+        "user": "U2Z1D7MHU",
+        "ts": "1589984711.203700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8e1dfe680ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/08e1dfe680ef6cbd4008b1e8ad559e0f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Rubén",
+            "real_name": "Rubén Sospedra",
+            "display_name": "sospedra",
+            "team": "T2Y6L54R3",
+            "name": "sospedra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ce3=U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It’s free real estate "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "full_moon_with_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU"
+    },
+    {
+        "client_msg_id": "475f3529-663b-4e64-a982-97b13ae7af02",
+        "type": "message",
+        "text": "el tema del SEO cómo lo ves?",
+        "user": "U486R9SNP",
+        "ts": "1589984777.203900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gc8fa2381b16",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc8fa2381b16cbc541e55683950658b8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Genís",
+            "real_name": "Genís Díaz",
+            "display_name": "genisdiaz",
+            "team": "T2Y6L54R3",
+            "name": "genisdiaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cww",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el tema del SEO cómo lo ves?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU"
+    },
+    {
+        "client_msg_id": "b9527812-53f5-4629-871a-a832ee05180e",
+        "type": "message",
+        "text": "100% nice",
+        "user": "U2Z1D7MHU",
+        "ts": "1589984912.204100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8e1dfe680ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/08e1dfe680ef6cbd4008b1e8ad559e0f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Rubén",
+            "real_name": "Rubén Sospedra",
+            "display_name": "sospedra",
+            "team": "T2Y6L54R3",
+            "name": "sospedra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ctrj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "100% nice"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU"
+    },
+    {
+        "client_msg_id": "b5101511-e704-4916-8741-5b0e5602d5de",
+        "type": "message",
+        "text": "pq GH Pages te obliga a q sea static",
+        "user": "U2Z1D7MHU",
+        "ts": "1589984918.204300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8e1dfe680ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/08e1dfe680ef6cbd4008b1e8ad559e0f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Rubén",
+            "real_name": "Rubén Sospedra",
+            "display_name": "sospedra",
+            "team": "T2Y6L54R3",
+            "name": "sospedra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6F+p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pq GH Pages te obliga a q sea static"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU"
+    },
+    {
+        "client_msg_id": "77c82b1f-7cb3-4453-955f-37c3f8809a06",
+        "type": "message",
+        "text": ":ok_hand:",
+        "user": "U2Z1D7MHU",
+        "ts": "1589984921.204500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8e1dfe680ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/08e1dfe680ef6cbd4008b1e8ad559e0f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Rubén",
+            "real_name": "Rubén Sospedra",
+            "display_name": "sospedra",
+            "team": "T2Y6L54R3",
+            "name": "sospedra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f5C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU"
+    },
+    {
+        "client_msg_id": "b58e7a96-f87c-41f4-9180-a91f4f34882e",
+        "type": "message",
+        "text": "tengo que investigar un poco más cómo funciona todo esto",
+        "user": "U486R9SNP",
+        "ts": "1589984953.204700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gc8fa2381b16",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc8fa2381b16cbc541e55683950658b8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Genís",
+            "real_name": "Genís Díaz",
+            "display_name": "genisdiaz",
+            "team": "T2Y6L54R3",
+            "name": "genisdiaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lIR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tengo que investigar un poco más cómo funciona todo esto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU"
+    },
+    {
+        "client_msg_id": "dfe2eb5c-3c5b-47e3-bcb0-67689b937b73",
+        "type": "message",
+        "text": "gracias por el aporte!",
+        "user": "U486R9SNP",
+        "ts": "1589984956.204900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gc8fa2381b16",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc8fa2381b16cbc541e55683950658b8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Genís",
+            "real_name": "Genís Díaz",
+            "display_name": "genisdiaz",
+            "team": "T2Y6L54R3",
+            "name": "genisdiaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OxOl8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gracias por el aporte!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U2Z1D7MHU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8ffbff1a-7034-44dd-a96c-52d91279ab35",
+        "type": "message",
+        "text": "Small typo: _`Everythin` -&gt; `Everything`_",
+        "user": "UCRBKBDNU",
+        "ts": "1589986268.205400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "b46c226580f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-08\/474349634803_b46c226580f775d32345_72.jpg",
+            "first_name": "drag0s",
+            "real_name": "drag0s",
+            "display_name": "drag0s",
+            "team": "T2Y6L54R3",
+            "name": "me1364",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DQm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Small typo: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Everythin",
+                                "style": {
+                                    "italic": true,
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " -> ",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Everything",
+                                "style": {
+                                    "italic": true,
+                                    "code": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU"
+    },
+    {
+        "client_msg_id": "88183f46-591d-4cfa-9964-be8b8973063b",
+        "type": "message",
+        "text": "You should post this on hacker news :clap:",
+        "user": "UC7F3TZAR",
+        "ts": "1589986357.205700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ed28d6eda0da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-13\/416849602966_ed28d6eda0da631d597b_72.jpg",
+            "first_name": "Joachim",
+            "real_name": "Joachim Davies",
+            "display_name": "joachim",
+            "team": "T2Y6L54R3",
+            "name": "joachim.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ob6Z5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You should post this on hacker news "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU"
+    },
+    {
+        "client_msg_id": "7380e720-49d3-4f2d-9a29-94027de8bf87",
+        "type": "message",
+        "text": "<@UCRBKBDNU> fixed ty",
+        "user": "U2Z1D7MHU",
+        "ts": "1589994484.206200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8e1dfe680ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/08e1dfe680ef6cbd4008b1e8ad559e0f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Rubén",
+            "real_name": "Rubén Sospedra",
+            "display_name": "sospedra",
+            "team": "T2Y6L54R3",
+            "name": "sospedra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Qc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UCRBKBDNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " fixed ty"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU"
+    },
+    {
+        "client_msg_id": "5c772994-84de-4709-a9fa-e39861c29594",
+        "type": "message",
+        "text": "Yup I put it on devto",
+        "user": "U2Z1D7MHU",
+        "ts": "1589994492.206400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8e1dfe680ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/08e1dfe680ef6cbd4008b1e8ad559e0f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Rubén",
+            "real_name": "Rubén Sospedra",
+            "display_name": "sospedra",
+            "team": "T2Y6L54R3",
+            "name": "sospedra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tfUZH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup I put it on devto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU"
+    },
+    {
+        "client_msg_id": "2b5e2881-5912-43b4-94b4-c490d3f7b4a3",
+        "type": "message",
+        "text": "And tomorrow hb",
+        "user": "U2Z1D7MHU",
+        "ts": "1589994494.206600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8e1dfe680ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/08e1dfe680ef6cbd4008b1e8ad559e0f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Rubén",
+            "real_name": "Rubén Sospedra",
+            "display_name": "sospedra",
+            "team": "T2Y6L54R3",
+            "name": "sospedra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Jz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "And tomorrow hb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU"
+    },
+    {
+        "client_msg_id": "f99699f7-03e1-4427-afe7-863ad006b5e5",
+        "type": "message",
+        "text": "Hn",
+        "user": "U2Z1D7MHU",
+        "ts": "1589994496.206800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8e1dfe680ef",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/08e1dfe680ef6cbd4008b1e8ad559e0f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Rubén",
+            "real_name": "Rubén Sospedra",
+            "display_name": "sospedra",
+            "team": "T2Y6L54R3",
+            "name": "sospedra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g3XVj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU"
+    },
+    {
+        "client_msg_id": "db4c4ab0-7d69-4052-b7e8-b80df86262e1",
+        "type": "message",
+        "text": "avisa para el hn que le damos un upvote :wink:",
+        "user": "UCRBKBDNU",
+        "ts": "1590002504.207000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "b46c226580f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-08\/474349634803_b46c226580f775d32345_72.jpg",
+            "first_name": "drag0s",
+            "real_name": "drag0s",
+            "display_name": "drag0s",
+            "team": "T2Y6L54R3",
+            "name": "me1364",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M8K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "avisa para el hn que le damos un upvote "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589983902.202600",
+        "parent_user_id": "U2Z1D7MHU",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U2Z1D7MHU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

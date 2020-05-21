@@ -1,0 +1,789 @@
+[
+    {
+        "type": "message",
+        "text": "Pues ya ha salido el creador de GitFlow diciendo que para ciertas aplicaciones desaconseja su patrón y que te pases a algo más sencillo como GitHub Flow.",
+        "files": [
+            {
+                "id": "F013RCJH13P",
+                "created": 1589700393,
+                "timestamp": 1589700393,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UN6S9CCGH",
+                "editable": false,
+                "size": 124262,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013RCJH13P\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013RCJH13P\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013RCJH13P-e06954de99\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013RCJH13P-e06954de99\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013RCJH13P-e06954de99\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 352,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013RCJH13P-e06954de99\/image_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 469,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013RCJH13P-e06954de99\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "original_w": 691,
+                "original_h": 707,
+                "thumb_tiny": "AwAwAC7RY4PWkz7n9KVuvWm49x+dAC7vel3Cm49x+dKB7\/rQAu4UoORTcD+9Th065oAZI2GHFM3+xp0u7cMZpnz+p\/OmIXf7Gl+cjIFJ+8PQn86Xa\/8AeNMAAkz0qUZxyMVFsf8AvGpV4A6\/jSYCMSD1puT60457UYb2pDE+b3o+b3pfmpcH1oAb83vThnHNGD6\/pRQB\/9k=",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/UN6S9CCGH\/F013RCJH13P\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013RCJH13P-da06d11225",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "siHm4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pues ya ha salido el creador de GitFlow diciendo que para ciertas aplicaciones desaconseja su patrón y que te pases a algo más sencillo como GitHub Flow."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UN6S9CCGH",
+        "display_as_bot": false,
+        "ts": "1589700395.473100",
+        "client_msg_id": "baa8922f-0309-49c0-9979-f33862e32919",
+        "thread_ts": "1589700395.473100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589739448.476100",
+        "reply_users": [
+            "UM1D80L3X"
+        ],
+        "replies": [
+            {
+                "user": "UM1D80L3X",
+                "ts": "1589739448.476100"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5b1d9b2d-249a-4b44-9a54-539b8270bbd4",
+        "type": "message",
+        "text": "<https:\/\/nvie.com\/posts\/a-successful-git-branching-model\/>",
+        "user": "UN6S9CCGH",
+        "ts": "1589700412.473500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "nvie.com",
+                "title": "A successful Git branching model",
+                "title_link": "https:\/\/nvie.com\/posts\/a-successful-git-branching-model\/",
+                "text": "In this post I present a Git branching strategy for developing and releasing software as I’ve used it in many of my projects, and which has turned out to be very successful.",
+                "fallback": "nvie.com: A successful Git branching model",
+                "image_url": "http:\/\/nvie.com\/img\/git-model@2x.png",
+                "from_url": "https:\/\/nvie.com\/posts\/a-successful-git-branching-model\/",
+                "image_width": 189,
+                "image_height": 250,
+                "image_bytes": 124925,
+                "id": 1,
+                "original_url": "https:\/\/nvie.com\/posts\/a-successful-git-branching-model\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "85+=T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nvie.com\/posts\/a-successful-git-branching-model\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8feceef6-622d-4665-870f-3939a4398167",
+        "type": "message",
+        "text": "hace bastante, tambien salio gitlab diciendo que hbia que hacer gitlab flow(git flow pero con otro nombre xd)",
+        "user": "UFW0A1GV8",
+        "ts": "1589702011.474100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X+JM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hace bastante, tambien salio gitlab diciendo que hbia que hacer gitlab flow(git flow pero con otro nombre xd)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c9e8d79-4ea1-45ef-95cc-66c2ce30cfa3",
+        "type": "message",
+        "text": "<https:\/\/trunkbaseddevelopment.com\/>",
+        "user": "UMBEAG23E",
+        "ts": "1589703190.474500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "0cf738be2f57",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-14\/719575797681_0cf738be2f57253ab291_72.png",
+            "first_name": "Adrián",
+            "real_name": "Adrián Norte",
+            "display_name": "anortef",
+            "team": "T2Y6L54R3",
+            "name": "adrian227",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Trunk Based Development",
+                "title_link": "https:\/\/trunkbaseddevelopment.com\/",
+                "text": "A portal on this practice",
+                "fallback": "Trunk Based Development",
+                "from_url": "https:\/\/trunkbaseddevelopment.com\/",
+                "thumb_url": "https:\/\/trunkbaseddevelopment.com\/images\/logo.png",
+                "thumb_width": 74,
+                "thumb_height": 74,
+                "service_icon": "https:\/\/trunkbaseddevelopment.com\/images\/favicon.ico",
+                "service_name": "trunkbaseddevelopment.com",
+                "id": 1,
+                "original_url": "https:\/\/trunkbaseddevelopment.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s9V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/trunkbaseddevelopment.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "top",
+                "users": [
+                    "U3S8PPA3S",
+                    "U6WTNB7G9",
+                    "UNH5QBV47",
+                    "U36343539",
+                    "U6A845RPY",
+                    "UM1D80L3X",
+                    "UR9TCLYAJ"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d19e81a1-1aa7-4a7b-9bbf-9ab936c5ae28",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/ratemyskyperoom\/status\/1261684025502113794?s=19|https:\/\/twitter.com\/ratemyskyperoom\/status\/1261684025502113794?s=19>",
+        "user": "UDHAZQNF9",
+        "ts": "1589713967.475400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/ratemyskyperoom|@ratemyskyperoom>: The room is an 8. The cat fight is 10\/10  <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1261299385066852354\/pu\/img\/fKX1WzYqwiDEbEy4.jpg>",
+                "ts": 1589643887,
+                "author_name": "Room Rater",
+                "author_link": "https:\/\/twitter.com\/ratemyskyperoom\/status\/1261684025502113794",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1256222966645493760\/1oDWIu9p_normal.jpg",
+                "author_subname": "@ratemyskyperoom",
+                "text": "The room is an 8. The cat fight is 10\/10",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/ratemyskyperoom\/status\/1261684025502113794?s=19",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1261299385066852354\/pu\/img\/fKX1WzYqwiDEbEy4.jpg",
+                "thumb_width": 1152,
+                "thumb_height": 720,
+                "video_html_width": 1152,
+                "video_html_height": 720,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1261299385066852354\/pu\/img\/fKX1WzYqwiDEbEy4.jpg\" width=\"1152\" height=\"720\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1261299385066852354\/pu\/vid\/1152x720\/2kKsNlSYDmRGrwCH.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/ratemyskyperoom\/status\/1261684025502113794?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zzd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/ratemyskyperoom\/status\/1261684025502113794?s=19",
+                                "text": "https:\/\/twitter.com\/ratemyskyperoom\/status\/1261684025502113794?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U3R29MX61",
+                    "UM1D80L3X",
+                    "U013KS87YAX",
+                    "U31CSMY0G",
+                    "U0130LV49HB"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a082fcf-c9db-478f-9de7-e1ab63314780",
+        "type": "message",
+        "text": "Supongo que a estas alturas no sorprende a nadie pero se agradece la aclaración",
+        "user": "UM1D80L3X",
+        "ts": "1589739448.476100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g19d867679be",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/719d867679be05ee4170dd186a9bb558.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Francesc",
+            "real_name": "Francesc Rosas",
+            "display_name": "Francesc Rosas",
+            "team": "T2Y6L54R3",
+            "name": "francescrosasbosque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7kDz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Supongo que a estas alturas no sorprende a nadie pero se agradece la aclaración"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589700395.473100",
+        "parent_user_id": "UN6S9CCGH"
+    },
+    {
+        "client_msg_id": "fe447ade-5b4c-4a22-9d9f-135f94f5ac42",
+        "type": "message",
+        "text": "a mi también me para más friendly por lo menos desde android",
+        "user": "UEDFE7J07",
+        "ts": "1589741119.476700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lsqAj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a mi también me para más friendly por lo menos desde android"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627923.470200",
+        "parent_user_id": "UFW0A1GV8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UNR7EF5EU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5cc7417-706b-45ae-a6ab-c0d79a508b05",
+        "type": "message",
+        "text": "Será k los de Android estamos más contentos y ios menos? :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:",
+        "user": "UNR7EF5EU",
+        "ts": "1589741772.477000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BJhP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Será k los de Android estamos más contentos y ios menos? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627923.470200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "753fa8e8-4cfb-4779-88f2-839f10392f8f",
+        "type": "message",
+        "text": "Android está súper bien",
+        "user": "UFW0A1GV8",
+        "ts": "1589741799.477200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NJIK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Android está súper bien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627923.470200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "67d09ae8-9a8b-4777-a70e-e3362f47162f",
+        "type": "message",
+        "text": "Sobretodo si estás en muchos slacks",
+        "user": "UFW0A1GV8",
+        "ts": "1589741806.477400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+E251",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sobretodo si estás en muchos slacks"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589627923.470200",
+        "parent_user_id": "UFW0A1GV8",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UNR7EF5EU",
+                    "UEDFE7J07"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "205b8eeb-24ab-43be-a775-401307b919e9",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/hiattb\/status\/1262106547099967488?s=20|https:\/\/twitter.com\/hiattb\/status\/1262106547099967488?s=20>",
+        "user": "UDHAZQNF9",
+        "ts": "1589747962.477800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/hiattb|@hiattb>: Great moments in twitter <https:\/\/pbs.twimg.com\/media\/EYPnNqwWoAQpmJc.jpg>",
+                "ts": 1589744624,
+                "author_name": "Brian Hiatt",
+                "author_link": "https:\/\/twitter.com\/hiattb\/status\/1262106547099967488",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1138871422565138432\/kiziYQBw_normal.png",
+                "author_subname": "@hiattb",
+                "text": "Great moments in twitter <https:\/\/pbs.twimg.com\/media\/EYPnNqwWoAQpmJc.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/hiattb\/status\/1262106547099967488?s=20",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EYPnNqwWoAQpmJc.jpg",
+                "image_width": 828,
+                "image_height": 773,
+                "image_bytes": 57587,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/hiattb\/status\/1262106547099967488?s=20",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KhQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/hiattb\/status\/1262106547099967488?s=20",
+                                "text": "https:\/\/twitter.com\/hiattb\/status\/1262106547099967488?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589747962.477800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589748070.478000",
+        "reply_users": [
+            "UMBEAG23E"
+        ],
+        "replies": [
+            {
+                "user": "UMBEAG23E",
+                "ts": "1589748070.478000"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "top",
+                "users": [
+                    "U6A845RPY",
+                    "U4HCQ4X1S",
+                    "UC8R6Q0GJ"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F013CCS01F1",
+                "created": 1589748067,
+                "timestamp": 1589748067,
+                "name": "childjoy.png",
+                "title": "childjoy.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UMBEAG23E",
+                "editable": false,
+                "size": 244399,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013CCS01F1\/childjoy.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013CCS01F1\/download\/childjoy.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013CCS01F1-0fdf386713\/childjoy_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013CCS01F1-0fdf386713\/childjoy_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013CCS01F1-0fdf386713\/childjoy_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 284,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013CCS01F1-0fdf386713\/childjoy_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "original_w": 474,
+                "original_h": 374,
+                "thumb_tiny": "AwAlADCuqjuCfxox7U+P5gcUiqzybVHNFirkkMHmDLHAPSkaHax2njFSGSNX8sjJQcE0iOjEoo5x+dAFVkIY5NSN5YUAYJAPPc0kvVv96owwNDVxInhVvKYjpmrcEflp\/tHrVNLkRnZ\/Cp+mamF6nYZ\/GgCKdNjuzD73SktEJk3jotPluUdMbRkH1pY7hI0I25yev+RTF1JpowyHA5PWqRiYZI6VY+2JnkDj3qBrkl9qchvTmgH5A0aGRsrz61NDbqVOCV57VH\/y0arNv9xvrUtWQIRrVVRm3E45xmhLYMgO9hn3qxL\/AKpvpSRf6pPpRYZTlgQAbhu5xzUYSNTkJyOnNWJ+g+tQGmooln\/\/2Q==",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/UMBEAG23E\/F013CCS01F1\/childjoy.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013CCS01F1-ce5b405294",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UMBEAG23E",
+        "display_as_bot": false,
+        "ts": "1589748070.478000",
+        "client_msg_id": "ddee72ca-34c5-4a9c-a96a-eca15e81ab2d",
+        "thread_ts": "1589747962.477800",
+        "parent_user_id": "UDHAZQNF9"
+    },
+    {
+        "client_msg_id": "9cc016fc-06fb-41d8-bc16-13d83f413903",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=o61BiBCXMCI>",
+        "user": "UFW0A1GV8",
+        "ts": "1589749187.478500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Billie Eilish - bad guy (Donald Trump Cover)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=o61BiBCXMCI",
+                "author_name": "Maestro Ziikos",
+                "author_link": "https:\/\/www.youtube.com\/user\/XhamssaX",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/o61BiBCXMCI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Billie Eilish - bad guy (Donald Trump Cover)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/o61BiBCXMCI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=o61BiBCXMCI",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=o61BiBCXMCI"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oel",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=o61BiBCXMCI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UFW0A1GV8",
+                    "UNR7EF5EU",
+                    "U013KS87YAX",
+                    "URVGS9SFM"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c83e128c-ce74-499d-9293-e9c14ff6929f",
+        "type": "message",
+        "text": "\"Im the baaad guy. Wall\"",
+        "user": "UFW0A1GV8",
+        "ts": "1589749337.479000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ta9F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"Im the baaad guy. Wall\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,347 @@
+[
+    {
+        "client_msg_id": "bbc64fff-bc3b-4f5c-ba8f-4abc11e8b92d",
+        "type": "message",
+        "text": "Spotify ha incluido en su catálogo las obras completas de Haggard. ¡Qué gusto trabajar con ellos de fondo!",
+        "user": "U38SUJJV7",
+        "ts": "1589875666.130700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "96869669e67d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-21\/1074689534245_96869669e67dccc02703_72.jpg",
+            "first_name": "Antonio",
+            "real_name": "Antonio Hernández",
+            "display_name": "antonienko",
+            "team": "T2Y6L54R3",
+            "name": "antonienko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UTgOF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Spotify ha incluido en su catálogo las obras completas de Haggard. ¡Qué gusto trabajar con ellos de fondo!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3692e173-4c10-4561-9f4c-82baa5c09c27",
+        "type": "message",
+        "text": "Por fin, tras el cambio de esta noche, puedo decir que ya no tenemos puntos únicos de fallo en la arquitectura core. Ha sido un currazo pero qué tranquilidad ahora. :wave1parrot:",
+        "user": "UN6S9CCGH",
+        "ts": "1589875858.131300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UN6S9CCGH",
+            "ts": "1589875911.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mW7h8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Por fin, tras el cambio de esta noche, puedo decir que ya no tenemos puntos únicos de fallo en la arquitectura core. Ha sido un currazo pero qué tranquilidad ahora. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wave1parrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589875858.131300",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1589878214.132500",
+        "reply_users": [
+            "U2Y6QQHST",
+            "UN6S9CCGH",
+            "U3256HZH9"
+        ],
+        "replies": [
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589876373.131500"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589876447.131700"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589876472.131900"
+            },
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589876572.132100"
+            },
+            {
+                "user": "U3256HZH9",
+                "ts": "1589878214.132500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1589878214.132500",
+        "reactions": [
+            {
+                "name": "clapping",
+                "users": [
+                    "UEDFE7J07",
+                    "U3256HZH9",
+                    "U36H6F3CN",
+                    "U2YEY1745",
+                    "U2WPLA0KA"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8aa35310-bc2c-4b28-9fa1-12509a75e68a",
+        "type": "message",
+        "text": "algo que se pueda compartir? :-)",
+        "user": "U2Y6QQHST",
+        "ts": "1589876373.131500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AyuPy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "algo que se pueda compartir? :-)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589875858.131300",
+        "parent_user_id": "UN6S9CCGH"
+    },
+    {
+        "client_msg_id": "f00969bb-a7a1-4289-a8f9-5601a1b553e8",
+        "type": "message",
+        "text": "Nada serio.. En dos meses hemos cambiado el transport de nuestra API, pasado todos los puntos de entrada a NLB\/ALBs, implementado AutoScaling en todos los puntos donde es posible con nuestro stack tecnológico ahora… :joy:",
+        "user": "UN6S9CCGH",
+        "ts": "1589876447.131700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W0i4o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nada serio.. En dos meses hemos cambiado el transport de nuestra API, pasado todos los puntos de entrada a NLB\/ALBs, implementado AutoScaling en todos los puntos donde es posible con nuestro stack tecnológico ahora… "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589875858.131300",
+        "parent_user_id": "UN6S9CCGH"
+    },
+    {
+        "client_msg_id": "7c114953-ef95-4af6-baa8-305001736fa3",
+        "type": "message",
+        "text": "y todo teniendo en cuenta los limitantes que tenemos de arquitectura. Lo cual me hace pensar… Not bad.",
+        "user": "UN6S9CCGH",
+        "ts": "1589876472.131900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dDtWl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y todo teniendo en cuenta los limitantes que tenemos de arquitectura. Lo cual me hace pensar… Not bad."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589875858.131300",
+        "parent_user_id": "UN6S9CCGH"
+    },
+    {
+        "client_msg_id": "87bdf0e8-d9d5-4430-85b7-ed4c4989eed6",
+        "type": "message",
+        "text": "nikel :ok_hand:",
+        "user": "U2Y6QQHST",
+        "ts": "1589876572.132100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ihg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nikel "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589875858.131300",
+        "parent_user_id": "UN6S9CCGH"
+    },
+    {
+        "client_msg_id": "5388af9d-aa92-4be8-a080-5874b5e06362",
+        "type": "message",
+        "text": "Jolín, felicidades",
+        "user": "U3256HZH9",
+        "ts": "1589878214.132500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "93a860885d0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-14\/104920922678_93a860885d0c44efe06e_72.jpg",
+            "first_name": "Mavi",
+            "real_name": "Mavi Jimenez",
+            "display_name": "mavi",
+            "team": "T2Y6L54R3",
+            "name": "mavi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TpbSy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jolín, felicidades"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589875858.131300",
+        "parent_user_id": "UN6S9CCGH"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589900713.133100",
+        "user": "U4T9FULPR",
+        "text": "<@U4T9FULPR> has joined the channel"
+    }
+]

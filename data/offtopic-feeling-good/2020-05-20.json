@@ -1,0 +1,379 @@
+[
+    {
+        "client_msg_id": "133f707a-f433-4d1f-993b-c9402ec3bcc6",
+        "type": "message",
+        "text": "Cuando le dices al jefe que necesitamos mas recursos en el CPD de barcelona.. y a la semana te vienen con 5 servidores, mucha ram, muchos cores y GPUs :smile:",
+        "user": "U32L364NL",
+        "ts": "1589976022.134100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gc0ff3b33c59",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2c0ff3b33c5906b7fc611bbc76843e80.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Elliot",
+            "real_name": "Elliot Morales",
+            "display_name": "elliotmoso",
+            "team": "T2Y6L54R3",
+            "name": "elliotmoso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jzagX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cuando le dices al jefe que necesitamos mas recursos en el CPD de barcelona.. y a la semana te vienen con 5 servidores, mucha ram, muchos cores y GPUs "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f60edb54-8f14-42b1-bdcd-e84194c8ead7",
+        "type": "message",
+        "text": "Release 69 del nuevo servicio xd",
+        "user": "UFW0A1GV8",
+        "ts": "1589987776.134300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qwts",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Release 69 del nuevo servicio xd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589987776.134300",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1589989258.135500",
+        "reply_users": [
+            "UN6S9CCGH",
+            "UFW0A1GV8"
+        ],
+        "replies": [
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589988899.134500"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589989096.134700"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589989164.134900"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589989174.135100"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589989252.135300"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589989258.135500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UFW0A1GV8",
+                    "UCRBKBDNU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "aw_yeah",
+                "users": [
+                    "U2YEY1745",
+                    "UFW0A1GV8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f3d48220-50a1-4f66-a634-b3fe278bf4a6",
+        "type": "message",
+        "text": "Aficionado. A ver que pasa cuando llegues a la 1337.",
+        "user": "UN6S9CCGH",
+        "ts": "1589988899.134500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=QF\/m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aficionado. A ver que pasa cuando llegues a la 1337."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589987776.134300",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "8b3ebe53-5d32-4cba-a805-f58cc00928fc",
+        "type": "message",
+        "text": "es un servicio con 1 semana :joy:",
+        "user": "UFW0A1GV8",
+        "ts": "1589989096.134700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ED4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "es un servicio con 1 semana "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589987776.134300",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "c09f98f8-7156-4ba1-94a1-cf9946f34f36",
+        "type": "message",
+        "text": "Bueno, nuestro api gateway va por la 282 xD",
+        "user": "UN6S9CCGH",
+        "ts": "1589989164.134900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wWL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bueno, nuestro api gateway va por la 282 xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589987776.134300",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "dcb04a43-cf8c-4db5-8f2f-a5fe6d9e419c",
+        "type": "message",
+        "text": "en menos de 5 meses",
+        "user": "UN6S9CCGH",
+        "ts": "1589989174.135100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C+N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en menos de 5 meses"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589987776.134300",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "b6c8a084-c1a7-444d-8319-f24978c48fc7",
+        "type": "message",
+        "text": "exacto, es un api gateway",
+        "user": "UFW0A1GV8",
+        "ts": "1589989252.135300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JQmB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "exacto, es un api gateway"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589987776.134300",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "0e8f21e9-8ca7-4fd6-8acf-3c4984554af0",
+        "type": "message",
+        "text": "el mismo que me quejo en cryparty jajaja",
+        "user": "UFW0A1GV8",
+        "ts": "1589989258.135500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ova",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el mismo que me quejo en cryparty jajaja"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589987776.134300",
+        "parent_user_id": "UFW0A1GV8"
+    }
+]

@@ -1,0 +1,2872 @@
+[
+    {
+        "client_msg_id": "2b35476f-ecaa-468c-b168-a28f1fde7e33",
+        "type": "message",
+        "text": "<https:\/\/i.imgur.com\/ML9T1pm.png>",
+        "user": "UFW0A1GV8",
+        "ts": "1589448203.430600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "618x782px image",
+                "image_url": "https:\/\/i.imgur.com\/ML9T1pm.png",
+                "image_width": 618,
+                "image_height": 782,
+                "image_bytes": 59749,
+                "from_url": "https:\/\/i.imgur.com\/ML9T1pm.png",
+                "id": 1,
+                "original_url": "https:\/\/i.imgur.com\/ML9T1pm.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M1pw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/i.imgur.com\/ML9T1pm.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589448203.430600",
+        "reply_count": 13,
+        "reply_users_count": 5,
+        "latest_reply": "1589450471.435700",
+        "reply_users": [
+            "UTJM0J0UV",
+            "UNR7EF5EU",
+            "UFW0A1GV8",
+            "U36H6F3CN",
+            "U326S0XLJ"
+        ],
+        "replies": [
+            {
+                "user": "UTJM0J0UV",
+                "ts": "1589448557.431300"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589448716.431600"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589448748.431900"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589448761.432100"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589448769.432400"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589449550.433200"
+            },
+            {
+                "user": "U326S0XLJ",
+                "ts": "1589449608.433400"
+            },
+            {
+                "user": "U326S0XLJ",
+                "ts": "1589449726.433600"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589449727.433800"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589449739.434000"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589449754.434200"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589450072.435500"
+            },
+            {
+                "user": "U326S0XLJ",
+                "ts": "1589450471.435700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UFW0A1GV8",
+                    "U36H6F3CN",
+                    "U7BG5P0H3",
+                    "UUW6M0QLD",
+                    "U314KFBT6",
+                    "UM1D80L3X"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82e36a3a-fbeb-423d-8ad0-b77d1d6aff6a",
+        "type": "message",
+        "text": "<https:\/\/www.dell.com\/sv-se\/work\/shop\/b%C3%A4rbara-datorer-och-minidatorer-fr%C3%A5n-dell\/ny-xps-13\/spd\/xps-13-9300-laptop\/bnx93001sb?view=configurations>",
+        "user": "UFW0A1GV8",
+        "ts": "1589448267.430900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Dell",
+                "title": "Bärbar dator XPS 13 | Dell Sverige",
+                "title_link": "https:\/\/www.dell.com\/sv-se\/work\/shop\/b%C3%A4rbara-datorer-och-minidatorer-fr%C3%A5n-dell\/ny-xps-13\/spd\/xps-13-9300-laptop\/bnx93001sb?view=configurations",
+                "text": "Den bärbara datorn XPS 13 tum, som har upp till 10:e generationens processorer från Intel och 4K-skärm, passar perfekt för datorjobb och underhållning i hemmet.",
+                "fallback": "Dell: Bärbar dator XPS 13 | Dell Sverige",
+                "thumb_url": "https:\/\/i.dell.com\/is\/image\/DellContent\/\/content\/dam\/global-site-design\/product_images\/dell_client_products\/notebooks\/xps_notebooks\/xps_13_9300\/global_spi\/ng\/silver\/notebook-xps-13-9300-silver-ss-imprl-165x119-ng.png?fmt=jpg",
+                "from_url": "https:\/\/www.dell.com\/sv-se\/work\/shop\/b%C3%A4rbara-datorer-och-minidatorer-fr%C3%A5n-dell\/ny-xps-13\/spd\/xps-13-9300-laptop\/bnx93001sb?view=configurations",
+                "thumb_width": 165,
+                "thumb_height": 119,
+                "service_icon": "https:\/\/www.dell.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.dell.com\/sv-se\/work\/shop\/b%C3%A4rbara-datorer-och-minidatorer-fr%C3%A5n-dell\/ny-xps-13\/spd\/xps-13-9300-laptop\/bnx93001sb?view=configurations"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lK2yL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dell.com\/sv-se\/work\/shop\/b%C3%A4rbara-datorer-och-minidatorer-fr%C3%A5n-dell\/ny-xps-13\/spd\/xps-13-9300-laptop\/bnx93001sb?view=configurations"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cec172b-1353-44c6-b106-cac5e452d28a",
+        "type": "message",
+        "text": "Eso es porque dentro llevará un fardo de coca",
+        "user": "UTJM0J0UV",
+        "ts": "1589448557.431300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ea330d6c47b2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-04\/923910459042_ea330d6c47b2880efef3_72.png",
+            "first_name": "Jesús",
+            "real_name": "Jesús Valera Reales",
+            "display_name": "Jesús Valera Reales",
+            "team": "T2Y6L54R3",
+            "name": "jesus1902",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3\/cmP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Eso es porque dentro llevará un fardo de coca"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589448203.430600",
+        "parent_user_id": "UFW0A1GV8",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UNR7EF5EU",
+                    "UFW0A1GV8",
+                    "U36H6F3CN"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e04eef9a-bb16-461f-86f4-362cb8ca785d",
+        "type": "message",
+        "text": "wtf...",
+        "user": "UNR7EF5EU",
+        "ts": "1589448716.431600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YXm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wtf..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589448203.430600",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "5f68fc80-fa68-4c00-85b3-1bb6428dc9ef",
+        "type": "message",
+        "text": "es un millon en USD",
+        "user": "UFW0A1GV8",
+        "ts": "1589448748.431900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Bbk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "es un millon en USD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589448203.430600",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "95449dce-204f-4551-8895-742df7650196",
+        "type": "message",
+        "text": "+ VAT :joy:",
+        "user": "UFW0A1GV8",
+        "ts": "1589448761.432100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UFW0A1GV8",
+            "ts": "1589448767.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T+g1K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+ VAT "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589448203.430600",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "a4d015c0-4472-4d42-ae3a-b9684c326bbb",
+        "type": "message",
+        "text": "el portatil del millon de dolares",
+        "user": "UNR7EF5EU",
+        "ts": "1589448769.432400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zo9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el portatil del millon de dolares"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589448203.430600",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "c0a2aff0-1b44-4485-989c-c356c1354498",
+        "type": "message",
+        "text": "wtfff",
+        "user": "UGKBXF45D",
+        "ts": "1589449426.432900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7b0e5070c58c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-26\/773521984772_7b0e5070c58cebf2df1d_72.jpg",
+            "first_name": "Ramon",
+            "real_name": "Ramon Pans",
+            "display_name": "Kylar13",
+            "team": "T2Y6L54R3",
+            "name": "ramonpans13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1WBZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wtfff"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "614f5094-02ce-42ea-baa1-6bf2a736af04",
+        "type": "message",
+        "text": "Ahí debe de estar la formula de la coca cola como mínimo",
+        "user": "U36H6F3CN",
+        "ts": "1589449550.433200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nMX+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahí debe de estar la formula de la coca cola como mínimo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589448203.430600",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "da10b982-86a8-4b76-ae03-75e6ce1331ca",
+        "type": "message",
+        "text": "<@UFW0A1GV8> de dónde sacas esa tasa de conversión? :sweat_smile:  pound = GBP, no?",
+        "user": "U326S0XLJ",
+        "ts": "1589449608.433400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7620a01fab04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-15\/909450568838_7620a01fab0467dc0551_72.jpg",
+            "first_name": "Tom",
+            "real_name": "Tom Fenech",
+            "display_name": "tom-fenech",
+            "team": "T2Y6L54R3",
+            "name": "tom-fenech",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w0mu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UFW0A1GV8"
+                            },
+                            {
+                                "type": "text",
+                                "text": " de dónde sacas esa tasa de conversión? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  pound = GBP, no?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589448203.430600",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "3a03b98c-42dd-4851-81c2-6c2d27d84e4d",
+        "type": "message",
+        "text": "quiero decir que serían ~10 millones de dolares",
+        "user": "U326S0XLJ",
+        "ts": "1589449726.433600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7620a01fab04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-15\/909450568838_7620a01fab0467dc0551_72.jpg",
+            "first_name": "Tom",
+            "real_name": "Tom Fenech",
+            "display_name": "tom-fenech",
+            "team": "T2Y6L54R3",
+            "name": "tom-fenech",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TTt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "quiero decir que serían ~10 millones de dolares"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589448203.430600",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "127d8c73-094c-416c-a95f-169f2fd326c4",
+        "type": "message",
+        "text": "lo convirtio mal el del chat",
+        "user": "UFW0A1GV8",
+        "ts": "1589449727.433800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YKNIW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo convirtio mal el del chat"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589448203.430600",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "7fd069e8-0453-4156-acb0-076b3934a176",
+        "type": "message",
+        "text": "si convertis el link que pase abajo es 1 millon de USD",
+        "user": "UFW0A1GV8",
+        "ts": "1589449739.434000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Ylyg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si convertis el link que pase abajo es 1 millon de USD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589448203.430600",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "e79453fd-eae6-4362-9e41-59c796149286",
+        "type": "message",
+        "text": "y le pregunto cuanto era con VAT y dijo 150k USD :joy:",
+        "user": "UFW0A1GV8",
+        "ts": "1589449754.434200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3nZG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y le pregunto cuanto era con VAT y dijo 150k USD "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589448203.430600",
+        "parent_user_id": "UFW0A1GV8",
+        "reactions": [
+            {
+                "name": "exploding_head",
+                "users": [
+                    "U326S0XLJ",
+                    "UFW0A1GV8",
+                    "UNR7EF5EU"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88f96a46-bd7a-44fe-b09b-74de8bd36539",
+        "type": "message",
+        "text": "<https:\/\/i.imgur.com\/nHAsiqN.png>",
+        "user": "UFW0A1GV8",
+        "ts": "1589449803.434500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "1022x1273px image",
+                "image_url": "https:\/\/i.imgur.com\/nHAsiqN.png",
+                "image_width": 1022,
+                "image_height": 1273,
+                "image_bytes": 264894,
+                "from_url": "https:\/\/i.imgur.com\/nHAsiqN.png",
+                "id": 1,
+                "original_url": "https:\/\/i.imgur.com\/nHAsiqN.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hl9sr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/i.imgur.com\/nHAsiqN.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa51a744-9730-4a14-aef1-e5bbfaf2e33a",
+        "type": "message",
+        "text": "its best price",
+        "user": "UFW0A1GV8",
+        "ts": "1589449809.434800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X0dS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "its best price"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UBST0V53P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "179bbe5b-a8a4-4d1c-adae-f1bf29a74d6a",
+        "type": "message",
+        "text": "lol",
+        "user": "UNR7EF5EU",
+        "ts": "1589450040.435300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pfJeP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lol"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5500ad75-e40a-4252-a77e-e614015f163a",
+        "type": "message",
+        "text": "eso te pasa por comprar en suecia :stuck_out_tongue:",
+        "user": "UNR7EF5EU",
+        "ts": "1589450072.435500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OGFA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "eso te pasa por comprar en suecia "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589448203.430600",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "4abaaae6-426c-4b5a-a431-3de8292b9043",
+        "type": "message",
+        "text": "vale ahora entiendo lo que decías, que el precio que sale en la página en SEK es equivalente a un millón en USD\n\nPensaba que habías convertido los\n£10,015,289.99 del chat a USD y habías llegado a un millón, y estaba un poco preocupado por como iban las cosas en el Reino Unido :upside_down_face:",
+        "user": "U326S0XLJ",
+        "ts": "1589450471.435700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7620a01fab04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-15\/909450568838_7620a01fab0467dc0551_72.jpg",
+            "first_name": "Tom",
+            "real_name": "Tom Fenech",
+            "display_name": "tom-fenech",
+            "team": "T2Y6L54R3",
+            "name": "tom-fenech",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "znI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vale ahora entiendo lo que decías, que el precio que sale en la página en SEK es equivalente a un millón en USD\n\nPensaba que habías convertido los\n£10,015,289.99 del chat a USD y habías llegado a un millón, y estaba un poco preocupado por como iban las cosas en el Reino Unido "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "upside_down_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589448203.430600",
+        "parent_user_id": "UFW0A1GV8",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UNR7EF5EU",
+                    "UFW0A1GV8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a1f5f117-03f0-4d74-8b5f-a87c7ce2bb45",
+        "type": "message",
+        "text": "Who wouldn’t pay 10 million pounds for THAT laptop?",
+        "user": "UN6S9CCGH",
+        "ts": "1589450521.436200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rPW+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Who wouldn’t pay 10 million pounds for THAT laptop?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78e5d6ac-3a9f-454f-b255-7e001d438dfc",
+        "type": "message",
+        "text": "Ask for the previous owner",
+        "user": "UHR7R0AEM",
+        "ts": "1589450711.436800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "14963b892346",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-01\/781148649879_14963b892346017c9b5d_72.jpg",
+            "first_name": "",
+            "real_name": "Kristian",
+            "display_name": "Kristian",
+            "team": "T2Y6L54R3",
+            "name": "kristian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kpU8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ask for the previous owner"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23b8eb42-f9ff-4e61-b593-88e88c0111ef",
+        "type": "message",
+        "text": "Dell and it's prices.\n\nSpain: <https:\/\/www.dell.com\/es-es\/work\/shop\/port%C3%A1tiles-dell\/port%C3%A1til-xps-13\/spd\/xps-13-9300-laptop>\nSweeden: <https:\/\/www.dell.com\/sv-se\/work\/shop\/laptops\/ny-13\/spd\/xps-13-9300-laptop#tabs_section>\n\nTLDR: If you're going to buy a Dell, do it in Spain...",
+        "user": "U2Z7WKZFC",
+        "ts": "1589461746.438700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g7f9f6957881",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/97f9f69578810de91c13703adbfc2b2b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Jesus",
+            "real_name": "Jesus Antonio Canales Diez",
+            "display_name": "jacanales",
+            "team": "T2Y6L54R3",
+            "name": "jacanales",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Dell",
+                "title": "Portátil XPS 13 | Dell España",
+                "title_link": "https:\/\/www.dell.com\/es-es\/work\/shop\/port%C3%A1tiles-dell\/port%C3%A1til-xps-13\/spd\/xps-13-9300-laptop",
+                "text": "Este portátil XPS de 13 pulgadas, que cuenta con hasta la 10. ª generación de procesadores Intel y una pantalla 4K, se adapta perfectamente a las necesidades informáticas y de entretenimiento domésticas.",
+                "fallback": "Dell: Portátil XPS 13 | Dell España",
+                "thumb_url": "https:\/\/i.dell.com\/is\/image\/DellContent\/\/content\/dam\/global-site-design\/product_images\/dell_client_products\/notebooks\/xps_notebooks\/xps_13_9300\/global_spi\/ng\/white\/notebook-xps-13-9300-white-campaign-hero-504x350-ng.psd?fmt=jpg&wid=570&hei=400",
+                "from_url": "https:\/\/www.dell.com\/es-es\/work\/shop\/port%C3%A1tiles-dell\/port%C3%A1til-xps-13\/spd\/xps-13-9300-laptop",
+                "thumb_width": 570,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/www.dell.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.dell.com\/es-es\/work\/shop\/port%C3%A1tiles-dell\/port%C3%A1til-xps-13\/spd\/xps-13-9300-laptop"
+            },
+            {
+                "service_name": "Dell",
+                "title": "Bärbar dator XPS 13 | Dell Sverige",
+                "title_link": "https:\/\/www.dell.com\/sv-se\/work\/shop\/laptops\/ny-13\/spd\/xps-13-9300-laptop#tabs_section",
+                "text": "Den bärbara datorn XPS 13 tum, som har upp till 10:e generationens processorer från Intel och 4K-skärm, passar perfekt för datorjobb och underhållning i hemmet.",
+                "fallback": "Dell: Bärbar dator XPS 13 | Dell Sverige",
+                "thumb_url": "https:\/\/i.dell.com\/is\/image\/DellContent\/\/content\/dam\/global-site-design\/product_images\/dell_client_products\/notebooks\/xps_notebooks\/xps_13_9300\/global_spi\/ng\/white\/notebook-xps-13-9300-white-campaign-hero-504x350-ng.psd?fmt=jpg&wid=570&hei=400",
+                "from_url": "https:\/\/www.dell.com\/sv-se\/work\/shop\/laptops\/ny-13\/spd\/xps-13-9300-laptop#tabs_section",
+                "thumb_width": 570,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/www.dell.com\/favicon.ico",
+                "id": 2,
+                "original_url": "https:\/\/www.dell.com\/sv-se\/work\/shop\/laptops\/ny-13\/spd\/xps-13-9300-laptop#tabs_section"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oXJD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dell and it's prices.\n\nSpain: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dell.com\/es-es\/work\/shop\/port%C3%A1tiles-dell\/port%C3%A1til-xps-13\/spd\/xps-13-9300-laptop"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSweeden: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dell.com\/sv-se\/work\/shop\/laptops\/ny-13\/spd\/xps-13-9300-laptop#tabs_section"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nTLDR: If you're going to buy a Dell, do it in Spain..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589461746.438700",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1589467512.443400",
+        "reply_users": [
+            "U326S0XLJ",
+            "U32JSP0RW",
+            "U2XAT0MMX",
+            "U7BG5P0H3"
+        ],
+        "replies": [
+            {
+                "user": "U326S0XLJ",
+                "ts": "1589461945.439600"
+            },
+            {
+                "user": "U32JSP0RW",
+                "ts": "1589462003.439800"
+            },
+            {
+                "user": "U32JSP0RW",
+                "ts": "1589462019.440000"
+            },
+            {
+                "user": "U2XAT0MMX",
+                "ts": "1589465884.442800"
+            },
+            {
+                "user": "U326S0XLJ",
+                "ts": "1589466021.443100"
+            },
+            {
+                "user": "U7BG5P0H3",
+                "ts": "1589467512.443400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "13d6e73a-4bd9-49c9-93f7-0165bb81cd6e",
+        "type": "message",
+        "text": "Someone in Dell marketing department is gonna see all this extra traffic today and wonder what the hell is going on",
+        "user": "U326S0XLJ",
+        "ts": "1589461945.439600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7620a01fab04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-15\/909450568838_7620a01fab0467dc0551_72.jpg",
+            "first_name": "Tom",
+            "real_name": "Tom Fenech",
+            "display_name": "tom-fenech",
+            "team": "T2Y6L54R3",
+            "name": "tom-fenech",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mQzJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Someone in Dell marketing department is gonna see all this extra traffic today and wonder what the hell is going on"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589461746.438700",
+        "parent_user_id": "U2Z7WKZFC",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UNR7EF5EU",
+                    "UTWA4PFHN",
+                    "U49DCUW22"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0252e873-e2f9-4081-9412-ef87f890c14f",
+        "type": "message",
+        "text": "rofl",
+        "user": "U32JSP0RW",
+        "ts": "1589462003.439800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a548b720f1f3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-19\/199636525011_a548b720f1f3867916d3_72.jpg",
+            "first_name": "Jose",
+            "real_name": "Jose Ledesma",
+            "display_name": "joseluis.ledesma",
+            "team": "T2Y6L54R3",
+            "name": "joseluis.ledesma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2j=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "rofl"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589461746.438700",
+        "parent_user_id": "U2Z7WKZFC"
+    },
+    {
+        "client_msg_id": "ae9f3fe9-32be-4c16-9b03-fedfdfcdce86",
+        "type": "message",
+        "text": "I saw that this morning, they have not fixed it yet :facepalm:",
+        "user": "U32JSP0RW",
+        "ts": "1589462019.440000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a548b720f1f3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-19\/199636525011_a548b720f1f3867916d3_72.jpg",
+            "first_name": "Jose",
+            "real_name": "Jose Ledesma",
+            "display_name": "joseluis.ledesma",
+            "team": "T2Y6L54R3",
+            "name": "joseluis.ledesma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VUdc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I saw that this morning, they have not fixed it yet "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "facepalm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589461746.438700",
+        "parent_user_id": "U2Z7WKZFC"
+    },
+    {
+        "client_msg_id": "720aaa88-43e0-4768-aaee-b0a96c367ce1",
+        "type": "message",
+        "text": "Meanwhile in France (una publicidad de supermercado para Los heroes)\n<https:\/\/twitter.com\/jeancafecreme\/status\/1260489803105210370?s=19|https:\/\/twitter.com\/jeancafecreme\/status\/1260489803105210370?s=19>",
+        "user": "UDHAZQNF9",
+        "ts": "1589462475.441000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/jeancafecreme|@jeancafecreme>: Merci à nos héros :laughing: <https:\/\/pbs.twimg.com\/media\/EX4ox0OXkAAjKfZ.jpg>",
+                "ts": 1589359162,
+                "author_name": "Jean Café en CASA🏡",
+                "author_link": "https:\/\/twitter.com\/jeancafecreme\/status\/1260489803105210370",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1174310509191081984\/7IEwlBGJ_normal.jpg",
+                "author_subname": "@jeancafecreme",
+                "text": "Merci à nos héros :laughing: <https:\/\/pbs.twimg.com\/media\/EX4ox0OXkAAjKfZ.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/jeancafecreme\/status\/1260489803105210370?s=19",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EX4ox0OXkAAjKfZ.jpg",
+                "image_width": 900,
+                "image_height": 1200,
+                "image_bytes": 227481,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/jeancafecreme\/status\/1260489803105210370?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/EX4oyhGXkAE-Mgx.jpg>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EX4oyhGXkAE-Mgx.jpg",
+                "image_width": 1080,
+                "image_height": 1034,
+                "image_bytes": 130185,
+                "id": 2
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/EX4oy3rWkAMCmh7.jpg>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EX4oy3rWkAMCmh7.jpg",
+                "image_width": 363,
+                "image_height": 401,
+                "image_bytes": 19254,
+                "id": 3
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lD\/iA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Meanwhile in France (una publicidad de supermercado para Los heroes)\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/jeancafecreme\/status\/1260489803105210370?s=19",
+                                "text": "https:\/\/twitter.com\/jeancafecreme\/status\/1260489803105210370?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589462475.441000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589470522.445700",
+        "reply_users": [
+            "U3R29MX61"
+        ],
+        "replies": [
+            {
+                "user": "U3R29MX61",
+                "ts": "1589470522.445700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U36H6F3CN",
+                    "U40KDVDQF",
+                    "UEE6JJN7Q",
+                    "UNR7EF5EU",
+                    "U32JSP0RW",
+                    "UJK8XAJAK",
+                    "U6WTNB7G9",
+                    "UC58U6AP9",
+                    "UP10MUMJT",
+                    "UCRBKBDNU",
+                    "U7BG5P0H3",
+                    "U4RAEJQGK",
+                    "US07UNLL8",
+                    "U6A845RPY",
+                    "U4HCQ4X1S",
+                    "U35UMTQ6L",
+                    "UGC8J6E8J",
+                    "U31CSMY0G",
+                    "UGUQTPSQM",
+                    "UR17BJNJK",
+                    "UBST0V53P"
+                ],
+                "count": 21
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cb8f084-e9ac-4cae-ae79-c083e99807b3",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/chselles\/status\/1260926296009461761?s=19|https:\/\/twitter.com\/chselles\/status\/1260926296009461761?s=19>",
+        "user": "UDHAZQNF9",
+        "ts": "1589463425.442200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UDHAZQNF9",
+            "ts": "1589465060.000000"
+        },
+        "attachments": [
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/EX-1wxAVAAkltPF.jpg>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EX-1wxAVAAkltPF.jpg",
+                "image_width": 700,
+                "image_height": 878,
+                "image_bytes": 111367,
+                "id": 2
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/EX-1xM9U0AMB9tL.jpg>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EX-1xM9U0AMB9tL.jpg",
+                "image_width": 700,
+                "image_height": 875,
+                "image_bytes": 127190,
+                "id": 3
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/EX-1xtuVAAAyzh6.jpg>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EX-1xtuVAAAyzh6.jpg",
+                "image_width": 700,
+                "image_height": 467,
+                "image_bytes": 115539,
+                "id": 4
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "etRu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/chselles\/status\/1260926296009461761?s=19",
+                                "text": "https:\/\/twitter.com\/chselles\/status\/1260926296009461761?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UN50VV6PK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10ce85d8-4245-43e7-80d9-e9d4242c19b3",
+        "type": "message",
+        "text": "Eso se hace en muchisimas empresas, ponen precios acorde al coste de vida",
+        "user": "U2XAT0MMX",
+        "ts": "1589465884.442800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a3866b08ae69",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-28\/220210215495_a3866b08ae694aa79e70_72.jpg",
+            "first_name": "Albert",
+            "real_name": "Albert Playà",
+            "display_name": "albertplaya",
+            "team": "T2Y6L54R3",
+            "name": "albertplaya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2XAT0MMX",
+            "ts": "1589465899.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jnW4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Eso se hace en muchisimas empresas, ponen precios acorde al coste de vida"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589461746.438700",
+        "parent_user_id": "U2Z7WKZFC"
+    },
+    {
+        "client_msg_id": "9275bec3-a554-46c6-bbbf-0cb5640b5d80",
+        "type": "message",
+        "text": "Hombre el coste de la vida en Suecia será más alto pero mil veces más alto no creo :stuck_out_tongue:",
+        "user": "U326S0XLJ",
+        "ts": "1589466021.443100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7620a01fab04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-15\/909450568838_7620a01fab0467dc0551_72.jpg",
+            "first_name": "Tom",
+            "real_name": "Tom Fenech",
+            "display_name": "tom-fenech",
+            "team": "T2Y6L54R3",
+            "name": "tom-fenech",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SLw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hombre el coste de la vida en Suecia será más alto pero mil veces más alto no creo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589461746.438700",
+        "parent_user_id": "U2Z7WKZFC"
+    },
+    {
+        "client_msg_id": "108bb9dc-f8ba-41d7-942a-20b72554a202",
+        "type": "message",
+        "text": "No es la primera vez que les pasa.. Ya pusieron unos portátiles a 29€ hace unos meses :facepalm:",
+        "user": "U7BG5P0H3",
+        "ts": "1589467512.443400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "181ed0498e5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-02\/249542169600_181ed0498e5d0017edab_72.jpg",
+            "first_name": "Luis",
+            "real_name": "Luis Tacón",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "luis824",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oh=tJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No es la primera vez que les pasa.. Ya pusieron unos portátiles a 29€ hace unos meses "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "facepalm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589461746.438700",
+        "parent_user_id": "U2Z7WKZFC",
+        "reactions": [
+            {
+                "name": "take_my_money",
+                "users": [
+                    "U326S0XLJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2e8a4c5-c595-4dd4-a600-b8c1c8ad83df",
+        "type": "message",
+        "text": "Se acaba de hacer de noche de repente en Barcelona :laughing: que mal tiempo",
+        "user": "U2WPLA0KA",
+        "ts": "1589469842.444100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BN0lP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Se acaba de hacer de noche de repente en Barcelona "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " que mal tiempo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "reply_count": 17,
+        "reply_users_count": 5,
+        "latest_reply": "1589474162.449700",
+        "reply_users": [
+            "U36H6F3CN",
+            "U7BG5P0H3",
+            "U326S0XLJ",
+            "UNR7EF5EU",
+            "U2WPLA0KA"
+        ],
+        "replies": [
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589469900.444300"
+            },
+            {
+                "user": "U7BG5P0H3",
+                "ts": "1589469913.444500"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589469929.444700"
+            },
+            {
+                "user": "U326S0XLJ",
+                "ts": "1589470003.445000"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589470032.445300"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589473211.446900"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589473476.447100"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589473517.447300"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589473531.447500"
+            },
+            {
+                "user": "U326S0XLJ",
+                "ts": "1589473539.447700"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589473555.447900"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589473626.448100"
+            },
+            {
+                "user": "U326S0XLJ",
+                "ts": "1589473810.448500"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589473838.448900"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589473881.449100"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589473931.449300"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589474162.449700"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U36H6F3CN",
+                    "U6J7N1UPQ",
+                    "UC58U6AP9",
+                    "UNR7EF5EU",
+                    "UEDFE7J07",
+                    "U49DCUW22"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5b74292-b1b0-445d-9643-969226bfc63e",
+        "type": "message",
+        "text": "Lleva un día bastante regulero, a ver cuando vienen los días de solete :sun:",
+        "user": "U36H6F3CN",
+        "ts": "1589469900.444300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lAsQ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lleva un día bastante regulero, a ver cuando vienen los días de solete "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sun"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "7e457665-64b5-4aa7-87cf-049f7bb648c1",
+        "type": "message",
+        "text": "Vaya nubes más feas :confounded:",
+        "user": "U7BG5P0H3",
+        "ts": "1589469913.444500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "181ed0498e5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-02\/249542169600_181ed0498e5d0017edab_72.jpg",
+            "first_name": "Luis",
+            "real_name": "Luis Tacón",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "luis824",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ks4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Vaya nubes más feas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confounded"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "e6bd3aab-6eca-4d8a-ab12-1cd20e3dbc84",
+        "type": "message",
+        "text": "Además ha estado lloviendo todo el día verdad?",
+        "user": "U36H6F3CN",
+        "ts": "1589469929.444700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j9sC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Además ha estado lloviendo todo el día verdad?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "d24f1211-adcb-4c15-af2f-7bdf5bf0a11c",
+        "type": "message",
+        "text": "no vayáis a vivir en inglaterra nunca :joy: igual os pegáis un tiro la primera semana",
+        "user": "U326S0XLJ",
+        "ts": "1589470003.445000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7620a01fab04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-15\/909450568838_7620a01fab0467dc0551_72.jpg",
+            "first_name": "Tom",
+            "real_name": "Tom Fenech",
+            "display_name": "tom-fenech",
+            "team": "T2Y6L54R3",
+            "name": "tom-fenech",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U326S0XLJ",
+            "ts": "1589470017.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MXY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no vayáis a vivir en inglaterra nunca "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " igual os pegáis un tiro la primera semana"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U6A845RPY",
+                    "UNR7EF5EU",
+                    "UEDFE7J07"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e376a5b4-438d-41ef-a656-a6dafb83311d",
+        "type": "message",
+        "text": "Es una de las razones por las que nunca me ha llamado irme a UK a vivir la verdad jajaja",
+        "user": "U36H6F3CN",
+        "ts": "1589470032.445300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U1nJo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Es una de las razones por las que nunca me ha llamado irme a UK a vivir la verdad jajaja"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA",
+        "reactions": [
+            {
+                "name": "umbrella_with_rain_drops",
+                "users": [
+                    "U326S0XLJ",
+                    "U6WTNB7G9",
+                    "U7BG5P0H3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05897663-bbd3-43d6-b819-3f47ca7d730b",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=FScfGU7rQaM>",
+        "user": "U3R29MX61",
+        "ts": "1589470522.445700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "3efb2de13fe0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-15\/715945495075_3efb2de13fe01a3ae9a3_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Ferraz",
+            "display_name": "Sergio Ferraz",
+            "team": "T2Y6L54R3",
+            "name": "sferrazjr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Waking up as a meme-hero | Andras Arato | TEDxKyiv",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=FScfGU7rQaM",
+                "author_name": "TEDx Talks",
+                "author_link": "https:\/\/www.youtube.com\/user\/TEDxTalks",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/FScfGU7rQaM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Waking up as a meme-hero | Andras Arato | TEDxKyiv",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/FScfGU7rQaM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=FScfGU7rQaM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=FScfGU7rQaM"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XX4s2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=FScfGU7rQaM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589462475.441000",
+        "parent_user_id": "UDHAZQNF9"
+    },
+    {
+        "client_msg_id": "88e6179e-56bb-496a-bb98-b6d4b92740e6",
+        "type": "message",
+        "text": "Ha caído una muy guapa aki en tiana :ok_hand::ok_hand:",
+        "user": "UNR7EF5EU",
+        "ts": "1589473211.446900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fcx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ha caído una muy guapa aki en tiana "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "db3ba2e3-e3d1-4ba5-a60d-6dfad6429b8d",
+        "type": "message",
+        "text": "<@U326S0XLJ> no tiene nada que ver la lluvia de aqui con la de alli",
+        "user": "U2WPLA0KA",
+        "ts": "1589473476.447100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CUq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U326S0XLJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " no tiene nada que ver la lluvia de aqui con la de alli"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "f47f9c1d-52ba-404e-87ba-e5c899659e82",
+        "type": "message",
+        "text": "Aquí llueve poco, pero cuando lo hace suele ser en mucha cantidad. Alli no.",
+        "user": "U2WPLA0KA",
+        "ts": "1589473517.447300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SDr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aquí llueve poco, pero cuando lo hace suele ser en mucha cantidad. Alli no."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "5a8092d0-9b6c-4fd6-9335-b9929f163f86",
+        "type": "message",
+        "text": "No llueve tan fuerte alli??",
+        "user": "UNR7EF5EU",
+        "ts": "1589473531.447500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "get++",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No llueve tan fuerte alli??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "f4def8ac-d8c3-4263-aa9d-4e2591f04b32",
+        "type": "message",
+        "text": "de normal, no",
+        "user": "U326S0XLJ",
+        "ts": "1589473539.447700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7620a01fab04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-15\/909450568838_7620a01fab0467dc0551_72.jpg",
+            "first_name": "Tom",
+            "real_name": "Tom Fenech",
+            "display_name": "tom-fenech",
+            "team": "T2Y6L54R3",
+            "name": "tom-fenech",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qaNEw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "de normal, no"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "7f8f2e24-2367-4db9-a9bb-7aefee11fc17",
+        "type": "message",
+        "text": ":+1:",
+        "user": "UNR7EF5EU",
+        "ts": "1589473555.447900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GE1fD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "8b3ef2af-f0af-43ca-89d2-a3d643c48ad1",
+        "type": "message",
+        "text": "Igualmente creo k paso eh jajaja tu que prefieres <@U326S0XLJ>??",
+        "user": "UNR7EF5EU",
+        "ts": "1589473626.448100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pai",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Igualmente creo k paso eh jajaja tu que prefieres "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U326S0XLJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "513484b9-22af-443c-9766-034993e4bff2",
+        "type": "message",
+        "text": "está claro que aquí el tiempo que hace es mil veces mejor que el de allá :stuck_out_tongue:\nAquí cuando hace malo, muchas veces llueve bastante fuerte pero tengo que decir que aquí caen cuatro gotas y todos a llorar",
+        "user": "U326S0XLJ",
+        "ts": "1589473810.448500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7620a01fab04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-15\/909450568838_7620a01fab0467dc0551_72.jpg",
+            "first_name": "Tom",
+            "real_name": "Tom Fenech",
+            "display_name": "tom-fenech",
+            "team": "T2Y6L54R3",
+            "name": "tom-fenech",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rjm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "está claro que aquí el tiempo que hace es mil veces mejor que el de allá "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAquí cuando hace malo, muchas veces llueve bastante fuerte pero tengo que decir que aquí caen cuatro gotas y todos a llorar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UNR7EF5EU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UNR7EF5EU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f45aacf-b425-43ce-83f2-c7f12af2358f",
+        "type": "message",
+        "text": "Nos encanta quejarnos. Eso seguro jajaja",
+        "user": "UNR7EF5EU",
+        "ts": "1589473838.448900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4=6vU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nos encanta quejarnos. Eso seguro jajaja"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "8396e6db-8df8-4eb2-9f52-701c43a1692e",
+        "type": "message",
+        "text": "Bueno, yo me quejo porque ni me gusta el frío ni la lluvia básicamente :joy:",
+        "user": "U36H6F3CN",
+        "ts": "1589473881.449100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PhS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bueno, yo me quejo porque ni me gusta el frío ni la lluvia básicamente "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA"
+    },
+    {
+        "client_msg_id": "650aa8f8-faf1-4c7d-a7d4-cf85189b662e",
+        "type": "message",
+        "text": "Y en verano pq el calor no se aguanta :joy::joy: la question es quejarse jajaja",
+        "user": "UNR7EF5EU",
+        "ts": "1589473931.449300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mSi35",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y en verano pq el calor no se aguanta "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " la question es quejarse jajaja"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA",
+        "reactions": [
+            {
+                "name": "true",
+                "users": [
+                    "U326S0XLJ",
+                    "U7BG5P0H3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58a534f3-393b-40b1-901f-11002fd0f67a",
+        "type": "message",
+        "text": "Ah, no, no, yo del verano no tengo queja ninguna, algún día me puedo quejar puntualmente del calor, pero lo prefiero al frío",
+        "user": "U36H6F3CN",
+        "ts": "1589474162.449700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p2Uf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ah, no, no, yo del verano no tengo queja ninguna, algún día me puedo quejar puntualmente del calor, pero lo prefiero al frío"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589469842.444100",
+        "parent_user_id": "U2WPLA0KA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UNR7EF5EU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad833992-52e4-4df3-9ad9-8016f72382e7",
+        "type": "message",
+        "text": "GTA 5 gratis en epic",
+        "user": "UFW0A1GV8",
+        "ts": "1589479621.450400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Kr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "GTA 5 gratis en epic"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62fbf9ee-8f10-4ca6-8df1-20064692e341",
+        "type": "message",
+        "text": "Todo caído por eso xd",
+        "user": "UFW0A1GV8",
+        "ts": "1589479628.450700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H+s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Todo caído por eso xd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589479628.450700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589480158.450900",
+        "reply_users": [
+            "UP07X5FQC"
+        ],
+        "replies": [
+            {
+                "user": "UP07X5FQC",
+                "ts": "1589480158.450900"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "818e6516-0934-4ef5-95c3-4671142e91f9",
+        "type": "message",
+        "text": "Hehehe. Se nos olvidan todas las penas. Sera mi primer juego en el epic store",
+        "user": "UP07X5FQC",
+        "ts": "1589480158.450900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gb1e30f7bdf6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b1e30f7bdf65b2c60db61026ce296c1e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Daniel Sapundziev",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "daniel010",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Pjd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hehehe. Se nos olvidan todas las penas. Sera mi primer juego en el epic store"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589479628.450700",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "2bb164a1-4c98-4529-8345-f6f401ab0824",
+        "type": "message",
+        "text": "Youtube caido :ripparrot:",
+        "user": "UFW0A1GV8",
+        "ts": "1589498674.451700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3vp1w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Youtube caido "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ripparrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "se actualizo el diseno y se cayo, deploys on fridays jajaja]",
+        "files": [
+            {
+                "id": "F013N2Q8HSR",
+                "created": 1589498689,
+                "timestamp": 1589498689,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFW0A1GV8",
+                "editable": false,
+                "size": 234017,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013N2Q8HSR\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013N2Q8HSR\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N2Q8HSR-b7388dc725\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N2Q8HSR-b7388dc725\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N2Q8HSR-b7388dc725\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 178,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N2Q8HSR-b7388dc725\/image_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 237,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N2Q8HSR-b7388dc725\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N2Q8HSR-b7388dc725\/image_720.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720_w": 720,
+                "thumb_720_h": 355,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N2Q8HSR-b7388dc725\/image_800.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 395,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N2Q8HSR-b7388dc725\/image_960.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_960_w": 960,
+                "thumb_960_h": 474,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013N2Q8HSR-b7388dc725\/image_1024.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 505,
+                "original_w": 1595,
+                "original_h": 787,
+                "thumb_tiny": "AwAXADCq+CqnKZPYDGKjop8iqpGxt2RTEMzRmnoqFGLNggcD1pqgFgDwKBiUZpzBQxAyRQVAjDbhk9qAGUUUUAFFFFABRRRQB\/\/Z",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/UFW0A1GV8\/F013N2Q8HSR\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013N2Q8HSR-3a4b5b7a39",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZsKS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "se actualizo el diseno y se cayo, deploys on fridays jajaja]"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UFW0A1GV8",
+        "display_as_bot": false,
+        "ts": "1589498691.451800",
+        "client_msg_id": "262a48b2-c856-40f7-ad0a-4f2926b2573f"
+    }
+]
