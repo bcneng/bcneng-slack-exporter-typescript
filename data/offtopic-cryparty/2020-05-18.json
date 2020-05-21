@@ -1,0 +1,207 @@
+[
+    {
+        "client_msg_id": "84f6dbe8-4b70-4fb0-adfd-c7b5df2e8cd5",
+        "type": "message",
+        "text": "2 veces preguntando mismas cosas a Mapfre... 2 veces que no van a responder a mis preguntas... Tengo una respuesta pero no corresponde :sob:",
+        "user": "UDHAZQNF9",
+        "ts": "1589867892.060800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gei6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2 veces preguntando mismas cosas a Mapfre... 2 veces que no van a responder a mis preguntas... Tengo una respuesta pero no corresponde "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AEC9BE0F-5494-4B5C-8927-1A5403E804FE",
+        "type": "message",
+        "text": "Yo en breve cumplo mis nuevos 20 :older_man: ",
+        "user": "U3S8PPA3S",
+        "ts": "1589870206.061500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "40f38c936016",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-22\/845159114320_40f38c9360168d85fd67_72.png",
+            "first_name": "Nicolas",
+            "real_name": "Nicolas Gonzalez",
+            "display_name": "nicogonzalez",
+            "team": "T2Y6L54R3",
+            "name": "nicogonzalez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IDEu8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo en breve cumplo mis nuevos 20 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "older_man"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589563880.055700",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "82a53046-7c26-4cb6-9af0-bba723fdca00",
+        "type": "message",
+        "text": "No os dejéis llevar por el Free Tier de AWS, y mirad bien qué gasta cada cosa xD",
+        "user": "U5HQG3H18",
+        "ts": "1589870791.062400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "f6cace66645e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-03\/192363430340_f6cace66645eb2aa805c_72.jpg",
+            "first_name": "Eduard",
+            "real_name": "Eduard Simón",
+            "display_name": "zimonbizkit",
+            "team": "T2Y6L54R3",
+            "name": "zimonbizkit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UeTv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No os dejéis llevar por el Free Tier de AWS, y mirad bien qué gasta cada cosa xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589870791.062400",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1589882967.063700",
+        "reply_users": [
+            "UN6S9CCGH",
+            "U5HQG3H18",
+            "U32JSP0RW",
+            "U310GJXHC"
+        ],
+        "replies": [
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589871066.062500"
+            },
+            {
+                "user": "U5HQG3H18",
+                "ts": "1589872677.062700"
+            },
+            {
+                "user": "U5HQG3H18",
+                "ts": "1589872956.063100"
+            },
+            {
+                "user": "U32JSP0RW",
+                "ts": "1589878509.063300"
+            },
+            {
+                "user": "U32JSP0RW",
+                "ts": "1589878525.063500"
+            },
+            {
+                "user": "U310GJXHC",
+                "ts": "1589882967.063700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f6899a65-c1de-4361-aa6e-72da3366ca1e",
+        "type": "message",
+        "text": "Eso suena a susto en la factura.",
+        "user": "UN6S9CCGH",
+        "ts": "1589871066.062500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KqWD4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Eso suena a susto en la factura."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589870791.062400",
+        "parent_user_id": "U5HQG3H18"
+    }
+]

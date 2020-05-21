@@ -1,0 +1,266 @@
+[
+    {
+        "client_msg_id": "2c8d8f67-e27f-4525-8b09-6b12917979b5",
+        "type": "message",
+        "text": "Buenos días a todos, ya estaba por este canal ojeando, pero hoy ya es full oficial, se me ha terminado la baja! (:skull_and_crossbones: )",
+        "user": "UDYMW0QH5",
+        "ts": "1589784251.191500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga5771d9930e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea5771d9930e4e853c58d605e6d9ca8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Joan Maeso",
+            "display_name": "jmaeso",
+            "team": "T2Y6L54R3",
+            "name": "jmaeso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eb4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Buenos días a todos, ya estaba por este canal ojeando, pero hoy ya es full oficial, se me ha terminado la baja! ("
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "skull_and_crossbones"
+                            },
+                            {
+                                "type": "text",
+                                "text": " )"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U6A845RPY"
+                ],
+                "count": 1
+            },
+            {
+                "name": "disappointed",
+                "users": [
+                    "UEDFE7J07"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "623ddfb8-8d07-468f-960a-969aba246097",
+        "type": "message",
+        "text": "Saludos a parte quiero compartir un poco lo que me he encontrado, llevo ya días pensando como seria trabajar desde casa con la nueva incorporación en la familia, pero no vi nada relevante. Ha sido levantarme, ponerme delante del ordenador y darme cuenta que:\n1- No me atrevo a hacer nada de ruido, bye good morning coffee.\n2- Cuando me pidan hacer una call (presentaciones con gente nueva, pair programming, scrums, etc.) Va a estar bien visto que no me vaya bien por el ruido? (en caso que la peque duerma)\n3- Era un gran defensor del trabajo remoto como si fuese presencial (always dressed, always webcam, etc) pero no he podido vestirme hoy, la niña ha pasado una de las peores noches ever.\nA ver si me podeis dar algun consejillo jeje aunque sea algo de apoyo :joy:",
+        "user": "UDYMW0QH5",
+        "ts": "1589784562.196700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga5771d9930e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea5771d9930e4e853c58d605e6d9ca8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Joan Maeso",
+            "display_name": "jmaeso",
+            "team": "T2Y6L54R3",
+            "name": "jmaeso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "14m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Saludos a parte quiero compartir un poco lo que me he encontrado, llevo ya días pensando como seria trabajar desde casa con la nueva incorporación en la familia, pero no vi nada relevante. Ha sido levantarme, ponerme delante del ordenador y darme cuenta que:\n1- No me atrevo a hacer nada de ruido, bye good morning coffee.\n2- Cuando me pidan hacer una call (presentaciones con gente nueva, pair programming, scrums, etc.) Va a estar bien visto que no me vaya bien por el ruido? (en caso que la peque duerma)\n3- Era un gran defensor del trabajo remoto como si fuese presencial (always dressed, always webcam, etc) pero no he podido vestirme hoy, la niña ha pasado una de las peores noches ever.\nA ver si me podeis dar algun consejillo jeje aunque sea algo de apoyo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589784562.196700",
+        "reply_count": 12,
+        "reply_users_count": 8,
+        "latest_reply": "1589865701.200300",
+        "reply_users": [
+            "U6SF71BFT",
+            "U389HN5E3",
+            "U2Y4MJNEL",
+            "U2WQ6EU3A",
+            "U38SUJJV7",
+            "U2YM1G5CM",
+            "U88TVKT7V",
+            "UDYMW0QH5"
+        ],
+        "replies": [
+            {
+                "user": "U6SF71BFT",
+                "ts": "1589784838.196800"
+            },
+            {
+                "user": "U389HN5E3",
+                "ts": "1589786682.197100"
+            },
+            {
+                "user": "U2Y4MJNEL",
+                "ts": "1589786941.197300"
+            },
+            {
+                "user": "U2Y4MJNEL",
+                "ts": "1589786960.197500"
+            },
+            {
+                "user": "U2WQ6EU3A",
+                "ts": "1589787207.197700"
+            },
+            {
+                "user": "U2WQ6EU3A",
+                "ts": "1589787262.197900"
+            },
+            {
+                "user": "U2WQ6EU3A",
+                "ts": "1589787289.198100"
+            },
+            {
+                "user": "U38SUJJV7",
+                "ts": "1589789109.198300"
+            },
+            {
+                "user": "U38SUJJV7",
+                "ts": "1589789190.198500"
+            },
+            {
+                "user": "U2YM1G5CM",
+                "ts": "1589790111.199300"
+            },
+            {
+                "user": "U88TVKT7V",
+                "ts": "1589815695.200000"
+            },
+            {
+                "user": "UDYMW0QH5",
+                "ts": "1589865701.200300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "baby_symbol",
+                "users": [
+                    "U38SUJJV7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52736028-f650-42ac-93b3-281ec4ba356c",
+        "type": "message",
+        "text": "1. Yo tambien temo hacer ruido y despertarlos. En mi experiencia no se suelen despertar con ruidos 'ligeros', pero eso ya es cosa de cada niño :stuck_out_tongue:. En mi caso igual se despertaria el mayor (3yr) pero el peque de 1 rara vez se despierta por ruidos.\n2. yo cuando duermen intento no hacer reuniones. pero volviendo a lo de antes, cuando son bebes rara vez se despiertan (los mios almenos). Igualmente yo he hecho varias calls desde la cocina :stuck_out_tongue:\n3. Nosotros cuando hablamos en horas fuera de lo habitual (on-call nocturno por ejemplo) no ponemos la camara. La ponemos siempre, pero si alguien no la pone entendemos que no puede, y se respeta.",
+        "user": "U6SF71BFT",
+        "ts": "1589784838.196800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3UsS",
+                "elements": [
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Yo tambien temo hacer ruido y despertarlos. En mi experiencia no se suelen despertar con ruidos 'ligeros', pero eso ya es cosa de cada niño "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "stuck_out_tongue"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": ". En mi caso igual se despertaria el mayor (3yr) pero el peque de 1 rara vez se despierta por ruidos."
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "yo cuando duermen intento no hacer reuniones. pero volviendo a lo de antes, cuando son bebes rara vez se despiertan (los mios almenos). Igualmente yo he hecho varias calls desde la cocina "
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "stuck_out_tongue"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Nosotros cuando hablamos en horas fuera de lo habitual (on-call nocturno por ejemplo) no ponemos la camara. La ponemos siempre, pero si alguien no la pone entendemos que no puede, y se respeta."
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589784562.196700",
+        "parent_user_id": "UDYMW0QH5",
+        "reactions": [
+            {
+                "name": "ty",
+                "users": [
+                    "UDYMW0QH5"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

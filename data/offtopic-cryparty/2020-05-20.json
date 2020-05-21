@@ -1,0 +1,995 @@
+[
+    {
+        "client_msg_id": "902c71bd-855c-4560-8703-a46fba9e9ff8",
+        "type": "message",
+        "text": "tests que nunca se ejecutan en CI y nadie jamas lo habia notado",
+        "user": "U6WTNB7G9",
+        "ts": "1589962680.068700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gccb0e99c1ff",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3ccb0e99c1fff4d4df992eeffb52f9e2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Mishu",
+            "real_name": "Mishu Dark",
+            "display_name": "M ιSHΨD 4-RK",
+            "team": "T2Y6L54R3",
+            "name": "mishudark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hJ+9y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tests que nunca se ejecutan en CI y nadie jamas lo habia notado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589962680.068700",
+        "reply_count": 8,
+        "reply_users_count": 6,
+        "latest_reply": "1589965307.070800",
+        "reply_users": [
+            "U2Y6QQHST",
+            "U2YM1G5CM",
+            "U6WTNB7G9",
+            "U2Y6KTWRZ",
+            "UFW0A1GV8",
+            "UB82Y3A3W"
+        ],
+        "replies": [
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589962755.068800"
+            },
+            {
+                "user": "U2YM1G5CM",
+                "ts": "1589963030.069000"
+            },
+            {
+                "user": "U6WTNB7G9",
+                "ts": "1589963074.069200"
+            },
+            {
+                "user": "U2Y6KTWRZ",
+                "ts": "1589964704.069400"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589965185.069600"
+            },
+            {
+                "user": "UB82Y3A3W",
+                "ts": "1589965228.069800"
+            },
+            {
+                "user": "UB82Y3A3W",
+                "ts": "1589965240.070100"
+            },
+            {
+                "user": "U6WTNB7G9",
+                "ts": "1589965307.070800"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1589965307.070800"
+    },
+    {
+        "client_msg_id": "524e876c-5cac-4d34-ae66-9afbbe8656a7",
+        "type": "message",
+        "text": "nice catch! :gopherdance:",
+        "user": "U2Y6QQHST",
+        "ts": "1589962755.068800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AC7hc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nice catch! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "gopherdance"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589962680.068700",
+        "parent_user_id": "U6WTNB7G9"
+    },
+    {
+        "client_msg_id": "3f1bb807-3964-4cb3-b041-fa7e14b3c2a5",
+        "type": "message",
+        "text": "Soy también muy fan de lo contario, tests que cubren código que sólo ejecutan los tests",
+        "user": "U2YM1G5CM",
+        "ts": "1589963030.069000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd6cefe6793b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d6cefe6793bce07335ca4168bc22ba7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Míguez",
+            "display_name": "mrzard",
+            "team": "T2Y6L54R3",
+            "name": "mrzard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0TN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Soy también muy fan de lo contario, tests que cubren código que sólo ejecutan los tests"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589962680.068700",
+        "parent_user_id": "U6WTNB7G9"
+    },
+    {
+        "client_msg_id": "5915b66e-92e3-4199-a702-a3dad7a9c1da",
+        "type": "message",
+        "text": "o 1 test e2e para incrementar el coverage",
+        "user": "U6WTNB7G9",
+        "ts": "1589963074.069200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gccb0e99c1ff",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3ccb0e99c1fff4d4df992eeffb52f9e2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Mishu",
+            "real_name": "Mishu Dark",
+            "display_name": "M ιSHΨD 4-RK",
+            "team": "T2Y6L54R3",
+            "name": "mishudark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oiof",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "o 1 test e2e para incrementar el coverage"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589962680.068700",
+        "parent_user_id": "U6WTNB7G9"
+    },
+    {
+        "client_msg_id": "4e8f19d8-a2e7-4658-b650-4a73f43dc7b6",
+        "type": "message",
+        "text": "si no se ejecuta, no puede petar! 100% de CI verde :aw_yeah:",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589964704.069400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lY4b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si no se ejecuta, no puede petar! 100% de CI verde "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "aw_yeah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589962680.068700",
+        "parent_user_id": "U6WTNB7G9"
+    },
+    {
+        "client_msg_id": "fdbe89d2-ccd8-42eb-af9e-7ef8e079509f",
+        "type": "message",
+        "text": "Yo siempre agrego un test que falla con la anotacion de fallar el build si ese test funciona",
+        "user": "UFW0A1GV8",
+        "ts": "1589965185.069600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sD\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo siempre agrego un test que falla con la anotacion de fallar el build si ese test funciona"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589962680.068700",
+        "parent_user_id": "U6WTNB7G9",
+        "reactions": [
+            {
+                "name": "top",
+                "users": [
+                    "U3S8PPA3S",
+                    "U314KFBT6"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a14a491-8a7c-49f7-8009-d20b6d1a2dcb",
+        "type": "message",
+        "text": "si no hay tests no hay problemas",
+        "user": "UB82Y3A3W",
+        "ts": "1589965228.069800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2f79c9a1d902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-15\/381629494208_2f79c9a1d9023c4422f2_72.jpg",
+            "first_name": "acanimal",
+            "real_name": "acanimal",
+            "display_name": "acanimal",
+            "team": "T2Y6L54R3",
+            "name": "asantiagop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eeMxa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si no hay tests no hay problemas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589962680.068700",
+        "parent_user_id": "U6WTNB7G9",
+        "reactions": [
+            {
+                "name": "troll",
+                "users": [
+                    "U6A845RPY",
+                    "UEDFE7J07",
+                    "U36H6F3CN",
+                    "U7BG5P0H3"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "bot_id": "B2Y6M3HAS",
+        "type": "message",
+        "text": "think on it",
+        "user": "UB82Y3A3W",
+        "ts": "1589965240.070100",
+        "team": "T2Y6L54R3",
+        "bot_profile": {
+            "id": "B2Y6M3HAS",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1478167615,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T2Y6L54R3"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "Jy0",
+                "image_url": "https:\/\/media0.giphy.com\/media\/d3mlE7uhX8KFgEmY\/giphy.gif?cid=6104955ec6cbde96e84a35d6c98793f3c07af1e0d1f17220&rid=giphy.gif",
+                "alt_text": "think on it",
+                "title": {
+                    "type": "plain_text",
+                    "text": "think on it",
+                    "emoji": true
+                },
+                "fallback": "480x264px image",
+                "image_width": 480,
+                "image_height": 264,
+                "image_bytes": 1544147,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "2\/Vh",
+                "elements": [
+                    {
+                        "fallback": "32x32px image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "image_width": 32,
+                        "image_height": 32,
+                        "image_bytes": 603,
+                        "type": "image",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/Identity\/|Identity>",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589962680.068700",
+        "parent_user_id": "U6WTNB7G9"
+    },
+    {
+        "client_msg_id": "1d596c0b-3a25-4882-b8c5-7d7db4bc3177",
+        "type": "message",
+        "text": "esa fue la pista que me hizo sospechar",
+        "user": "U6WTNB7G9",
+        "ts": "1589965307.070800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gccb0e99c1ff",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3ccb0e99c1fff4d4df992eeffb52f9e2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Mishu",
+            "real_name": "Mishu Dark",
+            "display_name": "M ιSHΨD 4-RK",
+            "team": "T2Y6L54R3",
+            "name": "mishudark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2RFuI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "esa fue la pista que me hizo sospechar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589962680.068700",
+        "parent_user_id": "U6WTNB7G9",
+        "reactions": [
+            {
+                "name": "top",
+                "users": [
+                    "U6A845RPY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b970997-6a8e-4b9c-b438-3dc7acbd8fe9",
+        "type": "message",
+        "text": "Cuando N dias despues te das cuenta q la empresa X a traves de la q gestionas tu dominio ha cambiado DNS y no te ha dicho nada.",
+        "user": "UB82Y3A3W",
+        "ts": "1589965310.071100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2f79c9a1d902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-15\/381629494208_2f79c9a1d9023c4422f2_72.jpg",
+            "first_name": "acanimal",
+            "real_name": "acanimal",
+            "display_name": "acanimal",
+            "team": "T2Y6L54R3",
+            "name": "asantiagop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F2e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cuando N dias despues te das cuenta q la empresa X a traves de la q gestionas tu dominio ha cambiado DNS y no te ha dicho nada."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965310.071100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589966683.071900",
+        "reply_users": [
+            "U2YEH6F88"
+        ],
+        "replies": [
+            {
+                "user": "U2YEH6F88",
+                "ts": "1589966683.071900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "conga_parrot",
+                "users": [
+                    "U6A845RPY",
+                    "U7BG5P0H3",
+                    "UEDFE7J07",
+                    "U36H6F3CN"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "bot_id": "B2Y6M3HAS",
+        "type": "message",
+        "text": "happy",
+        "user": "UB82Y3A3W",
+        "ts": "1589965321.071300",
+        "team": "T2Y6L54R3",
+        "bot_profile": {
+            "id": "B2Y6M3HAS",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1478167615,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T2Y6L54R3"
+        },
+        "blocks": [
+            {
+                "type": "image",
+                "block_id": "GRNJj",
+                "image_url": "https:\/\/media1.giphy.com\/media\/l46C52IJdRfvCGyVW\/giphy-downsized.gif?cid=6104955e972e0f0c9daf1c4a1413b45e83b846563d51dd14&rid=giphy-downsized.gif",
+                "alt_text": "happy",
+                "title": {
+                    "type": "plain_text",
+                    "text": "happy",
+                    "emoji": true
+                },
+                "fallback": "345x187px image",
+                "image_width": 345,
+                "image_height": 187,
+                "image_bytes": 1818966,
+                "is_animated": true
+            },
+            {
+                "type": "context",
+                "block_id": "tYZ",
+                "elements": [
+                    {
+                        "fallback": "32x32px image",
+                        "image_url": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_32.png",
+                        "image_width": 32,
+                        "image_height": 32,
+                        "image_bytes": 603,
+                        "type": "image",
+                        "alt_text": "giphy logo"
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Posted using \/giphy",
+                        "verbatim": false
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9944aa5f-3b08-4013-b8f4-612de9a014c7",
+        "type": "message",
+        "text": "A quién hay que romperle las piernas, que tengo unos amigos de acento raro",
+        "user": "U2YEH6F88",
+        "ts": "1589966683.071900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "80ce59b5a188",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-07\/827679219590_80ce59b5a188352488e7_72.jpg",
+            "first_name": "Pau",
+            "real_name": "Pau Bartrina",
+            "display_name": "pau",
+            "team": "T2Y6L54R3",
+            "name": "pau",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1pcL\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A quién hay que romperle las piernas, que tengo unos amigos de acento raro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965310.071100",
+        "parent_user_id": "UB82Y3A3W",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U36H6F3CN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44a7a252-41ac-4dcd-be1c-72bf0f9c15e2",
+        "type": "message",
+        "text": "Tests de integracion levantando el servicio real: headers presentes\nLevantarlo en local con la configuracion de staging y la misma request que staging: headers presentes\nLlamar con el mismo curl que local en staging: headers no presentes\nLlamar con chrome: No agrega un header que esta en la especificacion\nLlamar con firefox: Agrega el header pero los headers no estan presentes\nLlamar con safari: Agrega el header pero no hay ningun header(ni los que si aparecen en todos los otros casos)\n\nAlguien llame un excorcista y me recuerde porque no hago frontend :sob:",
+        "user": "UFW0A1GV8",
+        "ts": "1589988788.080200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IsObQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tests de integracion levantando el servicio real: headers presentes\nLevantarlo en local con la configuracion de staging y la misma request que staging: headers presentes\nLlamar con el mismo curl que local en staging: headers no presentes\nLlamar con chrome: No agrega un header que esta en la especificacion\nLlamar con firefox: Agrega el header pero los headers no estan presentes\nLlamar con safari: Agrega el header pero no hay ningun header(ni los que si aparecen en todos los otros casos)\n\nAlguien llame un excorcista y me recuerde porque no hago frontend "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589988788.080200",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1589989921.081700",
+        "reply_users": [
+            "UN6S9CCGH",
+            "UFW0A1GV8"
+        ],
+        "replies": [
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589989372.080700"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589989384.080900"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589989385.081100"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589989438.081300"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589989913.081500"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589989921.081700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e3ce6b07-655b-495c-9e66-a58139247cd9",
+        "type": "message",
+        "text": "Estoy al punto que estoy deployando codigo con 30 millones de logs",
+        "user": "UFW0A1GV8",
+        "ts": "1589989280.080500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r7Jw+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Estoy al punto que estoy deployando codigo con 30 millones de logs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b003742e-d65a-476f-9167-0cfd48fde922",
+        "type": "message",
+        "text": "tienes por delante algun reverse proxy\/lb? xD",
+        "user": "UN6S9CCGH",
+        "ts": "1589989372.080700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8XAl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tienes por delante algun reverse proxy\/lb? xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589988788.080200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "3f0485db-1ab2-4858-bd8c-843084bb6253",
+        "type": "message",
+        "text": "si. Por eso estoy con los 30 millones de logs",
+        "user": "UFW0A1GV8",
+        "ts": "1589989384.080900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eyGZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si. Por eso estoy con los 30 millones de logs"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589988788.080200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "cf30cf79-5aee-488f-bbb2-0e20748a1f0e",
+        "type": "message",
+        "text": ":joy:",
+        "user": "UFW0A1GV8",
+        "ts": "1589989385.081100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gj5Os",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589988788.080200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "4058c381-261f-4873-ac8f-af7b9c1da95a",
+        "type": "message",
+        "text": "pues yo apostaría porque el reverse proxy está haciendo cosas divertidas.",
+        "user": "UN6S9CCGH",
+        "ts": "1589989438.081300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "77yn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pues yo apostaría porque el reverse proxy está haciendo cosas divertidas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589988788.080200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "10093043-650c-4280-bfc3-e4d3d4efec0d",
+        "type": "message",
+        "text": "estoy seguro que es el host",
+        "user": "UFW0A1GV8",
+        "ts": "1589989913.081500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z8D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "estoy seguro que es el host"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589988788.080200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "cb712cfa-e0b8-4a30-81fc-fc5d4daaf917",
+        "type": "message",
+        "text": "que hace magias con headers ahi",
+        "user": "UFW0A1GV8",
+        "ts": "1589989921.081700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1IgZ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "que hace magias con headers ahi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589988788.080200",
+        "parent_user_id": "UFW0A1GV8"
+    }
+]

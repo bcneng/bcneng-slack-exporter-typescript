@@ -1,0 +1,2065 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589963687.009200",
+        "user": "U013FUJ71FV",
+        "text": "<@U013FUJ71FV> has joined the channel"
+    },
+    {
+        "client_msg_id": "758c79eb-083a-47aa-b66e-e0d24c39a154",
+        "type": "message",
+        "text": "Hola a todos! Mi MBP de 2015 del curro se ha preñado (batería inflada) y estaba pensando en pedir que me lo cambien en lugar de cambiar sólo la batería. ¿Alguien tiene experiencias de qué MBPs salen güenos güenos ahora, con el teclado lo menos shitty posible? Gracias de antebrazo",
+        "user": "U2YM1G5CM",
+        "ts": "1589970160.013300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd6cefe6793b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d6cefe6793bce07335ca4168bc22ba7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Míguez",
+            "display_name": "mrzard",
+            "team": "T2Y6L54R3",
+            "name": "mrzard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cuBS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola a todos! Mi MBP de 2015 del curro se ha preñado (batería inflada) y estaba pensando en pedir que me lo cambien en lugar de cambiar sólo la batería. ¿Alguien tiene experiencias de qué MBPs salen güenos güenos ahora, con el teclado lo menos shitty posible? Gracias de antebrazo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "reply_count": 33,
+        "reply_users_count": 14,
+        "latest_reply": "1589983123.031600",
+        "reply_users": [
+            "U3FGG385U",
+            "U5FS4BH96",
+            "U7BG5P0H3",
+            "UGKBXF45D",
+            "U3DPLBVQE",
+            "UNR7EF5EU",
+            "U2YM1G5CM",
+            "UR8FUGJJ2",
+            "UGYRCFL1X",
+            "UC8R6Q0GJ",
+            "U6ALMA2J3",
+            "UP4QETHEC",
+            "U7PQZMZ4L",
+            "U2YK02S4D"
+        ],
+        "replies": [
+            {
+                "user": "U3FGG385U",
+                "ts": "1589970232.013400"
+            },
+            {
+                "user": "U3FGG385U",
+                "ts": "1589970237.013600"
+            },
+            {
+                "user": "U5FS4BH96",
+                "ts": "1589970350.013800"
+            },
+            {
+                "user": "U7BG5P0H3",
+                "ts": "1589970763.014000"
+            },
+            {
+                "user": "UGKBXF45D",
+                "ts": "1589970840.014200"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589971112.014500"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589971353.014800"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589971535.015300"
+            },
+            {
+                "user": "U3FGG385U",
+                "ts": "1589971699.015500"
+            },
+            {
+                "user": "U2YM1G5CM",
+                "ts": "1589971787.015800"
+            },
+            {
+                "user": "U2YM1G5CM",
+                "ts": "1589971805.016000"
+            },
+            {
+                "user": "UR8FUGJJ2",
+                "ts": "1589972245.016200"
+            },
+            {
+                "user": "UGYRCFL1X",
+                "ts": "1589972813.016400"
+            },
+            {
+                "user": "UC8R6Q0GJ",
+                "ts": "1589973070.016600"
+            },
+            {
+                "user": "U6ALMA2J3",
+                "ts": "1589974520.017000"
+            },
+            {
+                "user": "UP4QETHEC",
+                "ts": "1589976046.017900"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589976938.020900"
+            },
+            {
+                "user": "U2YK02S4D",
+                "ts": "1589979424.026000"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589979463.026300"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589979487.026500"
+            },
+            {
+                "user": "U2YK02S4D",
+                "ts": "1589979489.026700"
+            },
+            {
+                "user": "U2YK02S4D",
+                "ts": "1589979527.027100"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589979529.027300"
+            },
+            {
+                "user": "U2YK02S4D",
+                "ts": "1589979634.027500"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589979659.027700"
+            },
+            {
+                "user": "U2YK02S4D",
+                "ts": "1589980408.028600"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589980661.028900"
+            },
+            {
+                "user": "UGYRCFL1X",
+                "ts": "1589981412.029900"
+            },
+            {
+                "user": "UGYRCFL1X",
+                "ts": "1589981435.030100"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589983095.031000"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589983103.031200"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589983114.031400"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589983123.031600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8c176a39-7804-4e2a-be24-4e20a09e5685",
+        "type": "message",
+        "text": "dicen que el teclado nuevo es mucho mejor que el anterior",
+        "user": "U3FGG385U",
+        "ts": "1589970232.013400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g6eb958d5b21",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6eb958d5b21898e27750571962e0eef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Jordi",
+            "real_name": "Jordi Soucheiron",
+            "display_name": "jordixou",
+            "team": "T2Y6L54R3",
+            "name": "jordixou",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BGp0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dicen que el teclado nuevo es mucho mejor que el anterior"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "d4158fa0-e3e0-4bad-95fb-d829731f4b58",
+        "type": "message",
+        "text": "y tienen tecla de escape",
+        "user": "U3FGG385U",
+        "ts": "1589970237.013600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g6eb958d5b21",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6eb958d5b21898e27750571962e0eef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Jordi",
+            "real_name": "Jordi Soucheiron",
+            "display_name": "jordixou",
+            "team": "T2Y6L54R3",
+            "name": "jordixou",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jXaw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y tienen tecla de escape"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM",
+        "reactions": [
+            {
+                "name": "astonished",
+                "users": [
+                    "U326S0XLJ",
+                    "UEDFE7J07"
+                ],
+                "count": 2
+            },
+            {
+                "name": "clapping",
+                "users": [
+                    "UNR7EF5EU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5aa6e291-de5c-4bb0-af67-7c778ace57f7",
+        "type": "message",
+        "text": "Seguro que la batería rota del 2015 aguanta más que la del nuevo :troll:",
+        "user": "U5FS4BH96",
+        "ts": "1589970350.013800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "effd4ad97524",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-06\/543768149283_effd4ad97524f3f66b2f_72.jpg",
+            "first_name": "Unai",
+            "real_name": "Unai",
+            "display_name": "uesteibar",
+            "team": "T2Y6L54R3",
+            "name": "uesteibar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ufud",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seguro que la batería rota del 2015 aguanta más que la del nuevo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "troll"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "f5944ef2-d3cc-4766-9e12-2b425a01c150",
+        "type": "message",
+        "text": "MBP 16\" :ok_hand:",
+        "user": "U7BG5P0H3",
+        "ts": "1589970763.014000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "181ed0498e5d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-10-02\/249542169600_181ed0498e5d0017edab_72.jpg",
+            "first_name": "Luis",
+            "real_name": "Luis Tacón",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "luis824",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eek",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MBP 16\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "2f7cd876-c61c-4e6f-acf9-9d15d7c233e8",
+        "type": "message",
+        "text": "el nuevo 16 o nuevo 13 son the good shit en cuanto a teclado y `esc`  como comentan. Aparte de eso son el upgrade de componentes estandar de apple, no llevan nada nuevo, simplemente bump de versiones",
+        "user": "UGKBXF45D",
+        "ts": "1589970840.014200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7b0e5070c58c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-26\/773521984772_7b0e5070c58cebf2df1d_72.jpg",
+            "first_name": "Ramon",
+            "real_name": "Ramon Pans",
+            "display_name": "Kylar13",
+            "team": "T2Y6L54R3",
+            "name": "ramonpans13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OgM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el nuevo 16 o nuevo 13 son the good shit en cuanto a teclado y "
+                            },
+                            {
+                                "type": "text",
+                                "text": "esc",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "  como comentan. Aparte de eso son el upgrade de componentes estandar de apple, no llevan nada nuevo, simplemente bump de versiones"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "5f6f6627-75bd-430a-99a4-88b925fca1c5",
+        "type": "message",
+        "text": "los nuevos de este año tienen buena fama: <https:\/\/www.apple.com\/es\/shop\/buy-mac\/macbook-pro\/16-pulgadas-gris-espacial-procesador-de-ocho-n%C3%BAcleos-a-2,3-ghz-1tb#>",
+        "user": "U3DPLBVQE",
+        "ts": "1589971112.014500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Apple (ES)",
+                "title": "MacBook Pro de 16 pulgadas - Gris espacial",
+                "title_link": "https:\/\/www.apple.com\/es\/shop\/buy-mac\/macbook-pro\/16-pulgadas-gris-espacial-procesador-de-ocho-n%C3%BAcleos-a-2,3-ghz-1tb",
+                "text": "Con el Magic Keyboard en todos los modelos y procesadores Intel Core i5 e i7 superveloces, el MacBook Pro es aún más pro. Cómpralo online.",
+                "fallback": "Apple (ES): MacBook Pro de 16 pulgadas - Gris espacial",
+                "image_url": "https:\/\/store.storeimages.cdn-apple.com\/4668\/as-images.apple.com\/is\/mbp16touch-space-select-201911_GEO_ES?wid=1200&hei=630&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1572654985112",
+                "from_url": "https:\/\/www.apple.com\/es\/shop\/buy-mac\/macbook-pro\/16-pulgadas-gris-espacial-procesador-de-ocho-n%C3%BAcleos-a-2,3-ghz-1tb",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 142965,
+                "service_icon": "https:\/\/www.apple.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.apple.com\/es\/shop\/buy-mac\/macbook-pro\/16-pulgadas-gris-espacial-procesador-de-ocho-n%C3%BAcleos-a-2,3-ghz-1tb#"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/yV6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "los nuevos de este año tienen buena fama: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.apple.com\/es\/shop\/buy-mac\/macbook-pro\/16-pulgadas-gris-espacial-procesador-de-ocho-n%C3%BAcleos-a-2,3-ghz-1tb#"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "type": "message",
+        "text": "Y mira, te lo entregan gratis!",
+        "files": [
+            {
+                "id": "F013SDZ54VC",
+                "created": 1589971349,
+                "timestamp": 1589971349,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U3DPLBVQE",
+                "editable": false,
+                "size": 875199,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013SDZ54VC\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013SDZ54VC\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013SDZ54VC-0275c0629d\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013SDZ54VC-0275c0629d\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013SDZ54VC-0275c0629d\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 215,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013SDZ54VC-0275c0629d\/image_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 286,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013SDZ54VC-0275c0629d\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013SDZ54VC-0275c0629d\/image_720.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720_w": 720,
+                "thumb_720_h": 429,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013SDZ54VC-0275c0629d\/image_800.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 477,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013SDZ54VC-0275c0629d\/image_960.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_960_w": 960,
+                "thumb_960_h": 572,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013SDZ54VC-0275c0629d\/image_1024.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 611,
+                "original_w": 2150,
+                "original_h": 1282,
+                "thumb_tiny": "AwAcADC3dsUUESGMdMjFUGurhek6uPoAa0LtS8OF65qh5E3t+dMRYtZ3nnBWQ7AuWUgcGrWH7NUFlGyFt3U1ZpDG4f8AvU9c4560AUtACEBhg03y19P1obg0vpQAoUL0pAR3xS0h5oAcD6UUzZkY3MPxpVTb\/Ex+poA\/\/9k=",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U3DPLBVQE\/F013SDZ54VC\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013SDZ54VC-6ae41a0a4d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VSX6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y mira, te lo entregan gratis!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U3DPLBVQE",
+        "display_as_bot": false,
+        "ts": "1589971353.014800",
+        "client_msg_id": "55ecd56d-60a8-4ff2-ab3f-3d3c9cc31703",
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM",
+        "reactions": [
+            {
+                "name": "top",
+                "users": [
+                    "UGV6YGFU4",
+                    "UEDFE7J07",
+                    "UCRBKBDNU"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b0ff23f-8c15-4be4-beea-bdf507a19b66",
+        "type": "message",
+        "text": "Anda k pagar transporte de un portátil de 7000 pavos tendría guasa",
+        "user": "UNR7EF5EU",
+        "ts": "1589971535.015300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uLMo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Anda k pagar transporte de un portátil de 7000 pavos tendría guasa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "67cd539a-df1b-4fa3-af40-55ce15a675bc",
+        "type": "message",
+        "text": "no les des ideas, estas dispuesto a pagar 7300, pagarás 7315",
+        "user": "U3FGG385U",
+        "ts": "1589971699.015500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g6eb958d5b21",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6eb958d5b21898e27750571962e0eef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Jordi",
+            "real_name": "Jordi Soucheiron",
+            "display_name": "jordixou",
+            "team": "T2Y6L54R3",
+            "name": "jordixou",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bxL13",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no les des ideas, estas dispuesto a pagar 7300, pagarás 7315"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UNR7EF5EU",
+                    "U4SM3C8H3",
+                    "UEDFE7J07",
+                    "UCRBKBDNU"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cbffccee-c8a9-4d8a-8ab7-da7e050bf5ef",
+        "type": "message",
+        "text": "Ostias 7300 pavos, a ver cómo se lo toma mi jefe :sweat_smile:",
+        "user": "U2YM1G5CM",
+        "ts": "1589971787.015800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd6cefe6793b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d6cefe6793bce07335ca4168bc22ba7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Míguez",
+            "display_name": "mrzard",
+            "team": "T2Y6L54R3",
+            "name": "mrzard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8osn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ostias 7300 pavos, a ver cómo se lo toma mi jefe "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "ea459d1b-8469-40ad-bb14-9f35ed404d43",
+        "type": "message",
+        "text": "Gracias a todo el mundo por los comentarios :D",
+        "user": "U2YM1G5CM",
+        "ts": "1589971805.016000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd6cefe6793b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d6cefe6793bce07335ca4168bc22ba7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Míguez",
+            "display_name": "mrzard",
+            "team": "T2Y6L54R3",
+            "name": "mrzard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iVe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gracias a todo el mundo por los comentarios :D"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "be7ba4a2-3234-43a8-a612-873812a6ba2f",
+        "type": "message",
+        "text": "por aquí tenemos los de 16\" y va fino fino. teclado bueno y esc.",
+        "user": "UR8FUGJJ2",
+        "ts": "1589972245.016200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gb5c9c7b34cf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b5c9c7b34cf59d4d9b8920ca924105ff.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "",
+            "real_name": "Gorka",
+            "display_name": "Gorka",
+            "team": "T2Y6L54R3",
+            "name": "gorkapit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QUX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "por aquí tenemos los de 16\" y va fino fino. teclado bueno y esc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "6b7be7a2-abc9-4038-bc80-42ef3339728b",
+        "type": "message",
+        "text": "Tengo un 16\" nuevo por curro. Es mucho mejor que el 13\" de la generación anterior, pero sigue teniendo menos recorrido de lo que me parece agradable (soy de ThinkPad)",
+        "user": "UGYRCFL1X",
+        "ts": "1589972813.016400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "57f47da2421d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-24\/586582380693_57f47da2421d80b63c86_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Corcoles",
+            "display_name": "Alex Corcoles",
+            "team": "T2Y6L54R3",
+            "name": "alex800",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OSM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tengo un 16\" nuevo por curro. Es mucho mejor que el 13\" de la generación anterior, pero sigue teniendo menos recorrido de lo que me parece agradable (soy de ThinkPad)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "78c67275-b612-4c2a-8b06-da0a83c4d490",
+        "type": "message",
+        "text": "A estos precios mejor mac pro (torre) a 12 núcleos :)\n\nTengo MBP latest a 8 cores, pero según qué app los ventiladores pueden hacer phwoaaaarrrrrr. Me parece un despropósito tanto core en tan poco espacio",
+        "user": "UC8R6Q0GJ",
+        "ts": "1589973070.016600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "83fbaa3fd8db",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-04\/861387893206_83fbaa3fd8db53ce6c87_72.jpg",
+            "first_name": "v",
+            "real_name": "v",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "vemv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QQLW1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A estos precios mejor mac pro (torre) a 12 núcleos :)\n\nTengo MBP latest a 8 cores, pero según qué app los ventiladores pueden hacer phwoaaaarrrrrr. Me parece un despropósito tanto core en tan poco espacio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "f4ba6ca7-754c-42a4-8a2b-a7d98e1fdcac",
+        "type": "message",
+        "text": "En mi curro también me lo han cambiado por el nuevo 16\" y es un maquinote. El teclado vuelve a ser decente",
+        "user": "U6ALMA2J3",
+        "ts": "1589974520.017000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g7f81f28af9e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c7f81f28af9e0d4683af8b253fd101f4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Javier",
+            "real_name": "Javier Martinez",
+            "display_name": "javier.martinez",
+            "team": "T2Y6L54R3",
+            "name": "javier.martinez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yIXst",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En mi curro también me lo han cambiado por el nuevo 16\" y es un maquinote. El teclado vuelve a ser decente"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@UFW0A1GV8> has a poll for you!",
+        "ts": "1589975974.017300",
+        "username": "Polly",
+        "bot_id": "B32J8Q939",
+        "blocks": [
+            {
+                "type": "section",
+                "block_id": "Zpn",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*What does LGTM mean to you?*",
+                    "verbatim": true
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "GWz",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(yG6uQFLbGFXv85Tir).VotingButton(0)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Looks good to me",
+                            "emoji": true
+                        },
+                        "value": "one"
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(yG6uQFLbGFXv85Tir).VotingButton(1)",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Lets get that merged",
+                            "emoji": true
+                        },
+                        "value": "two"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "TCwd",
+                "fields": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Looks good to me  \n\n`████████████████████████ ⁢`  |  96% (72)\n\n<@UT2HNJYGZ>, <@UEV2QTDJL>, <@U2YV5P2A2> + 69 more",
+                        "verbatim": true
+                    },
+                    {
+                        "type": "mrkdwn",
+                        "text": "Lets get that merged  \n\n`█ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  4% (3)\n\n<@UQFTZH52P>, <@U3HBXARHR>, <@UFW0A1GV8>",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "context",
+                "block_id": "r6Sb",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "*Total Votes*: 75",
+                        "verbatim": true
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "block_id": "1\/lWV",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*Comments (4 Total)*\n:speech_balloon: <@UTJM0J0UV>: @uriel te ha salido la encuesta por la culata :roll:\n:speech_balloon: <@UC58U6AP9>: Looking Good That Man\n:speech_balloon: <@UC8R6Q0GJ>: LG™\n:speech_balloon: <@UFW0A1GV8>: Lo uso de las dos formas pero generalmente la segunda :joy:",
+                    "verbatim": true
+                }
+            },
+            {
+                "type": "actions",
+                "block_id": "E=uw",
+                "elements": [
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(yG6uQFLbGFXv85Tir).AddCommentButton",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "Add a Comment",
+                            "emoji": true
+                        }
+                    },
+                    {
+                        "type": "button",
+                        "action_id": "PollMessage(yG6uQFLbGFXv85Tir).ViewAllResponsesButton",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "View All Responses",
+                            "emoji": true
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "divider",
+                "block_id": "UwbZ"
+            },
+            {
+                "type": "context",
+                "block_id": "tkU",
+                "elements": [
+                    {
+                        "type": "mrkdwn",
+                        "text": "Owner: @Uriel Salischiker  |  *:clock930: Closes:* <!date^1590580774^{date_short} at {time}|May 27, 2020 at 11:59 AM>  |  :unlock: Responses are Non-Anonymous",
+                        "verbatim": true
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "B32J8Q939",
+            "ts": "1590056456.000000"
+        },
+        "reactions": [
+            {
+                "name": "foreveralone",
+                "users": [
+                    "U4G2TP5LJ",
+                    "UNR7EF5EU",
+                    "UGC8J6E8J",
+                    "U49DCUW22",
+                    "UGVNLB7LL",
+                    "UTK987GQP",
+                    "UFW0A1GV8",
+                    "U7BG5P0H3",
+                    "U4HCQ4X1S",
+                    "U5FS4BH96",
+                    "U2YEY1745",
+                    "UTJM0J0UV",
+                    "UEDFE7J07"
+                ],
+                "count": 13
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U2Y6QQHST",
+                    "U4G2TP5LJ",
+                    "UNR7EF5EU",
+                    "U49DCUW22",
+                    "UTK987GQP",
+                    "UFW0A1GV8",
+                    "U7BG5P0H3",
+                    "U4HCQ4X1S",
+                    "U5FS4BH96",
+                    "U5PFDVA0J"
+                ],
+                "count": 10
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad57a522-12fa-40ff-b300-2d8572fa0442",
+        "type": "message",
+        "text": "<@U2YM1G5CM> el mio se hincho tambien, me costo como 230€",
+        "user": "UP4QETHEC",
+        "ts": "1589976046.017900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g133e71b931d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/133e71b931d7d52be70757da3b1fdd23.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Dan Tamas",
+            "display_name": "Dan Tamas",
+            "team": "T2Y6L54R3",
+            "name": "dan.tamas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tW4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2YM1G5CM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " el mio se hincho tambien, me costo como 230€"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "62cf9340-8a32-416e-8e4b-fe4cdf33755e",
+        "type": "message",
+        "text": "Ultimamente el mejor Apple es un Dell XP 13",
+        "user": "U7PQZMZ4L",
+        "ts": "1589976938.020900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Un6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ultimamente el mejor Apple es un Dell XP 13"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UNR7EF5EU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1c9b52e-a69e-4bbd-b3a2-d233c07c44a3",
+        "type": "message",
+        "text": ":foreveralone:",
+        "user": "UFW0A1GV8",
+        "ts": "1589979155.024600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iDUqb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "foreveralone"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sadparrot",
+                "users": [
+                    "UC8R6Q0GJ",
+                    "UUPUNRWKZ",
+                    "UTJM0J0UV",
+                    "U3256HZH9",
+                    "UFW0A1GV8"
+                ],
+                "count": 5
+            },
+            {
+                "name": "rip_parrot",
+                "users": [
+                    "UC8R6Q0GJ",
+                    "UUPUNRWKZ",
+                    "UGVNLB7LL",
+                    "U4SM3C8H3",
+                    "UFW0A1GV8"
+                ],
+                "count": 5
+            },
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U3256HZH9",
+                    "UFW0A1GV8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ad2bc722-9abb-45e5-bcf8-8dc9cf04f3a6",
+        "type": "message",
+        "text": "y le metes hackintosh <@U7PQZMZ4L>?",
+        "user": "U2YK02S4D",
+        "ts": "1589979424.026000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g69341fbd43c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d69341fbd43cfa68f46da52a18c44741.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Roberto",
+            "real_name": "Roberto Barreda",
+            "display_name": "roberto",
+            "team": "T2Y6L54R3",
+            "name": "roberto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v0V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y le metes hackintosh "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U7PQZMZ4L"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U7PQZMZ4L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8cbd01b2-ed2f-4530-b70b-43d0d15593ee",
+        "type": "message",
+        "text": "nah, ultimamente el mejor OSX es Ubuntu :stuck_out_tongue:",
+        "user": "U7PQZMZ4L",
+        "ts": "1589979463.026300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hYG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nah, ultimamente el mejor OSX es Ubuntu "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "531a8bab-7ccc-4365-9213-b57ae4b4d436",
+        "type": "message",
+        "text": "solo troleaba, tengo todo mac :slightly_smiling_face:",
+        "user": "U7PQZMZ4L",
+        "ts": "1589979487.026500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dfTm5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "solo troleaba, tengo todo mac "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "type": "message",
+        "text": "TIP: poner el ESC en el CAPS LOCK",
+        "files": [
+            {
+                "id": "F014C2CNBS5",
+                "created": 1589979487,
+                "timestamp": 1589979487,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U2YK02S4D",
+                "editable": false,
+                "size": 217185,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F014C2CNBS5\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F014C2CNBS5\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F014C2CNBS5-c9e47139bb\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F014C2CNBS5-c9e47139bb\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F014C2CNBS5-c9e47139bb\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 290,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F014C2CNBS5-c9e47139bb\/image_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 387,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F014C2CNBS5-c9e47139bb\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "original_w": 652,
+                "original_h": 525,
+                "thumb_tiny": "AwAmADCtub1pc5HLGmiigB+B6t+VG04z835UYp4+4KAI8lehIo3t\/epp6migBR1pQV7jP402igBxI7cfjQDxzz+NNooAXjHv9aKSigAooooAKKKKAFGM8jNBK44GPxpKKAP\/2Q==",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U2YK02S4D\/F014C2CNBS5\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F014C2CNBS5-3b1184cdcd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rZOE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TIP: poner el ESC en el CAPS LOCK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U2YK02S4D",
+        "display_as_bot": false,
+        "ts": "1589979489.026700",
+        "client_msg_id": "55fc6179-f0f8-4851-a351-c4bf21f2ba05",
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "59c3af17-f02c-48fb-988a-59d40b80e7ff",
+        "type": "message",
+        "text": "mi jefe, debianero [hard] de toda la vida se ha pasado a fedora, no se que ha pasado",
+        "user": "U2YK02S4D",
+        "ts": "1589979527.027100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g69341fbd43c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d69341fbd43cfa68f46da52a18c44741.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Roberto",
+            "real_name": "Roberto Barreda",
+            "display_name": "roberto",
+            "team": "T2Y6L54R3",
+            "name": "roberto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iHk1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mi jefe, debianero [hard] de toda la vida se ha pasado a fedora, no se que ha pasado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "ca23edf7-bd1d-4f8c-9e42-089742f09fc4",
+        "type": "message",
+        "text": "Yo tengo el XPS 13 con una debian y encantado :stuck_out_tongue:",
+        "user": "UNR7EF5EU",
+        "ts": "1589979529.027300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cIF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo tengo el XPS 13 con una debian y encantado "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "ae9e5240-f05d-4751-a28c-15b2eb81aa0b",
+        "type": "message",
+        "text": "la verdad calidad\/precio el XPS13 no tiene rival",
+        "user": "U2YK02S4D",
+        "ts": "1589979634.027500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g69341fbd43c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d69341fbd43cfa68f46da52a18c44741.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Roberto",
+            "real_name": "Roberto Barreda",
+            "display_name": "roberto",
+            "team": "T2Y6L54R3",
+            "name": "roberto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pWG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la verdad calidad\/precio el XPS13 no tiene rival"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "b11c9277-6a56-45d0-b367-1a73253cc3c9",
+        "type": "message",
+        "text": "yo es k soy de los raros a los k no le gusta mac, asi k...",
+        "user": "UNR7EF5EU",
+        "ts": "1589979659.027700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ykjWS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo es k soy de los raros a los k no le gusta mac, asi k..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "3cfa0e75-00e5-4fa3-9d35-a6c35e2a76fe",
+        "type": "message",
+        "text": "estoy de acuerdo, demasiado tiempo acostumbrado a los gestos del mac",
+        "user": "U2YK02S4D",
+        "ts": "1589980408.028600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g69341fbd43c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d69341fbd43cfa68f46da52a18c44741.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Roberto",
+            "real_name": "Roberto Barreda",
+            "display_name": "roberto",
+            "team": "T2Y6L54R3",
+            "name": "roberto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6yypV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "estoy de acuerdo, demasiado tiempo acostumbrado a los gestos del mac"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "type": "message",
+        "text": "A ver, ese precio que he puesto en la captura es con especificaciones máximas :laughing: . El básico sale mejor, y también te lo entregan gratis, si no tienes mucha prisa, claro",
+        "files": [
+            {
+                "id": "F013Y3T7M45",
+                "created": 1589980658,
+                "timestamp": 1589980658,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U3DPLBVQE",
+                "editable": false,
+                "size": 859366,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013Y3T7M45\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013Y3T7M45\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013Y3T7M45-246aa4be50\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013Y3T7M45-246aa4be50\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013Y3T7M45-246aa4be50\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 236,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013Y3T7M45-246aa4be50\/image_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 314,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013Y3T7M45-246aa4be50\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013Y3T7M45-246aa4be50\/image_720.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720_w": 720,
+                "thumb_720_h": 472,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013Y3T7M45-246aa4be50\/image_800.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 524,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013Y3T7M45-246aa4be50\/image_960.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_960_w": 960,
+                "thumb_960_h": 629,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013Y3T7M45-246aa4be50\/image_1024.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 671,
+                "original_w": 1966,
+                "original_h": 1288,
+                "thumb_tiny": "AwAfADCS5dlkYC4aM56EjFVvtc6ON0odc84ParN6jtLlBniq3lTf3T+lPQRbtHeV5WErNHj5c1Zw\/ZqislKwkN1qakMTa\/8AeNOXI4PNKBS0AMaPcc5pPKHrTgT3FGTmgAVdoPelGPcUUhHHAH40AOopnzgcbc0L5mfmC49qAP\/Z",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U3DPLBVQE\/F013Y3T7M45\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013Y3T7M45-d716594efc",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jA4qr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A ver, ese precio que he puesto en la captura es con especificaciones máximas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " . El básico sale mejor, y también te lo entregan gratis, si no tienes mucha prisa, claro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U3DPLBVQE",
+        "display_as_bot": false,
+        "ts": "1589980661.028900",
+        "client_msg_id": "761224a7-de10-4564-bd4e-f0700bfa142b",
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "2fe14699-77d0-40be-9071-83843510b4c9",
+        "type": "message",
+        "text": "El 13 y el Air llevan el mismo teclado y cuestan más o menos la mitad",
+        "user": "UGYRCFL1X",
+        "ts": "1589981412.029900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "57f47da2421d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-24\/586582380693_57f47da2421d80b63c86_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Corcoles",
+            "display_name": "Alex Corcoles",
+            "team": "T2Y6L54R3",
+            "name": "alex800",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RGKBr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "El 13 y el Air llevan el mismo teclado y cuestan más o menos la mitad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "9f84aadd-4007-4780-949e-3285593d3814",
+        "type": "message",
+        "text": "(Mi jefe me obligó a pillar un 16)",
+        "user": "UGYRCFL1X",
+        "ts": "1589981435.030100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "57f47da2421d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-24\/586582380693_57f47da2421d80b63c86_72.jpg",
+            "first_name": "Alex",
+            "real_name": "Alex Corcoles",
+            "display_name": "Alex Corcoles",
+            "team": "T2Y6L54R3",
+            "name": "alex800",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2jF+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(Mi jefe me obligó a pillar un 16)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "20c4378b-3965-4a25-9e39-244c7b1d1da1",
+        "type": "message",
+        "text": "yo me lo cambié hace 1 año, uno de 15 de hace 5 años por uno nuevo",
+        "user": "U3DPLBVQE",
+        "ts": "1589983095.031000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hCM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo me lo cambié hace 1 año, uno de 15 de hace 5 años por uno nuevo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "cef22110-e36c-4010-b9b5-ae7cd2e4cd49",
+        "type": "message",
+        "text": "no se nota mucho salto",
+        "user": "U3DPLBVQE",
+        "ts": "1589983103.031200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ottdp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no se nota mucho salto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "8da3b567-d883-44e1-a207-6d48d696a50a",
+        "type": "message",
+        "text": "el teclado es diferente, pero no me gusta ni uno ni otro",
+        "user": "U3DPLBVQE",
+        "ts": "1589983114.031400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m0sqg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el teclado es diferente, pero no me gusta ni uno ni otro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "2a668cec-7ed1-4b3e-af27-ec4909e5e7e0",
+        "type": "message",
+        "text": "por disposición de teclas, más que nada",
+        "user": "U3DPLBVQE",
+        "ts": "1589983123.031600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jFwIX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "por disposición de teclas, más que nada"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970160.013300",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "b053075d-c06d-4a7a-9e09-5ded08a75e5a",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=5lqw9csozoQ>",
+        "user": "UMBEAG23E",
+        "ts": "1590006969.033600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "0cf738be2f57",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-14\/719575797681_0cf738be2f57253ab291_72.png",
+            "first_name": "Adrián",
+            "real_name": "Adrián Norte",
+            "display_name": "anortef",
+            "team": "T2Y6L54R3",
+            "name": "adrian227",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Cuarentena y tú quieres salir a comer tacos o pizza😂",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=5lqw9csozoQ",
+                "author_name": "Jessica Guerra",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCmEKMlfQXDRkIBrdw9eJ8cg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/5lqw9csozoQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Cuarentena y tú quieres salir a comer tacos o pizza😂",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/5lqw9csozoQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=5lqw9csozoQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=5lqw9csozoQ"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rZQYy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=5lqw9csozoQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UTJM0J0UV",
+                    "U7BG5P0H3",
+                    "U4RAEJQGK"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

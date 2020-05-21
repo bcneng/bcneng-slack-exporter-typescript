@@ -1,0 +1,532 @@
+[
+    {
+        "client_msg_id": "65d4ed73-408b-4c98-a9d4-75351ab7c18c",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/Bertoltbrecht36\/status\/1261325418755489798>\nMe gustaría pensar que es un montaje humorístico ... Maldito el día en que las ideologías y los mensajes simplistas, se hicieron con la razón y el corazón de la gente.\nSi encuentro que realmente es un montaje editaré el mensaje :stuck_out_tongue: , pero aún no tengo pruebas.",
+        "user": "UE6CTL7E1",
+        "ts": "1589647467.081400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ab929b19244f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-01-09\/519364738451_ab929b19244fbc102f1c_72.jpg",
+            "first_name": "Ibán",
+            "real_name": "Ibán Martínez",
+            "display_name": "Ibán",
+            "team": "T2Y6L54R3",
+            "name": "iban023",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/Bertoltbrecht36|@Bertoltbrecht36>: Esta ameba no se cree que la gente se esté muriendo ni que exista un virus peligroso porque no ha visto ningún féretro. Para ella todo es una invención. Es profesora del barrio de Salamanca y su voto vale el mismo que el tuyo\n#BarrioDeSalamanca #coronapijos <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1261325148378054658\/pu\/img\/2V_HHxMYUYGhYZqG.jpg>",
+                "ts": 1589558388,
+                "author_name": "Bertolt Brecht 🔻 🎗️",
+                "author_link": "https:\/\/twitter.com\/Bertoltbrecht36\/status\/1261325418755489798",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1184138286161432578\/kjnhC9wF_normal.jpg",
+                "author_subname": "@Bertoltbrecht36",
+                "text": "Esta ameba no se cree que la gente se esté muriendo ni que exista un virus peligroso porque no ha visto ningún féretro. Para ella todo es una invención. Es profesora del barrio de Salamanca y su voto vale el mismo que el tuyo\n#BarrioDeSalamanca #coronapijos",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/Bertoltbrecht36\/status\/1261325418755489798",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1261325148378054658\/pu\/img\/2V_HHxMYUYGhYZqG.jpg",
+                "thumb_width": 640,
+                "thumb_height": 360,
+                "video_html_width": 640,
+                "video_html_height": 360,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1261325148378054658\/pu\/img\/2V_HHxMYUYGhYZqG.jpg\" width=\"640\" height=\"360\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1261325148378054658\/pu\/vid\/640x360\/aQ3zyXstudle13ZQ.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/Bertoltbrecht36\/status\/1261325418755489798",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NVAc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/Bertoltbrecht36\/status\/1261325418755489798"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nMe gustaría pensar que es un montaje humorístico ... Maldito el día en que las ideologías y los mensajes simplistas, se hicieron con la razón y el corazón de la gente.\nSi encuentro que realmente es un montaje editaré el mensaje "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , pero aún no tengo pruebas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589647467.081400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1589653279.082000",
+        "reply_users": [
+            "UDHAZQNF9",
+            "U2YH82SRM"
+        ],
+        "replies": [
+            {
+                "user": "UDHAZQNF9",
+                "ts": "1589650217.081800"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589653279.082000"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "facepalm",
+                "users": [
+                    "UNR7EF5EU",
+                    "UDHAZQNF9",
+                    "U2WPLA0KA",
+                    "UUW6M0QLD",
+                    "UKP7CR0US",
+                    "UC58U6AP9",
+                    "U30C7SX6E"
+                ],
+                "count": 7
+            },
+            {
+                "name": "all_the_things",
+                "users": [
+                    "UEV2QTDJL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "623537c6-766b-4035-b94b-3a4bf6299abb",
+        "type": "message",
+        "text": "No es tan grave pero tiene un mascarilla FFP 3 :woman-facepalming::skin-tone-2:\nYo creo que es grave pero voy a dejar Los FFP 2 y 3 para la gente que Los necesita",
+        "user": "UDHAZQNF9",
+        "ts": "1589650217.081800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "46kF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No es tan grave pero tiene un mascarilla FFP 3 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-facepalming",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nYo creo que es grave pero voy a dejar Los FFP 2 y 3 para la gente que Los necesita"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589647467.081400",
+        "parent_user_id": "UE6CTL7E1"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F013BNUPENT",
+                "created": 1589653276,
+                "timestamp": 1589653276,
+                "name": "WhatsApp Image 2020-05-16 at 18.49.08.jpeg",
+                "title": "WhatsApp Image 2020-05-16 at 18.49.08.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U2YH82SRM",
+                "editable": false,
+                "size": 92702,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013BNUPENT\/whatsapp_image_2020-05-16_at_18.49.08.jpeg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013BNUPENT\/download\/whatsapp_image_2020-05-16_at_18.49.08.jpeg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013BNUPENT-c7c815646c\/whatsapp_image_2020-05-16_at_18.49.08_64.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013BNUPENT-c7c815646c\/whatsapp_image_2020-05-16_at_18.49.08_80.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013BNUPENT-c7c815646c\/whatsapp_image_2020-05-16_at_18.49.08_360.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 255,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013BNUPENT-c7c815646c\/whatsapp_image_2020-05-16_at_18.49.08_480.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 340,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013BNUPENT-c7c815646c\/whatsapp_image_2020-05-16_at_18.49.08_160.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013BNUPENT-c7c815646c\/whatsapp_image_2020-05-16_at_18.49.08_720.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720_w": 509,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013BNUPENT-c7c815646c\/whatsapp_image_2020-05-16_at_18.49.08_800.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_800_w": 566,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013BNUPENT-c7c815646c\/whatsapp_image_2020-05-16_at_18.49.08_960.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_960_w": 679,
+                "thumb_960_h": 960,
+                "original_w": 679,
+                "original_h": 960,
+                "thumb_tiny": "AwAwACGLfIJtoZgN4UZxihZHbYGkKg7vm+h6Va2MSemM5qQgKuNwQHvQBSkZ1Zg0pTaoK8Y3UxpXDrubGQPlB6fhVtpIgQN4YLx8wprMC3C598UrjsM2e1Gz2qTbRtpiHl2BwN34LTshlUkc+46UyVFJGFAJPJpyQqq\/0pMaIpJAqrvwQDz70B3I4BIz1pfJBc5B\/PIpVXYmAjfmKEDFwtGFoytGVpiGvErSZJyM5IxU0W0qSq7eec1UaXYwZSGz39KQ3Dg\/Jx9eaQy6eB+tQlsucEEDsKgW6l7sPyp0c0nOXT1yeOKAF85\/+eYo85\/+eYpPNj\/vD8xR5sf94fmKAP\/Z",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U2YH82SRM\/F013BNUPENT\/whatsapp_image_2020-05-16_at_18.49.08.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013BNUPENT-fe72612546",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U2YH82SRM",
+        "display_as_bot": false,
+        "ts": "1589653279.082000",
+        "client_msg_id": "ec2ab447-9104-44aa-9324-eea0aa0ca63d",
+        "thread_ts": "1589647467.081400",
+        "parent_user_id": "UE6CTL7E1"
+    },
+    {
+        "client_msg_id": "7d4a239a-29f8-4c3c-a054-db8df687abff",
+        "type": "message",
+        "text": "<https:\/\/www.marketwatch.com\/story\/work-from-home-productivity-gain-has-tech-ceos-predicting-many-workers-will-never-come-back-to-the-office-2020-05-15|https:\/\/www.marketwatch.com\/story\/work-from-home-productivity-gain-has-tech-ceos-predicting-many-workers-will-never-come-back-to-the-office-2020-05-15>\n\"The COVID-19 pandemic forcing those who could work from home to do so has led to a surprising result — improved productivity. U.S. workers were 47% more productive in March and April than in the same two months a year ago through cloud-based business tools, chat applications and email, according to an analysis of 100 million data points from 30,000 Americans by workplace-monitoring company Prodoscore.\"",
+        "user": "U2YH82SRM",
+        "ts": "1589670116.082900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "MarketWatch",
+                "title": "Work-from-home productivity pickup has tech CEOs predicting many employees will never come back to the office",
+                "title_link": "https:\/\/www.marketwatch.com\/story\/work-from-home-productivity-gain-has-tech-ceos-predicting-many-workers-will-never-come-back-to-the-office-2020-05-15",
+                "text": "If you rebuild the workplace after COVID-19, will the workers ever come back? In Silicon Valley, the answer from many tech companies is that many won’t, and...",
+                "fallback": "MarketWatch: Work-from-home productivity pickup has tech CEOs predicting many employees will never come back to the office",
+                "image_url": "https:\/\/s.marketwatch.com\/public\/resources\/images\/MW-IG542_wfh_al_ZG_20200514144825.jpg",
+                "image_width": 445,
+                "image_height": 250,
+                "from_url": "https:\/\/www.marketwatch.com\/story\/work-from-home-productivity-gain-has-tech-ceos-predicting-many-workers-will-never-come-back-to-the-office-2020-05-15",
+                "image_bytes": 278245,
+                "service_icon": "https:\/\/www.marketwatch.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.marketwatch.com\/story\/work-from-home-productivity-gain-has-tech-ceos-predicting-many-workers-will-never-come-back-to-the-office-2020-05-15"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U5th",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.marketwatch.com\/story\/work-from-home-productivity-gain-has-tech-ceos-predicting-many-workers-will-never-come-back-to-the-office-2020-05-15",
+                                "text": "https:\/\/www.marketwatch.com\/story\/work-from-home-productivity-gain-has-tech-ceos-predicting-many-workers-will-never-come-back-to-the-office-2020-05-15"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\"The COVID-19 pandemic forcing those who could work from home to do so has led to a surprising result — improved productivity. U.S. workers were 47% more productive in March and April than in the same two months a year ago through cloud-based business tools, chat applications and email, according to an analysis of 100 million data points from 30,000 Americans by workplace-monitoring company Prodoscore.\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "reply_count": 19,
+        "reply_users_count": 7,
+        "latest_reply": "1589831389.103000",
+        "reply_users": [
+            "UFW0A1GV8",
+            "UC8R6Q0GJ",
+            "UNR7EF5EU",
+            "U2YH82SRM",
+            "U3HBXARHR",
+            "U389HN5E3",
+            "U3EPGSQQ1"
+        ],
+        "replies": [
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589670646.083100"
+            },
+            {
+                "user": "UC8R6Q0GJ",
+                "ts": "1589672789.083300"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589689451.083600"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589702525.083800"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589702542.084000"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589702556.084200"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589702605.084400"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589704580.084600"
+            },
+            {
+                "user": "U3HBXARHR",
+                "ts": "1589707545.084800"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589719896.085100"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589725127.085300"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589725146.085500"
+            },
+            {
+                "user": "U389HN5E3",
+                "ts": "1589786869.086100"
+            },
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589831127.101900"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589831162.102100"
+            },
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589831309.102300"
+            },
+            {
+                "user": "U3EPGSQQ1",
+                "ts": "1589831341.102600"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589831376.102800"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589831389.103000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0f6e3622-59aa-4711-bd44-94f8973d5ad7",
+        "type": "message",
+        "text": "trabajar desde casa sin managers persiguiendote e interrupciones aumenta la productividad? Quien lo diria",
+        "user": "UFW0A1GV8",
+        "ts": "1589670646.083100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OsW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "trabajar desde casa sin managers persiguiendote e interrupciones aumenta la productividad? Quien lo diria"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UGF2PER8X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92b0d897-e96c-4cc5-91e6-df50523a99bb",
+        "type": "message",
+        "text": "yo de momento no estoy más productivo -__- (ya era remoto)\n\nmucho desorden fisiológico",
+        "user": "UC8R6Q0GJ",
+        "ts": "1589672789.083300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "83fbaa3fd8db",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-04\/861387893206_83fbaa3fd8db53ce6c87_72.jpg",
+            "first_name": "v",
+            "real_name": "v",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "vemv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UC8R6Q0GJ",
+            "ts": "1589672910.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QFtAH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo de momento no estoy más productivo -__- (ya era remoto)\n\nmucho desorden fisiológico"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U40KDVDQF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32e94107-4ed9-4d27-b33a-5a4d47c5a4a4",
+        "type": "message",
+        "text": "No deben tener niños :rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:",
+        "user": "UNR7EF5EU",
+        "ts": "1589689451.083600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EdIt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No deben tener niños "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "rolling_on_the_floor_laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    }
+]

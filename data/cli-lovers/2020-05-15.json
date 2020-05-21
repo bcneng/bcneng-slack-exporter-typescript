@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "135606cb-89e1-4998-9d49-5d05b6aabb0e",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/omgubuntu\/status\/1261062824295571462?s=09|https:\/\/twitter.com\/omgubuntu\/status\/1261062824295571462?s=09>",
+        "user": "U2ZA7J4G2",
+        "ts": "1589574521.059700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g0c481cbb757",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/20c481cbb757159a75570c3e80b4314e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Eduardo",
+            "real_name": "Eduardo Bellido Bellido",
+            "display_name": "edubxb",
+            "team": "T2Y6L54R3",
+            "name": "edubxb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/omgubuntu|@omgubuntu>: TIL you can browse the world from the command line... <https:\/\/pbs.twimg.com\/tweet_video_thumb\/EYAx2y8XYAQCand.jpg>",
+                "ts": 1589495781,
+                "author_name": "omg! ubuntu!",
+                "author_link": "https:\/\/twitter.com\/omgubuntu\/status\/1261062824295571462",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1260717571197804547\/LQH4rU8y_normal.jpg",
+                "author_subname": "@omgubuntu",
+                "text": "TIL you can browse the world from the command line...",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/omgubuntu\/status\/1261062824295571462?s=09",
+                "thumb_url": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/EYAx2y8XYAQCand.jpg",
+                "thumb_width": 946,
+                "thumb_height": 598,
+                "video_html_width": 948,
+                "video_html_height": 598,
+                "video_html": "<video autoplay loop muted poster=\"https:\/\/pbs.twimg.com\/tweet_video_thumb\/EYAx2y8XYAQCand.jpg\" width=\"948\" height=\"598\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/tweet_video\/EYAx2y8XYAQCand.mp4\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/omgubuntu\/status\/1261062824295571462?s=09",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jfaa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/omgubuntu\/status\/1261062824295571462?s=09",
+                                "text": "https:\/\/twitter.com\/omgubuntu\/status\/1261062824295571462?s=09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3c02b0c3-847a-44ae-92c0-cea7790eed7a",
+        "type": "message",
+        "text": ":star-struck:",
+        "user": "U2ZA7J4G2",
+        "ts": "1589574526.059900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g0c481cbb757",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/20c481cbb757159a75570c3e80b4314e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+            "first_name": "Eduardo",
+            "real_name": "Eduardo Bellido Bellido",
+            "display_name": "edubxb",
+            "team": "T2Y6L54R3",
+            "name": "edubxb",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y8G7d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "star-struck"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

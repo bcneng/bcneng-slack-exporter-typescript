@@ -1,0 +1,691 @@
+[
+    {
+        "type": "message",
+        "text": "Bueno, no mucho. Me puse las alarmas de Billing de free tier, pero aún así tengo gastos!\n\nEsta tarde miraré en detalle :mag:",
+        "files": [
+            {
+                "id": "F013WB0UEKD",
+                "created": 1589872676,
+                "timestamp": 1589872676,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U5HQG3H18",
+                "editable": false,
+                "size": 1253,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013WB0UEKD\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013WB0UEKD\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WB0UEKD-6a2ffa3e74\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WB0UEKD-6a2ffa3e74\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WB0UEKD-6a2ffa3e74\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 92,
+                "thumb_360_h": 42,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WB0UEKD-6a2ffa3e74\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "original_w": 92,
+                "original_h": 42,
+                "thumb_tiny": "AwAVADDT6UgZWXIIIPcGmTrvhZQN2R0ziq0cEhiXcmCJAR2OOM5oAu5GcZ5FBIHU1USORJdwjzgscgj5snimvBKZHLAOGXBwcHr05oAuggjIOaKit1ZY8OMcnA4zj3xUtABRRRQAUUUUAFFFFAH\/2Q==",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U5HQG3H18\/F013WB0UEKD\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013WB0UEKD-8a0391df72",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vl6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bueno, no mucho. Me puse las alarmas de Billing de free tier, pero aún así tengo gastos!\n\nEsta tarde miraré en detalle "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mag"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U5HQG3H18",
+        "display_as_bot": false,
+        "ts": "1589872677.062700",
+        "client_msg_id": "26ecbc99-b062-4e52-9cbc-3ff8bb5df74e",
+        "thread_ts": "1589870791.062400",
+        "parent_user_id": "U5HQG3H18"
+    },
+    {
+        "client_msg_id": "f7e9577b-3892-4bdf-9d0d-30ccc60ac5f6",
+        "type": "message",
+        "text": "NAT Gateway is the culprit :heavy_dollar_sign: :dollar:",
+        "user": "U5HQG3H18",
+        "ts": "1589872956.063100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "f6cace66645e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-03\/192363430340_f6cace66645eb2aa805c_72.jpg",
+            "first_name": "Eduard",
+            "real_name": "Eduard Simón",
+            "display_name": "zimonbizkit",
+            "team": "T2Y6L54R3",
+            "name": "zimonbizkit",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5+Du",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NAT Gateway is the culprit "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_dollar_sign"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dollar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589870791.062400",
+        "parent_user_id": "U5HQG3H18"
+    },
+    {
+        "client_msg_id": "9528a080-074c-49f3-8ec7-5445ecdc954d",
+        "type": "message",
+        "text": "yo cuando lo cogí me puse una alerta en el billing cuando subiera de 0.01$",
+        "user": "U32JSP0RW",
+        "ts": "1589878509.063300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a548b720f1f3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-19\/199636525011_a548b720f1f3867916d3_72.jpg",
+            "first_name": "Jose",
+            "real_name": "Jose Ledesma",
+            "display_name": "joseluis.ledesma",
+            "team": "T2Y6L54R3",
+            "name": "joseluis.ledesma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j8Q0y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo cuando lo cogí me puse una alerta en el billing cuando subiera de 0.01$"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589870791.062400",
+        "parent_user_id": "U5HQG3H18"
+    },
+    {
+        "client_msg_id": "b90da8b0-b899-4732-aad9-e3bd3d166a7f",
+        "type": "message",
+        "text": "así podía atajarlo rápidamente... aun y así pagué alguna factura the 0.10$",
+        "user": "U32JSP0RW",
+        "ts": "1589878525.063500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a548b720f1f3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-19\/199636525011_a548b720f1f3867916d3_72.jpg",
+            "first_name": "Jose",
+            "real_name": "Jose Ledesma",
+            "display_name": "joseluis.ledesma",
+            "team": "T2Y6L54R3",
+            "name": "joseluis.ledesma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yve9h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "así podía atajarlo rápidamente... aun y así pagué alguna factura the 0.10$"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589870791.062400",
+        "parent_user_id": "U5HQG3H18"
+    },
+    {
+        "client_msg_id": "984375bd-8bdf-434f-a9e4-7cb38f20f988",
+        "type": "message",
+        "text": "Yo cuando era un polluelo universitario tratando de usar el free tier me llevé una multa de 85€ :sweat_smile:",
+        "user": "U310GJXHC",
+        "ts": "1589882967.063700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g43537c5566f",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f43537c5566fa12facdb6f58120d6f30.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Marcos",
+            "real_name": "Marcos Estévez",
+            "display_name": "marcostvz",
+            "team": "T2Y6L54R3",
+            "name": "marcostvz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/yD4E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo cuando era un polluelo universitario tratando de usar el free tier me llevé una multa de 85€ "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589870791.062400",
+        "parent_user_id": "U5HQG3H18"
+    },
+    {
+        "client_msg_id": "98d29383-8411-46a7-b77f-9eed169d1f7e",
+        "type": "message",
+        "text": "semver de datadog es :shit:",
+        "user": "U30B8KQVB",
+        "ts": "1589890350.064200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YaUyv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "semver de datadog es "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "shit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bcfa09e1-5876-4903-8e0f-8f0b01765fc4",
+        "type": "message",
+        "text": "Github esta haciendo el tonto… <https:\/\/www.githubstatus.com\/> los devs me lloran que las builds fallan y no quieren entender por que.",
+        "user": "U32L364NL",
+        "ts": "1589897306.064900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gc0ff3b33c59",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/2c0ff3b33c5906b7fc611bbc76843e80.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+            "first_name": "Elliot",
+            "real_name": "Elliot Morales",
+            "display_name": "elliotmoso",
+            "team": "T2Y6L54R3",
+            "name": "elliotmoso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "GitHub Status",
+                "title_link": "https:\/\/www.githubstatus.com\/",
+                "text": "Welcome to GitHub's home for real-time and historical data on system performance.",
+                "fallback": "GitHub Status",
+                "from_url": "https:\/\/www.githubstatus.com\/",
+                "service_icon": "http:\/\/dka575ofm4ao0.cloudfront.net\/pages-favicon_logos\/original\/36420\/akacZEQQfOBdc7ftyxJt",
+                "service_name": "githubstatus.com",
+                "id": 1,
+                "original_url": "https:\/\/www.githubstatus.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aE7+Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Github esta haciendo el tonto… "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.githubstatus.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " los devs me lloran que las builds fallan y no quieren entender por que."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589897306.064900",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1589899663.065800",
+        "reply_users": [
+            "UMBEAG23E"
+        ],
+        "replies": [
+            {
+                "user": "UMBEAG23E",
+                "ts": "1589899649.065600"
+            },
+            {
+                "user": "UMBEAG23E",
+                "ts": "1589899663.065800"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "73e3c039-7c7a-4e64-adba-39270790f441",
+        "type": "message",
+        "text": "Pues sin github y sin quay tendré que irme a casa :eyes:",
+        "user": "U57NW5K7T",
+        "ts": "1589897764.065400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QT9LA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pues sin github y sin quay tendré que irme a casa "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bye_boo",
+                "users": [
+                    "UEDFE7J07"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9c0b2b1-a7a3-4a69-9be1-a93d90ab46fa",
+        "type": "message",
+        "text": "diles que reinicien y lo vuelvan a intentar",
+        "user": "UMBEAG23E",
+        "ts": "1589899649.065600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "0cf738be2f57",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-14\/719575797681_0cf738be2f57253ab291_72.png",
+            "first_name": "Adrián",
+            "real_name": "Adrián Norte",
+            "display_name": "anortef",
+            "team": "T2Y6L54R3",
+            "name": "adrian227",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WD6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "diles que reinicien y lo vuelvan a intentar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589897306.064900",
+        "parent_user_id": "U32L364NL"
+    },
+    {
+        "client_msg_id": "34a3d114-b90a-4029-93db-0845d87763f1",
+        "type": "message",
+        "text": "y cuando lo intenten de nuevo diles que sera un tema de cache",
+        "user": "UMBEAG23E",
+        "ts": "1589899663.065800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "0cf738be2f57",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-14\/719575797681_0cf738be2f57253ab291_72.png",
+            "first_name": "Adrián",
+            "real_name": "Adrián Norte",
+            "display_name": "anortef",
+            "team": "T2Y6L54R3",
+            "name": "adrian227",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GFSfi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y cuando lo intenten de nuevo diles que sera un tema de cache"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589897306.064900",
+        "parent_user_id": "U32L364NL"
+    },
+    {
+        "client_msg_id": "810e8a9b-eefb-4a67-8157-6f7580866ddc",
+        "type": "message",
+        "text": "<@U2Y5FEY1H>",
+        "user": "UGPRV963X",
+        "ts": "1589900404.066400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6e81237bf0d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-12\/573952548404_6e81237bf0d34165e431_72.png",
+            "first_name": "Carles",
+            "real_name": "Carles Nuñez Tomeo",
+            "display_name": "Carles Nuñez Tomeo",
+            "team": "T2Y6L54R3",
+            "name": "carlesnunezt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IQP2n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2Y5FEY1H"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U2Y5FEY1H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78c766e5-4692-4807-9a9f-c33f049e0506",
+        "type": "message",
+        "text": "le etiqueto para que se sienta querido",
+        "user": "UGPRV963X",
+        "ts": "1589900411.066700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6e81237bf0d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-12\/573952548404_6e81237bf0d34165e431_72.png",
+            "first_name": "Carles",
+            "real_name": "Carles Nuñez Tomeo",
+            "display_name": "Carles Nuñez Tomeo",
+            "team": "T2Y6L54R3",
+            "name": "carlesnunezt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RFo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "le etiqueto para que se sienta querido"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "laughing",
+                "users": [
+                    "U40KDVDQF",
+                    "U36H6F3CN",
+                    "U2Y5FEY1H",
+                    "U3S8PPA3S"
+                ],
+                "count": 4
+            },
+            {
+                "name": "loveparrot",
+                "users": [
+                    "UGC8J6E8J",
+                    "UEDFE7J07",
+                    "U2Y5FEY1H",
+                    "UNR7EF5EU"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b07ac82b-60c1-44cb-b0ac-1546d6b96b17",
+        "type": "message",
+        "text": ":heart:",
+        "user": "UGPRV963X",
+        "ts": "1589900413.066900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6e81237bf0d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-12\/573952548404_6e81237bf0d34165e431_72.png",
+            "first_name": "Carles",
+            "real_name": "Carles Nuñez Tomeo",
+            "display_name": "Carles Nuñez Tomeo",
+            "team": "T2Y6L54R3",
+            "name": "carlesnunezt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A06",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589900707.067100",
+        "user": "U4T9FULPR",
+        "text": "<@U4T9FULPR> has joined the channel"
+    },
+    {
+        "client_msg_id": "bfab8f19-a5a4-4d2c-b5f8-8dc674730cf5",
+        "type": "message",
+        "text": "algo querrás de mí :joy:",
+        "user": "U2Y5FEY1H",
+        "ts": "1589903319.068200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "8a74c005d37f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-25\/512550888023_8a74c005d37f24929506_72.png",
+            "first_name": "Odín",
+            "real_name": "Odín del Río",
+            "display_name": "odin",
+            "team": "T2Y6L54R3",
+            "name": "odin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QiyQj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "algo querrás de mí "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

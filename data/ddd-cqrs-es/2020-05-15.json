@@ -1,0 +1,2080 @@
+[
+    {
+        "client_msg_id": "98771efd-f94f-4ef5-8a97-d30392d9a3eb",
+        "type": "message",
+        "text": "gracias por compartir <@U3EPGSQQ1>, mark richards suele dar charlas :top:",
+        "user": "U36343539",
+        "ts": "1589527457.081300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g123ca29e2b3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3123ca29e2b303cc43b129bffadae3fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Marcel",
+            "real_name": "Marcel Otón",
+            "display_name": "marcel",
+            "team": "T2Y6L54R3",
+            "name": "marcel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5Mq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gracias por compartir "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U3EPGSQQ1"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", mark richards suele dar charlas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "top"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U3EPGSQQ1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "81abe9b1-df92-46d0-bb77-4a8fa2739183",
+        "type": "message",
+        "text": "es muy bueno el tio, si. yo estuve en un workshop suyo y canela fina",
+        "user": "U3EPGSQQ1",
+        "ts": "1589527962.081500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s4Xbm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "es muy bueno el tio, si. yo estuve en un workshop suyo y canela fina"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "d496aee3-55c6-4b0a-ab25-45eff35fb9e2",
+        "type": "message",
+        "text": "todo esto se resume en: piensa un poco antes de hacer las cosas, anda :laughing:",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589529838.081800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MjUU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "todo esto se resume en: piensa un poco antes de hacer las cosas, anda "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM",
+        "reactions": [
+            {
+                "name": "true",
+                "users": [
+                    "UGVNLB7LL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "815631ee-e9cf-48ea-bbc9-42477a0c8e71",
+        "type": "message",
+        "text": "Eso, piensa un poco, y una vez hayas pensado, si crees que microservices son la solución, has pensado mal :troll:",
+        "user": "U2YH82SRM",
+        "ts": "1589530533.082000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ikGH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Eso, piensa un poco, y una vez hayas pensado, si crees que microservices son la solución, has pensado mal "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "troll"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "04e050ce-4569-464c-afbb-dce7db5b48cf",
+        "type": "message",
+        "text": "Ahora en serio, ahora va a resultar que todos los gurús de microservices eran pro-microservices pero con reservas, tipo el comentario del Newman `\"Newman's opinion is that \"microservices are not a good choice for most startups.\"` cuando jamás le había escuchado decir eso hasta ahora",
+        "user": "U2YH82SRM",
+        "ts": "1589533246.082200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aRxA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ahora en serio, ahora va a resultar que todos los gurús de microservices eran pro-microservices pero con reservas, tipo el comentario del Newman "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\"Newman's opinion is that \"microservices are not a good choice for most startups.\"",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " cuando jamás le había escuchado decir eso hasta ahora"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "c3f32391-4986-410a-9257-a56f5fd4fa25",
+        "type": "message",
+        "text": "Ni recuerdo que dijese nada al respecto en el \"Building Microservices\"",
+        "user": "U2YH82SRM",
+        "ts": "1589533291.082400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gDU=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ni recuerdo que dijese nada al respecto en el \"Building Microservices\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "0868279f-c1d1-4b34-b96f-7ace57d17aec",
+        "type": "message",
+        "text": "esperate de aqui a unos años a la de “don’t use a SPA, the server can render your page just fine”",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589534065.082600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NXp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "esperate de aqui a unos años a la de “don’t use a SPA, the server can render your page just fine”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "52aad026-5be5-4dc6-8c07-e9aac6064412",
+        "type": "message",
+        "text": "filosofia rails",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589534097.082800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7bbT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "filosofia rails"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "7b3a4c32-1f72-4fde-874b-aea7c18ac2fc",
+        "type": "message",
+        "text": "creo que lo de que microservices no son para todo el mundo no es nada nuevo, y se ha hablado de eso des del principio",
+        "user": "U36343539",
+        "ts": "1589535080.083000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g123ca29e2b3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3123ca29e2b303cc43b129bffadae3fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Marcel",
+            "real_name": "Marcel Otón",
+            "display_name": "marcel",
+            "team": "T2Y6L54R3",
+            "name": "marcel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c07T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "creo que lo de que microservices no son para todo el mundo no es nada nuevo, y se ha hablado de eso des del principio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "397aeb3a-9cf5-4eb0-9151-8b866235bd9f",
+        "type": "message",
+        "text": "de hecho <@U2YH82SRM> en building microservices hay esto en el primer capitulo:\n```No Silver Bullet\nBefore we finish, I should call out that microservices are no free lunch or silver bullet, and make for a bad choice as a golden hammer. They have all the associated complexities of distributed systems, and while we have learned a lot about how to manage distributed systems well (which we'll discuss throughout the book) it is still hard. If you're coming from a monolithic system point of view, you'll have to get much better at handling deployment, testing, and monitoring to unlock the benefits we've covered so far. You'll also need to think differently about how you scale your systems and ensure that they are resilient. Don't also be surprised if things like distributed transactions or CAP theorem start giving you headaches, either!\n\nEvery company, organization, and system is different. A number of factors will play into whether or not microservices are right for you, and how aggressive you can be in adopting them. Throughout each chapter in this book I'll attempt to give you guidance highlighting the potential pitfalls, which should help you chart a steady path.```\n",
+        "user": "U36343539",
+        "ts": "1589535109.083200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g123ca29e2b3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3123ca29e2b303cc43b129bffadae3fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Marcel",
+            "real_name": "Marcel Otón",
+            "display_name": "marcel",
+            "team": "T2Y6L54R3",
+            "name": "marcel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v\/Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "de hecho "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2YH82SRM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " en building microservices hay esto en el primer capitulo:\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No Silver Bullet\nBefore we finish, I should call out that microservices are no free lunch or silver bullet, and make for a bad choice as a golden hammer. They have all the associated complexities of distributed systems, and while we have learned a lot about how to manage distributed systems well (which we'll discuss throughout the book) it is still hard. If you're coming from a monolithic system point of view, you'll have to get much better at handling deployment, testing, and monitoring to unlock the benefits we've covered so far. You'll also need to think differently about how you scale your systems and ensure that they are resilient. Don't also be surprised if things like distributed transactions or CAP theorem start giving you headaches, either!\n\nEvery company, organization, and system is different. A number of factors will play into whether or not microservices are right for you, and how aggressive you can be in adopting them. Throughout each chapter in this book I'll attempt to give you guidance highlighting the potential pitfalls, which should help you chart a steady path."
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "a08fca67-cd39-4705-976b-30c480560b2b",
+        "type": "message",
+        "text": "y el tito martin ya decia en 2014 que no todo eran rosas (<https:\/\/martinfowler.com\/bliki\/MicroservicePrerequisites.html>)",
+        "user": "U36343539",
+        "ts": "1589535149.083400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g123ca29e2b3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3123ca29e2b303cc43b129bffadae3fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Marcel",
+            "real_name": "Marcel Otón",
+            "display_name": "marcel",
+            "team": "T2Y6L54R3",
+            "name": "marcel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "martinfowler.com",
+                "title": "bliki: MicroservicePrerequisites",
+                "title_link": "https:\/\/martinfowler.com\/bliki\/MicroservicePrerequisites.html",
+                "text": "There are certain things you need to get sorted out before you can put your first microservices system into production: monitoring, provisioning, and a devops culture.",
+                "fallback": "martinfowler.com: bliki: MicroservicePrerequisites",
+                "image_url": "https:\/\/martinfowler.com\/bliki\/images\/microservicePrerequisites\/sketch.png",
+                "from_url": "https:\/\/martinfowler.com\/bliki\/MicroservicePrerequisites.html",
+                "image_width": 411,
+                "image_height": 250,
+                "image_bytes": 76418,
+                "service_icon": "https:\/\/martinfowler.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/martinfowler.com\/bliki\/MicroservicePrerequisites.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fat",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y el tito martin ya decia en 2014 que no todo eran rosas ("
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/martinfowler.com\/bliki\/MicroservicePrerequisites.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "9a40654d-0525-4412-855d-14e54248bfa8",
+        "type": "message",
+        "text": "In my face <@U36343539>, no lo recordaba para nada",
+        "user": "U2YH82SRM",
+        "ts": "1589535155.083700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SSMek",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In my face "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U36343539"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", no lo recordaba para nada"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "3a891752-f560-4db1-b44f-418ca997526d",
+        "type": "message",
+        "text": "Cuando leí el libro estaba en medio de un brainstorming gigante de como simplificar nuestra plataforma",
+        "user": "U2YH82SRM",
+        "ts": "1589535200.083900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pGQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cuando leí el libro estaba en medio de un brainstorming gigante de como simplificar nuestra plataforma"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "951b1bca-2ca7-4adb-b95a-b8b9b15024bb",
+        "type": "message",
+        "text": "creo que siempre ha habido mas hype por parte de la gente que intenta adoptarlos, que no de la gente que los definio en su momento",
+        "user": "U36343539",
+        "ts": "1589535203.084100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g123ca29e2b3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3123ca29e2b303cc43b129bffadae3fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Marcel",
+            "real_name": "Marcel Otón",
+            "display_name": "marcel",
+            "team": "T2Y6L54R3",
+            "name": "marcel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P3\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "creo que siempre ha habido mas hype por parte de la gente que intenta adoptarlos, que no de la gente que los definio en su momento"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "8839fd7c-ee03-431d-9297-9135589a3991",
+        "type": "message",
+        "text": "y los problemas gordos creo que se empiezan a ver cuando tienes cosas en produccion",
+        "user": "U36343539",
+        "ts": "1589535255.084300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g123ca29e2b3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3123ca29e2b303cc43b129bffadae3fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Marcel",
+            "real_name": "Marcel Otón",
+            "display_name": "marcel",
+            "team": "T2Y6L54R3",
+            "name": "marcel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "87+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y los problemas gordos creo que se empiezan a ver cuando tienes cosas en produccion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "f3983712-1826-48f1-9697-852129d22637",
+        "type": "message",
+        "text": "Agree en todo. Nosotros intentamos en su momento hacer algo en ese camino pero con el tiempo hemos vuelto a integrar cosas en el monolito (que intenta ser modular)",
+        "user": "U2YH82SRM",
+        "ts": "1589535291.084500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z1CJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Agree en todo. Nosotros intentamos en su momento hacer algo en ese camino pero con el tiempo hemos vuelto a integrar cosas en el monolito (que intenta ser modular)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "59786ec3-d297-471e-8b14-c92f05071c90",
+        "type": "message",
+        "text": "si, creo que de eso es de lo que se esta dando cuenta la gente",
+        "user": "U36343539",
+        "ts": "1589535318.084700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g123ca29e2b3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3123ca29e2b303cc43b129bffadae3fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Marcel",
+            "real_name": "Marcel Otón",
+            "display_name": "marcel",
+            "team": "T2Y6L54R3",
+            "name": "marcel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eUre",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si, creo que de eso es de lo que se esta dando cuenta la gente"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "b57ceb61-fcbf-4bd4-87eb-d1cbef3892af",
+        "type": "message",
+        "text": "no se quien fue que dijo “if you can’t do monoliths right, what makes you think you can do microservices right?”",
+        "user": "U36343539",
+        "ts": "1589535347.084900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g123ca29e2b3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3123ca29e2b303cc43b129bffadae3fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Marcel",
+            "real_name": "Marcel Otón",
+            "display_name": "marcel",
+            "team": "T2Y6L54R3",
+            "name": "marcel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NLMw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no se quien fue que dijo “if you can’t do monoliths right, what makes you think you can do microservices right?”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "a0df7015-2eb0-4f20-8459-4d9662e8b8ff",
+        "type": "message",
+        "text": "y creo que con esa frase se resume un poco todo",
+        "user": "U36343539",
+        "ts": "1589535358.085100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g123ca29e2b3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3123ca29e2b303cc43b129bffadae3fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Marcel",
+            "real_name": "Marcel Otón",
+            "display_name": "marcel",
+            "team": "T2Y6L54R3",
+            "name": "marcel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pWeJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y creo que con esa frase se resume un poco todo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "a5baebf5-764f-4ca4-af49-4ed323e48911",
+        "type": "message",
+        "text": "(aunque pueda sonar un poco pedante)",
+        "user": "U36343539",
+        "ts": "1589535363.085300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g123ca29e2b3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3123ca29e2b303cc43b129bffadae3fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Marcel",
+            "real_name": "Marcel Otón",
+            "display_name": "marcel",
+            "team": "T2Y6L54R3",
+            "name": "marcel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bZm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(aunque pueda sonar un poco pedante)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM",
+        "reactions": [
+            {
+                "name": "yisucrist",
+                "users": [
+                    "U377Y599R"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "200e12d2-29f2-4fdf-bc26-6bd78a12c46b",
+        "type": "message",
+        "text": "Uno de los primeros architect Clippy <https:\/\/twitter.com\/architectclippy\/status\/570025079825764352>",
+        "user": "U2YH82SRM",
+        "ts": "1589535459.085600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/architectclippy|@architectclippy>: I see you have a poorly structured monolith. Would you like me to convert it into a poorly structured set of microservices?",
+                "ts": 1424739544,
+                "author_name": "Architect Clippy",
+                "author_link": "https:\/\/twitter.com\/architectclippy\/status\/570025079825764352",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/570017253681156096\/IQY0x1RI_normal.jpeg",
+                "author_subname": "@architectclippy",
+                "text": "I see you have a poorly structured monolith. Would you like me to convert it into a poorly structured set of microservices?",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/architectclippy\/status\/570025079825764352",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/architectclippy\/status\/570025079825764352",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N1t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Uno de los primeros architect Clippy "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/architectclippy\/status\/570025079825764352"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "bd147ffa-5574-4f74-bdca-e8ab6cf00b2e",
+        "type": "message",
+        "text": "XDDD",
+        "user": "U2YH82SRM",
+        "ts": "1589535463.086000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V7mT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "XDDD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "472899e1-1df8-42b7-8057-6f65a036b0c3",
+        "type": "message",
+        "text": "jaja justo lo acabo de ver",
+        "user": "U36343539",
+        "ts": "1589535484.086200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g123ca29e2b3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3123ca29e2b303cc43b129bffadae3fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Marcel",
+            "real_name": "Marcel Otón",
+            "display_name": "marcel",
+            "team": "T2Y6L54R3",
+            "name": "marcel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XMf5F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "jaja justo lo acabo de ver"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "daa40dc0-2a4e-45e6-a8e6-d8bc2fdc4c3d",
+        "type": "message",
+        "text": "me fio mas de este hombre que del architect clippy por eso <https:\/\/twitter.com\/simonbrown\/status\/573072777147777024> :sweat_smile:",
+        "user": "U36343539",
+        "ts": "1589535506.086400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g123ca29e2b3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3123ca29e2b303cc43b129bffadae3fd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Marcel",
+            "real_name": "Marcel Otón",
+            "display_name": "marcel",
+            "team": "T2Y6L54R3",
+            "name": "marcel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36343539",
+            "ts": "1589535514.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/simonbrown|@simonbrown>: I'll keep saying this ... if people can't build monoliths properly, microservices won't help. #qconlondon #DesignThinking #Modularity",
+                "ts": 1425466171,
+                "author_name": "Simon Brown",
+                "author_link": "https:\/\/twitter.com\/simonbrown\/status\/573072777147777024",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/870196191979593728\/a9kgT5vr_normal.jpg",
+                "author_subname": "@simonbrown",
+                "text": "I'll keep saying this ... if people can't build monoliths properly, microservices won't help. #qconlondon #DesignThinking #Modularity",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/simonbrown\/status\/573072777147777024",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/simonbrown\/status\/573072777147777024",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KN=DX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me fio mas de este hombre que del architect clippy por eso "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/simonbrown\/status\/573072777147777024"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "67e2b0fc-cb2a-42e5-b7a2-a4bf1a677ce1",
+        "type": "message",
+        "text": "Nosotros tenemos microservicios y muy contentos estamos",
+        "user": "U3DPLBVQE",
+        "ts": "1589556012.087500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YCy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nosotros tenemos microservicios y muy contentos estamos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "3431eef5-1b93-4c1c-9fea-c2852a77b017",
+        "type": "message",
+        "text": "que los microservicios tienen trade-offs, por supuesto",
+        "user": "U3DPLBVQE",
+        "ts": "1589556034.087700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7OoX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "que los microservicios tienen trade-offs, por supuesto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "a0a35127-ff87-4dc5-a0e4-457cf7d9cccc",
+        "type": "message",
+        "text": "y que requieren un buen diseño y que deben encajar con tu caso de uso",
+        "user": "U3DPLBVQE",
+        "ts": "1589556049.087900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "unvY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y que requieren un buen diseño y que deben encajar con tu caso de uso"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "c8f97eb6-0b4d-4e7b-aafc-9198b2950569",
+        "type": "message",
+        "text": "lo que sirve para el negocio A no tiene por qué servir para el negocio B",
+        "user": "U3DPLBVQE",
+        "ts": "1589556065.088100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3DPLBVQE",
+            "ts": "1589556074.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1Jm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo que sirve para el negocio A no tiene por qué servir para el negocio B"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "f6f5c8d5-9633-43cd-b3f5-fc77676f0360",
+        "type": "message",
+        "text": "hace un par de años dimos una charla sobre cómo lo hacemos nosotros: <https:\/\/speakerdeck.com\/softonic\/2018-10-16-elasticsearch-in-softonic?slide=18>",
+        "user": "U3DPLBVQE",
+        "ts": "1589556131.088400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Speaker Deck",
+                "title": "2018-10-16 Elasticsearch in Softonic",
+                "title_link": "https:\/\/speakerdeck.com\/softonic\/2018-10-16-elasticsearch-in-softonic?slide=18",
+                "text": "How do we use in Softonic the Elastic stack: - Logs processing - General purpose database for real-time usage + search - Percolated searches Originally for <https:\/\/www.meetup.com\/Barcelona-Elastic-Fantastics\/events\/254984861\/> Video of the talk (in spanish): <https:\/\/www.elastic.co\/videos\/caso-de-uso-de-softonic-migraci-n-de-un-monolito-a-microservicios-con-elasticsearch-como-fuente-central-de-datos-spanish>",
+                "fallback": "Speaker Deck: 2018-10-16 Elasticsearch in Softonic",
+                "image_url": "https:\/\/speakerd.s3.amazonaws.com\/presentations\/b79cd3ce95fb4b40a4259538a5b3c9c7\/slide_0.jpg?470256",
+                "from_url": "https:\/\/speakerdeck.com\/softonic\/2018-10-16-elasticsearch-in-softonic?slide=18",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 19483,
+                "service_icon": "https:\/\/d2dfho4r6t7asi.cloudfront.net\/assets\/favicon-c0fe5475f88a65b817c8cc7c0fedc01b7acc17fe27628fa13ca3f96e56e16977.png",
+                "id": 1,
+                "original_url": "https:\/\/speakerdeck.com\/softonic\/2018-10-16-elasticsearch-in-softonic?slide=18"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0cNa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hace un par de años dimos una charla sobre cómo lo hacemos nosotros: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/speakerdeck.com\/softonic\/2018-10-16-elasticsearch-in-softonic?slide=18"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "4d752005-01fc-4b96-89ce-68bb37422160",
+        "type": "message",
+        "text": "lo que se explica ahí sigue vigente a grandes trazos",
+        "user": "U3DPLBVQE",
+        "ts": "1589556148.088700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "faM57",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo que se explica ahí sigue vigente a grandes trazos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "d2f422d9-4d30-4514-a7d3-9a95f24214d4",
+        "type": "message",
+        "text": "Este artículo describe exactamente lo q siempre he pensado, hay videos por ahí tb :point_down:\n<http:\/\/www.codingthearchitecture.com\/2014\/07\/06\/distributed_big_balls_of_mud.html|http:\/\/www.codingthearchitecture.com\/2014\/07\/06\/distributed_big_balls_of_mud.html>",
+        "user": "U2YETHC12",
+        "ts": "1589556361.088900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gc4ecc8b78f5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8c4ecc8b78f5a2080b1eb482bd22bfcb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Jordi",
+            "real_name": "Jordi Gerona",
+            "display_name": "jordi9",
+            "team": "T2Y6L54R3",
+            "name": "jordi9",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Distributed big balls of mud - Coding the Architecture",
+                "title_link": "http:\/\/www.codingthearchitecture.com\/2014\/07\/06\/distributed_big_balls_of_mud.html",
+                "text": "Distributed big balls of mud - Coding the Architecture",
+                "fallback": "Distributed big balls of mud - Coding the Architecture",
+                "from_url": "http:\/\/www.codingthearchitecture.com\/2014\/07\/06\/distributed_big_balls_of_mud.html",
+                "service_icon": "http:\/\/www.codingthearchitecture.com\/themes\/codingthearchitecture\/images\/favicon.ico",
+                "service_name": "codingthearchitecture.com",
+                "id": 1,
+                "original_url": "http:\/\/www.codingthearchitecture.com\/2014\/07\/06\/distributed_big_balls_of_mud.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y6kF4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Este artículo describe exactamente lo q siempre he pensado, hay videos por ahí tb "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "point_down"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/www.codingthearchitecture.com\/2014\/07\/06\/distributed_big_balls_of_mud.html",
+                                "text": "http:\/\/www.codingthearchitecture.com\/2014\/07\/06\/distributed_big_balls_of_mud.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589566173.089300",
+        "user": "U0142SPE1B3",
+        "text": "<@U0142SPE1B3> has joined the channel"
+    },
+    {
+        "client_msg_id": "cb4f902b-bbe6-491c-b649-fce0f347345a",
+        "type": "message",
+        "text": "Hola, yo estoy migrando una aplicación con Active Record y código bastante malo a DDD, hemos creado una capa repositorio que permite hacer CQRS sobre active record, y por ahora no va mal, pero tenemos claro que cuando terminemos de hacer refactoring del resto de la aplicación, pasaremos a doctrine.",
+        "user": "U0142SPE1B3",
+        "ts": "1589566276.089500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "302dc4dafc26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1112672810407_302dc4dafc26d38df9b3_72.jpg",
+            "first_name": "Juan",
+            "real_name": "Juan Macias",
+            "display_name": "Juan Macias",
+            "team": "T2Y6L54R3",
+            "name": "jmacias",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZE4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola, yo estoy migrando una aplicación con Active Record y código bastante malo a DDD, hemos creado una capa repositorio que permite hacer CQRS sobre active record, y por ahora no va mal, pero tenemos claro que cuando terminemos de hacer refactoring del resto de la aplicación, pasaremos a doctrine."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "9d8b0dea-3f60-4d4d-97e9-6949d4756bfd",
+        "type": "message",
+        "text": "En mi caso, las clases Active Record, no tienen absolutamente nada que ver con las entidades, ni el mismo número de tablas, ni el mismo número de campos.... tenemos un mapper entre entity los AR. Lo que cuenta el artículo está demasiado acoplado...",
+        "user": "U0142SPE1B3",
+        "ts": "1589566406.089700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "302dc4dafc26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1112672810407_302dc4dafc26d38df9b3_72.jpg",
+            "first_name": "Juan",
+            "real_name": "Juan Macias",
+            "display_name": "Juan Macias",
+            "team": "T2Y6L54R3",
+            "name": "jmacias",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ek5AH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En mi caso, las clases Active Record, no tienen absolutamente nada que ver con las entidades, ni el mismo número de tablas, ni el mismo número de campos.... tenemos un mapper entre entity los AR. Lo que cuenta el artículo está demasiado acoplado..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "ae5450d8-b004-4a8a-8746-d12a9a79e010",
+        "type": "message",
+        "text": "publica un evento (LoginFailed) y devuelve la expeción",
+        "user": "U0142SPE1B3",
+        "ts": "1589566493.089900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "302dc4dafc26",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1112672810407_302dc4dafc26d38df9b3_72.jpg",
+            "first_name": "Juan",
+            "real_name": "Juan Macias",
+            "display_name": "Juan Macias",
+            "team": "T2Y6L54R3",
+            "name": "jmacias",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wv+=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "publica un evento (LoginFailed) y devuelve la expeción"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588961461.069300",
+        "parent_user_id": "UTG3BMX6C"
+    },
+    {
+        "client_msg_id": "ef7a380e-03ef-4f1a-a39f-93bba6086b72",
+        "type": "message",
+        "text": "<@U3DPLBVQE> cuanta gente hay en el equipo técnico? Cuantos microservices?  Cuantos \"ops\" manteniendolos o haciendo tooling? Que tan fácil es hacer debugging? DBs independientes para cada servicio?",
+        "user": "U2YH82SRM",
+        "ts": "1589567122.090100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WwH9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U3DPLBVQE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " cuanta gente hay en el equipo técnico? Cuantos microservices?  Cuantos \"ops\" manteniendolos o haciendo tooling? Que tan fácil es hacer debugging? DBs independientes para cada servicio?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "84819E4E-4EA8-43BB-8F19-1E0AC8053A1C",
+        "type": "message",
+        "text": "Pues ahora seremos unos 30, creo recordar, antes éramos unos cuantos más. Sobre 40 pon.",
+        "user": "U3DPLBVQE",
+        "ts": "1589567174.091200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9af",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pues ahora seremos unos 30, creo recordar, antes éramos unos cuantos más. Sobre 40 pon."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "A2694275-3D69-44A1-BE99-BB9A840A994E",
+        "type": "message",
+        "text": "Tendremos unos 60 o 70, pero a lo mejor te miento. Pueden ser algunos más si contamos los de infraestructura y servicios auxiliares",
+        "user": "U3DPLBVQE",
+        "ts": "1589567212.092500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D1k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tendremos unos 60 o 70, pero a lo mejor te miento. Pueden ser algunos más si contamos los de infraestructura y servicios auxiliares"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "E608A573-49F9-4CC5-BBB7-54F08C6ED143",
+        "type": "message",
+        "text": "Debugging es relativamente sencillo si bien hay micro servicios que tienen un profiling “limitado” si tenemos forma de comprobar las peticiones que se hacen por petición",
+        "user": "U3DPLBVQE",
+        "ts": "1589567253.094000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nGQbD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Debugging es relativamente sencillo si bien hay micro servicios que tienen un profiling “limitado” si tenemos forma de comprobar las peticiones que se hacen por petición"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "CC7D7B40-E941-4CF8-827F-01D49D830274",
+        "type": "message",
+        "text": "Obviamente DBs independiente por servicios ",
+        "user": "U3DPLBVQE",
+        "ts": "1589567270.094600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D1oF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Obviamente DBs independiente por servicios "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "13B8DB17-5D7B-44BD-81B5-A9C2715E1E8A",
+        "type": "message",
+        "text": "Es una regla importante para asegurar que los datos pertenecen a un servicio y por tanto a un equipo",
+        "user": "U3DPLBVQE",
+        "ts": "1589567295.095500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Yp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Es una regla importante para asegurar que los datos pertenecen a un servicio y por tanto a un equipo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "AB371725-AACB-4021-B337-06F4795DF736",
+        "type": "message",
+        "text": "En el momento que no tienes esto claro comienzan las fricciones",
+        "user": "U3DPLBVQE",
+        "ts": "1589567312.096200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UdGC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En el momento que no tienes esto claro comienzan las fricciones"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "1BA6F0DD-8787-48F1-99CC-6CBA1EF9030D",
+        "type": "message",
+        "text": "Hace años, cuando comenzamos el plan de descomponer el monolito éramos más de 100 técnicos ",
+        "user": "U3DPLBVQE",
+        "ts": "1589567787.097100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E2=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hace años, cuando comenzamos el plan de descomponer el monolito éramos más de 100 técnicos "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "1017BD81-42F4-4590-8CA3-BBE8CBE2A4FD",
+        "type": "message",
+        "text": "Aquello era bastante locura :sweat_smile:",
+        "user": "U3DPLBVQE",
+        "ts": "1589567801.097600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ic",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aquello era bastante locura "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "CDD238EA-238F-436B-838C-D11AE70E4886",
+        "type": "message",
+        "text": "Después vino un ERE y se redujo la compañía pero el plan técnico, creo que con buen criterio, siguió adelante",
+        "user": "U3DPLBVQE",
+        "ts": "1589567842.098700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3DPLBVQE",
+            "ts": "1589567866.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RUbm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Después vino un ERE y se redujo la compañía pero el plan técnico, creo que con buen criterio, siguió adelante"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "0BFD8BF2-3648-41E0-B7B1-556C75E7C984",
+        "type": "message",
+        "text": "En ese speakerdeck tenemos alguna presentación más que complementa ésta.",
+        "user": "U3DPLBVQE",
+        "ts": "1589568008.099700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a=Ksn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En ese speakerdeck tenemos alguna presentación más que complementa ésta."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "69C57431-6BC4-437D-8AED-DF4FD457EB5A",
+        "type": "message",
+        "text": "Y creo que esta está grabada y pública en YouTube ",
+        "user": "U3DPLBVQE",
+        "ts": "1589568063.100600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y3r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y creo que esta está grabada y pública en YouTube "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    }
+]

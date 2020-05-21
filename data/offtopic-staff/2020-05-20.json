@@ -1,0 +1,2140 @@
+[
+    {
+        "client_msg_id": "1cc59798-a47a-4817-b724-97fa802e8167",
+        "type": "message",
+        "text": "hola, me gustaría copiar los emojis de BcnEng en el slack de la empresa, ya que no tienen ni :party_parrot:.\n¿Hay algún pack disponible, aunque sea incompleto? ¿Recomendáis otros packs? ¿Algún script de importación favorito? ¿Alguien me puede orientar? :ty:",
+        "user": "U36UNRM4N",
+        "ts": "1589968154.056100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaa15c3f6948",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aa15c3f6948e5977fa9c0ebbc923aeb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "David",
+            "real_name": "David Arcos",
+            "display_name": "david.arcos",
+            "team": "T2Y6L54R3",
+            "name": "david.arcos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zCxGS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hola, me gustaría copiar los emojis de BcnEng en el slack de la empresa, ya que no tienen ni "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "party_parrot"
+                            },
+                            {
+                                "type": "text",
+                                "text": ".\n¿Hay algún pack disponible, aunque sea incompleto? ¿Recomendáis otros packs? ¿Algún script de importación favorito? ¿Alguien me puede orientar? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ty"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "reply_count": 42,
+        "reply_users_count": 8,
+        "latest_reply": "1589984792.067500",
+        "reply_users": [
+            "U7VRTCQUW",
+            "UFW0A1GV8",
+            "UGKBXF45D",
+            "UN6S9CCGH",
+            "U36UNRM4N",
+            "U7PQZMZ4L",
+            "U2WPLA0KA",
+            "U2Y6QQHST"
+        ],
+        "replies": [
+            {
+                "user": "U7VRTCQUW",
+                "ts": "1589968177.056200"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589968200.056400"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589968247.056700"
+            },
+            {
+                "user": "UGKBXF45D",
+                "ts": "1589968258.056900"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589968278.057100"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589968280.057300"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589968310.057500"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589968318.057700"
+            },
+            {
+                "user": "U36UNRM4N",
+                "ts": "1589968487.058100"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589968510.058300"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589968612.058500"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589968641.058700"
+            },
+            {
+                "user": "UGKBXF45D",
+                "ts": "1589968703.058900"
+            },
+            {
+                "user": "UGKBXF45D",
+                "ts": "1589968735.059200"
+            },
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589970855.060100"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589971355.060400"
+            },
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589971558.060700"
+            },
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589971571.060900"
+            },
+            {
+                "user": "UGKBXF45D",
+                "ts": "1589972013.061200"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589976182.061500"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589976213.061700"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589976230.061900"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589976276.062100"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589976296.062300"
+            },
+            {
+                "user": "UGKBXF45D",
+                "ts": "1589976659.062500"
+            },
+            {
+                "user": "UGKBXF45D",
+                "ts": "1589976736.062800"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589976829.063000"
+            },
+            {
+                "user": "UGKBXF45D",
+                "ts": "1589976955.063200"
+            },
+            {
+                "user": "U36UNRM4N",
+                "ts": "1589981270.064000"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589984034.064200"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589984045.064400"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589984055.064600"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589984069.064800"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589984076.065000"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589984092.065200"
+            },
+            {
+                "user": "UGKBXF45D",
+                "ts": "1589984209.065900"
+            },
+            {
+                "user": "U36UNRM4N",
+                "ts": "1589984216.066100"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589984244.066300"
+            },
+            {
+                "user": "U36UNRM4N",
+                "ts": "1589984339.066900"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589984776.067100"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589984789.067300"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589984792.067500"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1589984792.067500"
+    },
+    {
+        "client_msg_id": "c97d9547-124c-41bf-81ee-d2ae5c629d7c",
+        "type": "message",
+        "text": "<@UFW0A1GV8>",
+        "user": "U7VRTCQUW",
+        "ts": "1589968177.056200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd5cbc8b73a2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8d5cbc8b73a2a9f6590fdd4aa6eaf29c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Oriol",
+            "real_name": "Oriol Orellana",
+            "display_name": "Oriol",
+            "team": "T2Y6L54R3",
+            "name": "orioloq",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J8XB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UFW0A1GV8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "1a99e242-b97e-4f53-b6b9-e16d787fdf09",
+        "type": "message",
+        "text": "Holas, que emojis? Los parrots se pueden copiar rapido, los otros no",
+        "user": "UFW0A1GV8",
+        "ts": "1589968200.056400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SS7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Holas, que emojis? Los parrots se pueden copiar rapido, los otros no"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "db09d67a-b30d-493b-8f64-70cd2031cfb2",
+        "type": "message",
+        "text": "<https:\/\/github.com\/ErinMorelli\/em-slack-party-parroter> para todas las parrots. Si tu empresa usa SSO vas a tener que modificar el script para que use un auth token en vez de user and pass",
+        "user": "UFW0A1GV8",
+        "ts": "1589968247.056700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ou8hD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/ErinMorelli\/em-slack-party-parroter"
+                            },
+                            {
+                                "type": "text",
+                                "text": " para todas las parrots. Si tu empresa usa SSO vas a tener que modificar el script para que use un auth token en vez de user and pass"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U36UNRM4N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "329090e6-cb49-4a57-86af-8f9dcea0f4a3",
+        "type": "message",
+        "text": "metele el twitch pack, yo aqui lo hecho mucho de menos :disappointed:",
+        "user": "UGKBXF45D",
+        "ts": "1589968258.056900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7b0e5070c58c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-26\/773521984772_7b0e5070c58cebf2df1d_72.jpg",
+            "first_name": "Ramon",
+            "real_name": "Ramon Pans",
+            "display_name": "Kylar13",
+            "team": "T2Y6L54R3",
+            "name": "ramonpans13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/\/+35",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "metele el twitch pack, yo aqui lo hecho mucho de menos "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "6b88bc2a-1c48-4d0c-bcf8-fc17394ca8c5",
+        "type": "message",
+        "text": "para el resto de emojis, tenes que hacer esto <https:\/\/gist.github.com\/lmarkus\/8722f56baf8c47045621>",
+        "user": "UFW0A1GV8",
+        "ts": "1589968278.057100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EGM6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "para el resto de emojis, tenes que hacer esto "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gist.github.com\/lmarkus\/8722f56baf8c47045621"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U36UNRM4N",
+                    "UGVNLB7LL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7e0ac27-913b-45f0-b746-c937d6e51c00",
+        "type": "message",
+        "text": "parrots everywhere, Creo que voy a importarlos en el de mi emprsa",
+        "user": "UN6S9CCGH",
+        "ts": "1589968280.057300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JmXIa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "parrots everywhere, Creo que voy a importarlos en el de mi emprsa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N",
+        "reactions": [
+            {
+                "name": "clapping",
+                "users": [
+                    "UEDFE7J07",
+                    "UGVNLB7LL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8036f3b-ea1a-482d-be5f-2f97433fb693",
+        "type": "message",
+        "text": "pasaria mi version modifica de ese script pero tiene mi access token jaja",
+        "user": "UFW0A1GV8",
+        "ts": "1589968310.057500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "usx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pasaria mi version modifica de ese script pero tiene mi access token jaja"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "43215618-5da0-47cf-ad7c-0037c1164fa4",
+        "type": "message",
+        "text": "lo modifique para que agrege los guest, parrots y flags",
+        "user": "UFW0A1GV8",
+        "ts": "1589968318.057700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8KF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo modifique para que agrege los guest, parrots y flags"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "16fb3e04-2f23-41b0-a033-4d886403066f",
+        "type": "message",
+        "text": "fantástico! los parrots los he tenido casi siempre :conga_party_parrot:, son obligatorios :smile: pero aquí veo muchos más emojis!",
+        "user": "U36UNRM4N",
+        "ts": "1589968487.058100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaa15c3f6948",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aa15c3f6948e5977fa9c0ebbc923aeb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "David",
+            "real_name": "David Arcos",
+            "display_name": "david.arcos",
+            "team": "T2Y6L54R3",
+            "name": "david.arcos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8qG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "fantástico! los parrots los he tenido casi siempre "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "conga_party_parrot"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", son obligatorios "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pero aquí veo muchos más emojis!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "7a1cad98-6635-42c7-b54f-563dec994c9a",
+        "type": "message",
+        "text": "el script ese actualiza con las ultimas parrots desde <http:\/\/cultofthepartyparrot.com|cultofthepartyparrot.com>, yo agrege bastantes :smile:",
+        "user": "UFW0A1GV8",
+        "ts": "1589968510.058300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=mWV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el script ese actualiza con las ultimas parrots desde "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/cultofthepartyparrot.com",
+                                "text": "cultofthepartyparrot.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": ", yo agrege bastantes "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "b020789a-b1d3-4ced-8a49-9de96e69fa7f",
+        "type": "message",
+        "text": "Aquí hay muchos hechos a mano por los users como :anarchy:",
+        "user": "U7PQZMZ4L",
+        "ts": "1589968612.058500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gj1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Aquí hay muchos hechos a mano por los users como "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "anarchy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N",
+        "reactions": [
+            {
+                "name": "anarchy",
+                "users": [
+                    "U36UNRM4N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88eef203-1d10-4258-b11f-375920acd170",
+        "type": "message",
+        "text": "<@UGKBXF45D> que pack es?",
+        "user": "U2WPLA0KA",
+        "ts": "1589968641.058700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1qqAx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "UGKBXF45D"
+                            },
+                            {
+                                "type": "text",
+                                "text": " que pack es?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "ae3bfb69-3d72-4c6b-aa87-94ce6fc6fe94",
+        "type": "message",
+        "text": "<https:\/\/github.com\/calderalabs\/kappa-slack>",
+        "user": "UGKBXF45D",
+        "ts": "1589968703.058900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7b0e5070c58c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-26\/773521984772_7b0e5070c58cebf2df1d_72.jpg",
+            "first_name": "Ramon",
+            "real_name": "Ramon Pans",
+            "display_name": "Kylar13",
+            "team": "T2Y6L54R3",
+            "name": "ramonpans13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "calderalabs\/kappa-slack",
+                "title_link": "https:\/\/github.com\/calderalabs\/kappa-slack",
+                "text": "Ruby app to import Twitch emotes in Slack. Contribute to calderalabs\/kappa-slack development by creating an account on GitHub.",
+                "fallback": "GitHub: calderalabs\/kappa-slack",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/4692452?s=400&v=4",
+                "from_url": "https:\/\/github.com\/calderalabs\/kappa-slack",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/calderalabs\/kappa-slack"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fqQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/calderalabs\/kappa-slack"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U36UNRM4N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd6a9e0c-541f-4ca5-88e1-9a113cc84b0b",
+        "type": "message",
+        "text": "este esta less updated pero los tiene en el readme si lo que quieres es verlos <https:\/\/github.com\/nickgal\/emojipacks-twitch>",
+        "user": "UGKBXF45D",
+        "ts": "1589968735.059200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7b0e5070c58c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-26\/773521984772_7b0e5070c58cebf2df1d_72.jpg",
+            "first_name": "Ramon",
+            "real_name": "Ramon Pans",
+            "display_name": "Kylar13",
+            "team": "T2Y6L54R3",
+            "name": "ramonpans13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "nickgal\/emojipacks-twitch",
+                "title_link": "https:\/\/github.com\/nickgal\/emojipacks-twitch",
+                "text": "Contribute to nickgal\/emojipacks-twitch development by creating an account on GitHub.",
+                "fallback": "GitHub: nickgal\/emojipacks-twitch",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/913141?s=400&v=4",
+                "from_url": "https:\/\/github.com\/nickgal\/emojipacks-twitch",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/nickgal\/emojipacks-twitch"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vpK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "este esta less updated pero los tiene en el readme si lo que quieres es verlos "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/nickgal\/emojipacks-twitch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "bf287246-a9d5-4a28-80ec-9e0bad89e413",
+        "type": "message",
+        "text": "no me suena ninguna cara de los emojis de twitch, será que me he hecho mayor :cry:",
+        "user": "U2Y6QQHST",
+        "ts": "1589970855.060100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lr6gO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no me suena ninguna cara de los emojis de twitch, será que me he hecho mayor "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N",
+        "reactions": [
+            {
+                "name": "older_man",
+                "users": [
+                    "U36UNRM4N",
+                    "UFW0A1GV8",
+                    "U486R9SNP",
+                    "UGVNLB7LL",
+                    "U4SM3C8H3"
+                ],
+                "count": 5
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U2WPLA0KA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8dc127df-7feb-47cd-bb24-60ce2d64617e",
+        "type": "message",
+        "text": "_must not make joke_",
+        "user": "UFW0A1GV8",
+        "ts": "1589971355.060400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cayK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "must not make joke",
+                                "style": {
+                                    "italic": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "9001a403-4fd6-45db-97fe-9b8525ea402e",
+        "type": "message",
+        "text": "pls do XD",
+        "user": "U2Y6QQHST",
+        "ts": "1589971558.060700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6xV8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pls do XD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "48b10141-469a-45cc-b119-bd3e46696f84",
+        "type": "message",
+        "text": "\"_OK boomer_\" ?",
+        "user": "U2Y6QQHST",
+        "ts": "1589971571.060900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NmNT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\""
+                            },
+                            {
+                                "type": "text",
+                                "text": "OK boomer",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\" ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "38bb1bba-7ed3-4a19-b00b-91a81779085f",
+        "type": "message",
+        "text": "Si no te suena :kappa: es que vas muy muy tarde hahahahah",
+        "user": "UGKBXF45D",
+        "ts": "1589972013.061200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7b0e5070c58c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-26\/773521984772_7b0e5070c58cebf2df1d_72.jpg",
+            "first_name": "Ramon",
+            "real_name": "Ramon Pans",
+            "display_name": "Kylar13",
+            "team": "T2Y6L54R3",
+            "name": "ramonpans13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N5A+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si no te suena :kappa: es que vas muy muy tarde hahahahah"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "de89331f-d435-4c31-bbd8-1c38a2d65136",
+        "type": "message",
+        "text": "Idem here :(",
+        "user": "U2WPLA0KA",
+        "ts": "1589976182.061500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I=V1d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Idem here :("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "d9c9594d-44b3-4e18-a0c9-bdbb35f7c44b",
+        "type": "message",
+        "text": "Es que yo estoy completamente out del mundo Twitch",
+        "user": "U2WPLA0KA",
+        "ts": "1589976213.061700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8n9v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Es que yo estoy completamente out del mundo Twitch"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "aa752136-5f36-487f-ab21-b224fd30991e",
+        "type": "message",
+        "text": "Pero hey, que si se tienen que añadir los emojis... Lo podemos mirar",
+        "user": "U2WPLA0KA",
+        "ts": "1589976230.061900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zEC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pero hey, que si se tienen que añadir los emojis... Lo podemos mirar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "bfd813ce-4809-4823-b98e-62dadd2ba41e",
+        "type": "message",
+        "text": "Imagino que si son exactamente los mismos que vienen de serie en Twitch, no deberiamos ver nada que no nos cuadre (diversity especialmente)",
+        "user": "U2WPLA0KA",
+        "ts": "1589976276.062100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FHHoN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Imagino que si son exactamente los mismos que vienen de serie en Twitch, no deberiamos ver nada que no nos cuadre (diversity especialmente)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "8f7d26a3-cf72-45c1-9b84-5e0f76f365b2",
+        "type": "message",
+        "text": "O eso espero",
+        "user": "U2WPLA0KA",
+        "ts": "1589976296.062300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Smv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "O eso espero"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "f659556a-f6f7-4530-9e1e-e6755e074501",
+        "type": "message",
+        "text": "a ver, twitch tiene algun que otro problema con la diversity, pero son cosas como spamear :tryhard: cuando sale una persona de color en pantalla y tal. Los emojis en si son bastante harmless",
+        "user": "UGKBXF45D",
+        "ts": "1589976659.062500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7b0e5070c58c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-26\/773521984772_7b0e5070c58cebf2df1d_72.jpg",
+            "first_name": "Ramon",
+            "real_name": "Ramon Pans",
+            "display_name": "Kylar13",
+            "team": "T2Y6L54R3",
+            "name": "ramonpans13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3d6A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a ver, twitch tiene algun que otro problema con la diversity, pero son cosas como spamear :tryhard: cuando sale una persona de color en pantalla y tal. Los emojis en si son bastante harmless"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "95e8cc3d-d784-4ecf-a2c1-b8daf4a3c665",
+        "type": "message",
+        "text": "Que no es por quitarle importancia al asunto eh, y ha habido incidencias importantes con este tema (OWL con Malik, por ejemplo) pero es mas un tema de cultura twitch que no de los emojis en si imo",
+        "user": "UGKBXF45D",
+        "ts": "1589976736.062800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7b0e5070c58c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-26\/773521984772_7b0e5070c58cebf2df1d_72.jpg",
+            "first_name": "Ramon",
+            "real_name": "Ramon Pans",
+            "display_name": "Kylar13",
+            "team": "T2Y6L54R3",
+            "name": "ramonpans13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EEHd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Que no es por quitarle importancia al asunto eh, y ha habido incidencias importantes con este tema (OWL con Malik, por ejemplo) pero es mas un tema de cultura twitch que no de los emojis en si imo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "56c55945-6bb2-4e08-ac0e-580a4a8c5fb8",
+        "type": "message",
+        "text": "twitch es el forocoches de los youtubers :troll:",
+        "user": "U7PQZMZ4L",
+        "ts": "1589976829.063000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PBnv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "twitch es el forocoches de los youtubers "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "troll"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UGVNLB7LL",
+                    "UEDFE7J07",
+                    "U4SM3C8H3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ddc7009-4b75-452f-836f-07855cb1bd02",
+        "type": "message",
+        "text": "un poco :sweat_smile: , cada vez esta mejor pero sigue habiendo ciertas comunidades que hacen cosas de estas como espamear emotes de gente de color\/asiatica cuando hay alguien asi en pantalla, cosas mas o menos harmless que cobran importancia con el alcance que tiene un broadcast importante",
+        "user": "UGKBXF45D",
+        "ts": "1589976955.063200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7b0e5070c58c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-26\/773521984772_7b0e5070c58cebf2df1d_72.jpg",
+            "first_name": "Ramon",
+            "real_name": "Ramon Pans",
+            "display_name": "Kylar13",
+            "team": "T2Y6L54R3",
+            "name": "ramonpans13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k7GH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "un poco "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , cada vez esta mejor pero sigue habiendo ciertas comunidades que hacen cosas de estas como espamear emotes de gente de color\/asiatica cuando hay alguien asi en pantalla, cosas mas o menos harmless que cobran importancia con el alcance que tiene un broadcast importante"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "4133790a-3e30-48ca-a697-b2d80f99b9da",
+        "type": "message",
+        "text": "¿ahora poner emojis de gente de color es ofensivo?\nApuntadme a la lista de viejunos :older_man:",
+        "user": "U36UNRM4N",
+        "ts": "1589981270.064000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaa15c3f6948",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aa15c3f6948e5977fa9c0ebbc923aeb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "David",
+            "real_name": "David Arcos",
+            "display_name": "david.arcos",
+            "team": "T2Y6L54R3",
+            "name": "david.arcos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkHJS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "¿ahora poner emojis de gente de color es ofensivo?\nApuntadme a la lista de viejunos "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "older_man"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "31921ba0-b116-4f44-9666-c7f1a5f72a72",
+        "type": "message",
+        "text": "No creo que eso sea un problema IMHO <@U36UNRM4N>",
+        "user": "U2WPLA0KA",
+        "ts": "1589984034.064200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D2f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No creo que eso sea un problema IMHO "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U36UNRM4N"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "e5f02cba-f36d-4097-b64a-4e5a53398017",
+        "type": "message",
+        "text": "El problema será el contexto imagino, como todo en esta vida.",
+        "user": "U2WPLA0KA",
+        "ts": "1589984045.064400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tth",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "El problema será el contexto imagino, como todo en esta vida."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "59e16876-723f-4927-b271-3fdbfec6ab54",
+        "type": "message",
+        "text": "Btw, no sabia que Twitch era ... así :neutral_face:",
+        "user": "U2WPLA0KA",
+        "ts": "1589984055.064600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T3FU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Btw, no sabia que Twitch era ... así "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "neutral_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "c14808ba-74f0-453d-a062-e85a28e4dba4",
+        "type": "message",
+        "text": "Entonces quizá habria que mirar un poco el tema de que emoticonos poner y que no",
+        "user": "U2WPLA0KA",
+        "ts": "1589984069.064800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3=C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Entonces quizá habria que mirar un poco el tema de que emoticonos poner y que no"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "1d0c5401-5544-4712-b1da-eb096732d398",
+        "type": "message",
+        "text": "Al menos una validacion rapida",
+        "user": "U2WPLA0KA",
+        "ts": "1589984076.065000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ocg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Al menos una validacion rapida"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "97d6d024-360d-482b-a475-cc8b708ffc91",
+        "type": "message",
+        "text": "que esperas de una plataforma donde una de las integrates del \"safety council\" manda tweets como \"Get out of my twitter feed you dyslexic fuck\" y banea a todos los \"cis white males\" de su chat xd (junto con decir \"I have the power and no one can take that away from me. Some people should be very afraid\" cuando le dieron el puesto)",
+        "user": "UFW0A1GV8",
+        "ts": "1589984092.065200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UFW0A1GV8",
+            "ts": "1589984142.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "urAg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "que esperas de una plataforma donde una de las integrates del \"safety council\" manda tweets como \"Get out of my twitter feed you dyslexic fuck\" y banea a todos los \"cis white males\" de su chat xd (junto con decir \"I have the power and no one can take that away from me. Some people should be very afraid\" cuando le dieron el puesto)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N",
+        "reactions": [
+            {
+                "name": "sweat_smile",
+                "users": [
+                    "U36UNRM4N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1cb33e80-bbc8-447b-8ff0-6a7c909707d2",
+        "type": "message",
+        "text": "Twitch con la magnitud que tiene ahora hay gente de todos lados, y como “dios los crea y ellos se juntan”, hay alguna que otra comunidad bastante toxica",
+        "user": "UGKBXF45D",
+        "ts": "1589984209.065900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7b0e5070c58c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-26\/773521984772_7b0e5070c58cebf2df1d_72.jpg",
+            "first_name": "Ramon",
+            "real_name": "Ramon Pans",
+            "display_name": "Kylar13",
+            "team": "T2Y6L54R3",
+            "name": "ramonpans13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "27Q6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Twitch con la magnitud que tiene ahora hay gente de todos lados, y como “dios los crea y ellos se juntan”, hay alguna que otra comunidad bastante toxica"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "2cf189e3-e7a3-4f38-99d1-b5a7d712c2dc",
+        "type": "message",
+        "text": "gamers...",
+        "user": "U36UNRM4N",
+        "ts": "1589984216.066100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaa15c3f6948",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aa15c3f6948e5977fa9c0ebbc923aeb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "David",
+            "real_name": "David Arcos",
+            "display_name": "david.arcos",
+            "team": "T2Y6L54R3",
+            "name": "david.arcos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sdbr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gamers..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "e53ab341-29c2-4d78-88c6-251e50f2fddc",
+        "type": "message",
+        "text": "Creo que la palabra correcta es “imbéciles”",
+        "user": "UN6S9CCGH",
+        "ts": "1589984244.066300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8JOOt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Creo que la palabra correcta es “imbéciles”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "a9f6f0e2-bdf3-4e06-b611-076458aa9d97",
+        "type": "message",
+        "text": "(lo había entendido al revés)",
+        "user": "U36UNRM4N",
+        "ts": "1589984339.066900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaa15c3f6948",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aa15c3f6948e5977fa9c0ebbc923aeb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "David",
+            "real_name": "David Arcos",
+            "display_name": "david.arcos",
+            "team": "T2Y6L54R3",
+            "name": "david.arcos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jSE=F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(lo había entendido al revés)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "c5bcf180-b78f-4217-b526-edb90c61f6c9",
+        "type": "message",
+        "text": "vaya tela...",
+        "user": "U2WPLA0KA",
+        "ts": "1589984776.067100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BQxUr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vaya tela..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "b0be9194-36f5-4ae4-9c0d-24edeecb0934",
+        "type": "message",
+        "text": "que vergüenza. Entonces estoy feliz de no usar dicha plataforma :smile:",
+        "user": "U2WPLA0KA",
+        "ts": "1589984789.067300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l9F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "que vergüenza. Entonces estoy feliz de no usar dicha plataforma "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    },
+    {
+        "client_msg_id": "f6186b46-e3ff-4b8e-9744-c732c218a786",
+        "type": "message",
+        "text": "no me pierdo nada",
+        "user": "U2WPLA0KA",
+        "ts": "1589984792.067500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5uj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no me pierdo nada"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589968154.056100",
+        "parent_user_id": "U36UNRM4N"
+    }
+]

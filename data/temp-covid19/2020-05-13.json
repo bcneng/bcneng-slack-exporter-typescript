@@ -1,0 +1,197 @@
+[
+    {
+        "client_msg_id": "2FE0BE08-7F40-4E60-977C-3FE976F91DEA",
+        "type": "message",
+        "text": "Increíble animación y muy fiel a la realidad, o eso dicen, sobre... <https:\/\/visual-science.com\/projects\/sars-cov-2\/animation\/|https:\/\/visual-science.com\/projects\/sars-cov-2\/animation\/>",
+        "user": "U3DPLBVQE",
+        "ts": "1589410529.072400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Animation of the SARS-CoV-2 coronavirus",
+                "title_link": "https:\/\/visual-science.com\/projects\/sars-cov-2\/animation\/",
+                "text": "Scientific animation of the SARS-CoV-2 coronavirus",
+                "fallback": "Animation of the SARS-CoV-2 coronavirus",
+                "image_url": "http:\/\/visual-science.com\/images\/projects\/animation-sars-cov-2.220.jpg",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/visual-science.com\/projects\/sars-cov-2\/animation\/",
+                "image_bytes": 188534,
+                "service_icon": "https:\/\/visual-science.com\/static\/img\/general\/visl-favicon-32x32.png",
+                "service_name": "visual-science.com",
+                "id": 1,
+                "original_url": "https:\/\/visual-science.com\/projects\/sars-cov-2\/animation\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tC+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Increíble animación y muy fiel a la realidad, o eso dicen, sobre... "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/visual-science.com\/projects\/sars-cov-2\/animation\/",
+                                "text": "https:\/\/visual-science.com\/projects\/sars-cov-2\/animation\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "905300f9-5705-404b-a28b-d47599109207",
+        "type": "message",
+        "text": "pero nosotros tenemos mas vicepresidentes",
+        "user": "U3EPGSQQ1",
+        "ts": "1589435338.072700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KBZds",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pero nosotros tenemos mas vicepresidentes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589397544.070700",
+        "parent_user_id": "U2YH82SRM",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U2YH82SRM",
+                    "UCRBKBDNU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "595c06df-3869-4b13-b6d6-792919080cc5",
+        "type": "message",
+        "text": "<https:\/\/www.nytimes.com\/2020\/05\/12\/nyregion\/coronavirus-work-from-home.html|https:\/\/www.nytimes.com\/2020\/05\/12\/nyregion\/coronavirus-work-from-home.html>\n\nBefore the coronavirus crisis, three of New York City's largest commercial tenants — Barclays, JP Morgan Chase and Morgan Stanley — had tens of thousands of workers in towers across Manhattan. Now, as the city wrestles with when and how to reopen, executives at all three firms have decided that it is highly unlikely that all their workers will ever return to those buildings.\n\nThe research firm Nielsen has arrived at a similar conclusion. Even after the crisis has passed, its 3,000 workers in the city will no longer need to be in the office full-time and can instead work from home most of the week.",
+        "user": "U2YH82SRM",
+        "ts": "1589439202.073000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The New York Times",
+                "service_url": "https:\/\/www.nytimes.com",
+                "title": "Manhattan Faces a Reckoning if Working From Home Becomes the Norm",
+                "title_link": "https:\/\/www.nytimes.com\/2020\/05\/12\/nyregion\/coronavirus-work-from-home.html",
+                "author_name": "By Matthew Haag",
+                "thumb_url": "https:\/\/static01.nyt.com\/images\/2020\/05\/09\/nyregion\/00nyvirus-realestate5\/00nyvirus-realestate5-mediumThreeByTwo440.jpg",
+                "thumb_width": 440,
+                "thumb_height": 293,
+                "text": "Even after the crisis eases, companies may let workers stay home. That would affect an entire ecosystem, from transit to restaurants to shops. Not to mention the tax base.",
+                "fallback": "The New York Times Manhattan Faces a Reckoning if Working From Home Becomes the Norm",
+                "from_url": "https:\/\/www.nytimes.com\/2020\/05\/12\/nyregion\/coronavirus-work-from-home.html",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/nytimes.png",
+                "id": 1,
+                "original_url": "https:\/\/www.nytimes.com\/2020\/05\/12\/nyregion\/coronavirus-work-from-home.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rQaeQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.nytimes.com\/2020\/05\/12\/nyregion\/coronavirus-work-from-home.html",
+                                "text": "https:\/\/www.nytimes.com\/2020\/05\/12\/nyregion\/coronavirus-work-from-home.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBefore the coronavirus crisis, three of New York City's largest commercial tenants — Barclays, JP Morgan Chase and Morgan Stanley — had tens of thousands of workers in towers across Manhattan. Now, as the city wrestles with when and how to reopen, executives at all three firms have decided that it is highly unlikely that all their workers will ever return to those buildings.\n\nThe research firm Nielsen has arrived at a similar conclusion. Even after the crisis has passed, its 3,000 workers in the city will no longer need to be in the office full-time and can instead work from home most of the week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589439202.073000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589455019.074600",
+        "reply_users": [
+            "UN6S9CCGH"
+        ],
+        "replies": [
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589455019.074600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "mindblown",
+                "users": [
+                    "U2Y6QQHST",
+                    "U7BG5P0H3"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,496 @@
+[
+    {
+        "client_msg_id": "4d22e968-869f-4a92-a0ad-3ee05b85db59",
+        "type": "message",
+        "text": "holas, estoy buscando alguna vps\/instancia. Tengo actualmente google clooud (me quede sin free tier en aws) pero me esmedio caro:\n\nBusco nomas 1gb de ram, pero poder actualizar si es necesario. Necesito ipv4 publica",
+        "user": "UFW0A1GV8",
+        "ts": "1589817818.084800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N7Up",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "holas, estoy buscando alguna vps\/instancia. Tengo actualmente google clooud (me quede sin free tier en aws) pero me esmedio caro:\n\nBusco nomas 1gb de ram, pero poder actualizar si es necesario. Necesito ipv4 publica"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ae6937d-9826-45a0-ba7f-6fe47907a912",
+        "type": "message",
+        "text": "me recomendaron <http:\/\/galaxygate.net|galaxygate.net> porque esta conectado directo a CF, y sale 3usd por mes el 1gb",
+        "user": "UFW0A1GV8",
+        "ts": "1589817841.085200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cLsaJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me recomendaron "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/galaxygate.net",
+                                "text": "galaxygate.net"
+                            },
+                            {
+                                "type": "text",
+                                "text": " porque esta conectado directo a CF, y sale 3usd por mes el 1gb"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589817841.085200",
+        "reply_count": 9,
+        "reply_users_count": 7,
+        "latest_reply": "1589874089.087400",
+        "reply_users": [
+            "UMBEAG23E",
+            "UFW0A1GV8",
+            "U2YTG0D4N",
+            "U38R76FV4",
+            "U2Z7WKZFC",
+            "U3TGKDP89",
+            "U3G7LQRU0"
+        ],
+        "replies": [
+            {
+                "user": "UMBEAG23E",
+                "ts": "1589818266.085300"
+            },
+            {
+                "user": "UMBEAG23E",
+                "ts": "1589818286.085600"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589818305.085800"
+            },
+            {
+                "user": "U2YTG0D4N",
+                "ts": "1589821243.086000"
+            },
+            {
+                "user": "U38R76FV4",
+                "ts": "1589826162.086400"
+            },
+            {
+                "user": "U2Z7WKZFC",
+                "ts": "1589831146.086700"
+            },
+            {
+                "user": "U2Z7WKZFC",
+                "ts": "1589831147.086900"
+            },
+            {
+                "user": "U3TGKDP89",
+                "ts": "1589834609.087200"
+            },
+            {
+                "user": "U3G7LQRU0",
+                "ts": "1589874089.087400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "521243bc-8b0c-4586-bc88-c9954e5c9cb5",
+        "type": "message",
+        "text": "<https:\/\/www.ovhcloud.com\/es-es\/vps\/>",
+        "user": "UMBEAG23E",
+        "ts": "1589818266.085300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "0cf738be2f57",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-14\/719575797681_0cf738be2f57253ab291_72.png",
+            "first_name": "Adrián",
+            "real_name": "Adrián Norte",
+            "display_name": "anortef",
+            "team": "T2Y6L54R3",
+            "name": "adrian227",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "OVHcloud",
+                "title": "VPS",
+                "title_link": "https:\/\/www.ovhcloud.com\/es-es\/vps\/",
+                "text": "Acceda al universo cloud con los VPS de OVHcloud y disfrute de servidores virtuales con todas las ventajas de un servidor dedicado a un precio asequible. Hasta 8 vCores, 32 GB de RAM, NVMe de 640 GB, tráfico ilimitado.",
+                "fallback": "OVHcloud: VPS",
+                "from_url": "https:\/\/www.ovhcloud.com\/es-es\/vps\/",
+                "service_icon": "https:\/\/www.ovhcloud.com\/es-es\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.ovhcloud.com\/es-es\/vps\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j+5fC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.ovhcloud.com\/es-es\/vps\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589817841.085200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "d1b9210c-98f8-4b7c-8fc2-7cea15d6a9e1",
+        "type": "message",
+        "text": "llevo años usando OVH sin demasiados problemas",
+        "user": "UMBEAG23E",
+        "ts": "1589818286.085600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "0cf738be2f57",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-14\/719575797681_0cf738be2f57253ab291_72.png",
+            "first_name": "Adrián",
+            "real_name": "Adrián Norte",
+            "display_name": "anortef",
+            "team": "T2Y6L54R3",
+            "name": "adrian227",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sm7t5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "llevo años usando OVH sin demasiados problemas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589817841.085200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "ed717b55-924e-4901-92f0-d3c68980913d",
+        "type": "message",
+        "text": "es un poco mas caro que el que pase, pero network mas rapida y con 2gb :thinking_face:",
+        "user": "UFW0A1GV8",
+        "ts": "1589818305.085800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YlOEt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "es un poco mas caro que el que pase, pero network mas rapida y con 2gb "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589817841.085200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "c328fa52-6d4c-4d34-ae92-3a0831d05ae8",
+        "type": "message",
+        "text": "+1 ovh, si no, digitalocean 1GB Ram, 25 GB ssd = 5$\/mes",
+        "user": "U2YTG0D4N",
+        "ts": "1589821243.086000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "71d73326f7b5",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-04\/100223478963_71d73326f7b592bb6acb_72.jpg",
+            "first_name": "Felix",
+            "real_name": "Felix Carmona",
+            "display_name": "felixcarmona",
+            "team": "T2Y6L54R3",
+            "name": "felixcarmona",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2YTG0D4N",
+            "ts": "1589821391.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GIr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 ovh, si no, digitalocean 1GB Ram, 25 GB ssd = 5$\/mes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589817841.085200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "133adc7b-f33f-49ea-8619-a833b947056c",
+        "type": "message",
+        "text": "+1 <@U2YTG0D4N>  ovh apuesta segura y no te importa hacerlo un poco todo tu, digital si te da más pereza y prefieres mejor servicio al cliente",
+        "user": "U38R76FV4",
+        "ts": "1589826162.086400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "f96a96daa9da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-29\/110268913557_f96a96daa9da8626df17_72.jpg",
+            "first_name": "Jordi",
+            "real_name": "Jordi López",
+            "display_name": "jlopezxs",
+            "team": "T2Y6L54R3",
+            "name": "jlopezxs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kNx2I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2YTG0D4N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  ovh apuesta segura y no te importa hacerlo un poco todo tu, digital si te da más pereza y prefieres mejor servicio al cliente"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589817841.085200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "2747cdb8-4f9d-4f00-ba7b-1d45fac8ad3d",
+        "type": "message",
+        "text": "+1 ovh, llevo años con una instancia pequeña con ellos y 0 problemas",
+        "user": "U2Z7WKZFC",
+        "ts": "1589831146.086700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g7f9f6957881",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/97f9f69578810de91c13703adbfc2b2b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Jesus",
+            "real_name": "Jesus Antonio Canales Diez",
+            "display_name": "jacanales",
+            "team": "T2Y6L54R3",
+            "name": "jacanales",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1=gf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "+1 ovh, llevo años con una instancia pequeña con ellos y 0 problemas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589817841.085200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "c85d9a25-0b63-4697-885d-77915ce47825",
+        "type": "message",
+        "text": "12€ cada 3 meses",
+        "user": "U2Z7WKZFC",
+        "ts": "1589831147.086900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g7f9f6957881",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/97f9f69578810de91c13703adbfc2b2b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Jesus",
+            "real_name": "Jesus Antonio Canales Diez",
+            "display_name": "jacanales",
+            "team": "T2Y6L54R3",
+            "name": "jacanales",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2Z7WKZFC",
+            "ts": "1589831166.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pwd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12€ cada 3 meses"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589817841.085200",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "aa8c57e2-782f-44e5-af06-88ac2ded298d",
+        "type": "message",
+        "text": "hay AWS lightsail $5 por la de 1GB de memoria <https:\/\/aws.amazon.com\/lightsail\/pricing\/?opdp1=pricing>",
+        "user": "U3TGKDP89",
+        "ts": "1589834609.087200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g4c225d6d4b4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/74c225d6d4b4c6ff447abb4876420b37.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Riccardo",
+            "real_name": "Riccardo Piccoli",
+            "display_name": "riccardo.piccoli",
+            "team": "T2Y6L54R3",
+            "name": "riccardo.piccoli",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vwjgv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hay AWS lightsail $5 por la de 1GB de memoria "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/aws.amazon.com\/lightsail\/pricing\/?opdp1=pricing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589817841.085200",
+        "parent_user_id": "UFW0A1GV8"
+    }
+]

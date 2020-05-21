@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "58e6c101-3e28-4823-a1ed-215e0de0c0fb",
+        "type": "message",
+        "text": "<https:\/\/www.humblebundle.com\/books\/learn-you-some-python-no-starch-press-books>\n\nBuen bundle para los que no lo tengan ya. Hay algun par de novedades respecto a ediciones anteriores.",
+        "user": "UFT460KF1",
+        "ts": "1589886691.019700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g4b0ef2e4fd5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b4b0ef2e4fd524313064f83604aaa4c9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Ricard Flores",
+            "display_name": "riveck",
+            "team": "T2Y6L54R3",
+            "name": "riveck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Humble Bundle",
+                "title": "Humble Book Bundle: Learn You Some Python by No Starch Press",
+                "title_link": "https:\/\/www.humblebundle.com\/books\/learn-you-some-python-no-starch-press-books",
+                "text": "Get a crash course on Python with this bundle of ebooks!",
+                "fallback": "Humble Bundle: Humble Book Bundle: Learn You Some Python by No Starch Press",
+                "image_url": "https:\/\/hb.imgix.net\/90fce6723997359e79f0729de01ccd771209120a.png?auto=compress,format&h=630&w=1200&s=ca7edbc0a42a17da5356fdca601fcf68",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/www.humblebundle.com\/books\/learn-you-some-python-no-starch-press-books",
+                "image_bytes": 108081,
+                "service_icon": "https:\/\/humblebundle-a.akamaihd.net\/static\/hashed\/03df0490a53d595fd930f9fff52038366d60a05d.png",
+                "id": 1,
+                "original_url": "https:\/\/www.humblebundle.com\/books\/learn-you-some-python-no-starch-press-books"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "48X1h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.humblebundle.com\/books\/learn-you-some-python-no-starch-press-books"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nBuen bundle para los que no lo tengan ya. Hay algun par de novedades respecto a ediciones anteriores."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

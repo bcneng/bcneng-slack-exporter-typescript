@@ -1,0 +1,218 @@
+[
+    {
+        "client_msg_id": "60c476e9-e6f9-4971-827a-efd9779bc074",
+        "type": "message",
+        "text": "El bracket de edad 30-39 me ha matado por dios :crying:",
+        "user": "U37GUHXGF",
+        "ts": "1589709376.356100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "8ebe850e8373",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-08\/138492746147_8ebe850e837325b0d37a_72.png",
+            "first_name": "Berta",
+            "real_name": "Berta Devant",
+            "display_name": "bertadevant",
+            "team": "T2Y6L54R3",
+            "name": "bertadevant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IF\/tt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "El bracket de edad 30-39 me ha matado por dios "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "crying"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "afcc6f00-3fea-4080-8d28-a3da94d9e385",
+        "type": "message",
+        "text": "Se puede compartir la encuesta en twitter?",
+        "user": "U37GUHXGF",
+        "ts": "1589709396.356300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "8ebe850e8373",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-08\/138492746147_8ebe850e837325b0d37a_72.png",
+            "first_name": "Berta",
+            "real_name": "Berta Devant",
+            "display_name": "bertadevant",
+            "team": "T2Y6L54R3",
+            "name": "bertadevant",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IhD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Se puede compartir la encuesta en twitter?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "4acf7808-768b-4126-83e1-92ac5068a082",
+        "type": "message",
+        "text": "donde quieras, mencionando claro a bcn eng :slightly_smiling_face:",
+        "user": "UEDFE7J07",
+        "ts": "1589741185.357200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yRR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "donde quieras, mencionando claro a bcn eng "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "20bc259d-6444-4651-b1f9-243f174d53d1",
+        "type": "message",
+        "text": "no sé si los chicos las compartieron ya <@U7PQZMZ4L>?",
+        "user": "UEDFE7J07",
+        "ts": "1589741198.357400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/9keQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no sé si los chicos las compartieron ya "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U7PQZMZ4L"
+                            },
+                            {
+                                "type": "text",
+                                "text": "?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "c247d416-c2f1-4159-ad35-1f12aaae0259",
+        "type": "message",
+        "text": "creo que no",
+        "user": "U7PQZMZ4L",
+        "ts": "1589741209.357600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QzvXl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "creo que no"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589464953.341400",
+        "parent_user_id": "U7PQZMZ4L"
+    }
+]

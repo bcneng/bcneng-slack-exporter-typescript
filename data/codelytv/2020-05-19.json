@@ -1,0 +1,78 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=6uLsbiZ2CEM|SETUP TOUR Y PROGRAMAS QUE USO COMO PROGRAMADOR | 2020>\n:woman_climbing: ¡Aprovecha la MEGA promo! :point_right:  <https:\/\/codely.tv\/pro\/desescalada>\n:male-technologist: ¿Quieres mejorar como programador? :point_right:  <https:\/\/bit.ly\/cursos-codely>\n\nHacemos un tour por mi mesa, para ver qué setup tengo y qué programas uso como programador. Vemos un poco el teclado, ratón, sobretodo monitores...\n\n¡Y también hay un poco de magia! Vemos un poco de hackintosh, mac...\n\nAplicaciones que uso:\n* Slack\n* Notion\n* iTerm\n* IntelliJ\n* Visual Studio Code (vscode)\n* Sublime\n\n{:arrow_forward:} CodelyTV\n├ :movie_camera: Suscríbete:...",
+        "ts": "1589912054.110800",
+        "username": "CodelyTV - Redescubre la programación",
+        "icons": {
+            "image_36": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_36.png",
+            "image_48": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_48.png",
+            "image_72": "https:\/\/a.slack-edge.com\/80588\/img\/services\/rss_72.png"
+        },
+        "bot_id": "B2ZR756DU",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "SETUP TOUR Y PROGRAMAS QUE USO COMO PROGRAMADOR | 2020",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=6uLsbiZ2CEM",
+                "author_name": "CodelyTV - Redescubre la programación",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC9IKtxn9AIGelnYmwYr0Lxw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/6uLsbiZ2CEM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: SETUP TOUR Y PROGRAMAS QUE USO COMO PROGRAMADOR | 2020",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/6uLsbiZ2CEM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=6uLsbiZ2CEM",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=6uLsbiZ2CEM"
+            },
+            {
+                "service_name": "CodelyTV Pro",
+                "title": ":person_climbing: Te ayudamos a escalar tus aplicaciones en plena desescalada",
+                "title_link": "https:\/\/codely.tv\/pro\/desescalada",
+                "text": "Cursos de principios SOLID, Domain-Driven Design, Arquitectura Hexagonal, Docker, CQRS, Microservicios, Kubernetes, Testing y mucho más.",
+                "fallback": "CodelyTV Pro: 🧗 Te ayudamos a escalar tus aplicaciones en plena desescalada",
+                "image_url": "https:\/\/codely.tv\/\/pro\/img\/landings\/desescalada.jpg",
+                "image_width": 347,
+                "image_height": 250,
+                "fields": [
+                    {
+                        "title": "Últimos cursos",
+                        "value": "Notion, dotfiles, iTerm, GitHub Actions, Zsh, IntelliJ, DDD…",
+                        "short": true
+                    },
+                    {
+                        "title": "Categorías",
+                        "value": "Diseño y arquitectura, DevOps, Tooling…",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/codely.tv\/pro\/desescalada",
+                "image_bytes": 296365,
+                "service_icon": "https:\/\/codely.tv\/pro\/img\/codelytv\/logo-180.png",
+                "id": 2,
+                "original_url": "https:\/\/codely.tv\/pro\/desescalada"
+            }
+        ],
+        "edited": {
+            "user": "B2ZR756DU",
+            "ts": "1589912055.000000"
+        },
+        "reactions": [
+            {
+                "name": "all_the_things",
+                "users": [
+                    "U2YSZNUHL",
+                    "UGUQTPSQM",
+                    "U314KFBT6"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

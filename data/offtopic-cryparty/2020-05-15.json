@@ -1,0 +1,2293 @@
+[
+    {
+        "client_msg_id": "8fa05fe0-e753-4f79-a02f-9dfc54bd667e",
+        "type": "message",
+        "text": "En serio, yo creo que bitbucket, gitlab y github no se han caído tanto este año como en toda su historia",
+        "user": "U40KDVDQF",
+        "ts": "1589526255.036900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "66700131c09f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-24\/186611189392_66700131c09f32aa413e_72.jpg",
+            "first_name": "Álvaro",
+            "real_name": "Álvaro Salvá",
+            "display_name": "redbaron",
+            "team": "T2Y6L54R3",
+            "name": "redbaron",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3sKf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En serio, yo creo que bitbucket, gitlab y github no se han caído tanto este año como en toda su historia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589478297.036400",
+        "parent_user_id": "U2ZS36LQN"
+    },
+    {
+        "client_msg_id": "c4756ac8-4623-454b-9fb8-e9dac2f409d3",
+        "type": "message",
+        "text": "el vecino que esta justo en la pared detras de mi cama estuvo con un martillo a las 11pm por 1 hora.\nAhora a las 9:20 empezo con un taladro electrico y lleva casi 20 mins",
+        "user": "UFW0A1GV8",
+        "ts": "1589528189.037900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WPYjo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el vecino que esta justo en la pared detras de mi cama estuvo con un martillo a las 11pm por 1 hora.\nAhora a las 9:20 empezo con un taladro electrico y lleva casi 20 mins"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589528189.037900",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1589541754.052400",
+        "reply_users": [
+            "U2Z7WKZFC",
+            "UEDFE7J07"
+        ],
+        "replies": [
+            {
+                "user": "U2Z7WKZFC",
+                "ts": "1589529234.044200"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589541754.052400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "da7d63b9-d4d5-4d63-a2b9-96307e3d7185",
+        "type": "message",
+        "text": "lo de ahora no, lo de ayer por la noche es denunciable",
+        "user": "U32JSP0RW",
+        "ts": "1589528974.038200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a548b720f1f3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-06-19\/199636525011_a548b720f1f3867916d3_72.jpg",
+            "first_name": "Jose",
+            "real_name": "Jose Ledesma",
+            "display_name": "joseluis.ledesma",
+            "team": "T2Y6L54R3",
+            "name": "joseluis.ledesma",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kL+n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo de ahora no, lo de ayer por la noche es denunciable"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7770d15-761a-4476-b16d-e7683e77b5e6",
+        "type": "message",
+        "text": "en mi edificio han empezado unas obras (con martillo) a las 8:15",
+        "user": "U6SF71BFT",
+        "ts": "1589529004.038700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sN\/J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en mi edificio han empezado unas obras (con martillo) a las 8:15"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a67c432b-5014-45cf-be72-af7669a9780b",
+        "type": "message",
+        "text": "los peques normalmente a las 8 estan en pie, y hoy han aguantado hasta las 9. Voy a pedir que hagan obras cada dia, a ver si es eso :stuck_out_tongue:",
+        "user": "U6SF71BFT",
+        "ts": "1589529043.039600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q1Tlo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "los peques normalmente a las 8 estan en pie, y hoy han aguantado hasta las 9. Voy a pedir que hagan obras cada dia, a ver si es eso "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U3S8PPA3S"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c010adb7-580e-4233-8ff4-f471908ca2fa",
+        "type": "message",
+        "text": "de 8 a 22 puedes hacer ruido (hasta cierto punto)",
+        "user": "UMBEAG23E",
+        "ts": "1589529054.039900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "0cf738be2f57",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-14\/719575797681_0cf738be2f57253ab291_72.png",
+            "first_name": "Adrián",
+            "real_name": "Adrián Norte",
+            "display_name": "anortef",
+            "team": "T2Y6L54R3",
+            "name": "adrian227",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ns",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "de 8 a 22 puedes hacer ruido (hasta cierto punto)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d0818136-36c2-45b3-857f-476584027366",
+        "type": "message",
+        "text": "La falta de civismo veo que está presente en todas las comunidades de vecinos",
+        "user": "U2WPLA0KA",
+        "ts": "1589529109.041000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OxGz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La falta de civismo veo que está presente en todas las comunidades de vecinos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9a75614-c962-4bb7-90ef-9ef9ae2f98f6",
+        "type": "message",
+        "text": "se, yo tengo un vecino que tiene un corvette del año de la pera y cada dia sale media hora a darle al motor",
+        "user": "UMBEAG23E",
+        "ts": "1589529136.042300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "0cf738be2f57",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-14\/719575797681_0cf738be2f57253ab291_72.png",
+            "first_name": "Adrián",
+            "real_name": "Adrián Norte",
+            "display_name": "anortef",
+            "team": "T2Y6L54R3",
+            "name": "adrian227",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8do",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "se, yo tengo un vecino que tiene un corvette del año de la pera y cada dia sale media hora a darle al motor"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "face_palm",
+                "users": [
+                    "U2WPLA0KA",
+                    "UEDFE7J07"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "72047353-b8d7-4606-8b05-f7f20c5d35e6",
+        "type": "message",
+        "text": "Nosotros también solemos tener problemas. Lo divertido es que llevan dejandonos cartelitos en nuestra planta quejandose de ruidos, cuando en realidad vienen de su propia planta :joy:",
+        "user": "U2WPLA0KA",
+        "ts": "1589529145.042800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/us",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nosotros también solemos tener problemas. Lo divertido es que llevan dejandonos cartelitos en nuestra planta quejandose de ruidos, cuando en realidad vienen de su propia planta "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UEDFE7J07"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20c9ec3e-dbe2-41c3-b56e-340545775226",
+        "type": "message",
+        "text": "es extremadamente molesto",
+        "user": "UMBEAG23E",
+        "ts": "1589529146.042900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "0cf738be2f57",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-14\/719575797681_0cf738be2f57253ab291_72.png",
+            "first_name": "Adrián",
+            "real_name": "Adrián Norte",
+            "display_name": "anortef",
+            "team": "T2Y6L54R3",
+            "name": "adrian227",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PR=2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "es extremadamente molesto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ea2640c-8f17-4776-9638-30ffefa2dfcb",
+        "type": "message",
+        "text": "no escucho ni mi musica a maximo volumen. estoy vovliendome loco (y si, sigue)",
+        "user": "UFW0A1GV8",
+        "ts": "1589529154.043200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E\/Fld",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no escucho ni mi musica a maximo volumen. estoy vovliendome loco (y si, sigue)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "831e6105-01ea-4907-8c26-f347e9060c05",
+        "type": "message",
+        "text": "ves a la farmacia y pillate tapones para los oidos",
+        "user": "UMBEAG23E",
+        "ts": "1589529203.044100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "0cf738be2f57",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-14\/719575797681_0cf738be2f57253ab291_72.png",
+            "first_name": "Adrián",
+            "real_name": "Adrián Norte",
+            "display_name": "anortef",
+            "team": "T2Y6L54R3",
+            "name": "adrian227",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YefE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ves a la farmacia y pillate tapones para los oidos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f4e786d-1a2d-4de2-b9e7-dcd2f58b5ec9",
+        "type": "message",
+        "text": "Mi vecino de arriba estuvo con martillazos cada día varias horas durante los 40 primeros día de cuarentena, incluyendo fines de semana, hasta que mi compañero de piso se lió a gritos con el (su mujer) para que parara al menos por un día",
+        "user": "U2Z7WKZFC",
+        "ts": "1589529234.044200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g7f9f6957881",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/97f9f69578810de91c13703adbfc2b2b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Jesus",
+            "real_name": "Jesus Antonio Canales Diez",
+            "display_name": "jacanales",
+            "team": "T2Y6L54R3",
+            "name": "jacanales",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2Z7WKZFC",
+            "ts": "1589529242.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KtPRD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mi vecino de arriba estuvo con martillazos cada día varias horas durante los 40 primeros día de cuarentena, incluyendo fines de semana, hasta que mi compañero de piso se lió a gritos con el (su mujer) para que parara al menos por un día"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589528189.037900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "5dd11997-37e9-4f6f-8e7f-8890dcb23915",
+        "type": "message",
+        "text": "para la noche, nada mejor que levantarte y darle un par de golpes a la puerta de su casa.",
+        "user": "UN6S9CCGH",
+        "ts": "1589529255.044800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B9Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "para la noche, nada mejor que levantarte y darle un par de golpes a la puerta de su casa."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3e693dac-4016-4b01-bc30-d5eee116550a",
+        "type": "message",
+        "text": "Ojo que va a venir la @policia de los Threads :stuck_out_tongue:",
+        "user": "U2Z7WKZFC",
+        "ts": "1589529270.045600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g7f9f6957881",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/97f9f69578810de91c13703adbfc2b2b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Jesus",
+            "real_name": "Jesus Antonio Canales Diez",
+            "display_name": "jacanales",
+            "team": "T2Y6L54R3",
+            "name": "jacanales",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bh8D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ojo que va a venir la @policia de los Threads "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc44114e-75cf-4bc3-abf8-1773a072ed5d",
+        "type": "message",
+        "text": "o, por supuesto, cuando sea ilegal que haga ruido no te calles",
+        "user": "UMBEAG23E",
+        "ts": "1589529279.045900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "0cf738be2f57",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-14\/719575797681_0cf738be2f57253ab291_72.png",
+            "first_name": "Adrián",
+            "real_name": "Adrián Norte",
+            "display_name": "anortef",
+            "team": "T2Y6L54R3",
+            "name": "adrian227",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EV2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "o, por supuesto, cuando sea ilegal que haga ruido no te calles"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dcfb6519-420d-46ee-b939-42caae08fcb6",
+        "type": "message",
+        "text": "siempre puedes tirar de esto: <https:\/\/shipyourenemiesglitter.com\/>",
+        "user": "U6SF71BFT",
+        "ts": "1589529291.046300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h\/7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "siempre puedes tirar de esto: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/shipyourenemiesglitter.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "29e2f1d9-3d47-4f59-b6f0-41a07a8dd415",
+        "type": "message",
+        "text": "yo lo que he hecho en los sound warfare  es poner belphegor a todo trapo, incluso llegando a pedir a colegas musicos que me dejen un ampli de conciertos",
+        "user": "UMBEAG23E",
+        "ts": "1589529328.047400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "0cf738be2f57",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-14\/719575797681_0cf738be2f57253ab291_72.png",
+            "first_name": "Adrián",
+            "real_name": "Adrián Norte",
+            "display_name": "anortef",
+            "team": "T2Y6L54R3",
+            "name": "adrian227",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "actr\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo lo que he hecho en los sound warfare  es poner belphegor a todo trapo, incluso llegando a pedir a colegas musicos que me dejen un ampli de conciertos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8033cb2a-2613-4c8a-a359-ba3b0326238e",
+        "type": "message",
+        "text": "Yo tuve problemas con mi vecina, que básicamente estaba a las 2 de la mañana chillando como una descosida mientras le daban mandanga. Hasta que me harté, subí a su piso, aporreé la puerta que casi la tiré abajo y se acabaron los ruidos. Ni una noche más con ruidos de folleteo ni nada.",
+        "user": "UN6S9CCGH",
+        "ts": "1589529337.047600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ji2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo tuve problemas con mi vecina, que básicamente estaba a las 2 de la mañana chillando como una descosida mientras le daban mandanga. Hasta que me harté, subí a su piso, aporreé la puerta que casi la tiré abajo y se acabaron los ruidos. Ni una noche más con ruidos de folleteo ni nada."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529337.047600",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1589619162.058300",
+        "reply_users": [
+            "U847R34GK",
+            "UEDFE7J07",
+            "U35MRAK6E",
+            "UN6S9CCGH"
+        ],
+        "replies": [
+            {
+                "user": "U847R34GK",
+                "ts": "1589530375.049300"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589541858.052800"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589541896.053000"
+            },
+            {
+                "user": "U35MRAK6E",
+                "ts": "1589577210.057400"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589613813.058000"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589619162.058300"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7259830c-165e-4495-ac91-e43fb5ebcceb",
+        "type": "message",
+        "text": "threads pls",
+        "user": "UFW0A1GV8",
+        "ts": "1589529343.047900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4ywI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "threads pls"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "reply_count": 15,
+        "reply_users_count": 6,
+        "latest_reply": "1589541966.053200",
+        "reply_users": [
+            "U5FS4BH96",
+            "UFW0A1GV8",
+            "U6SF71BFT",
+            "UKPCZ3MKQ",
+            "UL1CXNCBZ",
+            "UEDFE7J07"
+        ],
+        "replies": [
+            {
+                "user": "U5FS4BH96",
+                "ts": "1589529357.048100"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589529401.048400"
+            },
+            {
+                "user": "U6SF71BFT",
+                "ts": "1589529428.048900"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589529459.049100"
+            },
+            {
+                "user": "UKPCZ3MKQ",
+                "ts": "1589534363.050200"
+            },
+            {
+                "user": "UKPCZ3MKQ",
+                "ts": "1589534366.050400"
+            },
+            {
+                "user": "UKPCZ3MKQ",
+                "ts": "1589534378.050700"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589534386.050900"
+            },
+            {
+                "user": "UKPCZ3MKQ",
+                "ts": "1589534395.051100"
+            },
+            {
+                "user": "UKPCZ3MKQ",
+                "ts": "1589534403.051300"
+            },
+            {
+                "user": "UKPCZ3MKQ",
+                "ts": "1589534420.051500"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589534424.051700"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589534526.051900"
+            },
+            {
+                "user": "UL1CXNCBZ",
+                "ts": "1589538236.052100"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589541966.053200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ty",
+                "users": [
+                    "U4HCQ4X1S",
+                    "UGKBXF45D"
+                ],
+                "count": 2
+            },
+            {
+                "name": "banhammer",
+                "users": [
+                    "UGKBXF45D"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26e4d658-e973-4ba6-a3cc-153baaad8cb7",
+        "type": "message",
+        "text": "came here to say this :laughing:",
+        "user": "U5FS4BH96",
+        "ts": "1589529357.048100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "effd4ad97524",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-06\/543768149283_effd4ad97524f3f66b2f_72.jpg",
+            "first_name": "Unai",
+            "real_name": "Unai",
+            "display_name": "uesteibar",
+            "team": "T2Y6L54R3",
+            "name": "uesteibar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y8=2L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "came here to say this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "009a561b-8f99-428c-8871-ec36bb94fdd4",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/matt_obrien\/status\/1242543009549266944> necesito una version de esto para poner",
+        "user": "UFW0A1GV8",
+        "ts": "1589529401.048400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/matt_obrien|@matt_obrien>: just a reminder that if your fellow self quarantining neighbors are being too loud you might be able to connect to their Bluetooth speaker  \n <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1123982867804106752\/pu\/img\/uXdGu0nYX-VOrbJg.jpg>",
+                "ts": 1585080313,
+                "author_name": "Matt O'Brien",
+                "author_link": "https:\/\/twitter.com\/matt_obrien\/status\/1242543009549266944",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1174931231496011776\/Ww7c1Ps4_normal.jpg",
+                "author_subname": "@matt_obrien",
+                "text": "just a reminder that if your fellow self quarantining neighbors are being too loud you might be able to connect to their Bluetooth speaker",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/matt_obrien\/status\/1242543009549266944",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1123982867804106752\/pu\/img\/uXdGu0nYX-VOrbJg.jpg",
+                "thumb_width": 720,
+                "thumb_height": 720,
+                "video_html_width": 720,
+                "video_html_height": 720,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1123982867804106752\/pu\/img\/uXdGu0nYX-VOrbJg.jpg\" width=\"720\" height=\"720\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1123982867804106752\/pu\/vid\/720x720\/Gaz-tFggqqy8uCXL.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/matt_obrien\/status\/1242543009549266944",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ELnT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/matt_obrien\/status\/1242543009549266944"
+                            },
+                            {
+                                "type": "text",
+                                "text": " necesito una version de esto para poner"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "f0337e8b-84d0-47dd-9244-790ade7d2ac4",
+        "type": "message",
+        "text": "nosotros teniamos un vecino que le daba al karaoke cuando le rotaba. 1am, 4am, etc... le dejamos una nota y se terminó. Quiza pensaba que no se le escuchaba",
+        "user": "U6SF71BFT",
+        "ts": "1589529428.048900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D+m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nosotros teniamos un vecino que le daba al karaoke cuando le rotaba. 1am, 4am, etc... le dejamos una nota y se terminó. Quiza pensaba que no se le escuchaba"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "ed2f3e67-a445-4c30-be15-2bb2ff02ccd4",
+        "type": "message",
+        "text": "\"La comunidad de vecinos apreciaria que apenda a cantar antes de hacer shows para todo el edificio, grsacias\"",
+        "user": "UFW0A1GV8",
+        "ts": "1589529459.049100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=1V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"La comunidad de vecinos apreciaria que apenda a cantar antes de hacer shows para todo el edificio, grsacias\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "48ec333a-3fd3-4ed3-a748-636126731b1d",
+        "type": "message",
+        "text": "A mi me ha pasado lo mismo!!! En mi caso, ella se quedó embarazada, ha tenido el bebe y se terminaron los gritos XD se les ha acabado el chollo",
+        "user": "U847R34GK",
+        "ts": "1589530375.049300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ab10f05b534",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-11-22\/275824573697_6ab10f05b5343d724473_72.jpg",
+            "first_name": "JMiro",
+            "real_name": "JMiro",
+            "display_name": "jmiro",
+            "team": "T2Y6L54R3",
+            "name": "josuemiro",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tkIf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A mi me ha pasado lo mismo!!! En mi caso, ella se quedó embarazada, ha tenido el bebe y se terminaron los gritos XD se les ha acabado el chollo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529337.047600",
+        "parent_user_id": "UN6S9CCGH",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U40KDVDQF",
+                    "UCRBKBDNU",
+                    "U2Y6QQHST"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac4da833-5dc5-49e3-aa71-7b265bfc4d00",
+        "type": "message",
+        "text": "Si está fuera del horario, puedes quejarte o reportarlo. Las 23 es fuera del horario por lo que puedes gestionarlo con la comunidad de vecinos, y si no funciona incluso llamar a la policia",
+        "user": "UKPCZ3MKQ",
+        "ts": "1589534363.050200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g1c6e846e8e1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41c6e846e8e153052f1bc9340ba3b297.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Ramon",
+            "display_name": "Ramon",
+            "team": "T2Y6L54R3",
+            "name": "ramon.fuguet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0sI=2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si está fuera del horario, puedes quejarte o reportarlo. Las 23 es fuera del horario por lo que puedes gestionarlo con la comunidad de vecinos, y si no funciona incluso llamar a la policia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "da01b2ed-cf4a-426b-854a-4627ae6ae5fa",
+        "type": "message",
+        "text": "<https:\/\/www.zurich.es\/blog\/horarios-reparaciones-casa>",
+        "user": "UKPCZ3MKQ",
+        "ts": "1589534366.050400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g1c6e846e8e1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41c6e846e8e153052f1bc9340ba3b297.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Ramon",
+            "display_name": "Ramon",
+            "team": "T2Y6L54R3",
+            "name": "ramon.fuguet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "New Zurich Seguros",
+                "title": "¿Hasta que hora se puede ser ruido en casa? Horario reparaciones y más",
+                "title_link": "https:\/\/www.zurich.es\/blog\/horarios-reparaciones-casa",
+                "text": "Conoce el reglamento del 2019 sobre los horarios legales para hacer ruido u obras en casa, y evita problemas con tus vecinos.",
+                "fallback": "New Zurich Seguros: ¿Hasta que hora se puede ser ruido en casa? Horario reparaciones y más",
+                "from_url": "https:\/\/www.zurich.es\/blog\/horarios-reparaciones-casa",
+                "service_icon": "https:\/\/www.zurich.es\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.zurich.es\/blog\/horarios-reparaciones-casa"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bV0Ud",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.zurich.es\/blog\/horarios-reparaciones-casa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "77c16e17-458c-4dcc-b018-ad59fad8e045",
+        "type": "message",
+        "text": "lo de las 9, pues ya no se puede hacer nada",
+        "user": "UKPCZ3MKQ",
+        "ts": "1589534378.050700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g1c6e846e8e1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41c6e846e8e153052f1bc9340ba3b297.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Ramon",
+            "display_name": "Ramon",
+            "team": "T2Y6L54R3",
+            "name": "ramon.fuguet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RpJu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo de las 9, pues ya no se puede hacer nada"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "adb2216a-aebc-475b-8027-cb315c17199c",
+        "type": "message",
+        "text": "sigue con el taladro. 2 horas me parece mucho no?",
+        "user": "UFW0A1GV8",
+        "ts": "1589534386.050900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qxC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sigue con el taladro. 2 horas me parece mucho no?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "1e2996c5-289c-4bd3-9a8a-b63caa958fc7",
+        "type": "message",
+        "text": "más allá de comprarte unos buenos auriculares con cancelación de sonido",
+        "user": "UKPCZ3MKQ",
+        "ts": "1589534395.051100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g1c6e846e8e1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41c6e846e8e153052f1bc9340ba3b297.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Ramon",
+            "display_name": "Ramon",
+            "team": "T2Y6L54R3",
+            "name": "ramon.fuguet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zy2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "más allá de comprarte unos buenos auriculares con cancelación de sonido"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "65fd11cb-f330-4545-a8ed-10cf26fdc9e3",
+        "type": "message",
+        "text": "a saber que hace",
+        "user": "UKPCZ3MKQ",
+        "ts": "1589534403.051300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g1c6e846e8e1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41c6e846e8e153052f1bc9340ba3b297.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Ramon",
+            "display_name": "Ramon",
+            "team": "T2Y6L54R3",
+            "name": "ramon.fuguet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q4qz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a saber que hace"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "8c5540cb-ef15-4a31-87a1-7e28cf25200b",
+        "type": "message",
+        "text": "igual está haciendo una obra un poco mayor, necesita permiso para esto",
+        "user": "UKPCZ3MKQ",
+        "ts": "1589534420.051500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g1c6e846e8e1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/41c6e846e8e153052f1bc9340ba3b297.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "",
+            "real_name": "Ramon",
+            "display_name": "Ramon",
+            "team": "T2Y6L54R3",
+            "name": "ramon.fuguet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KqvUE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "igual está haciendo una obra un poco mayor, necesita permiso para esto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "e8abf6ca-2d01-4eba-8817-a90cdaa5588b",
+        "type": "message",
+        "text": "y aun asi, el nivel del ruido de ese taladro no es normal, no escucho nada ni a maximo volumen y eso no pasa ni estando en la misma habitacion",
+        "user": "UFW0A1GV8",
+        "ts": "1589534424.051700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EqTD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y aun asi, el nivel del ruido de ese taladro no es normal, no escucho nada ni a maximo volumen y eso no pasa ni estando en la misma habitacion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "f96e50f5-8334-4983-996a-e0996b60d168",
+        "type": "message",
+        "text": "osea es mas de 35 decibeles seguro",
+        "user": "UFW0A1GV8",
+        "ts": "1589534526.051900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bJL9r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "osea es mas de 35 decibeles seguro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "a8dbeaba-0c80-4304-89d6-78e5a00393ba",
+        "type": "message",
+        "text": "Las obras en estado de alarma deberían estar prohibidas. No es normal que tú no puedas salir de tu casa y encima tengas que soportar al vecino del martillo",
+        "user": "UL1CXNCBZ",
+        "ts": "1589538236.052100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1c3e1e1b7795",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-03\/683461424677_1c3e1e1b779511d275c6_72.jpg",
+            "first_name": "Francisco",
+            "real_name": "Francisco Javier Aguado",
+            "display_name": "fjaguado",
+            "team": "T2Y6L54R3",
+            "name": "paco",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uq=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Las obras en estado de alarma deberían estar prohibidas. No es normal que tú no puedas salir de tu casa y encima tengas que soportar al vecino del martillo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UFW0A1GV8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "edb50b0d-391f-4372-a8fb-9c4b0db5e3b6",
+        "type": "message",
+        "text": "buneo lo de martillar despues de las 11 está prohibido le puedes decir algo",
+        "user": "UEDFE7J07",
+        "ts": "1589541754.052400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EQZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "buneo lo de martillar despues de las 11 está prohibido le puedes decir algo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589528189.037900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "72a3a2b6-9f69-4a60-8e46-9c3adcced6fd",
+        "type": "message",
+        "text": "yo salto en el suelo, proque el vecino de abajo pone tecno malo muy malo!",
+        "user": "UEDFE7J07",
+        "ts": "1589541858.052800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yDv5l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo salto en el suelo, proque el vecino de abajo pone tecno malo muy malo!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529337.047600",
+        "parent_user_id": "UN6S9CCGH"
+    },
+    {
+        "client_msg_id": "085c41d1-0c03-48fe-9a3b-fa7026cb6d18",
+        "type": "message",
+        "text": "y al principio bajamos a su casa y le decimos ahora solo saltamos y dijo por la ventana la ultima vez lo siento y nunca mas!",
+        "user": "UEDFE7J07",
+        "ts": "1589541896.053000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6d1Mj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y al principio bajamos a su casa y le decimos ahora solo saltamos y dijo por la ventana la ultima vez lo siento y nunca mas!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529337.047600",
+        "parent_user_id": "UN6S9CCGH"
+    },
+    {
+        "client_msg_id": "3da82da1-bca5-48ba-952d-3c6e2cb6e378",
+        "type": "message",
+        "text": "pues pidee que tienes reuniones y que sea civico",
+        "user": "UEDFE7J07",
+        "ts": "1589541966.053200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x89Lo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pues pidee que tienes reuniones y que sea civico"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529343.047900",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "10c5da15-39f5-424b-91dd-00004fc08862",
+        "type": "message",
+        "text": "Estoy harto de escuchar problemas tontos! Que arda el mundo! Se me ha acabado la crema de cacahuete :scream:",
+        "user": "UB82Y3A3W",
+        "ts": "1589546053.054300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2f79c9a1d902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-15\/381629494208_2f79c9a1d9023c4422f2_72.jpg",
+            "first_name": "acanimal",
+            "real_name": "acanimal",
+            "display_name": "acanimal",
+            "team": "T2Y6L54R3",
+            "name": "asantiagop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G0xyM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Estoy harto de escuchar problemas tontos! Que arda el mundo! Se me ha acabado la crema de cacahuete "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "scream"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589546053.054300",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1589567571.056000",
+        "reply_users": [
+            "UL1CXNCBZ",
+            "UB82Y3A3W",
+            "U7PQZMZ4L"
+        ],
+        "replies": [
+            {
+                "user": "UL1CXNCBZ",
+                "ts": "1589551379.054900"
+            },
+            {
+                "user": "UB82Y3A3W",
+                "ts": "1589556137.055300"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589567571.056000"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U36H6F3CN",
+                    "UNR7EF5EU",
+                    "U7BG5P0H3",
+                    "U6A845RPY"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "bot_id": "B2Y6M3HAS",
+        "type": "message",
+        "text": "",
+        "user": "UB82Y3A3W",
+        "ts": "1589546088.054500",
+        "team": "T2Y6L54R3",
+        "bot_profile": {
+            "id": "B2Y6M3HAS",
+            "deleted": false,
+            "name": "giphy",
+            "updated": 1478167615,
+            "app_id": "A0F827J2C",
+            "icons": {
+                "image_36": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png",
+                "image_48": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_48.png",
+                "image_72": "https:\/\/a.slack-edge.com\/dc483\/img\/plugins\/giphy\/service_72.png"
+            },
+            "team_id": "T2Y6L54R3"
+        },
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/computer-rage-pics-URcmhQ5PpztC0",
+                "image_url": "https:\/\/media3.giphy.com\/media\/URcmhQ5PpztC0\/giphy.gif?cid=6104955e2ae5547de3095ebadb031ceaf90cdfcd80d771c6&rid=giphy.gif",
+                "image_width": 320,
+                "image_height": 240,
+                "image_bytes": 473479,
+                "is_animated": true,
+                "title": "rage",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/computer-rage-pics-URcmhQ5PpztC0"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8d6df08-c6e4-4309-884e-4e25d4bba6ef",
+        "type": "message",
+        "text": "En Mercadona ahora venden de 100% cacahuete pero el sabor es un poco PUAG. Pero a malas…",
+        "user": "UL1CXNCBZ",
+        "ts": "1589551379.054900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1c3e1e1b7795",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-03\/683461424677_1c3e1e1b779511d275c6_72.jpg",
+            "first_name": "Francisco",
+            "real_name": "Francisco Javier Aguado",
+            "display_name": "fjaguado",
+            "team": "T2Y6L54R3",
+            "name": "paco",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f29",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En Mercadona ahora venden de 100% cacahuete pero el sabor es un poco PUAG. Pero a malas…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589546053.054300",
+        "parent_user_id": "UB82Y3A3W"
+    },
+    {
+        "client_msg_id": "12152195-512a-489a-98c9-302a104c8e16",
+        "type": "message",
+        "text": "jajaj, pero asi sabe cuando es 100%. Yo lo hice de forma “manual” con cacahuete natural y era exactamente igual, asi q me fio de esa marca",
+        "user": "UB82Y3A3W",
+        "ts": "1589556137.055300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2f79c9a1d902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-15\/381629494208_2f79c9a1d9023c4422f2_72.jpg",
+            "first_name": "acanimal",
+            "real_name": "acanimal",
+            "display_name": "acanimal",
+            "team": "T2Y6L54R3",
+            "name": "asantiagop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EwNHL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "jajaj, pero asi sabe cuando es 100%. Yo lo hice de forma “manual” con cacahuete natural y era exactamente igual, asi q me fio de esa marca"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589546053.054300",
+        "parent_user_id": "UB82Y3A3W"
+    },
+    {
+        "client_msg_id": "8d1b71ac-4fcd-41c8-ad87-c2572a5cd83e",
+        "type": "message",
+        "text": "Mi cumple va a ser en medio de la cuarentena seguramente :sob:",
+        "user": "UFW0A1GV8",
+        "ts": "1589563880.055700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qOj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Mi cumple va a ser en medio de la cuarentena seguramente "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589563880.055700",
+        "reply_count": 5,
+        "reply_users_count": 5,
+        "latest_reply": "1589870206.061500",
+        "reply_users": [
+            "U49DCUW22",
+            "U36H6F3CN",
+            "UGUQTPSQM",
+            "UL1CXNCBZ",
+            "U3S8PPA3S"
+        ],
+        "replies": [
+            {
+                "user": "U49DCUW22",
+                "ts": "1589569421.056200"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589571427.056900"
+            },
+            {
+                "user": "UGUQTPSQM",
+                "ts": "1589571503.057100"
+            },
+            {
+                "user": "UL1CXNCBZ",
+                "ts": "1589728095.058700"
+            },
+            {
+                "user": "U3S8PPA3S",
+                "ts": "1589870206.061500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U49DCUW22",
+                    "UCRBKBDNU",
+                    "UFW0A1GV8"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f019407-c7f3-428e-9104-3b83c881e70e",
+        "type": "message",
+        "text": "Dejatos de crema de cacahuete, la mantequilla de anarcardo es lo que os cambiara la vida!!",
+        "user": "U7PQZMZ4L",
+        "ts": "1589567571.056000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mTh9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dejatos de crema de cacahuete, la mantequilla de anarcardo es lo que os cambiara la vida!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589546053.054300",
+        "parent_user_id": "UB82Y3A3W"
+    },
+    {
+        "client_msg_id": "e67d49de-3c3d-4560-a9a3-084674f2ece9",
+        "type": "message",
+        "text": "Bienvenido al club, aprovecha para tomártelo con calma haha",
+        "user": "U49DCUW22",
+        "ts": "1589569421.056200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "853da85beab2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-09\/1051417966166_853da85beab269aebef0_72.png",
+            "first_name": "Marcos",
+            "real_name": "Marcos Pérez",
+            "display_name": "marcos.perez",
+            "team": "T2Y6L54R3",
+            "name": "marcos.perez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jdx=6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Bienvenido al club, aprovecha para tomártelo con calma haha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589563880.055700",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "572B5BAC-14AF-4051-A1F9-E3BC6E2C1935",
+        "type": "message",
+        "text": "Cuando pase la cuarentena celebración de todos los cumples de bcneng ",
+        "user": "U36H6F3CN",
+        "ts": "1589571427.056900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hXr\/6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cuando pase la cuarentena celebración de todos los cumples de bcneng "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589563880.055700",
+        "parent_user_id": "UFW0A1GV8",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U49DCUW22",
+                    "UFW0A1GV8",
+                    "UGC8J6E8J",
+                    "UNR7EF5EU",
+                    "U2YEH6F88"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "109bd410-f8aa-4eef-a61e-71485d9c2ab5",
+        "type": "message",
+        "text": "aplazalo para agosto como estan haciendo con todos los eventos :joy:",
+        "user": "UGUQTPSQM",
+        "ts": "1589571503.057100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "bcd24b64cb30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/980627128484_bcd24b64cb30dc93b6ae_72.jpg",
+            "first_name": "",
+            "real_name": "Jordi Gomper",
+            "display_name": "Jordi Gomper",
+            "team": "T2Y6L54R3",
+            "name": "jordigomper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PMuG8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aplazalo para agosto como estan haciendo con todos los eventos "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589563880.055700",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "9ed704cd-5cda-4271-8cb4-2de8d0544adb",
+        "type": "message",
+        "text": "No sabéis escoger casa para vivir.. no solo hay que mirar metro y mercadona cerca.. también tener de vecinos a  abuelos...\nse acuestan tempranito.. y no hacen ruido jajajaja\nni escuchan tecno malo.. ni folleteo a las 3 AM",
+        "user": "U35MRAK6E",
+        "ts": "1589577210.057400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a3c4cf6a012c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-16\/155942705110_a3c4cf6a012c7197e61b_72.jpg",
+            "first_name": "Ana",
+            "real_name": "Ana Gamito",
+            "display_name": "tsuna_mi",
+            "team": "T2Y6L54R3",
+            "name": "tsuna_mi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LPH9+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No sabéis escoger casa para vivir.. no solo hay que mirar metro y mercadona cerca.. también tener de vecinos a  abuelos...\nse acuestan tempranito.. y no hacen ruido jajajaja\nni escuchan tecno malo.. ni folleteo a las 3 AM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589529337.047600",
+        "parent_user_id": "UN6S9CCGH",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UQURKK1AS"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

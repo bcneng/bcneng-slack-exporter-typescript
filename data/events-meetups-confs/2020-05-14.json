@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589447449.080200",
+        "user": "U013KS87YAX",
+        "text": "<@U013KS87YAX> has joined the channel"
+    },
+    {
+        "client_msg_id": "25aa5d1e-3070-47d9-8732-102f83ec1c0b",
+        "type": "message",
+        "text": "<https:\/\/geekle.us\/>",
+        "user": "U010BV75L7N",
+        "ts": "1589453787.080500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "c8ddfbc17597",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-19\/1003227419841_c8ddfbc17597462e10e9_72.jpg",
+            "first_name": "",
+            "real_name": "joan.leon",
+            "display_name": "joan.leon",
+            "team": "T2Y6L54R3",
+            "name": "joan.leon326",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Geekle - Software News Community Worldwide. We expand the horizons of programmers, events workshop, meetups. etc.",
+                "title": "Node.js Global Summit Online - Geekle - Software News Community Worldwide. We expand the horizons of programmers, events workshop, meetups. etc.",
+                "title_link": "https:\/\/geekle.us\/",
+                "text": "NODE.JS GLOBAL SUMMIT #STAYHOME – WATCH ONLINE MAY 30 MORE INFO NODE.JS GLOBAL SUMMIT #STAYHOME WATCH ONLINE MAY 30 MORE INFO 30 000+​ registrations expected​ 40+ speakers Asia, Europe, the Americas 12 hours .",
+                "fallback": "Geekle - Software News Community Worldwide. We expand the horizons of programmers, events workshop, meetups. etc.: Node.js Global Summit Online - Geekle - Software News Community Worldwide. We expand the horizons of programmers, events workshop, meetups. etc.",
+                "image_url": "https:\/\/geekle.us\/wp-content\/uploads\/2020\/04\/Frame-78.png",
+                "image_width": 478,
+                "image_height": 250,
+                "from_url": "https:\/\/geekle.us\/",
+                "image_bytes": 711252,
+                "service_icon": "https:\/\/geekle.us\/wp-content\/uploads\/2020\/03\/cropped-avatar3-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/geekle.us\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I90R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/geekle.us\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "party_parrot",
+                "users": [
+                    "U38R76FV4"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

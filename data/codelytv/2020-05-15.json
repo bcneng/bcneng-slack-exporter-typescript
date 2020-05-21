@@ -1,0 +1,436 @@
+[
+    {
+        "client_msg_id": "67686e83-677f-497b-8b2c-9d964ebbc9e1",
+        "type": "message",
+        "text": "<@U2YSZNUHL> creo que hay un fallo en la plataforma",
+        "user": "UTG3BMX6C",
+        "ts": "1589551602.107600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gacb7532544d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/acb7532544d808d85b705cf3f17aeb6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Pana",
+            "display_name": "Pana",
+            "team": "T2Y6L54R3",
+            "name": "pana_1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Osvmt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2YSZNUHL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " creo que hay un fallo en la plataforma"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3b445a58-69ea-4d3d-8415-ef9d1d3ba953",
+        "type": "message",
+        "text": "en el curso de notion",
+        "user": "UTG3BMX6C",
+        "ts": "1589551621.108200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gacb7532544d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/acb7532544d808d85b705cf3f17aeb6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Pana",
+            "display_name": "Pana",
+            "team": "T2Y6L54R3",
+            "name": "pana_1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MO8j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en el curso de notion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "correcto",
+                "users": [
+                    "U2YSZNUHL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U2YSZNUHL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9c88b64-f60b-42fb-a463-0b94c7aa5fba",
+        "type": "message",
+        "text": "no se cargan los videos",
+        "user": "UTG3BMX6C",
+        "ts": "1589551626.108400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gacb7532544d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/acb7532544d808d85b705cf3f17aeb6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Pana",
+            "display_name": "Pana",
+            "team": "T2Y6L54R3",
+            "name": "pana_1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yso",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no se cargan los videos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589551626.108400",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1589552035.109500",
+        "reply_users": [
+            "U2X8UK9UH",
+            "UTG3BMX6C"
+        ],
+        "replies": [
+            {
+                "user": "U2X8UK9UH",
+                "ts": "1589551999.108500"
+            },
+            {
+                "user": "U2X8UK9UH",
+                "ts": "1589552005.108700"
+            },
+            {
+                "user": "U2X8UK9UH",
+                "ts": "1589552010.108900"
+            },
+            {
+                "user": "UTG3BMX6C",
+                "ts": "1589552017.109100"
+            },
+            {
+                "user": "UTG3BMX6C",
+                "ts": "1589552023.109300"
+            },
+            {
+                "user": "U2X8UK9UH",
+                "ts": "1589552035.109500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f0fb1235-32f0-4ed5-9205-aa83a01a79e4",
+        "type": "message",
+        "text": "El problema es que el siguietne bloque se publcia la seman que viene y no esta",
+        "user": "U2X8UK9UH",
+        "ts": "1589551999.108500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9535ab80525f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-06\/1041963411603_9535ab80525fe087357f_72.jpg",
+            "first_name": "Rafa",
+            "real_name": "Rafa Gómez",
+            "display_name": "rafa",
+            "team": "T2Y6L54R3",
+            "name": "rafa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jfOH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "El problema es que el siguietne bloque se publcia la seman que viene y no esta"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589551626.108400",
+        "parent_user_id": "UTG3BMX6C"
+    },
+    {
+        "client_msg_id": "66b175c7-2afc-41c7-8789-9f82054fb3d8",
+        "type": "message",
+        "text": "Y pusimos mal las fechas u_U",
+        "user": "U2X8UK9UH",
+        "ts": "1589552005.108700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9535ab80525f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-06\/1041963411603_9535ab80525fe087357f_72.jpg",
+            "first_name": "Rafa",
+            "real_name": "Rafa Gómez",
+            "display_name": "rafa",
+            "team": "T2Y6L54R3",
+            "name": "rafa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eNSm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y pusimos mal las fechas u_U"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589551626.108400",
+        "parent_user_id": "UTG3BMX6C"
+    },
+    {
+        "client_msg_id": "d7219bfb-4011-4d0a-b09e-f6fb3226bbad",
+        "type": "message",
+        "text": "Lo cambio, gracias por el aviso!!!",
+        "user": "U2X8UK9UH",
+        "ts": "1589552010.108900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9535ab80525f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-06\/1041963411603_9535ab80525fe087357f_72.jpg",
+            "first_name": "Rafa",
+            "real_name": "Rafa Gómez",
+            "display_name": "rafa",
+            "team": "T2Y6L54R3",
+            "name": "rafa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qJj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lo cambio, gracias por el aviso!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589551626.108400",
+        "parent_user_id": "UTG3BMX6C"
+    },
+    {
+        "client_msg_id": "d3e85f56-730f-484a-bf35-5a5499ea97d1",
+        "type": "message",
+        "text": "que desilusión",
+        "user": "UTG3BMX6C",
+        "ts": "1589552017.109100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gacb7532544d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/acb7532544d808d85b705cf3f17aeb6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Pana",
+            "display_name": "Pana",
+            "team": "T2Y6L54R3",
+            "name": "pana_1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ihS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "que desilusión"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589551626.108400",
+        "parent_user_id": "UTG3BMX6C"
+    },
+    {
+        "client_msg_id": "585fc770-7983-4c83-913a-7238efe60567",
+        "type": "message",
+        "text": "ok gracias por el aviso :slightly_smiling_face:",
+        "user": "UTG3BMX6C",
+        "ts": "1589552023.109300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gacb7532544d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/acb7532544d808d85b705cf3f17aeb6a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "",
+            "real_name": "Pana",
+            "display_name": "Pana",
+            "team": "T2Y6L54R3",
+            "name": "pana_1990",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z3Mq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok gracias por el aviso "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589551626.108400",
+        "parent_user_id": "UTG3BMX6C",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U2X8UK9UH",
+                    "U2YSZNUHL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4442cee1-f91a-4076-9718-c6de4139f529",
+        "type": "message",
+        "text": "Si te sirve de consuelo es pq estamos preparando otros cursos nuevos :)",
+        "user": "U2X8UK9UH",
+        "ts": "1589552035.109500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9535ab80525f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-06\/1041963411603_9535ab80525fe087357f_72.jpg",
+            "first_name": "Rafa",
+            "real_name": "Rafa Gómez",
+            "display_name": "rafa",
+            "team": "T2Y6L54R3",
+            "name": "rafa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qep",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si te sirve de consuelo es pq estamos preparando otros cursos nuevos :)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589551626.108400",
+        "parent_user_id": "UTG3BMX6C",
+        "reactions": [
+            {
+                "name": "parrot",
+                "users": [
+                    "UH1Q63NAZ",
+                    "U6A845RPY",
+                    "U36H6F3CN"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589965448.074400",
+        "user": "U0130LV49HB",
+        "text": "<@U0130LV49HB> has joined the channel"
+    },
+    {
+        "client_msg_id": "74a4efc3-1137-4e07-bdad-f14f2b831445",
+        "type": "message",
+        "text": "El _design system_ de *Vercel* :exploding_head: :heart: , de lo más limpio que he visto :100:\n<https:\/\/vercel.com\/design>",
+        "user": "U0130LV49HB",
+        "ts": "1589987534.075300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gbf8b126cb62",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bf8b126cb62e38c2df69244e8d10a8fe.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Lluis",
+            "real_name": "Lluis Agusti",
+            "display_name": "Lluis",
+            "team": "T2Y6L54R3",
+            "name": "hi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Vercel - Vercel Design",
+                "title_link": "https:\/\/vercel.com\/design",
+                "text": "The Vercel design system.",
+                "fallback": "Vercel - Vercel Design",
+                "image_url": "https:\/\/assets.vercel.com\/image\/upload\/q_auto\/front\/assets\/design\/geist-card.png",
+                "from_url": "https:\/\/vercel.com\/design",
+                "image_width": 438,
+                "image_height": 250,
+                "image_bytes": 2393,
+                "service_icon": "https:\/\/assets.vercel.com\/image\/upload\/q_auto\/front\/favicon\/vercel\/57x57.png",
+                "service_name": "vercel.com",
+                "id": 1,
+                "original_url": "https:\/\/vercel.com\/design"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qQgV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "El "
+                            },
+                            {
+                                "type": "text",
+                                "text": "design system",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " de "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Vercel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exploding_head"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            },
+                            {
+                                "type": "text",
+                                "text": " , de lo más limpio que he visto "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "100"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/vercel.com\/design"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "top",
+                "users": [
+                    "UCRBKBDNU",
+                    "U49DCUW22",
+                    "U35MRAK6E",
+                    "USVJUM2V9",
+                    "U5XALJ0LF",
+                    "U2Y783VTM",
+                    "UTZ0F4WGM",
+                    "UC58U6AP9"
+                ],
+                "count": 8
+            }
+        ]
+    }
+]

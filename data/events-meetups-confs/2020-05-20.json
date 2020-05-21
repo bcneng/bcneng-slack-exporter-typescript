@@ -1,0 +1,466 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589965562.086400",
+        "user": "U0130LV49HB",
+        "text": "<@U0130LV49HB> has joined the channel"
+    },
+    {
+        "client_msg_id": "98cea2cb-49de-4f55-8aa0-1527f43f2ee3",
+        "type": "message",
+        "text": "Craft 2020 is cancelled",
+        "user": "U2YH82SRM",
+        "ts": "1589975828.086800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NEe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Craft 2020 is cancelled"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589975828.086800",
+        "reply_count": 7,
+        "reply_users_count": 4,
+        "latest_reply": "1589990518.088600",
+        "reply_users": [
+            "U2YH82SRM",
+            "U40KDVDQF",
+            "U3DPLBVQE",
+            "U3R29MX61"
+        ],
+        "replies": [
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589975835.086900"
+            },
+            {
+                "user": "U40KDVDQF",
+                "ts": "1589979136.087400"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589979145.087700"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589980741.087900"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589982091.088200"
+            },
+            {
+                "user": "U2YH82SRM",
+                "ts": "1589982145.088400"
+            },
+            {
+                "user": "U3R29MX61",
+                "ts": "1589990518.088600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "disappointed",
+                "users": [
+                    "UEDFE7J07",
+                    "U5HQG3H18"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d07cf7bb-6173-45be-9d0d-aa5d49d60736",
+        "type": "message",
+        "text": "&gt; *Dear Crafter,*\n&gt; It is our great sadness to share with you that we decided to cancel Craft Conference 2020.\n&gt; In the past months we’ve been constantly reevaluating the possible tools, dates and outcomes of organising an offline or online conference.\n&gt; While the COVID-19 crisis is seemingly settling down in Europe, experts are warning us to prepare for an even bigger second wave later this year which makes it impossible to organize Craft as we all know it. The health and expectations of our community are our utmost priority which made our decision easier. *Naturally, we’re refunding your tickets 100% and in the coming days we will contact you with further details and the canceling invoice.*\n&gt; If rescheduling Craft wasn’t already tough on us, cancelling Craft 2020 is definitely taking its toll. However, we remain positive as we're experimenting with new ways to keep our crafting community strong. We gained a lot of insight about your online learning habits in our latest survey. We just launched our <https:\/\/www.meetup.com\/CraftConf-Software-Delivery-Meetup|free online meetup> last week with great success and we will be back with more soon. To keep yourself updated about any of these news, sign up to <http:\/\/eepurl.com\/dGXgdH|our newsletter> and follow us on social media. We hope you will stay with us during this new virtual adventure and we’ll finally see each other off screen in 2021!\n&gt; Don’t hesitate to contact us at <mailto:hello@craft-conf.com|hello@craft-conf.com> if you have any questions.\n&gt; Take care and keep crafting,\n&gt; Craft organizers",
+        "user": "U2YH82SRM",
+        "ts": "1589975835.086900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "#CraftConf Software Delivery Meetup (Budapest, Hungary)",
+                "title_link": "https:\/\/www.meetup.com\/CraftConf-Software-Delivery-Meetup",
+                "text": "This group is an international community of software crafters. Following Craft Conference's pillars, our goal is to develop sustainable, maintainable and successful software and let people understand",
+                "fallback": "Meetup: #CraftConf Software Delivery Meetup (Budapest, Hungary)",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/6\/4\/0\/5\/600_490345605.jpeg",
+                "from_url": "https:\/\/www.meetup.com\/CraftConf-Software-Delivery-Meetup",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 41223,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/en-US\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/CraftConf-Software-Delivery-Meetup"
+            },
+            {
+                "title": "Prezi.com Kft",
+                "title_link": "http:\/\/eepurl.com\/dGXgdH",
+                "text": "<http:\/\/Prezi.com|Prezi.com> Kft Email Forms",
+                "fallback": "Prezi.com Kft",
+                "from_url": "http:\/\/eepurl.com\/dGXgdH",
+                "service_icon": "https:\/\/craft-conf.us19.list-manage.com\/favicon.ico",
+                "service_name": "craft-conf.us19.list-manage.com",
+                "id": 2,
+                "original_url": "http:\/\/eepurl.com\/dGXgdH"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TmGC9",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Dear Crafter,",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIt is our great sadness to share with you that we decided to cancel Craft Conference 2020.\nIn the past months we’ve been constantly reevaluating the possible tools, dates and outcomes of organising an offline or online conference.\nWhile the COVID-19 crisis is seemingly settling down in Europe, experts are warning us to prepare for an even bigger second wave later this year which makes it impossible to organize Craft as we all know it. The health and expectations of our community are our utmost priority which made our decision easier. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "Naturally, we’re refunding your tickets 100% and in the coming days we will contact you with further details and the canceling invoice.",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIf rescheduling Craft wasn’t already tough on us, cancelling Craft 2020 is definitely taking its toll. However, we remain positive as we're experimenting with new ways to keep our crafting community strong. We gained a lot of insight about your online learning habits in our latest survey. We just launched our "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/CraftConf-Software-Delivery-Meetup",
+                                "text": "free online meetup"
+                            },
+                            {
+                                "type": "text",
+                                "text": " last week with great success and we will be back with more soon. To keep yourself updated about any of these news, sign up to "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/eepurl.com\/dGXgdH",
+                                "text": "our newsletter"
+                            },
+                            {
+                                "type": "text",
+                                "text": " and follow us on social media. We hope you will stay with us during this new virtual adventure and we’ll finally see each other off screen in 2021!\nDon’t hesitate to contact us at "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:hello@craft-conf.com",
+                                "text": "hello@craft-conf.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": " if you have any questions.\nTake care and keep crafting,\nCraft organizers"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589975828.086800",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "449d155f-c9bf-4e47-89bc-096f5850b641",
+        "type": "message",
+        "text": "que fecha era?",
+        "user": "U40KDVDQF",
+        "ts": "1589979136.087400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "66700131c09f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-24\/186611189392_66700131c09f32aa413e_72.jpg",
+            "first_name": "Álvaro",
+            "real_name": "Álvaro Salvá",
+            "display_name": "redbaron",
+            "team": "T2Y6L54R3",
+            "name": "redbaron",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U40KDVDQF",
+            "ts": "1589979143.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/eFFF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "que fecha era?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589975828.086800",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "2eebc643-50ff-4d24-8c9a-a7834ad2ca4e",
+        "type": "message",
+        "text": "La movieron a Octubre",
+        "user": "U2YH82SRM",
+        "ts": "1589979145.087700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "clem",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La movieron a Octubre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589975828.086800",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "395c8389-3702-4d2d-9d99-f718213b774b",
+        "type": "message",
+        "text": "mmmm, lo que menos me gusta de todo esto es este párrafo: “While the COVID-19 crisis is seemingly settling down in Europe, *experts are warning us to prepare for an even bigger second wave later this year* which makes it impossible to organize Craft as we all know it”",
+        "user": "U3DPLBVQE",
+        "ts": "1589980741.087900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WX0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mmmm, lo que menos me gusta de todo esto es este párrafo: “While the COVID-19 crisis is seemingly settling down in Europe, "
+                            },
+                            {
+                                "type": "text",
+                                "text": "experts are warning us to prepare for an even bigger second wave later this year",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " which makes it impossible to organize Craft as we all know it”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589975828.086800",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "e7ba4401-435a-4a21-b6b7-f957e5b975c1",
+        "type": "message",
+        "text": "También lo pensé XDDD",
+        "user": "U2YH82SRM",
+        "ts": "1589982091.088200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I96",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "También lo pensé XDDD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589975828.086800",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "4f336e96-d998-47af-9aba-2d00b5d351ab",
+        "type": "message",
+        "text": "Creas o no a los expertos, entiendo que como organizador no te la puedes jugar",
+        "user": "U2YH82SRM",
+        "ts": "1589982145.088400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OXl6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Creas o no a los expertos, entiendo que como organizador no te la puedes jugar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589975828.086800",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "b3866062-9b8a-4490-9f9d-2341d0ccc2fb",
+        "type": "message",
+        "text": "para replazar una conferencia hay que tener negociaciones con sponsors, venue, catering y tener la suerte que pocos asistentes pidan que se devuelva el dinero\n\nal final para la organización sale mejor negociar para que se mueva todo 2021\n\ny nadie tiene seguro como estaran los vuelos por estes meses así que tambien sale mucho dificil tener un line up de speakers que el publico está acostumbrado",
+        "user": "U3R29MX61",
+        "ts": "1589990518.088600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "3efb2de13fe0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-15\/715945495075_3efb2de13fe01a3ae9a3_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Ferraz",
+            "display_name": "Sergio Ferraz",
+            "team": "T2Y6L54R3",
+            "name": "sferrazjr",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N\/ju",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "para replazar una conferencia hay que tener negociaciones con sponsors, venue, catering y tener la suerte que pocos asistentes pidan que se devuelva el dinero\n\nal final para la organización sale mejor negociar para que se mueva todo 2021\n\ny nadie tiene seguro como estaran los vuelos por estes meses así que tambien sale mucho dificil tener un line up de speakers que el publico está acostumbrado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589975828.086800",
+        "parent_user_id": "U2YH82SRM"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "ee3b94f4-ffc2-43ea-81ee-37c84a758485",
+        "type": "message",
+        "text": "<https:\/\/pdfs.semanticscholar.org\/b146\/9ab10b80f36cef02832bfe12d91f5058bb99.pdf>",
+        "user": "U2Z3YGJ3D",
+        "ts": "1589992501.006100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga75b593d1b8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa75b593d1b8a1bb44e60094d513952f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Hernandez",
+            "display_name": "jhvaras",
+            "team": "T2Y6L54R3",
+            "name": "jhvaras",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Wg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/pdfs.semanticscholar.org\/b146\/9ab10b80f36cef02832bfe12d91f5058bb99.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9e4530aa-c1ac-4be0-bb31-276fbff89b35",
+        "type": "message",
+        "text": "&gt; Abstract In this paper, we explore how a programmable forwarding plane offered by a new breed of network switches might naturally accelerate consensus protocols, specifically focusing on Paxos. The performance of consensus protocols has long been a concern; By implementing Paxos in the forwarding plane, we are able to significantly increase throughput and reduce latency. Our P4-based implementation running on an ASIC in isolation can process over 2.5 billion consensus messages per second, a four orders of magnitude improvement in throughput over a widely-used software implementation. This effectively removes consensus as a bottleneck for distributed applications in data centers. Beyond sheer performance, our approach offers several other important benefits: it readily lends itself to formal verification; it does not rely on any additional network hardware; and as a full Paxos implementation, it makes only very weak assumptions about the network.",
+        "user": "U2Z3YGJ3D",
+        "ts": "1589992533.006400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga75b593d1b8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa75b593d1b8a1bb44e60094d513952f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Hernandez",
+            "display_name": "jhvaras",
+            "team": "T2Y6L54R3",
+            "name": "jhvaras",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yxZa",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Abstract In this paper, we explore how a programmable forwarding plane offered by a new breed of network switches might naturally accelerate consensus protocols, specifically focusing on Paxos. The performance of consensus protocols has long been a concern; By implementing Paxos in the forwarding plane, we are able to significantly increase throughput and reduce latency. Our P4-based implementation running on an ASIC in isolation can process over 2.5 billion consensus messages per second, a four orders of magnitude improvement in throughput over a widely-used software implementation. This effectively removes consensus as a bottleneck for distributed applications in data centers. Beyond sheer performance, our approach offers several other important benefits: it readily lends itself to formal verification; it does not rely on any additional network hardware; and as a full Paxos implementation, it makes only very weak assumptions about the network."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a5e84be3-f66b-451b-8c94-4ce4fa68b1b2",
+        "type": "message",
+        "text": "P4xos: Consensus as a Network Service",
+        "user": "U2Z3YGJ3D",
+        "ts": "1589992942.006800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga75b593d1b8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/fa75b593d1b8a1bb44e60094d513952f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "Juan",
+            "real_name": "Juan Hernandez",
+            "display_name": "jhvaras",
+            "team": "T2Y6L54R3",
+            "name": "jhvaras",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PpKKA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "P4xos: Consensus as a Network Service"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,329 @@
+[
+    {
+        "client_msg_id": "9b2ab55c-f316-402b-b6a5-70f697e70eb8",
+        "type": "message",
+        "text": "<https:\/\/github.com\/aholachek\/bundle-wizard> good stuff :mage:",
+        "user": "U2XSANH4G",
+        "ts": "1589530051.052300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g1c73a0ed261",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1c73a0ed261b8a717f0c1f86147cb3d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "Gerard",
+            "real_name": "Gerard Brull",
+            "display_name": "poteirard",
+            "team": "T2Y6L54R3",
+            "name": "poteirard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2XSANH4G",
+            "ts": "1589530094.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "aholachek\/bundle-wizard",
+                "title_link": "https:\/\/github.com\/aholachek\/bundle-wizard",
+                "text": "Magically easy insight into the JavaScript loaded by a web app - aholachek\/bundle-wizard",
+                "fallback": "GitHub: aholachek\/bundle-wizard",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/3680488?s=400&v=4",
+                "from_url": "https:\/\/github.com\/aholachek\/bundle-wizard",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/aholachek\/bundle-wizard"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hKG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/aholachek\/bundle-wizard"
+                            },
+                            {
+                                "type": "text",
+                                "text": " good stuff "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mage"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "U36H6F3CN",
+                    "UC58U6AP9",
+                    "USVJUM2V9",
+                    "U0130LV49HB"
+                ],
+                "count": 4
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U30CJP81G",
+                    "UM1D80L3X",
+                    "U0130LV49HB"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "669C68DC-945F-4598-A56C-44EC4A6B5026",
+        "type": "message",
+        "text": "<https:\/\/recoiljs.org\/|https:\/\/recoiljs.org\/>",
+        "user": "U6WTNB7G9",
+        "ts": "1589544516.052900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gccb0e99c1ff",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3ccb0e99c1fff4d4df992eeffb52f9e2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Mishu",
+            "real_name": "Mishu Dark",
+            "display_name": "M ιSHΨD 4-RK",
+            "team": "T2Y6L54R3",
+            "name": "mishudark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Recoil",
+                "title_link": "https:\/\/recoiljs.org\/",
+                "text": "A state management library for React.",
+                "fallback": "Recoil",
+                "from_url": "https:\/\/recoiljs.org\/",
+                "service_icon": "https:\/\/recoiljs.org\/img\/favicon.ico",
+                "service_name": "recoiljs.org",
+                "id": 1,
+                "original_url": "https:\/\/recoiljs.org\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Emp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/recoiljs.org\/",
+                                "text": "https:\/\/recoiljs.org\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "facebook",
+                "users": [
+                    "U2XSANH4G"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ultrafastparrot",
+                "users": [
+                    "UUCUY725N",
+                    "U9SLAAAPM"
+                ],
+                "count": 2
+            },
+            {
+                "name": "amaze",
+                "users": [
+                    "UM1D80L3X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb8719bd-ce0a-48af-84c2-fcef56868109",
+        "type": "message",
+        "text": "I use ts-node only for development and I like it :smile:",
+        "user": "UB82Y3A3W",
+        "ts": "1589546134.053200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2f79c9a1d902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-15\/381629494208_2f79c9a1d9023c4422f2_72.jpg",
+            "first_name": "acanimal",
+            "real_name": "acanimal",
+            "display_name": "acanimal",
+            "team": "T2Y6L54R3",
+            "name": "asantiagop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRnw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I use ts-node only for development and I like it "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589466030.051200",
+        "parent_user_id": "UK0AC61HS"
+    },
+    {
+        "client_msg_id": "15803823-f71b-4df5-b58f-0cef2a172cab",
+        "type": "message",
+        "text": "For production always code compiled, but never search for a benchmark comparison",
+        "user": "UB82Y3A3W",
+        "ts": "1589546161.053400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2f79c9a1d902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-15\/381629494208_2f79c9a1d9023c4422f2_72.jpg",
+            "first_name": "acanimal",
+            "real_name": "acanimal",
+            "display_name": "acanimal",
+            "team": "T2Y6L54R3",
+            "name": "asantiagop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E7F9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For production always code compiled, but never search for a benchmark comparison"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589466030.051200",
+        "parent_user_id": "UK0AC61HS"
+    },
+    {
+        "client_msg_id": "828a25a9-205e-4e9b-8c5c-a6507d691066",
+        "type": "message",
+        "text": "wouldn’t it be nice to have sourcemaps in prod?",
+        "user": "UK0AC61HS",
+        "ts": "1589548057.053700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g36cef01195c",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/c36cef01195c0a581ece67aa81ee40a8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+            "first_name": "",
+            "real_name": "Christian Giordano",
+            "display_name": "Christian Giordano",
+            "team": "T2Y6L54R3",
+            "name": "christian",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QdDt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "wouldn’t it be nice to have sourcemaps in prod?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589466030.051200",
+        "parent_user_id": "UK0AC61HS"
+    },
+    {
+        "client_msg_id": "2728b482-6518-436e-8583-6694b8b71e75",
+        "type": "message",
+        "text": "but anyway you can generate them. Services like Sentry understand and allows to see where the errar was",
+        "user": "UB82Y3A3W",
+        "ts": "1589548185.053900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2f79c9a1d902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-06-15\/381629494208_2f79c9a1d9023c4422f2_72.jpg",
+            "first_name": "acanimal",
+            "real_name": "acanimal",
+            "display_name": "acanimal",
+            "team": "T2Y6L54R3",
+            "name": "asantiagop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NTv98",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but anyway you can generate them. Services like Sentry understand and allows to see where the errar was"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589466030.051200",
+        "parent_user_id": "UK0AC61HS"
+    }
+]

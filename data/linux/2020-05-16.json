@@ -1,0 +1,264 @@
+[
+    {
+        "client_msg_id": "cee02661-22c0-42d3-aca8-549b63462cb8",
+        "type": "message",
+        "text": "Hola chicos. Instalé Ubuntu 20.4 y después de 5 días... sorpresa! el sistema ha dejado de reconocer la tarjeta WiFi sin motivo aparente. Mi tarjeta es una Intel Wi-Fi 6 AX200. Suspuestamente este fallo de compatibilidad se corrigió en la versión del Kernel 5.1. He probado de instalar el driver iwlwifi pero nada. Alguien le ha sucedido lo mismo o puede ayudarme?",
+        "user": "UGUQTPSQM",
+        "ts": "1589623613.014500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "bcd24b64cb30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/980627128484_bcd24b64cb30dc93b6ae_72.jpg",
+            "first_name": "",
+            "real_name": "Jordi Gomper",
+            "display_name": "Jordi Gomper",
+            "team": "T2Y6L54R3",
+            "name": "jordigomper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P1hZE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola chicos. Instalé Ubuntu 20.4 y después de 5 días... sorpresa! el sistema ha dejado de reconocer la tarjeta WiFi sin motivo aparente. Mi tarjeta es una Intel Wi-Fi 6 AX200. Suspuestamente este fallo de compatibilidad se corrigió en la versión del Kernel 5.1. He probado de instalar el driver iwlwifi pero nada. Alguien le ha sucedido lo mismo o puede ayudarme?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589623613.014500",
+        "reply_count": 9,
+        "reply_users_count": 5,
+        "latest_reply": "1589804692.016400",
+        "reply_users": [
+            "UULD2GDNG",
+            "UGUQTPSQM",
+            "U36UNRM4N",
+            "U2YEY1745",
+            "U38R76FV4"
+        ],
+        "replies": [
+            {
+                "user": "UULD2GDNG",
+                "ts": "1589626260.014600"
+            },
+            {
+                "user": "UGUQTPSQM",
+                "ts": "1589627124.014800"
+            },
+            {
+                "user": "UULD2GDNG",
+                "ts": "1589627345.015000"
+            },
+            {
+                "user": "U36UNRM4N",
+                "ts": "1589628100.015300"
+            },
+            {
+                "user": "UGUQTPSQM",
+                "ts": "1589708232.015500"
+            },
+            {
+                "user": "U2YEY1745",
+                "ts": "1589796368.015700"
+            },
+            {
+                "user": "UULD2GDNG",
+                "ts": "1589798968.015900"
+            },
+            {
+                "user": "U38R76FV4",
+                "ts": "1589804104.016100"
+            },
+            {
+                "user": "UULD2GDNG",
+                "ts": "1589804692.016400"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "cebff7e2-4c63-4405-a07d-be95f4d325b0",
+        "type": "message",
+        "text": "Con USB live te va?",
+        "user": "UULD2GDNG",
+        "ts": "1589626260.014600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g57ee1c1965d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/57ee1c1965d08e45c64e316a2a9fe4e4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Héctor Borrás",
+            "display_name": "Héctor Borrás",
+            "team": "T2Y6L54R3",
+            "name": "hborrasaleixandre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GEw1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Con USB live te va?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589623613.014500",
+        "parent_user_id": "UGUQTPSQM"
+    },
+    {
+        "client_msg_id": "57a6a015-8b64-4989-aea0-9956d21fb405",
+        "type": "message",
+        "text": "Si y acabo de arrancar otra vez mi Ubuntu local y ahora funciona, omg! Que está pasando?",
+        "user": "UGUQTPSQM",
+        "ts": "1589627124.014800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "bcd24b64cb30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/980627128484_bcd24b64cb30dc93b6ae_72.jpg",
+            "first_name": "",
+            "real_name": "Jordi Gomper",
+            "display_name": "Jordi Gomper",
+            "team": "T2Y6L54R3",
+            "name": "jordigomper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "28w9D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si y acabo de arrancar otra vez mi Ubuntu local y ahora funciona, omg! Que está pasando?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589623613.014500",
+        "parent_user_id": "UGUQTPSQM"
+    },
+    {
+        "client_msg_id": "cc1889f2-d0e3-4f1f-b359-6ada644f75f7",
+        "type": "message",
+        "text": "<https:\/\/media.tenor.com\/images\/1fb93e098589d31f5023b7d32418f013\/tenor.gif|https:\/\/media.tenor.com\/images\/1fb93e098589d31f5023b7d32418f013\/tenor.gif>",
+        "user": "UULD2GDNG",
+        "ts": "1589627345.015000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g57ee1c1965d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/57ee1c1965d08e45c64e316a2a9fe4e4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Héctor Borrás",
+            "display_name": "Héctor Borrás",
+            "team": "T2Y6L54R3",
+            "name": "hborrasaleixandre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "220x202px image",
+                "image_url": "https:\/\/media.tenor.com\/images\/1fb93e098589d31f5023b7d32418f013\/tenor.gif",
+                "image_width": 220,
+                "image_height": 202,
+                "image_bytes": 380763,
+                "is_animated": true,
+                "from_url": "https:\/\/media.tenor.com\/images\/1fb93e098589d31f5023b7d32418f013\/tenor.gif",
+                "id": 1,
+                "original_url": "https:\/\/media.tenor.com\/images\/1fb93e098589d31f5023b7d32418f013\/tenor.gif"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9eoC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/media.tenor.com\/images\/1fb93e098589d31f5023b7d32418f013\/tenor.gif",
+                                "text": "https:\/\/media.tenor.com\/images\/1fb93e098589d31f5023b7d32418f013\/tenor.gif"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589623613.014500",
+        "parent_user_id": "UGUQTPSQM"
+    },
+    {
+        "client_msg_id": "5252626b-50a2-43eb-ae58-6c76a24a630a",
+        "type": "message",
+        "text": "¿Has hecho un upgrade de sistema? Igual no se ha bien el módulo, hasta hacer el hard reboot",
+        "user": "U36UNRM4N",
+        "ts": "1589628100.015300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaa15c3f6948",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/1aa15c3f6948e5977fa9c0ebbc923aeb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "David",
+            "real_name": "David Arcos",
+            "display_name": "david.arcos",
+            "team": "T2Y6L54R3",
+            "name": "david.arcos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cxO5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "¿Has hecho un upgrade de sistema? Igual no se ha bien el módulo, hasta hacer el hard reboot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589623613.014500",
+        "parent_user_id": "UGUQTPSQM"
+    }
+]

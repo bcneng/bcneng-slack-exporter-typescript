@@ -1,0 +1,237 @@
+[
+    {
+        "client_msg_id": "59d90009-d6dc-4680-940c-e395a96f4556",
+        "type": "message",
+        "text": "Hola, os lo puse el viernes para que no se me olvide, pero de verdad si queréis darle vuelta a una idea que tengáis en la cabeza asistir a este evento os ayudará a descifrar un poco más. :top: :up: <https:\/\/www.dreambigchallenge.com\/>",
+        "user": "UEDFE7J07",
+        "ts": "1589790858.083800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UEDFE7J07",
+            "ts": "1589790886.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GDh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola, os lo puse el viernes para que no se me olvide, pero de verdad si queréis darle vuelta a una idea que tengáis en la cabeza asistir a este evento os ayudará a descifrar un poco más. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "top"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "up"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dreambigchallenge.com\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589811055.084200",
+        "user": "U014J8P6T2L",
+        "text": "<@U014J8P6T2L> has joined the channel"
+    },
+    {
+        "client_msg_id": "8cf958c0-46c2-4328-b8fe-247ea6b3545c",
+        "type": "message",
+        "text": "<https:\/\/www.meetup.com\/python-barcelona\/events\/270692295\/> Montamos nuestro primer meetup online: PyBCN Online: Impact of the COVID-19 pandemic in the IT labor market",
+        "user": "U3FGG385U",
+        "ts": "1589814095.084700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g6eb958d5b21",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6eb958d5b21898e27750571962e0eef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Jordi",
+            "real_name": "Jordi Soucheiron",
+            "display_name": "jordixou",
+            "team": "T2Y6L54R3",
+            "name": "jordixou",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Meetup",
+                "title": "PyBCN Online: Impact of the COVID-19 pandemic in the IT labor market",
+                "title_link": "https:\/\/www.meetup.com\/python-barcelona\/events\/270692295\/",
+                "text": "Wed, May 20, 2020, 6:00 PM: \"Impact of the COVID-19 pandemic in the IT labor market\"Dani Martos, Recruitment Manager at Travelperk and member of PyBCN, will share with us some insights about the prese",
+                "fallback": "Meetup: PyBCN Online: Impact of the COVID-19 pandemic in the IT labor market",
+                "image_url": "https:\/\/secure.meetupstatic.com\/photos\/event\/5\/5\/7\/e\/600_490461886.jpeg",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "Online event",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Wed, May 20, 2020, 6:00 PM",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.meetup.com\/python-barcelona\/events\/270692295\/",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 79080,
+                "service_icon": "https:\/\/www.meetup.com\/mu_static\/en-US\/m_swarm_120x120.4f86abc9.png",
+                "id": 1,
+                "original_url": "https:\/\/www.meetup.com\/python-barcelona\/events\/270692295\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6JOJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.meetup.com\/python-barcelona\/events\/270692295\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Montamos nuestro primer meetup online: PyBCN Online: Impact of the COVID-19 pandemic in the IT labor market"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589814095.084700",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1589878033.085600",
+        "reply_users": [
+            "U2WPLA0KA",
+            "U9555FDJ8"
+        ],
+        "replies": [
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589833893.084900"
+            },
+            {
+                "user": "U9555FDJ8",
+                "ts": "1589874529.085300"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589878033.085600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "python",
+                "users": [
+                    "U36UNRM4N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U36UNRM4N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b13fb692-7c9c-4b1c-86d1-c6eddcb38b28",
+        "type": "message",
+        "text": "Almost same title <https:\/\/bcneng.slack.com\/archives\/C2Y6L58TX\/p1589464953341400> :mindblown:",
+        "user": "U2WPLA0KA",
+        "ts": "1589833893.084900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2WPLA0KA",
+            "ts": "1589833904.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D0T1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Almost same title "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bcneng.slack.com\/archives\/C2Y6L58TX\/p1589464953341400"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mindblown"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589814095.084700",
+        "parent_user_id": "U3FGG385U"
+    }
+]

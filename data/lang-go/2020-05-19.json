@@ -1,0 +1,811 @@
+[
+    {
+        "client_msg_id": "d4f91655-601c-4c1e-9053-3d8f1e94c220",
+        "type": "message",
+        "text": "qué se usa por aquí como http server? gin?",
+        "user": "U5FS4BH96",
+        "ts": "1589884900.166900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "effd4ad97524",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-06\/543768149283_effd4ad97524f3f66b2f_72.jpg",
+            "first_name": "Unai",
+            "real_name": "Unai",
+            "display_name": "uesteibar",
+            "team": "T2Y6L54R3",
+            "name": "uesteibar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lelB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "qué se usa por aquí como http server? gin?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589884900.166900",
+        "reply_count": 9,
+        "reply_users_count": 8,
+        "latest_reply": "1589983067.173700",
+        "reply_users": [
+            "UTK987GQP",
+            "U2Y6QQHST",
+            "U2YE33CHX",
+            "U6SF71BFT",
+            "U6WTNB7G9",
+            "U2WPLA0KA",
+            "U5FS4BH96",
+            "U32L364NL"
+        ],
+        "replies": [
+            {
+                "user": "UTK987GQP",
+                "ts": "1589885264.167000"
+            },
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589885511.167400"
+            },
+            {
+                "user": "U2YE33CHX",
+                "ts": "1589886460.167900"
+            },
+            {
+                "user": "U6SF71BFT",
+                "ts": "1589886528.168100"
+            },
+            {
+                "user": "U6WTNB7G9",
+                "ts": "1589887079.168500"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589888141.168800"
+            },
+            {
+                "user": "U5FS4BH96",
+                "ts": "1589888988.169100"
+            },
+            {
+                "user": "U5FS4BH96",
+                "ts": "1589888999.169300"
+            },
+            {
+                "user": "U32L364NL",
+                "ts": "1589983067.173700"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1589983068.355600"
+    },
+    {
+        "client_msg_id": "1c49501f-1859-4f8f-89b5-8155634860ff",
+        "type": "message",
+        "text": "```<http:\/\/github.com\/gorilla|github.com\/gorilla>\n<http:\/\/github.com\/valyala\/fasthttp|github.com\/valyala\/fasthttp>```",
+        "user": "UTK987GQP",
+        "ts": "1589885264.167000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g020dbfe1533",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/020dbfe153301028f2a29f3e40314763.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Oscar Motto",
+            "display_name": "Oscar Motto",
+            "team": "T2Y6L54R3",
+            "name": "osukarumotto",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UTK987GQP",
+            "ts": "1589885294.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oZLaz",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "http:\/\/github.com\/gorilla",
+                                "text": "github.com\/gorilla"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/github.com\/valyala\/fasthttp",
+                                "text": "github.com\/valyala\/fasthttp"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589884900.166900",
+        "parent_user_id": "U5FS4BH96",
+        "reactions": [
+            {
+                "name": "thanks",
+                "users": [
+                    "U5FS4BH96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6618b127-f64b-4235-bce9-ccad7d90a8b9",
+        "type": "message",
+        "text": "como server `http.Server`, como router\/multiplexer usamos <https:\/\/github.com\/go-chi\/chi>",
+        "user": "U2Y6QQHST",
+        "ts": "1589885511.167400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2Y6QQHST",
+            "ts": "1589885517.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CHRQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "como server "
+                            },
+                            {
+                                "type": "text",
+                                "text": "http.Server",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ", como router\/multiplexer usamos "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/go-chi\/chi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589884900.166900",
+        "parent_user_id": "U5FS4BH96",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U5FS4BH96",
+                    "U6WTNB7G9",
+                    "U4G2TP5LJ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U2WPLA0KA",
+                    "U3G7LQRU0",
+                    "U2Z3YGJ3D"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf06052e-0579-4c0d-ac33-79c8fafc727d",
+        "type": "message",
+        "text": "sí, gin",
+        "user": "U2YE33CHX",
+        "ts": "1589886460.167900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gdda791b312a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/8dda791b312abbf10ded341abb003221.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "Rubén",
+            "real_name": "Rubén Cougil",
+            "display_name": "rcougil",
+            "team": "T2Y6L54R3",
+            "name": "rcougil",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pbS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sí, gin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589884900.166900",
+        "parent_user_id": "U5FS4BH96"
+    },
+    {
+        "client_msg_id": "cc41f6b8-dfc1-4101-8f45-447d162ffdbc",
+        "type": "message",
+        "text": "nosotros gin tambien",
+        "user": "U6SF71BFT",
+        "ts": "1589886528.168100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2aMUY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nosotros gin tambien"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589884900.166900",
+        "parent_user_id": "U5FS4BH96"
+    },
+    {
+        "client_msg_id": "C73A048D-3459-4207-A3E3-DE0EBBAAFDB1",
+        "type": "message",
+        "text": "Chi ",
+        "user": "U6WTNB7G9",
+        "ts": "1589887079.168500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gccb0e99c1ff",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3ccb0e99c1fff4d4df992eeffb52f9e2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Mishu",
+            "real_name": "Mishu Dark",
+            "display_name": "M ιSHΨD 4-RK",
+            "team": "T2Y6L54R3",
+            "name": "mishudark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B0L4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chi "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589884900.166900",
+        "parent_user_id": "U5FS4BH96"
+    },
+    {
+        "client_msg_id": "df5ff87f-05a0-4368-a31f-ec4994d1329a",
+        "type": "message",
+        "text": "Chi",
+        "user": "U2WPLA0KA",
+        "ts": "1589888141.168800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fT1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Chi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589884900.166900",
+        "parent_user_id": "U5FS4BH96"
+    },
+    {
+        "client_msg_id": "427380b8-2427-4690-8f71-284fdfda9d12",
+        "type": "message",
+        "text": "Grachias (tenía que hacerlo :see_no_evil:)",
+        "user": "U5FS4BH96",
+        "ts": "1589888988.169100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "effd4ad97524",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-06\/543768149283_effd4ad97524f3f66b2f_72.jpg",
+            "first_name": "Unai",
+            "real_name": "Unai",
+            "display_name": "uesteibar",
+            "team": "T2Y6L54R3",
+            "name": "uesteibar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z0Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Grachias (tenía que hacerlo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "see_no_evil"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589884900.166900",
+        "parent_user_id": "U5FS4BH96",
+        "reactions": [
+            {
+                "name": "redcard",
+                "users": [
+                    "U6SF71BFT",
+                    "U2Z7WKZFC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U2Y6QQHST"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60b8327b-41ab-4ec6-9ab2-5c979e5f030f",
+        "type": "message",
+        "text": "Sois un amor en este canal que lo sepáis :heart:",
+        "user": "U5FS4BH96",
+        "ts": "1589888999.169300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "effd4ad97524",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-06\/543768149283_effd4ad97524f3f66b2f_72.jpg",
+            "first_name": "Unai",
+            "real_name": "Unai",
+            "display_name": "uesteibar",
+            "team": "T2Y6L54R3",
+            "name": "uesteibar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "satf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sois un amor en este canal que lo sepáis "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589884900.166900",
+        "parent_user_id": "U5FS4BH96",
+        "reactions": [
+            {
+                "name": "ty",
+                "users": [
+                    "U2Y6QQHST",
+                    "U6SF71BFT",
+                    "U2YE33CHX",
+                    "U2WPLA0KA"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8890ed90-683c-42ad-9d9d-173d3ce160e0",
+        "type": "message",
+        "text": "Acabo de añadir esto a nuestra `lint` make rule:\n`go mod tidy -v &amp;&amp; git --no-pager diff --quiet go.mod go.sum`\nSi a alguien se le ocurre alguna manera más sencilla de ejecutar esto en un Makefile (probé `go mod tidy -v` y parsing pero encontré esto más fácil por lo del exit code de git)",
+        "user": "U2Y6QQHST",
+        "ts": "1589890808.171300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "By3CS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Acabo de añadir esto a nuestra "
+                            },
+                            {
+                                "type": "text",
+                                "text": "lint",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " make rule:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "go mod tidy -v && git --no-pager diff --quiet go.mod go.sum",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nSi a alguien se le ocurre alguna manera más sencilla de ejecutar esto en un Makefile (probé "
+                            },
+                            {
+                                "type": "text",
+                                "text": "go mod tidy -v",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " y parsing pero encontré esto más fácil por lo del exit code de git)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589890808.171300",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1589897131.173300",
+        "reply_users": [
+            "U2Y940E02",
+            "U2Y6QQHST"
+        ],
+        "replies": [
+            {
+                "user": "U2Y940E02",
+                "ts": "1589894128.172300"
+            },
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589894355.172600"
+            },
+            {
+                "user": "U2Y940E02",
+                "ts": "1589894433.172800"
+            },
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589897131.173300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1589897131.173300",
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "UGV6YGFU4",
+                    "UK5CB4PV0",
+                    "U6SF71BFT"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b91309ed-645e-4c53-8900-69781d12e953",
+        "type": "message",
+        "text": "yo estoy a la espera de a ver si encuentran la mejor solución y lo añaden al pre-commit hook que utilizo <https:\/\/github.com\/dnephin\/pre-commit-golang\/pull\/43>",
+        "user": "U2Y940E02",
+        "ts": "1589894128.172300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "b83012e35a1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-17\/143013931237_b83012e35a1aafd9c4e2_72.jpg",
+            "first_name": "Jose",
+            "real_name": "Jose Armesto",
+            "display_name": "fiunchinho",
+            "team": "T2Y6L54R3",
+            "name": "fiunchinho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Implement go mod tidy script by Jerome1337 · Pull Request #43 · dnephin\/pre-commit-golang",
+                "title_link": "https:\/\/github.com\/dnephin\/pre-commit-golang\/pull\/43",
+                "text": "Useful to check if some packages are not required",
+                "fallback": "GitHub: Implement go mod tidy script by Jerome1337 · Pull Request #43 · dnephin\/pre-commit-golang",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/442180?s=400&v=4",
+                "from_url": "https:\/\/github.com\/dnephin\/pre-commit-golang\/pull\/43",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/dnephin\/pre-commit-golang\/pull\/43"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CfV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo estoy a la espera de a ver si encuentran la mejor solución y lo añaden al pre-commit hook que utilizo "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/dnephin\/pre-commit-golang\/pull\/43"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589890808.171300",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "23295346-2c9d-4320-83d6-8f3b50e8c5d4",
+        "type": "message",
+        "text": "raro que use cosas fuera de golangci-lint que ya están dentro de este último",
+        "user": "U2Y6QQHST",
+        "ts": "1589894355.172600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MFl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "raro que use cosas fuera de golangci-lint que ya están dentro de este último"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589890808.171300",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "272aa73c-e8ed-49a6-9002-42720502bfb1",
+        "type": "message",
+        "text": "ya, te lo pasaba para que vieras cómo solventaban algo parecido, y parece que hacen algo similar no?",
+        "user": "U2Y940E02",
+        "ts": "1589894433.172800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "b83012e35a1a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-02-17\/143013931237_b83012e35a1aafd9c4e2_72.jpg",
+            "first_name": "Jose",
+            "real_name": "Jose Armesto",
+            "display_name": "fiunchinho",
+            "team": "T2Y6L54R3",
+            "name": "fiunchinho",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RjySQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ya, te lo pasaba para que vieras cómo solventaban algo parecido, y parece que hacen algo similar no?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589890808.171300",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "400f6839-33cd-4b1d-896b-0f38b2b6fa3f",
+        "type": "message",
+        "text": "yep :+1:",
+        "user": "U2Y6QQHST",
+        "ts": "1589897131.173300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JOb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589890808.171300",
+        "parent_user_id": "U2Y6QQHST"
+    }
+]

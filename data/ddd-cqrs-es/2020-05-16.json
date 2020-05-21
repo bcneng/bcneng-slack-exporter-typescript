@@ -1,0 +1,411 @@
+[
+    {
+        "client_msg_id": "c5018d3d-83eb-45ad-9daa-25c54493c988",
+        "type": "message",
+        "text": "no veo problema en usar Active Record, veo un potencial de problemas si usas Active Record como modelo",
+        "user": "U39LREC7M",
+        "ts": "1589615772.101000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "0dcadc6f7063",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-10-02\/447297188211_0dcadc6f70637b76d401_72.png",
+            "first_name": "Carlos",
+            "real_name": "Carlos Gándara",
+            "display_name": "xoubaman",
+            "team": "T2Y6L54R3",
+            "name": "xoubaman",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fJrv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no veo problema en usar Active Record, veo un potencial de problemas si usas Active Record como modelo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0142SPE1B3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "037b5879-8a02-4222-a84a-ee437d586181",
+        "type": "message",
+        "text": "Yo soy más dogmático y creo que las entidades tienen que ser agnósticas de AR y cualquier otra código de Infraestructura.\n\nDicho lo anterior en caso de tener entidades y persistencia acoplada, y hablando pragmáticamente, también comparto el punto de que, si tienes una buena ristra de tests unitarios de las entidades y test de integración en cuanto a persistencia, se podría cambiar eventualmente de entidades y ORM sin miedo a que suba a producción rompiendo algo. Los tests denotarían lo que falta.",
+        "user": "U328H3W2X",
+        "ts": "1589648931.101400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6dfc4a2a1399",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-05-01\/357481292678_6dfc4a2a139965f6abef_72.jpg",
+            "first_name": "Javier",
+            "real_name": "Javier Seixas",
+            "display_name": "Javier Seixas",
+            "team": "T2Y6L54R3",
+            "name": "javierseixas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+S2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo soy más dogmático y creo que las entidades tienen que ser agnósticas de AR y cualquier otra código de Infraestructura.\n\nDicho lo anterior en caso de tener entidades y persistencia acoplada, y hablando pragmáticamente, también comparto el punto de que, si tienes una buena ristra de tests unitarios de las entidades y test de integración en cuanto a persistencia, se podría cambiar eventualmente de entidades y ORM sin miedo a que suba a producción rompiendo algo. Los tests denotarían lo que falta."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN"
+    },
+    {
+        "client_msg_id": "12df7e35-dfe2-4c20-a8b2-bde75f49f562",
+        "type": "message",
+        "text": "En general creo que hay un número X de developers por debajo del cual makes no sense meterse en el fregado de los microservices, más que nada porque mantener el chiringuito up requiere de Y personas, seas un equipo de 10 o uno de 30. ¿Puede ser? (a modo de ejemplo, mantener up nuestro monolito modular en un equipo de 10 personas require el 20% del tiempo de un ops máx)",
+        "user": "U2YH82SRM",
+        "ts": "1589649940.101600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bf5ee558f00",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-03\/100591436631_2bf5ee558f006dd3cedb_72.jpg",
+            "first_name": "Sergi",
+            "real_name": "Sergi de Pablos",
+            "display_name": "sdepablos",
+            "team": "T2Y6L54R3",
+            "name": "sdepablos",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eLF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En general creo que hay un número X de developers por debajo del cual makes no sense meterse en el fregado de los microservices, más que nada porque mantener el chiringuito up requiere de Y personas, seas un equipo de 10 o uno de 30. ¿Puede ser? (a modo de ejemplo, mantener up nuestro monolito modular en un equipo de 10 personas require el 20% del tiempo de un ops máx)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "1BBBB90E-D73B-4810-ADA3-796315428221",
+        "type": "message",
+        "text": "Yo creo que la clave está en que crear y mantener un micro servicio sea algo trivial, de entrada no te condiciona por el hecho de que el ser costoso ponerlo en marcha te interese re aprovechar un servicio existente para algo que no le tocaría, por otro lado el coste de mantenimiento debería ser despreciable.",
+        "user": "U3DPLBVQE",
+        "ts": "1589655677.104500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K9u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo creo que la clave está en que crear y mantener un micro servicio sea algo trivial, de entrada no te condiciona por el hecho de que el ser costoso ponerlo en marcha te interese re aprovechar un servicio existente para algo que no le tocaría, por otro lado el coste de mantenimiento debería ser despreciable."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "D776102D-8FE3-4D67-9668-495D847518E0",
+        "type": "message",
+        "text": "Nosotros hemos intentado utilizar sistemas que permitan ejecutar servicios de “cualquier” tipo",
+        "user": "U3DPLBVQE",
+        "ts": "1589655722.105800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y0tG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Nosotros hemos intentado utilizar sistemas que permitan ejecutar servicios de “cualquier” tipo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "5C87BEBB-9CD8-4B5A-817A-C58D99CFD719",
+        "type": "message",
+        "text": "En la era de los containers y Kubernetes es algo totalmente factible",
+        "user": "U3DPLBVQE",
+        "ts": "1589655752.106700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cgMM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En la era de los containers y Kubernetes es algo totalmente factible"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "B85B0530-0BB7-46AF-8471-E79C1ECA4053",
+        "type": "message",
+        "text": "Tenemos unos cuantos charts de Helm y in librería de Jenkins que permiten ahorrar trabajo y hace que crear un nuevo servicio sea poco más que algo de configuración ",
+        "user": "U3DPLBVQE",
+        "ts": "1589655833.108800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zm2m5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tenemos unos cuantos charts de Helm y in librería de Jenkins que permiten ahorrar trabajo y hace que crear un nuevo servicio sea poco más que algo de configuración "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "55473AA9-103E-4370-86BB-CF3B946A2E97",
+        "type": "message",
+        "text": "Tampoco te quiero engañar, encontrar la fórmula no es tan fácil, y puede que nuestra fórmula, que tampoco es perfecta, no te sirva a ti",
+        "user": "U3DPLBVQE",
+        "ts": "1589655902.110000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ypc9n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Tampoco te quiero engañar, encontrar la fórmula no es tan fácil, y puede que nuestra fórmula, que tampoco es perfecta, no te sirva a ti"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "B1F23892-4335-4899-94DB-5D4C0C637CF1",
+        "type": "message",
+        "text": "Así que yo no condicionaría tanto el usar o no Microservices por tener más o menos developers. Sino por la naturaleza de tus aplicaciones y lo complejas que puedan ser",
+        "user": "U3DPLBVQE",
+        "ts": "1589655979.111500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FnpK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Así que yo no condicionaría tanto el usar o no Microservices por tener más o menos developers. Sino por la naturaleza de tus aplicaciones y lo complejas que puedan ser"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589523327.077000",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "AD909497-A9D0-454D-933B-F13D846F258D",
+        "type": "message",
+        "text": "Las entidades de deberían testear unitariamente con los casos de uso ",
+        "user": "U36H6F3CN",
+        "ts": "1589656685.112300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PTr+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Las entidades de deberían testear unitariamente con los casos de uso "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450095.073700",
+        "parent_user_id": "U36H6F3CN"
+    }
+]

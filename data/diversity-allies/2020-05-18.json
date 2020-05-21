@@ -1,0 +1,230 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589791449.001200",
+        "user": "UDYMW0QH5",
+        "text": "<@UDYMW0QH5> has joined the channel"
+    },
+    {
+        "client_msg_id": "6117ced4-43b6-4169-9762-d8f59c480d94",
+        "type": "message",
+        "text": "Hace poco fui padre, queria compartir con vosotros la respuesta que tomé conmigo mismo y con cualquier persona que llame princesa\/reina a mi hija: ~princesa~ --&gt; jefa",
+        "user": "UDYMW0QH5",
+        "ts": "1589791544.002700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga5771d9930e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea5771d9930e4e853c58d605e6d9ca8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Joan Maeso",
+            "display_name": "jmaeso",
+            "team": "T2Y6L54R3",
+            "name": "jmaeso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BRA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hace poco fui padre, queria compartir con vosotros la respuesta que tomé conmigo mismo y con cualquier persona que llame princesa\/reina a mi hija: "
+                            },
+                            {
+                                "type": "text",
+                                "text": "princesa",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " --> jefa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U6J7N1UPQ",
+                    "UAYPFTTL7",
+                    "UH2PEAPQV",
+                    "U6A845RPY",
+                    "USVJUM2V9",
+                    "U3256HZH9",
+                    "U2YEH6F88",
+                    "U2YEY1745",
+                    "UEDFE7J07",
+                    "U2X8UK9UH",
+                    "UGVNLB7LL",
+                    "U2WPLA0KA",
+                    "U35MRAK6E",
+                    "UMZ3N1GG6"
+                ],
+                "count": 14
+            }
+        ]
+    },
+    {
+        "client_msg_id": "580c49cb-98cb-4de8-8616-e7c2712b0480",
+        "type": "message",
+        "text": "Jefa, Faraona, Titana.",
+        "user": "U3256HZH9",
+        "ts": "1589792941.003500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "93a860885d0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-14\/104920922678_93a860885d0c44efe06e_72.jpg",
+            "first_name": "Mavi",
+            "real_name": "Mavi Jimenez",
+            "display_name": "mavi",
+            "team": "T2Y6L54R3",
+            "name": "mavi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JJZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jefa, Faraona, Titana."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fec2eb44-a4fb-423e-8da5-f19c1c65749b",
+        "type": "message",
+        "text": "Titana es de mis favoritos :stuck_out_tongue:",
+        "user": "U3256HZH9",
+        "ts": "1589792970.003800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "93a860885d0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-14\/104920922678_93a860885d0c44efe06e_72.jpg",
+            "first_name": "Mavi",
+            "real_name": "Mavi Jimenez",
+            "display_name": "mavi",
+            "team": "T2Y6L54R3",
+            "name": "mavi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Zd\/7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Titana es de mis favoritos "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589792970.003800",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589793697.004400",
+        "reply_users": [
+            "UDYMW0QH5"
+        ],
+        "replies": [
+            {
+                "user": "UDYMW0QH5",
+                "ts": "1589793697.004400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "UDYMW0QH5",
+                    "U37GUHXGF",
+                    "USVJUM2V9",
+                    "U945P2DFW",
+                    "U36H6F3CN",
+                    "U2X8UK9UH",
+                    "UGVNLB7LL",
+                    "UMZ3N1GG6"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f5f5e002-bb0a-4029-9c10-c27824b7dd02",
+        "type": "message",
+        "text": "oooaaaah Titana!!! lovit!!!",
+        "user": "UDYMW0QH5",
+        "ts": "1589793697.004400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga5771d9930e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea5771d9930e4e853c58d605e6d9ca8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Joan Maeso",
+            "display_name": "jmaeso",
+            "team": "T2Y6L54R3",
+            "name": "jmaeso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xUo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oooaaaah Titana!!! lovit!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589792970.003800",
+        "parent_user_id": "U3256HZH9"
+    }
+]

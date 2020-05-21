@@ -1,0 +1,296 @@
+[
+    {
+        "client_msg_id": "28417f5e-debf-4a62-a5da-e483c70cb0e8",
+        "type": "message",
+        "text": "Epic Games está regalando GTA V para PC, para el que aún no lo tenga\n<https:\/\/www.epicgames.com\/store\/en-US\/product\/grand-theft-auto-v\/home>",
+        "user": "UCRBKBDNU",
+        "ts": "1589530564.091700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "b46c226580f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-08\/474349634803_b46c226580f775d32345_72.jpg",
+            "first_name": "drag0s",
+            "real_name": "drag0s",
+            "display_name": "drag0s",
+            "team": "T2Y6L54R3",
+            "name": "me1364",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Epic Games Store",
+                "title": "Grand Theft Auto V - Grand Theft Auto V: Premium Edition",
+                "title_link": "https:\/\/www.epicgames.com\/store\/en-US\/product\/grand-theft-auto-v\/home",
+                "text": "The Grand Theft Auto V: Premium Edition includes the complete GTAV story, Grand Theft Auto Online and all existing gameplay upgrades and content. You’ll also get the Criminal Enterprise Starter Pack, the fastest way to jumpstart your criminal empire in GTA Online.",
+                "fallback": "Epic Games Store: Grand Theft Auto V - Grand Theft Auto V: Premium Edition",
+                "image_url": "https:\/\/cdn2.unrealengine.com\/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_1280x720_V04-1280x720-31e7e0e50fda38709553f5313027ba5b76bd10b6.jpg",
+                "from_url": "https:\/\/www.epicgames.com\/store\/en-US\/product\/grand-theft-auto-v\/home",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 202495,
+                "service_icon": "https:\/\/static-assets-prod.epicgames.com\/epic-store\/static\/webpack\/..\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.epicgames.com\/store\/en-US\/product\/grand-theft-auto-v\/home"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sp6MB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Epic Games está regalando GTA V para PC, para el que aún no lo tenga\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.epicgames.com\/store\/en-US\/product\/grand-theft-auto-v\/home"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589530564.091700",
+        "reply_count": 6,
+        "reply_users_count": 5,
+        "latest_reply": "1589810210.099000",
+        "reply_users": [
+            "U36H6F3CN",
+            "UP07X5FQC",
+            "UHFMWDFGF",
+            "U2YEY1745",
+            "U319B9877"
+        ],
+        "replies": [
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589530637.091900"
+            },
+            {
+                "user": "UP07X5FQC",
+                "ts": "1589530775.092100"
+            },
+            {
+                "user": "UHFMWDFGF",
+                "ts": "1589531133.092300"
+            },
+            {
+                "user": "U2YEY1745",
+                "ts": "1589533992.092800"
+            },
+            {
+                "user": "U319B9877",
+                "ts": "1589805989.098300"
+            },
+            {
+                "user": "U2YEY1745",
+                "ts": "1589810210.099000"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d25801de-730d-4129-878f-29a0efd62fc8",
+        "type": "message",
+        "text": "Yo lo que no tengo es PC :joy:",
+        "user": "U36H6F3CN",
+        "ts": "1589530637.091900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lsh0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo lo que no tengo es PC "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589530564.091700",
+        "parent_user_id": "UCRBKBDNU",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U40KDVDQF"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U2YEY1745"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c5acaf2-3789-4f50-b230-ff83587bb3e3",
+        "type": "message",
+        "text": "yep. esto es el dia que me instalo el epic game launcher. good job epic games!",
+        "user": "UP07X5FQC",
+        "ts": "1589530775.092100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gb1e30f7bdf6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b1e30f7bdf65b2c60db61026ce296c1e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "",
+            "real_name": "Daniel Sapundziev",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "daniel010",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "chnW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yep. esto es el dia que me instalo el epic game launcher. good job epic games!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589530564.091700",
+        "parent_user_id": "UCRBKBDNU"
+    },
+    {
+        "client_msg_id": "cbf6288f-31d3-48d9-aaf1-79416b8c451c",
+        "type": "message",
+        "text": "ayer estuvo tooodo el dia el launcher dando error 500",
+        "user": "UHFMWDFGF",
+        "ts": "1589531133.092300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "e603e8763607",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-16\/609751679152_e603e8763607da7a28b6_72.jpg",
+            "first_name": "Iosu",
+            "real_name": "Iosu",
+            "display_name": "Iosu",
+            "team": "T2Y6L54R3",
+            "name": "iosubueno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nfuk8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ayer estuvo tooodo el dia el launcher dando error 500"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589530564.091700",
+        "parent_user_id": "UCRBKBDNU",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "UCRBKBDNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e93f8607-d539-4e92-bb4f-b42788560d31",
+        "type": "message",
+        "text": "yo acabo de mirarlo para estar seguro que ayer me lo añadieron a mi cuenta, por eso de los 500, y ahora sale como unavailable :thinking_face: pero vaya, tengo un email diciendo que lo he \"comprado\" por 0€",
+        "user": "U2YEY1745",
+        "ts": "1589533992.092800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "787b16a5d201",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-11\/994247683317_787b16a5d2013bc6fbc9_72.jpg",
+            "first_name": "Roger",
+            "real_name": "Roger Clotet",
+            "display_name": "rogerclotet",
+            "team": "T2Y6L54R3",
+            "name": "rogerclotet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ctDg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo acabo de mirarlo para estar seguro que ayer me lo añadieron a mi cuenta, por eso de los 500, y ahora sale como unavailable "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " pero vaya, tengo un email diciendo que lo he \"comprado\" por 0€"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589530564.091700",
+        "parent_user_id": "UCRBKBDNU"
+    }
+]

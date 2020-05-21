@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "bf8dba5d-586f-4cea-9b4d-8422b0e64e20",
+        "type": "message",
+        "text": "mira <https:\/\/www.hetzner.com\/cloud> precios muy competitivos",
+        "user": "U3G7LQRU0",
+        "ts": "1589874089.087400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "geb06d0effca",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/eeb06d0effcaec2f24c9b138dccdc6de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Martí",
+            "real_name": "Martí Rella",
+            "display_name": "marti",
+            "team": "T2Y6L54R3",
+            "name": "marti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Truly thrifty cloud hosting - Hetzner Online GmbH",
+                "title_link": "https:\/\/www.hetzner.com\/cloud",
+                "text": "Cloud servers starting at € 2.49. A little money gets you lots of cloud. Our flexible billing model and clever interface make it easy to use our cloud servers for all your IT needs.",
+                "fallback": "Truly thrifty cloud hosting - Hetzner Online GmbH",
+                "from_url": "https:\/\/www.hetzner.com\/cloud",
+                "service_icon": "https:\/\/www.hetzner.com\/favicon.ico",
+                "service_name": "hetzner.com",
+                "id": 1,
+                "original_url": "https:\/\/www.hetzner.com\/cloud"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xyC4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mira "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.hetzner.com\/cloud"
+                            },
+                            {
+                                "type": "text",
+                                "text": " precios muy competitivos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589817841.085200",
+        "parent_user_id": "UFW0A1GV8"
+    }
+]

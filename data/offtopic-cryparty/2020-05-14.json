@@ -1,0 +1,1141 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589446583.027200",
+        "user": "U31E6PRQV",
+        "text": "<@U31E6PRQV> has joined the channel"
+    },
+    {
+        "client_msg_id": "ab164176-4790-4781-b50f-bc0937ec9528",
+        "type": "message",
+        "text": "No sé si es habitual porque no soy usuario, pero la verdad es que últimamente se están ganando una fama que tela. Entre eso y las últimas mejoras de Gitlab y Github..",
+        "user": "UGVNLB7LL",
+        "ts": "1589450526.028000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9adb8511f901",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-06\/752962265191_9adb8511f9016f48d8d7_72.jpg",
+            "first_name": "Carles",
+            "real_name": "Carles Mata",
+            "display_name": "Carles",
+            "team": "T2Y6L54R3",
+            "name": "carles",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d0m9T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No sé si es habitual porque no soy usuario, pero la verdad es que últimamente se están ganando una fama que tela. Entre eso y las últimas mejoras de Gitlab y Github.."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450526.028000",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1589470771.034700",
+        "reply_users": [
+            "U36H6F3CN",
+            "UNR7EF5EU",
+            "UGVNLB7LL",
+            "U8QMJ1DUH"
+        ],
+        "replies": [
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589450697.028100"
+            },
+            {
+                "user": "UNR7EF5EU",
+                "ts": "1589450949.028400"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589450997.028600"
+            },
+            {
+                "user": "UGVNLB7LL",
+                "ts": "1589466106.033900"
+            },
+            {
+                "user": "U8QMJ1DUH",
+                "ts": "1589470728.034500"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589470771.034700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7f2a785e-59e4-43e2-bb4b-6b33a921496f",
+        "type": "message",
+        "text": "Donde trabajo usamos BitBucket y estos días cada dos por tres sale un aviso de que hay caída del servicio :sweat_smile:",
+        "user": "U36H6F3CN",
+        "ts": "1589450697.028100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DJ=XP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Donde trabajo usamos BitBucket y estos días cada dos por tres sale un aviso de que hay caída del servicio "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450526.028000",
+        "parent_user_id": "UGVNLB7LL"
+    },
+    {
+        "client_msg_id": "c9222e71-1a97-42d6-8cde-b272f8f09acf",
+        "type": "message",
+        "text": "os planteais la migracion o q? :stuck_out_tongue:",
+        "user": "UNR7EF5EU",
+        "ts": "1589450949.028400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "spw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "os planteais la migracion o q? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450526.028000",
+        "parent_user_id": "UGVNLB7LL"
+    },
+    {
+        "client_msg_id": "f4968634-fb90-4c8b-9596-257e10657dfb",
+        "type": "message",
+        "text": "Pues realmente eso ya queda fuera de mi radio de acción, pero hasta donde yo se no se está hablando de ello :joy:",
+        "user": "U36H6F3CN",
+        "ts": "1589450997.028600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=uDx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pues realmente eso ya queda fuera de mi radio de acción, pero hasta donde yo se no se está hablando de ello "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450526.028000",
+        "parent_user_id": "UGVNLB7LL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UNR7EF5EU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "UGVNLB7LL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "oh, someone mentioned me!! :",
+        "files": [
+            {
+                "id": "F0136UMFDRD",
+                "created": 1589454100,
+                "timestamp": 1589454100,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U2Y5FEY1H",
+                "editable": false,
+                "size": 5018,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F0136UMFDRD\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F0136UMFDRD\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F0136UMFDRD-7f689d9d93\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F0136UMFDRD-7f689d9d93\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F0136UMFDRD-7f689d9d93\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 120,
+                "thumb_360_h": 71,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F0136UMFDRD-7f689d9d93\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "original_w": 120,
+                "original_h": 71,
+                "thumb_tiny": "AwAcADCssUpjDLkKenzYzSpGXU7mPHOM1NFxEhZRyOO+abIp2s6cYGWA4FMpNX1KzDaSPSkop6hduW6\/WmAyipIY1k3bmC4HHPftUjW6mQKrgfLk5PvQAxbiRYxH8pUdMjpQ1xI0Zj+UKeuB1qMDNWrOJHMu9Q2EyM9qQipTghK5FN7U4SFRjjHvTGIqlumPzo2n0P5UBivSl81vX2oA\/9k=",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U2Y5FEY1H\/F0136UMFDRD\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F0136UMFDRD-488119472b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CP=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "oh, someone mentioned me!! :"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U2Y5FEY1H",
+        "display_as_bot": false,
+        "ts": "1589454101.029400",
+        "edited": {
+            "user": "U2Y5FEY1H",
+            "ts": "1589454176.000000"
+        },
+        "client_msg_id": "bea8b0cd-b264-4ba6-8d58-eab4f47e0ffd"
+    },
+    {
+        "type": "message",
+        "text": "meh",
+        "files": [
+            {
+                "id": "F013MM1JQHG",
+                "created": 1589454108,
+                "timestamp": 1589454108,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U2Y5FEY1H",
+                "editable": false,
+                "size": 5105,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013MM1JQHG\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013MM1JQHG\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013MM1JQHG-ba248a629c\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013MM1JQHG-ba248a629c\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013MM1JQHG-ba248a629c\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 255,
+                "thumb_360_h": 64,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013MM1JQHG-ba248a629c\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "original_w": 255,
+                "original_h": 64,
+                "thumb_tiny": "AwAMADCsO3GaMj+7+tCuy4wcYOad50n979KYhuV\/u\/rSHrxxQSSST1NFABTsEOuVxyKbT\/MaR13HODQB\/9k=",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U2Y5FEY1H\/F013MM1JQHG\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013MM1JQHG-7e0fe724cb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9TM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "meh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U2Y5FEY1H",
+        "display_as_bot": false,
+        "ts": "1589454109.029700",
+        "client_msg_id": "456f24e5-e7c3-4eb6-bcf0-dd8657e8d97b",
+        "thread_ts": "1589454109.029700",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1589473181.035400",
+        "reply_users": [
+            "UDHAZQNF9",
+            "UFW0A1GV8",
+            "U2WPLA0KA",
+            "U2Y5FEY1H",
+            "U36H6F3CN"
+        ],
+        "replies": [
+            {
+                "user": "UDHAZQNF9",
+                "ts": "1589454545.031400"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589455276.032000"
+            },
+            {
+                "user": "U2WPLA0KA",
+                "ts": "1589455601.032300"
+            },
+            {
+                "user": "U2Y5FEY1H",
+                "ts": "1589455916.032600"
+            },
+            {
+                "user": "UDHAZQNF9",
+                "ts": "1589455978.033200"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589473082.035000"
+            },
+            {
+                "user": "U36H6F3CN",
+                "ts": "1589473094.035200"
+            },
+            {
+                "user": "UDHAZQNF9",
+                "ts": "1589473181.035400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U2YEY1745",
+                    "UGMMSM2KD",
+                    "U7BG5P0H3",
+                    "U49DCUW22",
+                    "U36H6F3CN",
+                    "UDHAZQNF9",
+                    "UNR7EF5EU",
+                    "U4HCQ4X1S",
+                    "U8QLZMFC3",
+                    "UGC8J6E8J",
+                    "UEDFE7J07",
+                    "UGPRV963X"
+                ],
+                "count": 12
+            },
+            {
+                "name": "foreveralone",
+                "users": [
+                    "U7BG5P0H3",
+                    "U70682FEY",
+                    "UDHAZQNF9",
+                    "U2Y6QQHST",
+                    "U40KDVDQF",
+                    "U2Y5FEY1H",
+                    "UGC8J6E8J",
+                    "UGVNLB7LL",
+                    "UGPRV963X"
+                ],
+                "count": 9
+            },
+            {
+                "name": "crying",
+                "users": [
+                    "U36H6F3CN",
+                    "UEDFE7J07",
+                    "UGPRV963X"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff4f7a51-2896-492d-8263-9c618a81dc79",
+        "type": "message",
+        "text": "<@U2Y5FEY1H> this is sad :sob:",
+        "user": "UDHAZQNF9",
+        "ts": "1589454545.031400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Loy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2Y5FEY1H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " this is sad "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589454109.029700",
+        "parent_user_id": "U2Y5FEY1H",
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U2Y5FEY1H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43b76ae6-0b7d-46d0-a762-bfbb0de39878",
+        "type": "message",
+        "text": "<@U2Y5FEY1H> dont worry, we will ping you",
+        "user": "UFW0A1GV8",
+        "ts": "1589455276.032000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MCZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2Y5FEY1H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " dont worry, we will ping you"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589454109.029700",
+        "parent_user_id": "U2Y5FEY1H",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U2Y5FEY1H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1f64a294-c0a0-483d-8991-2ffce121d387",
+        "type": "message",
+        "text": "Y si fuese <@UJNQU8N5Q> ?",
+        "user": "U2WPLA0KA",
+        "ts": "1589455601.032300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "75cb259189f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-21\/1007078952321_75cb259189f792a7b4c1_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio Moya",
+            "display_name": "smoya",
+            "team": "T2Y6L54R3",
+            "name": "smoya",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FAA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y si fuese "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJNQU8N5Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589454109.029700",
+        "parent_user_id": "U2Y5FEY1H"
+    },
+    {
+        "client_msg_id": "47ae1ccb-78f1-4e56-a1f0-b5c62cc2b5a0",
+        "type": "message",
+        "text": "si fuese <@UJNQU8N5Q> sería muchísimo más gratificante !",
+        "user": "U2Y5FEY1H",
+        "ts": "1589455916.032600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "8a74c005d37f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-25\/512550888023_8a74c005d37f24929506_72.png",
+            "first_name": "Odín",
+            "real_name": "Odín del Río",
+            "display_name": "odin",
+            "team": "T2Y6L54R3",
+            "name": "odin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0X\/K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si fuese "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJNQU8N5Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " sería muchísimo más gratificante !"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589454109.029700",
+        "parent_user_id": "U2Y5FEY1H"
+    },
+    {
+        "client_msg_id": "1fb113b6-0d97-4879-a872-469b30a2806a",
+        "type": "message",
+        "text": "Para <@UJNQU8N5Q> hay <#C5T322H6Z|candelario-fans>",
+        "user": "UDHAZQNF9",
+        "ts": "1589455978.033200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UDHAZQNF9",
+            "ts": "1589456003.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2+W2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Para "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UJNQU8N5Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hay "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C5T322H6Z"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589454109.029700",
+        "parent_user_id": "U2Y5FEY1H"
+    },
+    {
+        "client_msg_id": "667be7cd-0361-4097-9b80-106a54730901",
+        "type": "message",
+        "text": "No me extraña que se lo planteen!",
+        "user": "UGVNLB7LL",
+        "ts": "1589466106.033900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9adb8511f901",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-06\/752962265191_9adb8511f9016f48d8d7_72.jpg",
+            "first_name": "Carles",
+            "real_name": "Carles Mata",
+            "display_name": "Carles",
+            "team": "T2Y6L54R3",
+            "name": "carles",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d2sL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No me extraña que se lo planteen!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450526.028000",
+        "parent_user_id": "UGVNLB7LL"
+    },
+    {
+        "client_msg_id": "846ad8d7-c3eb-4453-bac0-1913ee1ecc68",
+        "type": "message",
+        "text": "bitbucket tiene algun equivalente a las Github actions o el CI\/CD de Gitlab?",
+        "user": "U8QMJ1DUH",
+        "ts": "1589470728.034500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6d6ab1c50c79",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-19\/641751026743_6d6ab1c50c79556f69b5_72.jpg",
+            "first_name": "",
+            "real_name": "Rubén",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "ruben.aguilar.becerra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hp8m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bitbucket tiene algun equivalente a las Github actions o el CI\/CD de Gitlab?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450526.028000",
+        "parent_user_id": "UGVNLB7LL"
+    },
+    {
+        "client_msg_id": "b8b51278-cfa6-458b-ab02-30a95e269356",
+        "type": "message",
+        "text": "Si, en bitbucket tienes las <https:\/\/bitbucket.org\/product\/es\/features\/pipelines|pipelines>",
+        "user": "U36H6F3CN",
+        "ts": "1589470771.034700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U36H6F3CN",
+            "ts": "1589470784.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rI8zj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si, en bitbucket tienes las "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bitbucket.org\/product\/es\/features\/pipelines",
+                                "text": "pipelines"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589450526.028000",
+        "parent_user_id": "UGVNLB7LL"
+    },
+    {
+        "client_msg_id": "6fd79f34-41d4-4d1c-a67f-6d43171633dc",
+        "type": "message",
+        "text": "Y si fuese yo? :stuck_out_tongue:",
+        "user": "U36H6F3CN",
+        "ts": "1589473082.035000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VySR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y si fuese yo? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589454109.029700",
+        "parent_user_id": "U2Y5FEY1H",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U2Y5FEY1H"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aeaa09b3-8780-4484-b609-1cdbab256179",
+        "type": "message",
+        "text": "Eh, ese canal es para mi, no para candebot!",
+        "user": "U36H6F3CN",
+        "ts": "1589473094.035200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ddffd0bd6fc4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-31\/1038863108932_ddffd0bd6fc474859ed2_72.jpg",
+            "first_name": "Sergio",
+            "real_name": "Sergio de Candelario",
+            "display_name": "sdecandelario",
+            "team": "T2Y6L54R3",
+            "name": "sdecandelario",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=9j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Eh, ese canal es para mi, no para candebot!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589454109.029700",
+        "parent_user_id": "U2Y5FEY1H"
+    },
+    {
+        "client_msg_id": "33f4d8f1-9d54-4c9b-b53e-771d0791c691",
+        "type": "message",
+        "text": ":joy:",
+        "user": "UDHAZQNF9",
+        "ts": "1589473181.035400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zo7r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589454109.029700",
+        "parent_user_id": "U2Y5FEY1H"
+    },
+    {
+        "client_msg_id": "112c420d-3f7e-46e8-8569-11cb4293c2a4",
+        "type": "message",
+        "text": ":sob::sob::sob::sob:\n<https:\/\/twitter.com\/el_pais\/status\/1260965250242879494?s=19|https:\/\/twitter.com\/el_pais\/status\/1260965250242879494?s=19>",
+        "user": "UDHAZQNF9",
+        "ts": "1589473836.035800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/el_pais|@el_pais>: AMPLIACIÓN | El Gobierno francés ha anunciado que los viajeros procedentes de España tendrán que cumplir un aislamiento obligatorio, en respuesta al aislamiento que aplicará Sánchez\n<https:\/\/elpais.com\/sociedad\/2020-05-14\/ultimas-noticias-del-coronavirus-en-espana-y-el-mundo-en-directo.html?ssm=TW_CM>",
+                "ts": 1589472517,
+                "author_name": "EL PAÍS",
+                "author_link": "https:\/\/twitter.com\/el_pais\/status\/1260965250242879494",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1236548818402971648\/F-pcFaq6_normal.jpg",
+                "author_subname": "@el_pais",
+                "text": "AMPLIACIÓN | El Gobierno francés ha anunciado que los viajeros procedentes de España tendrán que cumplir un aislamiento obligatorio, en respuesta al aislamiento que aplicará Sánchez\n<https:\/\/elpais.com\/sociedad\/2020-05-14\/ultimas-noticias-del-coronavirus-en-espana-y-el-mundo-en-directo.html?ssm=TW_CM>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/el_pais\/status\/1260965250242879494?s=19",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/el_pais\/status\/1260965250242879494?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "acbFn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/el_pais\/status\/1260965250242879494?s=19",
+                                "text": "https:\/\/twitter.com\/el_pais\/status\/1260965250242879494?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "UEDFE7J07"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c462b50f-f5a5-4156-a9a5-bb1898207722",
+        "type": "message",
+        "text": "<https:\/\/status.gitlab.com\/> Gitlab down ;(",
+        "user": "U2ZS36LQN",
+        "ts": "1589478297.036400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g3dc73f9f73e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/63dc73f9f73e536796501cd9d9e16fc5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Daniel",
+            "real_name": "Daniel Martin",
+            "display_name": "damarnez",
+            "team": "T2Y6L54R3",
+            "name": "damarnez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "GitLab System Status",
+                "title_link": "https:\/\/status.gitlab.com\/",
+                "text": "We continuously monitor <http:\/\/gitlab.com|gitlab.com> and all its services. If there are any performance or service interruptions, an update will be posted here.",
+                "fallback": "GitLab System Status",
+                "from_url": "https:\/\/status.gitlab.com\/",
+                "service_icon": "http:\/\/image.status.io\/RhlXBylEF9DJ.ico",
+                "service_name": "status.gitlab.com",
+                "id": 1,
+                "original_url": "https:\/\/status.gitlab.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nys",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/status.gitlab.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Gitlab down ;("
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589478297.036400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589526255.036900",
+        "reply_users": [
+            "U40KDVDQF"
+        ],
+        "replies": [
+            {
+                "user": "U40KDVDQF",
+                "ts": "1589526255.036900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "disappointed",
+                "users": [
+                    "U6A845RPY",
+                    "UNR7EF5EU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

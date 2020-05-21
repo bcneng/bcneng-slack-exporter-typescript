@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589914696.010200",
+        "user": "U012XRHKQ07",
+        "text": "<@U012XRHKQ07> has joined the channel"
+    },
+    {
+        "client_msg_id": "70a01dd1-da37-49d1-bbc6-c41a2693003f",
+        "type": "message",
+        "text": "Holaaaa, no sabía que existía el canal!!!!! :smile: ahora ya estoy en él!!!!",
+        "user": "U012XRHKQ07",
+        "ts": "1589914877.010900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gac21c70a8a3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ac21c70a8a3d8cf292369bcbfd7a2171.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+            "first_name": "",
+            "real_name": "Daniel Benítez",
+            "display_name": "Daniel Benítez",
+            "team": "T2Y6L54R3",
+            "name": "dbenitez83",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QB=Cf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Holaaaa, no sabía que existía el canal!!!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ahora ya estoy en él!!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

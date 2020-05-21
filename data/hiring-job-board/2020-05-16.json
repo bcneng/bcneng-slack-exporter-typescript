@@ -1,0 +1,56 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589617094.176700",
+        "user": "U013KDDL6RL",
+        "text": "<@U013KDDL6RL> has joined the channel"
+    },
+    {
+        "client_msg_id": "7c33f006-9f52-4bb6-b618-ebe43585398b",
+        "type": "message",
+        "text": "Has planteado hacer algo tipo bootcamp? Muchas tienen bolsa de trabajo.",
+        "user": "UGUQTPSQM",
+        "ts": "1589618612.176800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "bcd24b64cb30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/980627128484_bcd24b64cb30dc93b6ae_72.jpg",
+            "first_name": "",
+            "real_name": "Jordi Gomper",
+            "display_name": "Jordi Gomper",
+            "team": "T2Y6L54R3",
+            "name": "jordigomper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yYN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Has planteado hacer algo tipo bootcamp? Muchas tienen bolsa de trabajo."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589363819.167900",
+        "parent_user_id": "U013QUD0WGL"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589620359.177200",
+        "user": "U013KEQJCCE",
+        "text": "<@U013KEQJCCE> has joined the channel"
+    }
+]

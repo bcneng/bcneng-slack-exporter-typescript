@@ -1,0 +1,170 @@
+[
+    {
+        "client_msg_id": "90b98cef-5ce5-4d0f-9b7e-5eed43d5609d",
+        "type": "message",
+        "text": "joder, pensaba que esto de las tarjetas wifi con ubuntu ya no era un problema en 2020...",
+        "user": "U2YEY1745",
+        "ts": "1589796368.015700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "787b16a5d201",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-11\/994247683317_787b16a5d2013bc6fbc9_72.jpg",
+            "first_name": "Roger",
+            "real_name": "Roger Clotet",
+            "display_name": "rogerclotet",
+            "team": "T2Y6L54R3",
+            "name": "rogerclotet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hYb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "joder, pensaba que esto de las tarjetas wifi con ubuntu ya no era un problema en 2020..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589623613.014500",
+        "parent_user_id": "UGUQTPSQM"
+    },
+    {
+        "client_msg_id": "544052ac-a0b9-46dd-b42f-2ec31664ff6f",
+        "type": "message",
+        "text": "Si, como el de las gráficas, jaaaajajajajajaa",
+        "user": "UULD2GDNG",
+        "ts": "1589798968.015900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g57ee1c1965d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/57ee1c1965d08e45c64e316a2a9fe4e4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Héctor Borrás",
+            "display_name": "Héctor Borrás",
+            "team": "T2Y6L54R3",
+            "name": "hborrasaleixandre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kPH9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si, como el de las gráficas, jaaaajajajajajaa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589623613.014500",
+        "parent_user_id": "UGUQTPSQM"
+    },
+    {
+        "client_msg_id": "d6e8ca6d-7508-4778-a2a6-dc25982c6f67",
+        "type": "message",
+        "text": "Seguramente es que el driver generico libre te funciona y el de intel esta dando problemas. A mi me paso con mi antiguo Thinkpad t440 con el touchpad. Pierdes funcionalidades o rendimiento pero al menos funciona :joy:",
+        "user": "U38R76FV4",
+        "ts": "1589804104.016100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "f96a96daa9da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-29\/110268913557_f96a96daa9da8626df17_72.jpg",
+            "first_name": "Jordi",
+            "real_name": "Jordi López",
+            "display_name": "jlopezxs",
+            "team": "T2Y6L54R3",
+            "name": "jlopezxs",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U38R76FV4",
+            "ts": "1589804128.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fbJvD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Seguramente es que el driver generico libre te funciona y el de intel esta dando problemas. A mi me paso con mi antiguo Thinkpad t440 con el touchpad. Pierdes funcionalidades o rendimiento pero al menos funciona "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589623613.014500",
+        "parent_user_id": "UGUQTPSQM"
+    },
+    {
+        "client_msg_id": "f848b976-3356-445a-b6fe-480a1efe9859",
+        "type": "message",
+        "text": "A mí el genérico me iba, el de la Nvidia iba fatal",
+        "user": "UULD2GDNG",
+        "ts": "1589804692.016400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g57ee1c1965d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/57ee1c1965d08e45c64e316a2a9fe4e4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+            "first_name": "",
+            "real_name": "Héctor Borrás",
+            "display_name": "Héctor Borrás",
+            "team": "T2Y6L54R3",
+            "name": "hborrasaleixandre",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8l99",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "A mí el genérico me iba, el de la Nvidia iba fatal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589623613.014500",
+        "parent_user_id": "UGUQTPSQM"
+    }
+]

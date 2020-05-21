@@ -1,0 +1,238 @@
+[
+    {
+        "client_msg_id": "ff767de3-3f4a-43e6-bbfb-f2acf8673709",
+        "type": "message",
+        "text": "hola <@UGPRV963X>. No, deberías tener ese Dockerfile corriendo en otro lado y exponerlo con una API",
+        "user": "U30BXQXBQ",
+        "ts": "1589881650.001700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7a1eeb072198",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-16\/155278428996_7a1eeb07219876047788_72.jpg",
+            "first_name": "Salvador",
+            "real_name": "Salvador Girones",
+            "display_name": "salvadorgirones",
+            "team": "T2Y6L54R3",
+            "name": "salvadorgirones",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9QM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hola "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UGPRV963X"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". No, deberías tener ese Dockerfile corriendo en otro lado y exponerlo con una API"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e0d255e-e90e-40e1-b1be-dc7ef355e140",
+        "type": "message",
+        "text": "quizá Heroku o similar",
+        "user": "U30BXQXBQ",
+        "ts": "1589881661.001900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7a1eeb072198",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-16\/155278428996_7a1eeb07219876047788_72.jpg",
+            "first_name": "Salvador",
+            "real_name": "Salvador Girones",
+            "display_name": "salvadorgirones",
+            "team": "T2Y6L54R3",
+            "name": "salvadorgirones",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uvEMF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "quizá Heroku o similar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "15d2d4a1-a88e-4e55-907e-45b76c6d01e5",
+        "type": "message",
+        "text": "el resto nos encargamos nosotros",
+        "user": "U30BXQXBQ",
+        "ts": "1589881667.002100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7a1eeb072198",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-16\/155278428996_7a1eeb07219876047788_72.jpg",
+            "first_name": "Salvador",
+            "real_name": "Salvador Girones",
+            "display_name": "salvadorgirones",
+            "team": "T2Y6L54R3",
+            "name": "salvadorgirones",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pVAp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el resto nos encargamos nosotros"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7212744-ecd7-4168-ae7d-f60b9690d1c4",
+        "type": "message",
+        "text": ":slightly_smiling_face:",
+        "user": "U30BXQXBQ",
+        "ts": "1589881668.002300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7a1eeb072198",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-03-16\/155278428996_7a1eeb07219876047788_72.jpg",
+            "first_name": "Salvador",
+            "real_name": "Salvador Girones",
+            "display_name": "salvadorgirones",
+            "team": "T2Y6L54R3",
+            "name": "salvadorgirones",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "71Q1P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d95f532-7d03-4300-b32f-a5026a9e02c7",
+        "type": "message",
+        "text": "Merci chicos!",
+        "user": "UGPRV963X",
+        "ts": "1589900158.002500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6e81237bf0d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-12\/573952548404_6e81237bf0d34165e431_72.png",
+            "first_name": "Carles",
+            "real_name": "Carles Nuñez Tomeo",
+            "display_name": "Carles Nuñez Tomeo",
+            "team": "T2Y6L54R3",
+            "name": "carlesnunezt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q7w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Merci chicos!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "557a6f66-77f2-46f6-9751-d466e96ef201",
+        "type": "message",
+        "text": "Creo que para nuestro caso nos decantaremos por Heroku, pero muchas gracias por responder",
+        "user": "UGPRV963X",
+        "ts": "1589900179.003100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6e81237bf0d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-12\/573952548404_6e81237bf0d34165e431_72.png",
+            "first_name": "Carles",
+            "real_name": "Carles Nuñez Tomeo",
+            "display_name": "Carles Nuñez Tomeo",
+            "team": "T2Y6L54R3",
+            "name": "carlesnunezt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fBG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Creo que para nuestro caso nos decantaremos por Heroku, pero muchas gracias por responder"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

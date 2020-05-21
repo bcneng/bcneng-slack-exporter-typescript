@@ -1,0 +1,1744 @@
+[
+    {
+        "client_msg_id": "057a23f1-c452-4140-9557-ae04bbf315cd",
+        "type": "message",
+        "text": "buenas, tenéis por ahí alguna experiencia, guía, tutorial, consejo, repo... de best practices para disaster recovery?",
+        "user": "U2Y6QQHST",
+        "ts": "1589970951.348800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XCK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "buenas, tenéis por ahí alguna experiencia, guía, tutorial, consejo, repo... de best practices para disaster recovery?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "reply_count": 31,
+        "reply_users_count": 8,
+        "latest_reply": "1589983068.355600",
+        "reply_users": [
+            "U2Y6QQHST",
+            "U2ZPRH6S2",
+            "UN6S9CCGH",
+            "U30B8KQVB",
+            "UJKRKCVUN",
+            "UFT460KF1",
+            "U7PQZMZ4L",
+            "U2Z7WKZFC"
+        ],
+        "replies": [
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589970980.348900"
+            },
+            {
+                "user": "U2ZPRH6S2",
+                "ts": "1589971075.349600"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589971081.349800"
+            },
+            {
+                "user": "U2ZPRH6S2",
+                "ts": "1589971127.350000"
+            },
+            {
+                "user": "U2ZPRH6S2",
+                "ts": "1589971152.350200"
+            },
+            {
+                "user": "U2ZPRH6S2",
+                "ts": "1589971169.350400"
+            },
+            {
+                "user": "U2ZPRH6S2",
+                "ts": "1589971175.350600"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589971187.350800"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589971287.351000"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589971349.351200"
+            },
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589971396.351400"
+            },
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589971536.351800"
+            },
+            {
+                "user": "U2ZPRH6S2",
+                "ts": "1589971555.352000"
+            },
+            {
+                "user": "U2Y6QQHST",
+                "ts": "1589971624.352200"
+            },
+            {
+                "user": "U2ZPRH6S2",
+                "ts": "1589971665.352400"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589971676.352600"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589971680.352800"
+            },
+            {
+                "user": "U2ZPRH6S2",
+                "ts": "1589971698.353000"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589971737.353200"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589971750.353400"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589971814.353600"
+            },
+            {
+                "user": "U2ZPRH6S2",
+                "ts": "1589972110.353800"
+            },
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589972859.354000"
+            },
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589972908.354200"
+            },
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589972924.354400"
+            },
+            {
+                "user": "UJKRKCVUN",
+                "ts": "1589973123.354600"
+            },
+            {
+                "user": "UJKRKCVUN",
+                "ts": "1589973136.354800"
+            },
+            {
+                "user": "UFT460KF1",
+                "ts": "1589973771.355000"
+            },
+            {
+                "user": "UFT460KF1",
+                "ts": "1589973808.355200"
+            },
+            {
+                "user": "U7PQZMZ4L",
+                "ts": "1589976225.355400"
+            },
+            {
+                "user": "U2Z7WKZFC",
+                "ts": "1589983068.355600"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1589983068.355600"
+    },
+    {
+        "client_msg_id": "be04807e-81b4-4e2a-8330-84c78264d16a",
+        "type": "message",
+        "text": "abro :hilo: por si alguien se anima",
+        "user": "U2Y6QQHST",
+        "ts": "1589970980.348900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NaOKy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "abro "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hilo"
+                            },
+                            {
+                                "type": "text",
+                                "text": " por si alguien se anima"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "type": "message",
+        "text": "experiencia mucha, guia\/tutorial, pues no.",
+        "user": "U2ZPRH6S2",
+        "ts": "1589971075.349600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g393a058c2e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9393a058c2e361bfd1b3d29c1739721d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sergi",
+            "real_name": "Sergi Morales",
+            "display_name": "sergim",
+            "team": "T2Y6L54R3",
+            "name": "sergi.xpnti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "985304ce-78f1-409f-8b25-f8c4d40aabc9",
+        "type": "message",
+        "text": "eso da para mucha miga.",
+        "user": "UN6S9CCGH",
+        "ts": "1589971081.349800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/wF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "eso da para mucha miga."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "type": "message",
+        "text": "para mi la \"best practice\" es intentar conseguir que negocio o quien toque exponga claramente el objetivo y presupuesto, a partir de aquí tira atrás a técnico",
+        "user": "U2ZPRH6S2",
+        "ts": "1589971127.350000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g393a058c2e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9393a058c2e361bfd1b3d29c1739721d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sergi",
+            "real_name": "Sergi Morales",
+            "display_name": "sergim",
+            "team": "T2Y6L54R3",
+            "name": "sergi.xpnti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "type": "message",
+        "text": "qué riesgos quieres proteger, mitigar o asumir",
+        "user": "U2ZPRH6S2",
+        "ts": "1589971152.350200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g393a058c2e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9393a058c2e361bfd1b3d29c1739721d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sergi",
+            "real_name": "Sergi Morales",
+            "display_name": "sergim",
+            "team": "T2Y6L54R3",
+            "name": "sergi.xpnti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "type": "message",
+        "text": "que me pete la región de AWS lo podemos asumir?",
+        "user": "U2ZPRH6S2",
+        "ts": "1589971169.350400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g393a058c2e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9393a058c2e361bfd1b3d29c1739721d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sergi",
+            "real_name": "Sergi Morales",
+            "display_name": "sergim",
+            "team": "T2Y6L54R3",
+            "name": "sergi.xpnti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "type": "message",
+        "text": "que me pete AWS lo podemos asumir?",
+        "user": "U2ZPRH6S2",
+        "ts": "1589971175.350600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g393a058c2e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9393a058c2e361bfd1b3d29c1739721d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sergi",
+            "real_name": "Sergi Morales",
+            "display_name": "sergim",
+            "team": "T2Y6L54R3",
+            "name": "sergi.xpnti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "6db59790-939f-4c6a-acef-fb447c51a5c6",
+        "type": "message",
+        "text": "si, lo primero es la definición de RTOs\/RPOs, a partir de ahí la definición de los error budgets, procesos de negocio afectados y después de todo eso, entrar en la parte técnica.",
+        "user": "UN6S9CCGH",
+        "ts": "1589971187.350800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hze",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si, lo primero es la definición de RTOs\/RPOs, a partir de ahí la definición de los error budgets, procesos de negocio afectados y después de todo eso, entrar en la parte técnica."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "b035ee9e-3096-44ac-9b9b-73c0832f710e",
+        "type": "message",
+        "text": "Como recomendación, hay varios libros, que son más de arquitectura TI, que tratan parcialmente los temas de DR, pero muy enfocados en Datacenters tradicionales, <https:\/\/itaseries.com\/books-in-ita-series\/itas-foundation-in-the-art-of-infrastructure-design\/> y <https:\/\/itaseries.com\/books-in-ita-series\/designing-risk-in-it-infrastructure\/>",
+        "user": "UN6S9CCGH",
+        "ts": "1589971287.351000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNtFm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Como recomendación, hay varios libros, que son más de arquitectura TI, que tratan parcialmente los temas de DR, pero muy enfocados en Datacenters tradicionales, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/itaseries.com\/books-in-ita-series\/itas-foundation-in-the-art-of-infrastructure-design\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " y "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/itaseries.com\/books-in-ita-series\/designing-risk-in-it-infrastructure\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "315c64fd-f455-476a-8a68-2d7a74a488c5",
+        "type": "message",
+        "text": "El de Foundation lo tengo en formato físico, si quieres se lo paso a Carmen cuando la vea",
+        "user": "UN6S9CCGH",
+        "ts": "1589971349.351200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kJSH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "El de Foundation lo tengo en formato físico, si quieres se lo paso a Carmen cuando la vea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "a5188dc1-46e8-42ac-b8af-d916b2274364",
+        "type": "message",
+        "text": "Yo tengo esto como guia\n<https:\/\/about.gitlab.com\/handbook\/engineering\/infrastructure\/library\/disaster-recovery\/>",
+        "user": "U30B8KQVB",
+        "ts": "1589971396.351400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U30B8KQVB",
+            "ts": "1589971401.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NUSFs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo tengo esto como guia\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/about.gitlab.com\/handbook\/engineering\/infrastructure\/library\/disaster-recovery\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "e470df86-086f-4f46-a739-73d270e10bf7",
+        "type": "message",
+        "text": "Gracias a todos, buscaba algo parecido a lo de Jorge. Estamos en GCP con GKE y con backups y tal pero no hay definición de RTO\/RPOs ni de error budgets ni nada de nada, empezamos de 0 con la base de \"qué pasa si se va todo el cluster de k8s al garate\" o \"qué pasa si alguien la lia y se peta la base de datos\" contando con que hay backups etc.",
+        "user": "U2Y6QQHST",
+        "ts": "1589971536.351800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pu+b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gracias a todos, buscaba algo parecido a lo de Jorge. Estamos en GCP con GKE y con backups y tal pero no hay definición de RTO\/RPOs ni de error budgets ni nada de nada, empezamos de 0 con la base de \"qué pasa si se va todo el cluster de k8s al garate\" o \"qué pasa si alguien la lia y se peta la base de datos\" contando con que hay backups etc."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "type": "message",
+        "text": "la documentación de ISACA sobre CISM y similares, también lleva muchas orientaciones sobre cómo preguntar, negociar, hacer ver que RTO\/RPO =0s tiene un coste que es una asintota a infinito",
+        "user": "U2ZPRH6S2",
+        "ts": "1589971555.352000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g393a058c2e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9393a058c2e361bfd1b3d29c1739721d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sergi",
+            "real_name": "Sergi Morales",
+            "display_name": "sergim",
+            "team": "T2Y6L54R3",
+            "name": "sergi.xpnti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "345dc8af-6ef9-4fc6-bb35-23e5f4d0c45d",
+        "type": "message",
+        "text": "cuántas palabrotas :stuck_out_tongue: merci!",
+        "user": "U2Y6QQHST",
+        "ts": "1589971624.352200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "78870a1fa364",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/893376536165_78870a1fa3644b6829f4_72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Serrano",
+            "display_name": "gonzaloserrano",
+            "team": "T2Y6L54R3",
+            "name": "gonzaloserrano",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o\/0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cuántas palabrotas "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            },
+                            {
+                                "type": "text",
+                                "text": " merci!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "type": "message",
+        "text": "IMO es casi más importante detallar los riesgo que asumes que no los que mitigas. Así todo el mundo sabe que si GCP explota, estamos vendidos o que si peta la DB y hemos decidido guardar los backups en el mismo sitio, a buscar trabajo en otro lugar, etc...",
+        "user": "U2ZPRH6S2",
+        "ts": "1589971665.352400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g393a058c2e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9393a058c2e361bfd1b3d29c1739721d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sergi",
+            "real_name": "Sergi Morales",
+            "display_name": "sergim",
+            "team": "T2Y6L54R3",
+            "name": "sergi.xpnti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "6cfa0eba-9197-4b42-8d7f-e0f5bb3206e4",
+        "type": "message",
+        "text": "EXACTO",
+        "user": "UN6S9CCGH",
+        "ts": "1589971676.352600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "slB\/3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "EXACTO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "6dd3d2e5-1079-4b7c-ba90-cb660d19c049",
+        "type": "message",
+        "text": "uy, las mayusculas.",
+        "user": "UN6S9CCGH",
+        "ts": "1589971680.352800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "erXk4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "uy, las mayusculas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "type": "message",
+        "text": "(esto es que estás MUY de acuerdo :P )",
+        "user": "U2ZPRH6S2",
+        "ts": "1589971698.353000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g393a058c2e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9393a058c2e361bfd1b3d29c1739721d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sergi",
+            "real_name": "Sergi Morales",
+            "display_name": "sergim",
+            "team": "T2Y6L54R3",
+            "name": "sergi.xpnti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "1319c7ba-3ef4-4707-9bbc-f7a6a2c23792",
+        "type": "message",
+        "text": "Lo importante es que la organización sea consciente de esos errores que se asumen como no mitigables ya sea porque técnicamente es muy complejo o económicamente no vale la pena añadir otro 0 más a la factura para tener ese otro 9 de disponibilidad.",
+        "user": "UN6S9CCGH",
+        "ts": "1589971737.353200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1fHmS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lo importante es que la organización sea consciente de esos errores que se asumen como no mitigables ya sea porque técnicamente es muy complejo o económicamente no vale la pena añadir otro 0 más a la factura para tener ese otro 9 de disponibilidad."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "372a9557-e9c3-47cc-84e0-7bc280dd1e85",
+        "type": "message",
+        "text": "<@U2ZPRH6S2> que estoy completamente de acuerdo, eso sí :stuck_out_tongue:",
+        "user": "UN6S9CCGH",
+        "ts": "1589971750.353400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iVu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2ZPRH6S2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " que estoy completamente de acuerdo, eso sí "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "7fa3103a-537d-4a7e-bdd0-2750c2ae0437",
+        "type": "message",
+        "text": "Por lo general, he escuchado un par de veces una rule of thumb que dice que llega cierto punto en que añadir un 9 más de disponibilidad se convierte en aumentar un orden de magnitud la factura. Y ahí es donde entran los errors budgets que son las indisponibilidades que la organización está dispuesta a asumir.",
+        "user": "UN6S9CCGH",
+        "ts": "1589971814.353600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bky",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Por lo general, he escuchado un par de veces una rule of thumb que dice que llega cierto punto en que añadir un 9 más de disponibilidad se convierte en aumentar un orden de magnitud la factura. Y ahí es donde entran los errors budgets que son las indisponibilidades que la organización está dispuesta a asumir."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "type": "message",
+        "text": "yo te puedo aumentar la factura con un 0 y que pierdas un 9 :) y que parezca que has incrementado la disponibilidad",
+        "user": "U2ZPRH6S2",
+        "ts": "1589972110.353800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g393a058c2e3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9393a058c2e361bfd1b3d29c1739721d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "Sergi",
+            "real_name": "Sergi Morales",
+            "display_name": "sergim",
+            "team": "T2Y6L54R3",
+            "name": "sergi.xpnti",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "d443ed62-6268-42dc-b63d-29d6e7f56ccf",
+        "type": "message",
+        "text": "IMO en temas de desaster recovery:\n`Doc  &gt; Automation`\nEs muy complejo automatizar todo en temas de disaster recovery y si encima tienes microservicios donde el estado de tu plataforma está distribuido ni te cuento.",
+        "user": "U30B8KQVB",
+        "ts": "1589972859.354000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CKUt5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "IMO en temas de desaster recovery:\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Doc  > Automation",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nEs muy complejo automatizar todo en temas de disaster recovery y si encima tienes microservicios donde el estado de tu plataforma está distribuido ni te cuento."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "87284c7f-d321-4f2f-9247-db54eddfb68d",
+        "type": "message",
+        "text": "Ni te cuento si el orden importa, como ya han dicho, lo mejor es empezar documentando riesgos y medir que te puedes permitir",
+        "user": "U30B8KQVB",
+        "ts": "1589972908.354200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lSspZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ni te cuento si el orden importa, como ya han dicho, lo mejor es empezar documentando riesgos y medir que te puedes permitir"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "0c636aec-acc2-48e3-9481-3223b268d4ea",
+        "type": "message",
+        "text": "en ese sentido los de gitlab 10\/10",
+        "user": "U30B8KQVB",
+        "ts": "1589972924.354400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6phNI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en ese sentido los de gitlab 10\/10"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "73691d4c-56d0-4e7f-ae89-1838d4472d61",
+        "type": "message",
+        "text": "Lo mismo, primero de todo RTO y RPO",
+        "user": "UJKRKCVUN",
+        "ts": "1589973123.354600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g23d054b47d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b23d054b47d4f93caaa352a0b5d56d61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Jake Torra Bigaire",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "jtorra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X3Zb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lo mismo, primero de todo RTO y RPO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "dd9179dd-f3e4-4edf-a23a-1f2399c7e157",
+        "type": "message",
+        "text": "y lo de siempre, dependerá del dinero",
+        "user": "UJKRKCVUN",
+        "ts": "1589973136.354800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g23d054b47d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b23d054b47d4f93caaa352a0b5d56d61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Jake Torra Bigaire",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "jtorra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RQi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y lo de siempre, dependerá del dinero"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "36cfb5ce-738a-4ee8-acea-b9dbea5ead49",
+        "type": "message",
+        "text": "Un pequeño tip que nadie te ha dicho por aquí... TESTEA! De nada sirve un backup o un plan de restoring si cuando te hace falta de verdad no funciona.",
+        "user": "UFT460KF1",
+        "ts": "1589973771.355000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g4b0ef2e4fd5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b4b0ef2e4fd524313064f83604aaa4c9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Ricard Flores",
+            "display_name": "riveck",
+            "team": "T2Y6L54R3",
+            "name": "riveck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1G5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un pequeño tip que nadie te ha dicho por aquí... TESTEA! De nada sirve un backup o un plan de restoring si cuando te hace falta de verdad no funciona."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "830fe290-7a00-4a13-b171-7c8a66a7f6f9",
+        "type": "message",
+        "text": "Es la misma lógica que los simulacros de incendio... quieres que la gente sepa lo que hay que hacer para cuando hay un fuego de verdad",
+        "user": "UFT460KF1",
+        "ts": "1589973808.355200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g4b0ef2e4fd5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b4b0ef2e4fd524313064f83604aaa4c9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Ricard Flores",
+            "display_name": "riveck",
+            "team": "T2Y6L54R3",
+            "name": "riveck",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j==",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Es la misma lógica que los simulacros de incendio... quieres que la gente sepa lo que hay que hacer para cuando hay un fuego de verdad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "39ecb1ce-ee90-4b1c-ab61-7ee8636408ed",
+        "type": "message",
+        "text": "El DRP es solo una parte de un montón más de documentos y procesos a definir, sin ellos siempre estará cojo. ves pensando en como mínimo un Business Impact Analysis (BIA) y un Threat Risk Assessment (TRA)... sino tu DRP no cubrirá tus necesidades reales.. ejemplo:\n\nVas a hacer un DRP para que escenario? caida parcial, caida total ? cuales son los RTO, RPO, etc definidos ? Cual es tu politica de backups? Pruebas tu DRP ? etc etc etc....",
+        "user": "U7PQZMZ4L",
+        "ts": "1589976225.355400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6ac795f432a9",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-30\/1038010942791_6ac795f432a9c1864479_72.png",
+            "first_name": "Koe",
+            "real_name": "Koe",
+            "display_name": "Koe",
+            "team": "T2Y6L54R3",
+            "name": "koe.systems",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L6UPs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "El DRP es solo una parte de un montón más de documentos y procesos a definir, sin ellos siempre estará cojo. ves pensando en como mínimo un Business Impact Analysis (BIA) y un Threat Risk Assessment (TRA)... sino tu DRP no cubrirá tus necesidades reales.. ejemplo:\n\nVas a hacer un DRP para que escenario? caida parcial, caida total ? cuales son los RTO, RPO, etc definidos ? Cual es tu politica de backups? Pruebas tu DRP ? etc etc etc...."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "7d5b71bd-289d-4b90-9f9e-2b01a3854639",
+        "type": "message",
+        "text": "Importante lo de testear el DRP. Me sé de uno que a la hora de utilizar el DRP que había en su empresa se encontró con que nunca había funcionado :sadparrot:",
+        "user": "U2Z7WKZFC",
+        "ts": "1589983068.355600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g7f9f6957881",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/97f9f69578810de91c13703adbfc2b2b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "Jesus",
+            "real_name": "Jesus Antonio Canales Diez",
+            "display_name": "jacanales",
+            "team": "T2Y6L54R3",
+            "name": "jacanales",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lsE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Importante lo de testear el DRP. Me sé de uno que a la hora de utilizar el DRP que había en su empresa se encontró con que nunca había funcionado "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sadparrot"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589970951.348800",
+        "parent_user_id": "U2Y6QQHST"
+    },
+    {
+        "client_msg_id": "98b4d89c-54b3-40d3-968c-e5a77d805062",
+        "type": "message",
+        "text": "EKS: Oh? queres escalar de 7 nodes a 10 nodes? Dejame que mate TODAS LAS FUCKING PODS EN PRODUCCION PARA BALANCEARLO",
+        "user": "UFW0A1GV8",
+        "ts": "1589990644.356400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q9yWd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "EKS: Oh? queres escalar de 7 nodes a 10 nodes? Dejame que mate TODAS LAS FUCKING PODS EN PRODUCCION PARA BALANCEARLO"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589990644.356400",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1590043858.359200",
+        "reply_users": [
+            "UN6S9CCGH",
+            "UFW0A1GV8",
+            "U3DPLBVQE",
+            "UJKRKCVUN",
+            "U40KDVDQF"
+        ],
+        "replies": [
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589990762.357600"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589990766.357900"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589990877.358100"
+            },
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589990894.358300"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589995134.358500"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589995146.358700"
+            },
+            {
+                "user": "UJKRKCVUN",
+                "ts": "1589999334.359000"
+            },
+            {
+                "user": "U40KDVDQF",
+                "ts": "1590043858.359200"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f47a5863-2f64-43ed-b1d0-5800d2684bb9",
+        "type": "message",
+        "text": "incluyendo el single point of failure de toda la empresa que hace que los pods no vuelvan a iniciar hasta que inicie :joy:",
+        "user": "UFW0A1GV8",
+        "ts": "1589990681.357000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UFW0A1GV8",
+            "ts": "1589990686.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z3M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "incluyendo el single point of failure de toda la empresa que hace que los pods no vuelvan a iniciar hasta que inicie "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19E7F11F-2850-47DB-A7F9-F20C5BC5A640",
+        "type": "message",
+        "text": "Eso os pasa por no arreglar single point of failures.",
+        "user": "UN6S9CCGH",
+        "ts": "1589990762.357600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DZq3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Eso os pasa por no arreglar single point of failures."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589990644.356400",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "1A3889F0-E992-4224-8D25-1EA55EEB79BC",
+        "type": "message",
+        "text": ":joy::joy::joy:",
+        "user": "UN6S9CCGH",
+        "ts": "1589990766.357900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "164IY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589990644.356400",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "f5868030-66f7-4404-aec3-9a45b0104871",
+        "type": "message",
+        "text": "hay planes, es el servicio que dice \"X puede conectarse con Y\"",
+        "user": "UFW0A1GV8",
+        "ts": "1589990877.358100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "69tY9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hay planes, es el servicio que dice \"X puede conectarse con Y\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589990644.356400",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "92cbe338-6654-49f6-ae16-29959847f427",
+        "type": "message",
+        "text": "los tokens se cachean, pero si reinicias la pod no tenes la cache",
+        "user": "UFW0A1GV8",
+        "ts": "1589990894.358300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0bYgE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "los tokens se cachean, pero si reinicias la pod no tenes la cache"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589990644.356400",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "723eaa48-5fbd-4e15-8d4e-cf2f8cf5b8fd",
+        "type": "message",
+        "text": "tenéis defino Pod Disruption Budget?",
+        "user": "U3DPLBVQE",
+        "ts": "1589995134.358500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2HsG\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tenéis defino Pod Disruption Budget?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589990644.356400",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "7fcbf87d-d821-4ffe-9126-0cae1ef474ca",
+        "type": "message",
+        "text": "quizá eso evite esto en el futuro",
+        "user": "U3DPLBVQE",
+        "ts": "1589995146.358700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/6gV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "quizá eso evite esto en el futuro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589990644.356400",
+        "parent_user_id": "UFW0A1GV8"
+    },
+    {
+        "client_msg_id": "0039b5f1-b840-4c68-8586-81bcc439fdd3",
+        "type": "message",
+        "text": "También se puede usar *eksctl drain*",
+        "user": "UJKRKCVUN",
+        "ts": "1589999334.359000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g23d054b47d4",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/b23d054b47d4f93caaa352a0b5d56d61.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+            "first_name": "",
+            "real_name": "Jake Torra Bigaire",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "jtorra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j5b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "También se puede usar "
+                            },
+                            {
+                                "type": "text",
+                                "text": "eksctl drain",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589990644.356400",
+        "parent_user_id": "UFW0A1GV8"
+    }
+]

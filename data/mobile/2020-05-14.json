@@ -1,0 +1,135 @@
+[
+    {
+        "client_msg_id": "0d32b288-e1c8-48ec-aec7-4ee221ff6e51",
+        "type": "message",
+        "text": "Si en tus días de PHP tocaste algo de HTML y eso, te recomiendo hacer una PWA y le añades el Capacitor; que se lo puedes añadir a cualquier web en verdad y te da acceso al hardware del dispositivo. Para la PoC creo que te resultará lo más rápido.\nPara el resto es cuestión de probar y ver. Como has tocado Node - que es Javascript - igual algo que use JS como React Native.",
+        "user": "UL1CXNCBZ",
+        "ts": "1589443223.033600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1c3e1e1b7795",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-03\/683461424677_1c3e1e1b779511d275c6_72.jpg",
+            "first_name": "Francisco",
+            "real_name": "Francisco Javier Aguado",
+            "display_name": "fjaguado",
+            "team": "T2Y6L54R3",
+            "name": "paco",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UL1CXNCBZ",
+            "ts": "1589443238.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vlapm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si en tus días de PHP tocaste algo de HTML y eso, te recomiendo hacer una PWA y le añades el Capacitor; que se lo puedes añadir a cualquier web en verdad y te da acceso al hardware del dispositivo. Para la PoC creo que te resultará lo más rápido.\nPara el resto es cuestión de probar y ver. Como has tocado Node - que es Javascript - igual algo que use JS como React Native."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589401737.033300",
+        "parent_user_id": "U38SUJJV7",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UTGE7E4K0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94758342-a908-4808-89f6-ed27a4192c63",
+        "type": "message",
+        "text": "Si quieres sacar algo rapido, yo iria para flutter o RN",
+        "user": "UGKBXF45D",
+        "ts": "1589444751.033900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7b0e5070c58c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-26\/773521984772_7b0e5070c58cebf2df1d_72.jpg",
+            "first_name": "Ramon",
+            "real_name": "Ramon Pans",
+            "display_name": "Kylar13",
+            "team": "T2Y6L54R3",
+            "name": "ramonpans13",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JzGg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si quieres sacar algo rapido, yo iria para flutter o RN"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589401737.033300",
+        "parent_user_id": "U38SUJJV7"
+    },
+    {
+        "client_msg_id": "1107e081-92eb-43c6-9926-b8fe3868a59a",
+        "type": "message",
+        "text": "Gracias",
+        "user": "U38SUJJV7",
+        "ts": "1589453683.034200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "96869669e67d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-21\/1074689534245_96869669e67dccc02703_72.jpg",
+            "first_name": "Antonio",
+            "real_name": "Antonio Hernández",
+            "display_name": "antonienko",
+            "team": "T2Y6L54R3",
+            "name": "antonienko",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QVpo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Gracias"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589401737.033300",
+        "parent_user_id": "U38SUJJV7"
+    }
+]

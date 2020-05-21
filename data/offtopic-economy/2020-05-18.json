@@ -1,0 +1,1235 @@
+[
+    {
+        "client_msg_id": "8a847f4d-132c-4518-b9d0-28303ca76218",
+        "type": "message",
+        "text": "alguien sabe cómo tributa la venta de shares en una empresa? es capital gain?",
+        "user": "U3U0ZCHFZ",
+        "ts": "1589787738.293200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ge96ee777f6a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ce96ee777f6ab64a77ba32469288c69b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Gustaf",
+            "real_name": "Gustaf",
+            "display_name": "gustaf",
+            "team": "T2Y6L54R3",
+            "name": "gustaf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4Ya",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "alguien sabe cómo tributa la venta de shares en una empresa? es capital gain?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "reply_count": 22,
+        "reply_users_count": 4,
+        "latest_reply": "1589813044.297600",
+        "reply_users": [
+            "U2Y6KTWRZ",
+            "U3U0ZCHFZ",
+            "U4KD0LR6Z",
+            "U4KF9AWP9"
+        ],
+        "replies": [
+            {
+                "user": "U2Y6KTWRZ",
+                "ts": "1589788608.293300"
+            },
+            {
+                "user": "U3U0ZCHFZ",
+                "ts": "1589791112.293500"
+            },
+            {
+                "user": "U4KD0LR6Z",
+                "ts": "1589791128.293700"
+            },
+            {
+                "user": "U3U0ZCHFZ",
+                "ts": "1589791180.293900"
+            },
+            {
+                "user": "U3U0ZCHFZ",
+                "ts": "1589791185.294100"
+            },
+            {
+                "user": "U4KD0LR6Z",
+                "ts": "1589791358.294300"
+            },
+            {
+                "user": "U3U0ZCHFZ",
+                "ts": "1589791440.294500"
+            },
+            {
+                "user": "U4KD0LR6Z",
+                "ts": "1589791456.294700"
+            },
+            {
+                "user": "U4KD0LR6Z",
+                "ts": "1589791478.294900"
+            },
+            {
+                "user": "U3U0ZCHFZ",
+                "ts": "1589791522.295100"
+            },
+            {
+                "user": "U4KD0LR6Z",
+                "ts": "1589791575.295300"
+            },
+            {
+                "user": "U4KD0LR6Z",
+                "ts": "1589791594.295500"
+            },
+            {
+                "user": "U2Y6KTWRZ",
+                "ts": "1589791966.295700"
+            },
+            {
+                "user": "U2Y6KTWRZ",
+                "ts": "1589792019.295900"
+            },
+            {
+                "user": "U3U0ZCHFZ",
+                "ts": "1589792368.296200"
+            },
+            {
+                "user": "U3U0ZCHFZ",
+                "ts": "1589792371.296400"
+            },
+            {
+                "user": "U2Y6KTWRZ",
+                "ts": "1589793137.296600"
+            },
+            {
+                "user": "U2Y6KTWRZ",
+                "ts": "1589793156.296800"
+            },
+            {
+                "user": "U2Y6KTWRZ",
+                "ts": "1589793182.297000"
+            },
+            {
+                "user": "U2Y6KTWRZ",
+                "ts": "1589793203.297200"
+            },
+            {
+                "user": "U2Y6KTWRZ",
+                "ts": "1589793278.297400"
+            },
+            {
+                "user": "U4KF9AWP9",
+                "ts": "1589813044.297600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "30231969-135e-4b77-9af3-fce0dfd72855",
+        "type": "message",
+        "text": "creo q si",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589788608.293300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uj3c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "creo q si"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "decff8bb-08d9-4074-913c-23f6073fe7ee",
+        "type": "message",
+        "text": "gracias!",
+        "user": "U3U0ZCHFZ",
+        "ts": "1589791112.293500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ge96ee777f6a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ce96ee777f6ab64a77ba32469288c69b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Gustaf",
+            "real_name": "Gustaf",
+            "display_name": "gustaf",
+            "team": "T2Y6L54R3",
+            "name": "gustaf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nJE=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "gracias!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "89ba61d8-e1c7-4eb9-943d-96f4d26dc30c",
+        "type": "message",
+        "text": "Es una empresa española? Si es así, se tributa entre un 19 y un 23% sobre las plusvalías",
+        "user": "U4KD0LR6Z",
+        "ts": "1589791128.293700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "5e48cc56f308",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-03\/717114775607_5e48cc56f30826de5a47_72.jpg",
+            "first_name": "Gil",
+            "real_name": "Gil Casadevall",
+            "display_name": "gilc",
+            "team": "T2Y6L54R3",
+            "name": "gilc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KWX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Es una empresa española? Si es así, se tributa entre un 19 y un 23% sobre las plusvalías"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "29e2b031-53d0-4ad1-915d-dcb6c8fe3a8c",
+        "type": "message",
+        "text": "es una empresa española, si, bueno, yo no compré estos shares, me los dieron como parte mi incorporacion",
+        "user": "U3U0ZCHFZ",
+        "ts": "1589791180.293900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ge96ee777f6a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ce96ee777f6ab64a77ba32469288c69b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Gustaf",
+            "real_name": "Gustaf",
+            "display_name": "gustaf",
+            "team": "T2Y6L54R3",
+            "name": "gustaf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1xN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "es una empresa española, si, bueno, yo no compré estos shares, me los dieron como parte mi incorporacion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "32e73c3c-0518-44a5-a0ff-b3ca3d66a887",
+        "type": "message",
+        "text": "pero es lo mismo no?",
+        "user": "U3U0ZCHFZ",
+        "ts": "1589791185.294100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ge96ee777f6a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ce96ee777f6ab64a77ba32469288c69b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Gustaf",
+            "real_name": "Gustaf",
+            "display_name": "gustaf",
+            "team": "T2Y6L54R3",
+            "name": "gustaf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QXj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pero es lo mismo no?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "73829a8e-2691-4e54-a44d-53f8ef0d07c5",
+        "type": "message",
+        "text": "si son stock options no es lo mismo",
+        "user": "U4KD0LR6Z",
+        "ts": "1589791358.294300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "5e48cc56f308",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-03\/717114775607_5e48cc56f30826de5a47_72.jpg",
+            "first_name": "Gil",
+            "real_name": "Gil Casadevall",
+            "display_name": "gilc",
+            "team": "T2Y6L54R3",
+            "name": "gilc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yMt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si son stock options no es lo mismo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "09cf1be5-736e-4dce-a429-18e22e55e4b3",
+        "type": "message",
+        "text": "sabes donde puedo encontrar mas info",
+        "user": "U3U0ZCHFZ",
+        "ts": "1589791440.294500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ge96ee777f6a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ce96ee777f6ab64a77ba32469288c69b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Gustaf",
+            "real_name": "Gustaf",
+            "display_name": "gustaf",
+            "team": "T2Y6L54R3",
+            "name": "gustaf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kBs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sabes donde puedo encontrar mas info"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "87bf97f9-cf73-48a5-a5d3-5b9602b84e3c",
+        "type": "message",
+        "text": "sabes que tipo de acciones te dieron?",
+        "user": "U4KD0LR6Z",
+        "ts": "1589791456.294700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "5e48cc56f308",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-03\/717114775607_5e48cc56f30826de5a47_72.jpg",
+            "first_name": "Gil",
+            "real_name": "Gil Casadevall",
+            "display_name": "gilc",
+            "team": "T2Y6L54R3",
+            "name": "gilc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NjowT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sabes que tipo de acciones te dieron?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "8b4502ff-da77-4504-b3af-cb1e9b04116e",
+        "type": "message",
+        "text": "supongo que tendrás un contrato, primero tienes que ver si son phantom shares, stock options, acciones de pleno derecho o algun otro tipo de acciones",
+        "user": "U4KD0LR6Z",
+        "ts": "1589791478.294900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "5e48cc56f308",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-03\/717114775607_5e48cc56f30826de5a47_72.jpg",
+            "first_name": "Gil",
+            "real_name": "Gil Casadevall",
+            "display_name": "gilc",
+            "team": "T2Y6L54R3",
+            "name": "gilc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rmIJd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "supongo que tendrás un contrato, primero tienes que ver si son phantom shares, stock options, acciones de pleno derecho o algun otro tipo de acciones"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "976c1345-7970-44f8-8531-321c83e075ae",
+        "type": "message",
+        "text": "digo, info sobre la tributacion",
+        "user": "U3U0ZCHFZ",
+        "ts": "1589791522.295100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ge96ee777f6a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ce96ee777f6ab64a77ba32469288c69b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Gustaf",
+            "real_name": "Gustaf",
+            "display_name": "gustaf",
+            "team": "T2Y6L54R3",
+            "name": "gustaf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i9Y6+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "digo, info sobre la tributacion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "699793ff-e948-4931-8dff-efa9a5ab2ae7",
+        "type": "message",
+        "text": "no, lo se porqué lo he vivido en mis carnes",
+        "user": "U4KD0LR6Z",
+        "ts": "1589791575.295300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "5e48cc56f308",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-03\/717114775607_5e48cc56f30826de5a47_72.jpg",
+            "first_name": "Gil",
+            "real_name": "Gil Casadevall",
+            "display_name": "gilc",
+            "team": "T2Y6L54R3",
+            "name": "gilc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cTe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no, lo se porqué lo he vivido en mis carnes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "10e88b3d-bd1c-4f46-8a84-f65b2f611359",
+        "type": "message",
+        "text": "pero es fácil de encontrar en google",
+        "user": "U4KD0LR6Z",
+        "ts": "1589791594.295500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "5e48cc56f308",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-03\/717114775607_5e48cc56f30826de5a47_72.jpg",
+            "first_name": "Gil",
+            "real_name": "Gil Casadevall",
+            "display_name": "gilc",
+            "team": "T2Y6L54R3",
+            "name": "gilc",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B1E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pero es fácil de encontrar en google"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "f03d0d2b-0a5a-4c82-86a2-5c26c391a261",
+        "type": "message",
+        "text": "con las stocks options creo recordar que tributan al 100% cuando ejerces",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589791966.295700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ufhc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "con las stocks options creo recordar que tributan al 100% cuando ejerces"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "16809844-3155-4bc1-bb42-73fce52eb275",
+        "type": "message",
+        "text": "si son stock directas, tributan al 100% cuando las recibes tal bonus, y cuando las vendes tributas la diferencia como plusvalia",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589792019.295900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MEypO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si son stock directas, tributan al 100% cuando las recibes tal bonus, y cuando las vendes tributas la diferencia como plusvalia"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "8bae7890-1b86-4ed6-8f95-89cca9efa06e",
+        "type": "message",
+        "text": "ok, mas q eso no se si tributan como rendimiento del trabajo o ganancia de capital",
+        "user": "U3U0ZCHFZ",
+        "ts": "1589792368.296200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ge96ee777f6a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ce96ee777f6ab64a77ba32469288c69b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Gustaf",
+            "real_name": "Gustaf",
+            "display_name": "gustaf",
+            "team": "T2Y6L54R3",
+            "name": "gustaf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K3LC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, mas q eso no se si tributan como rendimiento del trabajo o ganancia de capital"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "09b4b710-746e-4540-b724-31a8d2dfd466",
+        "type": "message",
+        "text": "mi gestor no tiene idea",
+        "user": "U3U0ZCHFZ",
+        "ts": "1589792371.296400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ge96ee777f6a",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ce96ee777f6ab64a77ba32469288c69b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Gustaf",
+            "real_name": "Gustaf",
+            "display_name": "gustaf",
+            "team": "T2Y6L54R3",
+            "name": "gustaf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+x7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "mi gestor no tiene idea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "53f8b8f0-2168-4201-8c8d-91ff82b4cca0",
+        "type": "message",
+        "text": "o sea",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589793137.296600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cHbHq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "o sea"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "34f28789-e973-42d9-8299-27cba77a57f2",
+        "type": "message",
+        "text": "si tu recibes la stock y la vendes directo, creo que cuenta como IRPF",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589793156.296800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d0bO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si tu recibes la stock y la vendes directo, creo que cuenta como IRPF"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "21aaf598-c2d0-4b89-b1b9-0f5972467b82",
+        "type": "message",
+        "text": "si tu recibes la stock y no la vendes, tributas el IRPF igualmente de lo que vale la stock (es como si te dieran un bonus a nivel fiscal)",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589793182.297000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WPHvw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si tu recibes la stock y no la vendes, tributas el IRPF igualmente de lo que vale la stock (es como si te dieran un bonus a nivel fiscal)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "aedf539d-13bf-418c-b398-17a23b7b3f79",
+        "type": "message",
+        "text": "luego, cuando la vendes, tributas plusvalia si has ganado algo respeto al valor de inicio (cuando te la dieron)",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589793203.297200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "py5tA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "luego, cuando la vendes, tributas plusvalia si has ganado algo respeto al valor de inicio (cuando te la dieron)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "ad5273e9-ddd7-4afa-8b3a-94759145f828",
+        "type": "message",
+        "text": "y, si, españa es un pais muy subdesenvolupado con todos los temas que tengan a ver con inversion \/ stocks \/ stock options :laughing:",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589793278.297400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yYp1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y, si, españa es un pais muy subdesenvolupado con todos los temas que tengan a ver con inversion \/ stocks \/ stock options "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "89c67ec3-4a08-4583-8b27-e7992782b6ff",
+        "type": "message",
+        "text": "Cuando compres el stock la diferencia respecto al precio de compra y el precio de valoración tributa como rendimientos del trabajo (IRPF). Una vez compradas, al venderlas la diferencia entre el precio de compra y venta tributaría como una plusvalía.",
+        "user": "U4KF9AWP9",
+        "ts": "1589813044.297600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "365268862bac",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-18\/184561772976_365268862bac26cd1477_72.png",
+            "first_name": "Marco",
+            "real_name": "Marco Alacot",
+            "display_name": "marco",
+            "team": "T2Y6L54R3",
+            "name": "marco",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j4DPH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cuando compres el stock la diferencia respecto al precio de compra y el precio de valoración tributa como rendimientos del trabajo (IRPF). Una vez compradas, al venderlas la diferencia entre el precio de compra y venta tributaría como una plusvalía."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589787738.293200",
+        "parent_user_id": "U3U0ZCHFZ"
+    },
+    {
+        "client_msg_id": "715cdb4b-ddbf-4eac-a6af-69d1a012543d",
+        "type": "message",
+        "text": "pues nada",
+        "user": "U2YMTLRUK",
+        "ts": "1589835842.297900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "20eaf1beee13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-06\/787244573575_20eaf1beee131c747920_72.jpg",
+            "first_name": "Joan",
+            "real_name": "Joan",
+            "display_name": "mezod",
+            "team": "T2Y6L54R3",
+            "name": "mezod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fqax",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pues nada"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c58cacbd-50be-4162-91de-f902d2007c10",
+        "type": "message",
+        "text": "he desarrollado un modelo de inversión infalible, hacer siempre lo contrario de lo que piense que vaya a pasar",
+        "user": "U2YMTLRUK",
+        "ts": "1589835874.298700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "20eaf1beee13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-06\/787244573575_20eaf1beee131c747920_72.jpg",
+            "first_name": "Joan",
+            "real_name": "Joan",
+            "display_name": "mezod",
+            "team": "T2Y6L54R3",
+            "name": "mezod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZEfR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "he desarrollado un modelo de inversión infalible, hacer siempre lo contrario de lo que piense que vaya a pasar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb649e06-e115-4e1f-b228-05b7d2f6d327",
+        "type": "message",
+        "text": "no falla",
+        "user": "U2YMTLRUK",
+        "ts": "1589835875.298900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "20eaf1beee13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-06\/787244573575_20eaf1beee131c747920_72.jpg",
+            "first_name": "Joan",
+            "real_name": "Joan",
+            "display_name": "mezod",
+            "team": "T2Y6L54R3",
+            "name": "mezod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oyj6i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no falla"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c367c880-fd4d-46ab-be8b-a1bcca123328",
+        "type": "message",
+        "text": "sale el chariman de la FEd a decir q nos vamos a comer dos años de mierda y sube la bolsa 6% en dos dias",
+        "user": "U2YMTLRUK",
+        "ts": "1589835914.299400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "20eaf1beee13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-06\/787244573575_20eaf1beee131c747920_72.jpg",
+            "first_name": "Joan",
+            "real_name": "Joan",
+            "display_name": "mezod",
+            "team": "T2Y6L54R3",
+            "name": "mezod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6ZRr7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sale el chariman de la FEd a decir q nos vamos a comer dos años de mierda y sube la bolsa 6% en dos dias"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "¯\\_(ツ)_\/¯",
+        "user": "U2YMTLRUK",
+        "ts": "1589835918.299500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "20eaf1beee13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-06\/787244573575_20eaf1beee131c747920_72.jpg",
+            "first_name": "Joan",
+            "real_name": "Joan",
+            "display_name": "mezod",
+            "team": "T2Y6L54R3",
+            "name": "mezod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5ba79545-83c7-4f77-b839-8a9d3680dd31",
+        "type": "message",
+        "text": "El viernes salió y dijo que nos íbamos a la mierda. Supongo que alguien le cantó las 40 y el domingo salió de nuevo y dijo que nos íbamos a la mierda pero que literalmente iban ha seguir imprimiendo dinero hasta el infinito y más allá. Ayer además noticia de que 9 de un estudio de 49 personas había dado resultados positivos para un tratamiento.",
+        "user": "U57NW5K7T",
+        "ts": "1589871495.304300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gaf6563b55c8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/71b2af6563b55c828d8861a72f277675.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+            "first_name": "Rael",
+            "real_name": "Rael Garcia",
+            "display_name": "rael",
+            "team": "T2Y6L54R3",
+            "name": "rael",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EA\/Mp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "El viernes salió y dijo que nos íbamos a la mierda. Supongo que alguien le cantó las 40 y el domingo salió de nuevo y dijo que nos íbamos a la mierda pero que literalmente iban ha seguir imprimiendo dinero hasta el infinito y más allá. Ayer además noticia de que 9 de un estudio de 49 personas había dado resultados positivos para un tratamiento."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

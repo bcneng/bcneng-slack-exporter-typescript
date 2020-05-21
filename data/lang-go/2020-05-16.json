@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "A6846B5F-5321-4D81-A898-4436C9BE7711",
+        "type": "message",
+        "text": "<https:\/\/t.co\/XkgCSSS4dm?amp=1|https:\/\/t.co\/XkgCSSS4dm?amp=1>",
+        "user": "U6WTNB7G9",
+        "ts": "1589614793.165500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gccb0e99c1ff",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3ccb0e99c1fff4d4df992eeffb52f9e2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "Mishu",
+            "real_name": "Mishu Dark",
+            "display_name": "M ιSHΨD 4-RK",
+            "team": "T2Y6L54R3",
+            "name": "mishudark",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "google\/exposure-notifications-server",
+                "title_link": "https:\/\/github.com\/google\/exposure-notifications-server",
+                "text": "Exposure Notification Reference Server | Covid-19 Exposure Notifications - google\/exposure-notifications-server",
+                "fallback": "GitHub: google\/exposure-notifications-server",
+                "from_url": "https:\/\/github.com\/google\/exposure-notifications-server",
+                "thumb_url": "https:\/\/repository-images.githubusercontent.com\/260064828\/fc301580-95cf-11ea-9d55-e60201541041",
+                "thumb_width": 500,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/google\/exposure-notifications-server"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Qzkp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/t.co\/XkgCSSS4dm?amp=1",
+                                "text": "https:\/\/t.co\/XkgCSSS4dm?amp=1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

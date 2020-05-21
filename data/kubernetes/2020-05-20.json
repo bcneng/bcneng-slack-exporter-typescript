@@ -1,0 +1,1105 @@
+[
+    {
+        "client_msg_id": "f62d960b-4326-429d-b35e-96a37a8e0f70",
+        "type": "message",
+        "text": "github falla mucho agree, pero siempre me sorprende la gente que no \"aprende\" y confia tanto en github (no hablo de PRs o commits que bueno si es tu SCM pues eso)",
+        "user": "U2Y4MJNEL",
+        "ts": "1589965145.224000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a2e2526bea44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-21\/107139167491_a2e2526bea445cd939ed_72.jpg",
+            "first_name": "Fabian",
+            "real_name": "Fabian Selles Rosa",
+            "display_name": "fsero",
+            "team": "T2Y6L54R3",
+            "name": "fsero",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1gwfr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "github falla mucho agree, pero siempre me sorprende la gente que no \"aprende\" y confia tanto en github (no hablo de PRs o commits que bueno si es tu SCM pues eso)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "reply_count": 23,
+        "reply_users_count": 3,
+        "latest_reply": "1589969430.228600",
+        "reply_users": [
+            "U30B8KQVB",
+            "U3DPLBVQE",
+            "U2Y4MJNEL"
+        ],
+        "replies": [
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589967156.224100"
+            },
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589967213.224300"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589968142.224500"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589968160.224700"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589968168.224900"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589968204.225200"
+            },
+            {
+                "user": "U2Y4MJNEL",
+                "ts": "1589968256.225400"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589968273.225600"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589968295.225800"
+            },
+            {
+                "user": "U2Y4MJNEL",
+                "ts": "1589968302.226000"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589968327.226200"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589968334.226400"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589968344.226600"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589968363.226800"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589968391.227000"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589968408.227200"
+            },
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589969283.227400"
+            },
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589969295.227600"
+            },
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589969317.227800"
+            },
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589969335.228000"
+            },
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589969359.228200"
+            },
+            {
+                "user": "U30B8KQVB",
+                "ts": "1589969371.228400"
+            },
+            {
+                "user": "U3DPLBVQE",
+                "ts": "1589969430.228600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "3ac50c86-f928-4e7e-bce9-af5a796c82bb",
+        "type": "message",
+        "text": "pues yo creo que porque se lo han ganado a pulso en los 5 años que llevo a saco en GH hasta el último año no habia tenido tantos cortes",
+        "user": "U30B8KQVB",
+        "ts": "1589967156.224100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ThJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pues yo creo que porque se lo han ganado a pulso en los 5 años que llevo a saco en GH hasta el último año no habia tenido tantos cortes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "8d34eb36-09c7-422a-a383-6788ac1f4138",
+        "type": "message",
+        "text": "Si lo comparas con la competencia, Gitlab o Bitbucket… gana por goleada",
+        "user": "U30B8KQVB",
+        "ts": "1589967213.224300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RuBj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Si lo comparas con la competencia, Gitlab o Bitbucket… gana por goleada"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "a62030a9-3c77-4287-8f5d-7b619dc2e350",
+        "type": "message",
+        "text": "bitbucket no suele fallar",
+        "user": "U3DPLBVQE",
+        "ts": "1589968142.224500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ESA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bitbucket no suele fallar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "551e1914-5c8c-4f77-8899-5010b9542679",
+        "type": "message",
+        "text": "hay varios fallos si usas sus pipelines",
+        "user": "U3DPLBVQE",
+        "ts": "1589968160.224700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Xro\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "hay varios fallos si usas sus pipelines"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "4e675fff-7de3-404d-a6db-a2fae91ecccd",
+        "type": "message",
+        "text": "pero como yo no los uso :sweat_smile:",
+        "user": "U3DPLBVQE",
+        "ts": "1589968168.224900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U3DPLBVQE",
+            "ts": "1589968172.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "29BXN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pero como yo no los uso "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "45dc393c-406d-4564-b21b-c1f53c33b36b",
+        "type": "message",
+        "text": "lo que sí tiene es que a veces va lenta la UI",
+        "user": "U3DPLBVQE",
+        "ts": "1589968204.225200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NCmsN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo que sí tiene es que a veces va lenta la UI"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "569c3645-4fd9-4263-85e6-d7cfca9a655d",
+        "type": "message",
+        "text": "supongo que cada vez me hago mas mayor, pero yo soy un poco :tinfoil:. Si necesitas algo para tus builds o workloads lo mejor es que guardes los artefactos (pkg, dockers) en un mirror que controlas tu",
+        "user": "U2Y4MJNEL",
+        "ts": "1589968256.225400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a2e2526bea44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-21\/107139167491_a2e2526bea445cd939ed_72.jpg",
+            "first_name": "Fabian",
+            "real_name": "Fabian Selles Rosa",
+            "display_name": "fsero",
+            "team": "T2Y6L54R3",
+            "name": "fsero",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vOatv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "supongo que cada vez me hago mas mayor, pero yo soy un poco "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tinfoil"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Si necesitas algo para tus builds o workloads lo mejor es que guardes los artefactos (pkg, dockers) en un mirror que controlas tu"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL",
+        "reactions": [
+            {
+                "name": "rigor",
+                "users": [
+                    "U2XDM2L0G"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ed6abba-4dcc-48b3-baa2-d2c1da0cf596",
+        "type": "message",
+        "text": "nosotros hace años por política lo teníamos todo on-premises, incluyendo cosas como el repo, la wiki, el jira, etc",
+        "user": "U3DPLBVQE",
+        "ts": "1589968273.225600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ArmWg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nosotros hace años por política lo teníamos todo on-premises, incluyendo cosas como el repo, la wiki, el jira, etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "2f9528a6-518b-49a3-93b4-6c6a91b60dbe",
+        "type": "message",
+        "text": "a medida que el equipo se fue reduciendo y los servicios externos fueron mejorando fuimos “migrando” partes",
+        "user": "U3DPLBVQE",
+        "ts": "1589968295.225800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "urf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a medida que el equipo se fue reduciendo y los servicios externos fueron mejorando fuimos “migrando” partes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "b9ffdaee-8e2a-4882-9a8e-38f47ce47ed4",
+        "type": "message",
+        "text": "Depender de third parties es mala idea, cualquier dia puede venir alguien y borrarlo o que este caido. Y si, evidentemente hay tradeoffs y claro es carga encima del equipo pero en general me parece una politica sana para cualquiera",
+        "user": "U2Y4MJNEL",
+        "ts": "1589968302.226000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a2e2526bea44",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-21\/107139167491_a2e2526bea445cd939ed_72.jpg",
+            "first_name": "Fabian",
+            "real_name": "Fabian Selles Rosa",
+            "display_name": "fsero",
+            "team": "T2Y6L54R3",
+            "name": "fsero",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xSIg7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Depender de third parties es mala idea, cualquier dia puede venir alguien y borrarlo o que este caido. Y si, evidentemente hay tradeoffs y claro es carga encima del equipo pero en general me parece una politica sana para cualquiera"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "decbf4d6-240d-41f2-8dfe-c45849ab5f0f",
+        "type": "message",
+        "text": "eso permite que tus recursos internos se centren en aquello diferencial en tu empresa",
+        "user": "U3DPLBVQE",
+        "ts": "1589968327.226200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tgCr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "eso permite que tus recursos internos se centren en aquello diferencial en tu empresa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "8872a9f6-398a-4341-99ac-5042cf326ac0",
+        "type": "message",
+        "text": "todo depende del enfoque",
+        "user": "U3DPLBVQE",
+        "ts": "1589968334.226400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ic=6Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "todo depende del enfoque"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "3dc64cc7-2dd4-4008-b742-b3df5505ca2c",
+        "type": "message",
+        "text": "si tienes recursos ilimitados o…",
+        "user": "U3DPLBVQE",
+        "ts": "1589968344.226600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FmWA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si tienes recursos ilimitados o…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "00f29d7a-2fa3-4395-9377-f9015fb69eb2",
+        "type": "message",
+        "text": "obviamente tienes que asegurarte de que el servicio tiene SLA decente, etc",
+        "user": "U3DPLBVQE",
+        "ts": "1589968363.226800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N3dJ4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "obviamente tienes que asegurarte de que el servicio tiene SLA decente, etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "b25390ad-c046-47bc-896f-b694ef6510c0",
+        "type": "message",
+        "text": "pero a partir del momento en que todo tu runtime se ejecuta en la nube ya estás vendido :sweat_smile:",
+        "user": "U3DPLBVQE",
+        "ts": "1589968391.227000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k7h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pero a partir del momento en que todo tu runtime se ejecuta en la nube ya estás vendido "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "cb31f9ea-2c9c-4f43-8ca3-58dfe2a7110b",
+        "type": "message",
+        "text": "el resto de problemas que se puedan producir te parecen tonterías",
+        "user": "U3DPLBVQE",
+        "ts": "1589968408.227200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=di",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el resto de problemas que se puedan producir te parecen tonterías"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "e2625d96-e876-43f0-90a9-2777ca5a609f",
+        "type": "message",
+        "text": "El budget es muy importante",
+        "user": "U30B8KQVB",
+        "ts": "1589969283.227400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uf0xe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "El budget es muy importante"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "5d3346e4-2863-4b56-8abf-290a7a56002e",
+        "type": "message",
+        "text": "pero tambien los costes ocultos de correr algo in house",
+        "user": "U30B8KQVB",
+        "ts": "1589969295.227600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gnX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pero tambien los costes ocultos de correr algo in house"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "c7c34f11-79b2-4b92-bdbc-7555895d17ad",
+        "type": "message",
+        "text": "aqui tenemos in house cosas como jira o report portal, gh actions etc etc",
+        "user": "U30B8KQVB",
+        "ts": "1589969317.227800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=aPnG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aqui tenemos in house cosas como jira o report portal, gh actions etc etc"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "9374c37f-1e28-4d52-9ba1-0a5e1ecc165e",
+        "type": "message",
+        "text": "el coste operacional de correr todo esto es alto",
+        "user": "U30B8KQVB",
+        "ts": "1589969335.228000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eVZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "el coste operacional de correr todo esto es alto"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "d7cab540-24ca-4283-b0c9-1fd240759aaa",
+        "type": "message",
+        "text": "sobre todo si lo quieres correr en k8s cuando no existen ni los charts ni las apps son cloud native",
+        "user": "U30B8KQVB",
+        "ts": "1589969359.228200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PhGI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "sobre todo si lo quieres correr en k8s cuando no existen ni los charts ni las apps son cloud native"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "88e7a8c6-03d9-46e9-937a-70d9fa4b80b5",
+        "type": "message",
+        "text": "“cloud native” que palabro",
+        "user": "U30B8KQVB",
+        "ts": "1589969371.228400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g5ab45fb770e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/75ab45fb770e81a0ecb531ec55d9e2a4.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Jorge",
+            "real_name": "Jorge Arco",
+            "display_name": "iyoque",
+            "team": "T2Y6L54R3",
+            "name": "iyoque",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ynou",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "“cloud native” que palabro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    },
+    {
+        "client_msg_id": "52508c97-6b67-4a7a-a564-d96781027f50",
+        "type": "message",
+        "text": "tener esas apps corriendo al estilo clásico… es un dolor de :egg: :egg:",
+        "user": "U3DPLBVQE",
+        "ts": "1589969430.228600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s0vm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tener esas apps corriendo al estilo clásico… es un dolor de "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "egg"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "egg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589965145.224000",
+        "parent_user_id": "U2Y4MJNEL"
+    }
+]

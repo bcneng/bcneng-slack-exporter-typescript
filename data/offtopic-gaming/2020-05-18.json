@@ -1,0 +1,1145 @@
+[
+    {
+        "client_msg_id": "eee4d9b6-0a15-4174-9ff6-2d3b0e1cda62",
+        "type": "message",
+        "text": "Unpopular opinion: Dark souls no es tan dificil una vez lo entiendes",
+        "user": "UDYMW0QH5",
+        "ts": "1589795096.093600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga5771d9930e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea5771d9930e4e853c58d605e6d9ca8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Joan Maeso",
+            "display_name": "jmaeso",
+            "team": "T2Y6L54R3",
+            "name": "jmaeso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d99O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Unpopular opinion: Dark souls no es tan dificil una vez lo entiendes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "reply_count": 22,
+        "reply_users_count": 4,
+        "latest_reply": "1590052031.099300",
+        "reply_users": [
+            "U6SF71BFT",
+            "UDYMW0QH5",
+            "UHFMWDFGF",
+            "U2Z1D7MHU"
+        ],
+        "replies": [
+            {
+                "user": "U6SF71BFT",
+                "ts": "1589795186.093800"
+            },
+            {
+                "user": "U6SF71BFT",
+                "ts": "1589795239.094000"
+            },
+            {
+                "user": "UDYMW0QH5",
+                "ts": "1589795365.094200"
+            },
+            {
+                "user": "UDYMW0QH5",
+                "ts": "1589795397.094400"
+            },
+            {
+                "user": "UHFMWDFGF",
+                "ts": "1589796111.094600"
+            },
+            {
+                "user": "UDYMW0QH5",
+                "ts": "1589800662.094800"
+            },
+            {
+                "user": "UDYMW0QH5",
+                "ts": "1589800718.095000"
+            },
+            {
+                "user": "U6SF71BFT",
+                "ts": "1589801307.095200"
+            },
+            {
+                "user": "UHFMWDFGF",
+                "ts": "1589801958.095500"
+            },
+            {
+                "user": "UHFMWDFGF",
+                "ts": "1589801971.095800"
+            },
+            {
+                "user": "U6SF71BFT",
+                "ts": "1589801990.096000"
+            },
+            {
+                "user": "U6SF71BFT",
+                "ts": "1589802029.096200"
+            },
+            {
+                "user": "U6SF71BFT",
+                "ts": "1589802056.096400"
+            },
+            {
+                "user": "UHFMWDFGF",
+                "ts": "1589802105.096600"
+            },
+            {
+                "user": "U6SF71BFT",
+                "ts": "1589802160.096800"
+            },
+            {
+                "user": "U6SF71BFT",
+                "ts": "1589802177.097000"
+            },
+            {
+                "user": "UHFMWDFGF",
+                "ts": "1589802198.097200"
+            },
+            {
+                "user": "UDYMW0QH5",
+                "ts": "1589802461.097400"
+            },
+            {
+                "user": "UDYMW0QH5",
+                "ts": "1589802495.097600"
+            },
+            {
+                "user": "UDYMW0QH5",
+                "ts": "1589802582.097800"
+            },
+            {
+                "user": "UHFMWDFGF",
+                "ts": "1589802647.098000"
+            },
+            {
+                "user": "U2Z1D7MHU",
+                "ts": "1590052031.099300"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "yao",
+                "users": [
+                    "U486R9SNP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44b84006-c8a0-4008-b64f-28b7c4abd793",
+        "type": "message",
+        "text": "en los foros de hollow knight siempre dicen \"GIT GUD\" cuando la gente se queja de que es dificil :stuck_out_tongue:",
+        "user": "U6SF71BFT",
+        "ts": "1589795186.093800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/HUuS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en los foros de hollow knight siempre dicen \"GIT GUD\" cuando la gente se queja de que es dificil "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "e52027d5-1c57-4791-a5a1-5e00b30fb823",
+        "type": "message",
+        "text": "(y me incluyo, lo dejé despues de un ragequit y no me apetece nada volver a jugar)",
+        "user": "U6SF71BFT",
+        "ts": "1589795239.094000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G78Rp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(y me incluyo, lo dejé despues de un ragequit y no me apetece nada volver a jugar)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "ac4dca4d-b5d1-466a-bb97-b7ce6871a3c5",
+        "type": "message",
+        "text": "jugar con caballero modo tanque es bastante “easy”",
+        "user": "UDYMW0QH5",
+        "ts": "1589795365.094200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga5771d9930e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea5771d9930e4e853c58d605e6d9ca8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Joan Maeso",
+            "display_name": "jmaeso",
+            "team": "T2Y6L54R3",
+            "name": "jmaeso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cCZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "jugar con caballero modo tanque es bastante “easy”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "cc851c89-14b3-49fd-9627-bc52fae6d1ac",
+        "type": "message",
+        "text": "de hecho lo recomiendo a cualquiera que se plantee entrar en dark souls, que empiece con una partida de tanque",
+        "user": "UDYMW0QH5",
+        "ts": "1589795397.094400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga5771d9930e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea5771d9930e4e853c58d605e6d9ca8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Joan Maeso",
+            "display_name": "jmaeso",
+            "team": "T2Y6L54R3",
+            "name": "jmaeso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hbu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "de hecho lo recomiendo a cualquiera que se plantee entrar en dark souls, que empiece con una partida de tanque"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "97e165b1-b3bc-477f-b453-f1a4c47ac070",
+        "type": "message",
+        "text": "aun asi el juego si que crea situaciones dificiles, con trampas, bosses con patrones que dejan poco espacio para pegarles, el entorno, cosas asi",
+        "user": "UHFMWDFGF",
+        "ts": "1589796111.094600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "e603e8763607",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-16\/609751679152_e603e8763607da7a28b6_72.jpg",
+            "first_name": "Iosu",
+            "real_name": "Iosu",
+            "display_name": "Iosu",
+            "team": "T2Y6L54R3",
+            "name": "iosubueno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "buIc8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "aun asi el juego si que crea situaciones dificiles, con trampas, bosses con patrones que dejan poco espacio para pegarles, el entorno, cosas asi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "311f24a3-daba-4f2e-bd13-745e1c6e7c17",
+        "type": "message",
+        "text": "vengo a defender que creo que estamos perdiendo la costumbre de memorizar patrones, mirar donde pisamos, mirar detalles del mapa cuando jugamos",
+        "user": "UDYMW0QH5",
+        "ts": "1589800662.094800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga5771d9930e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea5771d9930e4e853c58d605e6d9ca8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Joan Maeso",
+            "display_name": "jmaeso",
+            "team": "T2Y6L54R3",
+            "name": "jmaeso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q+BY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "vengo a defender que creo que estamos perdiendo la costumbre de memorizar patrones, mirar donde pisamos, mirar detalles del mapa cuando jugamos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "e9012c84-5762-4cce-9d3e-c4a2f8e3250d",
+        "type": "message",
+        "text": "la mayoria de muertes en dark souls nada mas morir es decir: “si esque se veia a venir, he estado lento”, o “esto me pasa por no volver a por mas pociones”",
+        "user": "UDYMW0QH5",
+        "ts": "1589800718.095000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga5771d9930e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea5771d9930e4e853c58d605e6d9ca8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Joan Maeso",
+            "display_name": "jmaeso",
+            "team": "T2Y6L54R3",
+            "name": "jmaeso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z7bM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la mayoria de muertes en dark souls nada mas morir es decir: “si esque se veia a venir, he estado lento”, o “esto me pasa por no volver a por mas pociones”"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "b9a36d0b-183b-4780-acd6-ef28b111a401",
+        "type": "message",
+        "text": "cuando mueres en dark souls tienes que volver andando al boss que te ha matado verdad?",
+        "user": "U6SF71BFT",
+        "ts": "1589801307.095200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U6SF71BFT",
+            "ts": "1589801315.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QgW+Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cuando mueres en dark souls tienes que volver andando al boss que te ha matado verdad?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "7ac4364d-9c55-4ab3-9a5c-4cf77216a08d",
+        "type": "message",
+        "text": "cuando mueres se quedan tus almas (que son como la experiencia y oro del juego) en el lugar donde mueres y puedes volver a por ellas, pero si vuelves a morir en el camino las pierdes",
+        "user": "UHFMWDFGF",
+        "ts": "1589801958.095500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "e603e8763607",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-16\/609751679152_e603e8763607da7a28b6_72.jpg",
+            "first_name": "Iosu",
+            "real_name": "Iosu",
+            "display_name": "Iosu",
+            "team": "T2Y6L54R3",
+            "name": "iosubueno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UHFMWDFGF",
+            "ts": "1589801963.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TWtIE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cuando mueres se quedan tus almas (que son como la experiencia y oro del juego) en el lugar donde mueres y puedes volver a por ellas, pero si vuelves a morir en el camino las pierdes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "6a397367-fa4c-41cd-8c6d-bd91fd0e4e3d",
+        "type": "message",
+        "text": "no es obligatorio volver, pero es lo normal",
+        "user": "UHFMWDFGF",
+        "ts": "1589801971.095800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "e603e8763607",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-16\/609751679152_e603e8763607da7a28b6_72.jpg",
+            "first_name": "Iosu",
+            "real_name": "Iosu",
+            "display_name": "Iosu",
+            "team": "T2Y6L54R3",
+            "name": "iosubueno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hhr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no es obligatorio volver, pero es lo normal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "160fccbe-ad0c-4995-948a-c52150d2ce5c",
+        "type": "message",
+        "text": "ok, igual que hollow knight entonces",
+        "user": "U6SF71BFT",
+        "ts": "1589801990.096000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GFi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ok, igual que hollow knight entonces"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "0e178fdb-d1cb-4493-b6c9-03cf863e9743",
+        "type": "message",
+        "text": "a mi me aburrió el walk of shame desde el save point al alma. En mi ragequit morí igual 15 veces en el mismo sitio",
+        "user": "U6SF71BFT",
+        "ts": "1589802029.096200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fo6IR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "a mi me aburrió el walk of shame desde el save point al alma. En mi ragequit morí igual 15 veces en el mismo sitio"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "9f814b76-0a27-48ee-9784-dc3317a810db",
+        "type": "message",
+        "text": "no es un juego para mi :stuck_out_tongue:",
+        "user": "U6SF71BFT",
+        "ts": "1589802056.096400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AwpVB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no es un juego para mi "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "5b9439de-9b99-4d49-8a03-709f4cad91de",
+        "type": "message",
+        "text": "esta muy bien pensado el mapa con los atajos y hogueras para que nunca tardes mucho rato en llegar,y si mueres mucho siempre puedes probar a ir por otro lado",
+        "user": "UHFMWDFGF",
+        "ts": "1589802105.096600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "e603e8763607",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-16\/609751679152_e603e8763607da7a28b6_72.jpg",
+            "first_name": "Iosu",
+            "real_name": "Iosu",
+            "display_name": "Iosu",
+            "team": "T2Y6L54R3",
+            "name": "iosubueno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RDNN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "esta muy bien pensado el mapa con los atajos y hogueras para que nunca tardes mucho rato en llegar,y si mueres mucho siempre puedes probar a ir por otro lado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "9df65f72-ab48-4049-94c0-6f8141005516",
+        "type": "message",
+        "text": "bueno, moria en el boss, el alma se quedaba en la sala anterior. No era un camino dificil, pero despues de tantas veces te cortaba el rollo jeje",
+        "user": "U6SF71BFT",
+        "ts": "1589802160.096800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LqLtK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "bueno, moria en el boss, el alma se quedaba en la sala anterior. No era un camino dificil, pero despues de tantas veces te cortaba el rollo jeje"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "d5d90fc8-355c-4581-9e26-1f0d0f9a20a5",
+        "type": "message",
+        "text": "nada, solo una experiencia personal, nada mas :P",
+        "user": "U6SF71BFT",
+        "ts": "1589802177.097000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pu8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nada, solo una experiencia personal, nada mas :P"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "1dd1007f-3d05-409e-81cf-9881c0ea0300",
+        "type": "message",
+        "text": "claro, no todos los juegos son para todo el mundo",
+        "user": "UHFMWDFGF",
+        "ts": "1589802198.097200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "e603e8763607",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-16\/609751679152_e603e8763607da7a28b6_72.jpg",
+            "first_name": "Iosu",
+            "real_name": "Iosu",
+            "display_name": "Iosu",
+            "team": "T2Y6L54R3",
+            "name": "iosubueno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4TI1\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "claro, no todos los juegos son para todo el mundo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "a4da9219-06f5-4063-9eb4-a58f7c74c3a0",
+        "type": "message",
+        "text": "normalmente hay un atajo directo al boss",
+        "user": "UDYMW0QH5",
+        "ts": "1589802461.097400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga5771d9930e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea5771d9930e4e853c58d605e6d9ca8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Joan Maeso",
+            "display_name": "jmaeso",
+            "team": "T2Y6L54R3",
+            "name": "jmaeso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F7b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "normalmente hay un atajo directo al boss"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "5aee23eb-83c8-445f-9dee-03d77d19b996",
+        "type": "message",
+        "text": "ademas que siempre puedes ir en modo speedrun sin matar a todo el mundo, ese es mi flow normal",
+        "user": "UDYMW0QH5",
+        "ts": "1589802495.097600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga5771d9930e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea5771d9930e4e853c58d605e6d9ca8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Joan Maeso",
+            "display_name": "jmaeso",
+            "team": "T2Y6L54R3",
+            "name": "jmaeso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a1V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ademas que siempre puedes ir en modo speedrun sin matar a todo el mundo, ese es mi flow normal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "35e85d6a-d7d4-4411-b810-534c7b02b786",
+        "type": "message",
+        "text": "1- llego a una zona nueva\n2- exploro cada recoveco hasta llegar al boss\n3- back a la hoguera\n3.5- ir si habia alguna puerta que ahora tenga la llave\n4- speedrun al boss",
+        "user": "UDYMW0QH5",
+        "ts": "1589802582.097800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ga5771d9930e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ea5771d9930e4e853c58d605e6d9ca8f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+            "first_name": "",
+            "real_name": "Joan Maeso",
+            "display_name": "jmaeso",
+            "team": "T2Y6L54R3",
+            "name": "jmaeso",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xeDv5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "1- llego a una zona nueva\n2- exploro cada recoveco hasta llegar al boss\n3- back a la hoguera\n3.5- ir si habia alguna puerta que ahora tenga la llave\n4- speedrun al boss"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5"
+    },
+    {
+        "client_msg_id": "0f974446-fff0-4a61-a375-0eba324f7a8f",
+        "type": "message",
+        "text": "y antes de hacer ragequit, siempre se puede invocar",
+        "user": "UHFMWDFGF",
+        "ts": "1589802647.098000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "e603e8763607",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-04-16\/609751679152_e603e8763607da7a28b6_72.jpg",
+            "first_name": "Iosu",
+            "real_name": "Iosu",
+            "display_name": "Iosu",
+            "team": "T2Y6L54R3",
+            "name": "iosubueno",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TZ6a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y antes de hacer ragequit, siempre se puede invocar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589795096.093600",
+        "parent_user_id": "UDYMW0QH5",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "UDYMW0QH5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "XD",
+        "files": [
+            {
+                "id": "F013UDSEFUK",
+                "created": 1589805976,
+                "timestamp": 1589805976,
+                "name": "eqwedfqwerfgwetrherw.jpg",
+                "title": "eqwedfqwerfgwetrherw.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U319B9877",
+                "editable": false,
+                "size": 37980,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013UDSEFUK\/eqwedfqwerfgwetrherw.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013UDSEFUK\/download\/eqwedfqwerfgwetrherw.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013UDSEFUK-73f33b7037\/eqwedfqwerfgwetrherw_64.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013UDSEFUK-73f33b7037\/eqwedfqwerfgwetrherw_80.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013UDSEFUK-73f33b7037\/eqwedfqwerfgwetrherw_360.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 340,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013UDSEFUK-73f33b7037\/eqwedfqwerfgwetrherw_480.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 454,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013UDSEFUK-73f33b7037\/eqwedfqwerfgwetrherw_160.jpg?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "original_w": 640,
+                "original_h": 677,
+                "thumb_tiny": "AwAwAC2Hdkn0p\/ao4xnvT+R0NRN9Coot2Od7j2FWTIQxGxiPUVVsDl3+gq2yZJO4j8apbCasxPMPHyNz7U+oxHhs72+makpiMYHdTyAOgqsZtpAAzjrVhWDJu+7xnDUpeQ0WrEjc+ccAVYy2cBkqrYMHklXgjAq0UwSVRPamhBubuY+nFPXBUHIP0qPY2fuR1KAFGAAKAMcHd1pskAbkEgmojNtIAGcdasqwZNx+XjOGpPfQaLVgRlwccAVOGc9Nh\/GqtgVkllHDDAq46AY2oDng0xCbm5BKA9uakXBA6H6VGseSd8a+tSBQowBigD\/\/2Q==",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U319B9877\/F013UDSEFUK\/eqwedfqwerfgwetrherw.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013UDSEFUK-f633ad83dc",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xbl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "XD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U319B9877",
+        "display_as_bot": false,
+        "ts": "1589805989.098300",
+        "client_msg_id": "864919aa-6023-4a36-97fe-6c4cbc0052c5",
+        "thread_ts": "1589530564.091700",
+        "parent_user_id": "UCRBKBDNU",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UCRBKBDNU",
+                    "U2YEY1745"
+                ],
+                "count": 2
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "UCRBKBDNU",
+                    "U36H6F3CN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a947394-86ec-4471-9705-01682faa0b7d",
+        "type": "message",
+        "text": "Yo lo jugué en PS3 (por eso me compré la consola, casi no jugué a nada más), creo que notaré algun cambio :smile:",
+        "user": "U2YEY1745",
+        "ts": "1589810210.099000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "787b16a5d201",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-11\/994247683317_787b16a5d2013bc6fbc9_72.jpg",
+            "first_name": "Roger",
+            "real_name": "Roger Clotet",
+            "display_name": "rogerclotet",
+            "team": "T2Y6L54R3",
+            "name": "rogerclotet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "azpN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo lo jugué en PS3 (por eso me compré la consola, casi no jugué a nada más), creo que notaré algun cambio "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589530564.091700",
+        "parent_user_id": "UCRBKBDNU"
+    }
+]

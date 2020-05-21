@@ -1,0 +1,200 @@
+[
+    {
+        "client_msg_id": "d6f86bd9-e5b7-4185-a451-681017f836f9",
+        "type": "message",
+        "text": "Ostras, como se nota cuando giras la cabeza y no hablas al micro",
+        "user": "U40KDVDQF",
+        "ts": "1589959212.111700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "66700131c09f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-24\/186611189392_66700131c09f32aa413e_72.jpg",
+            "first_name": "Álvaro",
+            "real_name": "Álvaro Salvá",
+            "display_name": "redbaron",
+            "team": "T2Y6L54R3",
+            "name": "redbaron",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gIOG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ostras, como se nota cuando giras la cabeza y no hablas al micro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ec3a1fa-0889-4111-a407-551b22d7b3b0",
+        "type": "message",
+        "text": "menuda frikada-flipada lo del teclado xDD Con amor :kissing_heart:",
+        "user": "U40KDVDQF",
+        "ts": "1589959253.112200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "66700131c09f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-24\/186611189392_66700131c09f32aa413e_72.jpg",
+            "first_name": "Álvaro",
+            "real_name": "Álvaro Salvá",
+            "display_name": "redbaron",
+            "team": "T2Y6L54R3",
+            "name": "redbaron",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U4i4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "menuda frikada-flipada lo del teclado xDD Con amor "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "kissing_heart"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589959253.112200",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1589976382.112500",
+        "reply_users": [
+            "U2X8UK9UH"
+        ],
+        "replies": [
+            {
+                "user": "U2X8UK9UH",
+                "ts": "1589976380.112300"
+            },
+            {
+                "user": "U2X8UK9UH",
+                "ts": "1589976382.112500"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "65a737c1-ae85-4b16-a3ff-e77a39a7209e",
+        "type": "message",
+        "text": "Jajajajaja",
+        "user": "U2X8UK9UH",
+        "ts": "1589976380.112300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9535ab80525f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-06\/1041963411603_9535ab80525fe087357f_72.jpg",
+            "first_name": "Rafa",
+            "real_name": "Rafa Gómez",
+            "display_name": "rafa",
+            "team": "T2Y6L54R3",
+            "name": "rafa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u78N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Jajajajaja"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589959253.112200",
+        "parent_user_id": "U40KDVDQF"
+    },
+    {
+        "client_msg_id": "d937819f-1ece-48b0-9efa-ec35bc4fab90",
+        "type": "message",
+        "text": "Ya ves :joy:",
+        "user": "U2X8UK9UH",
+        "ts": "1589976382.112500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9535ab80525f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-06\/1041963411603_9535ab80525fe087357f_72.jpg",
+            "first_name": "Rafa",
+            "real_name": "Rafa Gómez",
+            "display_name": "rafa",
+            "team": "T2Y6L54R3",
+            "name": "rafa",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fp8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ya ves "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589959253.112200",
+        "parent_user_id": "U40KDVDQF",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U40KDVDQF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1590010363.112900",
+        "user": "UR28RU17H",
+        "text": "<@UR28RU17H> has left the channel"
+    }
+]

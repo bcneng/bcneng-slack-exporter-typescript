@@ -1,0 +1,106 @@
+[
+    {
+        "client_msg_id": "32cda8aa-55db-4b30-b93d-d4f8d11fa83c",
+        "type": "message",
+        "text": "<https:\/\/docker.events.cube365.net\/docker\/dockercon>",
+        "user": "UC7F3TZAR",
+        "ts": "1589552234.081000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ed28d6eda0da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-13\/416849602966_ed28d6eda0da631d597b_72.jpg",
+            "first_name": "Joachim",
+            "real_name": "Joachim Davies",
+            "display_name": "joachim",
+            "team": "T2Y6L54R3",
+            "name": "joachim.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "DockerCon LIVE 2020 with theCUBE",
+                "title_link": "https:\/\/docker.events.cube365.net\/docker\/dockercon",
+                "text": "A 1-day digital event on May 28th featuring sessions from Docker experts and the broader container community, a live hallway Q&amp;A track with the Docker Captains, and exclusive interviews with theCUBE.",
+                "fallback": "DockerCon LIVE 2020 with theCUBE",
+                "thumb_url": "https:\/\/s3-us-west-2.amazonaws.com\/cube365-prod\/landingPage\/0c1b9860-2d14-4492-9fff-278228f496d6.png",
+                "from_url": "https:\/\/docker.events.cube365.net\/docker\/dockercon",
+                "thumb_width": 518,
+                "thumb_height": 187,
+                "service_icon": "https:\/\/docker.events.cube365.net\/images\/favicon_thecube.png",
+                "service_name": "docker.events.cube365.net",
+                "id": 1,
+                "original_url": "https:\/\/docker.events.cube365.net\/docker\/dockercon"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lEul",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docker.events.cube365.net\/docker\/dockercon"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d53be4bb-fd95-4dc6-9386-9c05f39249b9",
+        "type": "message",
+        "text": "Hola, se que es un poco tarde pero quizás a alguien le interesa para tener más tips de aplicar el método de design thinking y quien sabe alguno gana el evento, DreamBig online el próximo 21 de mayo, tiene que ser en equipo de 3, os recomiendo que ya lo tengáis definido así como la idea un poco planteada ya que son 3 horas muy a tope :slightly_smiling_face:. <http:\/\/blog.imagine.cc\/2020\/05\/15\/dreambigonline\/>",
+        "user": "UEDFE7J07",
+        "ts": "1589564703.082900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XoU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hola, se que es un poco tarde pero quizás a alguien le interesa para tener más tips de aplicar el método de design thinking y quien sabe alguno gana el evento, DreamBig online el próximo 21 de mayo, tiene que ser en equipo de 3, os recomiendo que ya lo tengáis definido así como la idea un poco planteada ya que son 3 horas muy a tope "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/blog.imagine.cc\/2020\/05\/15\/dreambigonline\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

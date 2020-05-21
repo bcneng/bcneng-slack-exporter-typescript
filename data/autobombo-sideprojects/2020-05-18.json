@@ -1,0 +1,791 @@
+[
+    {
+        "client_msg_id": "7eb8946d-3f71-4337-adae-5a8ff542a993",
+        "type": "message",
+        "text": "lo puse aquí hace un tiempillo, pero lo hemos hecho público ya: <https:\/\/twitter.com\/retro_tool\/status\/1262295350276128770>",
+        "user": "U5FS4BH96",
+        "ts": "1589790581.189200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "effd4ad97524",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-06\/543768149283_effd4ad97524f3f66b2f_72.jpg",
+            "first_name": "Unai",
+            "real_name": "Unai",
+            "display_name": "uesteibar",
+            "team": "T2Y6L54R3",
+            "name": "uesteibar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/retro_tool|@retro_tool>: Hey there! We're happy to introduce <https:\/\/retrotool.app> :rocket: a tool to manage your remote team retrospectives:\n\n:woman-gesturing-no: Anonymous, no login required\n:link: Invite your colleagues by just sharing the url\n:stopwatch: Real-time\n:free: Free and open source\n\nMade with :heart:",
+                "ts": 1589789638,
+                "author_name": "Retro Tool",
+                "author_link": "https:\/\/twitter.com\/retro_tool\/status\/1262295350276128770",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1262277980128194560\/oxGE9hbf_normal.jpg",
+                "author_subname": "@retro_tool",
+                "text": "Hey there! We're happy to introduce <https:\/\/retrotool.app> :rocket: a tool to manage your remote team retrospectives:\n\n:woman-gesturing-no: Anonymous, no login required\n:link: Invite your colleagues by just sharing the url\n:stopwatch: Real-time\n:free: Free and open source\n\nMade with :heart:",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/retro_tool\/status\/1262295350276128770",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/retro_tool\/status\/1262295350276128770",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gw3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo puse aquí hace un tiempillo, pero lo hemos hecho público ya: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/retro_tool\/status\/1262295350276128770"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589790581.189200",
+        "reply_count": 5,
+        "reply_users_count": 4,
+        "latest_reply": "1589873844.197800",
+        "reply_users": [
+            "U8QMJ1DUH",
+            "U5FS4BH96",
+            "U486R9SNP",
+            "U2YMTLRUK"
+        ],
+        "replies": [
+            {
+                "user": "U8QMJ1DUH",
+                "ts": "1589792509.191800"
+            },
+            {
+                "user": "U5FS4BH96",
+                "ts": "1589793435.192000"
+            },
+            {
+                "user": "U486R9SNP",
+                "ts": "1589795021.192300"
+            },
+            {
+                "user": "U2YMTLRUK",
+                "ts": "1589835992.196200"
+            },
+            {
+                "user": "U5FS4BH96",
+                "ts": "1589873844.197800"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "UN4105TR8",
+                    "U2Y6KTWRZ",
+                    "U3G7LQRU0",
+                    "UEE9HD3U0",
+                    "U361W7LUV",
+                    "U49DCUW22",
+                    "U2Y6QQHST",
+                    "U314KFBT6",
+                    "U36H6F3CN"
+                ],
+                "count": 9
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a24ff55e-0847-45fd-b40b-04508fb72acd",
+        "type": "message",
+        "text": "para los que estáis aqui con side-project, este jueves a las 17 hay la aoportunidad de participar o asistir en Dream BIG online, es un evento que enseña como aplicar design thinking en una idea de negocio, <https:\/\/www.dreambigchallenge.com\/> en la web indica los 5 retos que patrocinan, pero igual si queréis participar solo para aprender con vuestra idea es muy útik (parece spam) pero a mi me ayudó a pivotar un side-project que tenía",
+        "user": "UEDFE7J07",
+        "ts": "1589790986.191200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Dream Big Challenge - Empower youth throught innovation",
+                "title_link": "https:\/\/www.dreambigchallenge.com\/",
+                "text": "Dream Big Challenge is an initiative that aims to give value to the youth talent in order to build the future they will be living. This initiative unfolds throughout a disruptive innovation competition where thousands of solutions for businesses challenges are developed.",
+                "fallback": "Dream Big Challenge - Empower youth throught innovation",
+                "from_url": "https:\/\/www.dreambigchallenge.com\/",
+                "service_name": "dreambigchallenge.com",
+                "id": 1,
+                "original_url": "https:\/\/www.dreambigchallenge.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E3QW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "para los que estáis aqui con side-project, este jueves a las 17 hay la aoportunidad de participar o asistir en Dream BIG online, es un evento que enseña como aplicar design thinking en una idea de negocio, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.dreambigchallenge.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " en la web indica los 5 retos que patrocinan, pero igual si queréis participar solo para aprender con vuestra idea es muy útik (parece spam) pero a mi me ayudó a pivotar un side-project que tenía"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589790986.191200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1589916446.200900",
+        "reply_users": [
+            "UTWA4PFHN",
+            "UEDFE7J07"
+        ],
+        "replies": [
+            {
+                "user": "UTWA4PFHN",
+                "ts": "1589899956.198800"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589901605.200700"
+            },
+            {
+                "user": "UTWA4PFHN",
+                "ts": "1589916446.200900"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ty",
+                "users": [
+                    "UTWA4PFHN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "af575218-36be-40d5-9a4e-b8b920fdc5d2",
+        "type": "message",
+        "text": "la use para nuestra ultima retro, super bien!!",
+        "user": "U8QMJ1DUH",
+        "ts": "1589792509.191800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6d6ab1c50c79",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-19\/641751026743_6d6ab1c50c79556f69b5_72.jpg",
+            "first_name": "",
+            "real_name": "Rubén",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "ruben.aguilar.becerra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T10",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la use para nuestra ultima retro, super bien!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589790581.189200",
+        "parent_user_id": "U5FS4BH96"
+    },
+    {
+        "client_msg_id": "f9fa1a14-0cb9-4c44-badc-ab8ce54f67db",
+        "type": "message",
+        "text": "Qué bueno, gracias! :tada:",
+        "user": "U5FS4BH96",
+        "ts": "1589793435.192000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "effd4ad97524",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-06\/543768149283_effd4ad97524f3f66b2f_72.jpg",
+            "first_name": "Unai",
+            "real_name": "Unai",
+            "display_name": "uesteibar",
+            "team": "T2Y6L54R3",
+            "name": "uesteibar",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a53",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Qué bueno, gracias! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589790581.189200",
+        "parent_user_id": "U5FS4BH96"
+    },
+    {
+        "client_msg_id": "acb1848a-8463-4974-b249-571a7067d653",
+        "type": "message",
+        "text": "MM creo que la próxima retro me toca a mi hacerla, así que la probaré :stuck_out_tongue:",
+        "user": "U486R9SNP",
+        "ts": "1589795021.192300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gc8fa2381b16",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc8fa2381b16cbc541e55683950658b8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Genís",
+            "real_name": "Genís Díaz",
+            "display_name": "genisdiaz",
+            "team": "T2Y6L54R3",
+            "name": "genisdiaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "apzZ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "MM creo que la próxima retro me toca a mi hacerla, así que la probaré "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589790581.189200",
+        "parent_user_id": "U5FS4BH96",
+        "reactions": [
+            {
+                "name": "awesome",
+                "users": [
+                    "U5FS4BH96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5a4672f-0d2f-4e8f-a1b1-9c6b62e11e4e",
+        "type": "message",
+        "text": "Este finde he montado un admin para subir ficheros y que te generen un QR con el link. Está hecho para subir un fichero y listo: <https:\/\/twitter.com\/palaueb\/status\/1262121182712811524>\nPensado para restaurantes y bares que necesitan un QR para que los clientes vean la carta.",
+        "user": "URWNRSQNN",
+        "ts": "1589796305.193100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7705868ac71f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-04\/895420589159_7705868ac71fd457db3c_72.jpg",
+            "first_name": "",
+            "real_name": "Marc Palau",
+            "display_name": "Marc Palau",
+            "team": "T2Y6L54R3",
+            "name": "marc730",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "URWNRSQNN",
+            "ts": "1589796325.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/palaueb|@palaueb>: ¿Estas en apuros con el tema de los QR y las cartas de los restaurantes?He hecho una app opensource que te deja subir pdf\/imagenes y te crea el QR. La puedes descargar de <https:\/\/github.com\/palaueb\/restacart>\nEs un fichero php, crea una carpeta en tu hosting y súbelo.Dudas aquí. #restacart RT!",
+                "ts": 1589748113,
+                "author_name": "ლꜲᴙℂ ☺ 𝑷𝒂𝒍𝒂𝒖",
+                "author_link": "https:\/\/twitter.com\/palaueb\/status\/1262121182712811524",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/879961842671652864\/d1YmL-k0_normal.jpg",
+                "author_subname": "@palaueb",
+                "text": "¿Estas en apuros con el tema de los QR y las cartas de los restaurantes?He hecho una app opensource que te deja subir pdf\/imagenes y te crea el QR. La puedes descargar de <https:\/\/github.com\/palaueb\/restacart>\nEs un fichero php, crea una carpeta en tu hosting y súbelo.Dudas aquí. #restacart RT!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/palaueb\/status\/1262121182712811524",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/palaueb\/status\/1262121182712811524",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gdI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Este finde he montado un admin para subir ficheros y que te generen un QR con el link. Está hecho para subir un fichero y listo: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/palaueb\/status\/1262121182712811524"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nPensado para restaurantes y bares que necesitan un QR para que los clientes vean la carta."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U36H6F3CN",
+                    "UTWA4PFHN"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "U2ZS36LQN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589811234.193900",
+        "user": "U014J8P6T2L",
+        "text": "<@U014J8P6T2L> has joined the channel"
+    },
+    {
+        "client_msg_id": "7330c890-c256-4029-aef6-910c9c00bc69",
+        "type": "message",
+        "text": "Hello! Os acordais que os pedí el otro dia si os interesaba que hiciese una charla sobre github actions? Y que luego pregunté fechas? Pues ya tengo fecha! Este viernes 22 a las 19h\n<https:\/\/twitter.com\/carlesnunez\/status\/1262476681937379328?s=20>",
+        "user": "UGPRV963X",
+        "ts": "1589833262.195000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6e81237bf0d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-12\/573952548404_6e81237bf0d34165e431_72.png",
+            "first_name": "Carles",
+            "real_name": "Carles Nuñez Tomeo",
+            "display_name": "Carles Nuñez Tomeo",
+            "team": "T2Y6L54R3",
+            "name": "carlesnunezt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/carlesnunez|@carlesnunez>: Vosotros y vosotras habéis decidido la fecha de la charla\/workshop!\n\nEste viernes 22 a las 19:00 - Github actions | Qué son y cómo crear tu propia acción\n\nComo siempre, si pudieseis difundir el mensaje a quien creáis que puede resultarle útil sería genial\n\n<https:\/\/www.youtube.com\/channel\/UC95ApssdyvKv4jR07e9tpjA\/live>",
+                "ts": 1589832871,
+                "author_name": "Carles Núñez Tomeo 🏠",
+                "author_link": "https:\/\/twitter.com\/carlesnunez\/status\/1262476681937379328",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/975152918801371136\/neNdcfRX_normal.jpg",
+                "author_subname": "@carlesnunez",
+                "text": "Vosotros y vosotras habéis decidido la fecha de la charla\/workshop!\n\nEste viernes 22 a las 19:00 - Github actions | Qué son y cómo crear tu propia acción\n\nComo siempre, si pudieseis difundir el mensaje a quien creáis que puede resultarle útil sería genial\n\n<https:\/\/www.youtube.com\/channel\/UC95ApssdyvKv4jR07e9tpjA\/live>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/carlesnunez\/status\/1262476681937379328?s=20",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/carlesnunez\/status\/1262476681937379328?s=20",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a=V=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! Os acordais que os pedí el otro dia si os interesaba que hiciese una charla sobre github actions? Y que luego pregunté fechas? Pues ya tengo fecha! Este viernes 22 a las 19h\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/carlesnunez\/status\/1262476681937379328?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589833262.195000",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1589871726.197100",
+        "reply_users": [
+            "UC58U6AP9",
+            "UP25YE34P",
+            "U314KFBT6"
+        ],
+        "replies": [
+            {
+                "user": "UC58U6AP9",
+                "ts": "1589834000.196000"
+            },
+            {
+                "user": "UP25YE34P",
+                "ts": "1589839931.196500"
+            },
+            {
+                "user": "U314KFBT6",
+                "ts": "1589871726.197100"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "UUPUNRWKZ",
+                    "UC58U6AP9",
+                    "U6A845RPY",
+                    "UP25YE34P",
+                    "ULCG68056",
+                    "UBR8L2N3G",
+                    "U486R9SNP",
+                    "U40KDVDQF",
+                    "U5FS4BH96",
+                    "U2Y6KTWRZ",
+                    "UGVNLB7LL",
+                    "UTWA4PFHN",
+                    "U0110FB38PN"
+                ],
+                "count": 13
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UTWA4PFHN"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25abee4f-f449-4066-b014-97f7787fe3e1",
+        "type": "message",
+        "text": "si os interesa nos vemos en el directo :slightly_smiling_face:",
+        "user": "UGPRV963X",
+        "ts": "1589833274.195400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6e81237bf0d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-12\/573952548404_6e81237bf0d34165e431_72.png",
+            "first_name": "Carles",
+            "real_name": "Carles Nuñez Tomeo",
+            "display_name": "Carles Nuñez Tomeo",
+            "team": "T2Y6L54R3",
+            "name": "carlesnunezt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X3O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si os interesa nos vemos en el directo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d37bd5bf-2375-4af3-a396-da971c9ee160",
+        "type": "message",
+        "text": "Y si no, lo voy a grabar, asi que… no problem!",
+        "user": "UGPRV963X",
+        "ts": "1589833283.195700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "6e81237bf0d3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-03-12\/573952548404_6e81237bf0d34165e431_72.png",
+            "first_name": "Carles",
+            "real_name": "Carles Nuñez Tomeo",
+            "display_name": "Carles Nuñez Tomeo",
+            "team": "T2Y6L54R3",
+            "name": "carlesnunezt",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UGPRV963X",
+            "ts": "1589900203.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Or58h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Y si no, lo voy a grabar, asi que… no problem!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589833283.195700",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1589900225.200200",
+        "reply_users": [
+            "U9SLAAAPM",
+            "UTWA4PFHN",
+            "UGPRV963X"
+        ],
+        "replies": [
+            {
+                "user": "U9SLAAAPM",
+                "ts": "1589873340.197500"
+            },
+            {
+                "user": "UTWA4PFHN",
+                "ts": "1589900000.199500"
+            },
+            {
+                "user": "UTWA4PFHN",
+                "ts": "1589900009.199700"
+            },
+            {
+                "user": "UGPRV963X",
+                "ts": "1589900212.200000"
+            },
+            {
+                "user": "UGPRV963X",
+                "ts": "1589900225.200200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UGV6YGFU4",
+                    "UGVNLB7LL",
+                    "UGUQTPSQM",
+                    "UTWA4PFHN"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e5a8c0a-acc3-45e3-b043-e08df9a2d18a",
+        "type": "message",
+        "text": "grandeeee",
+        "user": "UC58U6AP9",
+        "ts": "1589834000.196000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a2bcb9927c92",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-04\/861296888039_a2bcb9927c924b6c7e34_72.jpg",
+            "first_name": "Gustavo",
+            "real_name": "Gustavo Bueno",
+            "display_name": "Gus Bueno",
+            "team": "T2Y6L54R3",
+            "name": "gustavo.bueno89",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MmwI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "grandeeee"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589833262.195000",
+        "parent_user_id": "UGPRV963X"
+    },
+    {
+        "client_msg_id": "44bc8da5-e9f5-4e36-8932-ebc9b04e58b8",
+        "type": "message",
+        "text": "la ha diseñado Marcio? me encanta :d",
+        "user": "U2YMTLRUK",
+        "ts": "1589835992.196200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "20eaf1beee13",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-06\/787244573575_20eaf1beee131c747920_72.jpg",
+            "first_name": "Joan",
+            "real_name": "Joan",
+            "display_name": "mezod",
+            "team": "T2Y6L54R3",
+            "name": "mezod",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yMQi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "la ha diseñado Marcio? me encanta :d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589790581.189200",
+        "parent_user_id": "U5FS4BH96"
+    },
+    {
+        "client_msg_id": "670b6586-ba2f-4f8d-9d7f-feba8af58cfb",
+        "type": "message",
+        "text": "Genial, tengo muchas ganas de verla.",
+        "user": "UP25YE34P",
+        "ts": "1589839931.196500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf361728fc5e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f361728fc5e0c4b5efd72ac3e194bad5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Dídac",
+            "real_name": "Dídac García",
+            "display_name": "didaquis",
+            "team": "T2Y6L54R3",
+            "name": "didaquis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2W=\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Genial, tengo muchas ganas de verla."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589833262.195000",
+        "parent_user_id": "UGPRV963X"
+    }
+]

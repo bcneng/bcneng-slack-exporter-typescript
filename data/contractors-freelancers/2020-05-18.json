@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "94431a59-ca2b-4a00-96cb-64e8146160ed",
+        "type": "message",
+        "text": "Algún autónomo se ha tenido que desplazar estos dias en bcn\/madrid por trabajo? Habéis rellenado el comunicado de autónomo del boe y listo? Hace falta que firme\/selle la empresa?",
+        "user": "UR9TCLYAJ",
+        "ts": "1589807315.067900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gdd43cd23af7",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/dd43cd23af75cdff21ac2323cd79e874.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "",
+            "real_name": "Ivan Jiménez",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "torocatala",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Imm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Algún autónomo se ha tenido que desplazar estos dias en bcn\/madrid por trabajo? Habéis rellenado el comunicado de autónomo del boe y listo? Hace falta que firme\/selle la empresa?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,749 @@
+[
+    {
+        "client_msg_id": "c6d0840b-a784-4a77-aaa0-d64fd87742df",
+        "type": "message",
+        "text": "<https:\/\/www.strava.com\/subscription\/from-our-founders>",
+        "user": "U3BFPNLEL",
+        "ts": "1589877047.495600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "13416c97f5a2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-07-07\/208761754512_13416c97f5a2a7944003_72.jpg",
+            "first_name": "Thomas",
+            "real_name": "Thomas Jouas",
+            "display_name": "thomas",
+            "team": "T2Y6L54R3",
+            "name": "thomas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "We’re betting on our athletes",
+                "title_link": "https:\/\/www.strava.com\/subscription\/from-our-founders",
+                "text": "Our founders, Mark Gainey and Michael Horvath, on the way forward.",
+                "fallback": "We’re betting on our athletes",
+                "image_url": "https:\/\/images.ctfassets.net\/9olkiac82a1q\/40O3o9Ee8ut0ZjsQoD6d3T\/97ae04c5d78634f566ca33ea4d7a397a\/Share_Image_FoundersLetter_V2.jpg",
+                "from_url": "https:\/\/www.strava.com\/subscription\/from-our-founders",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 913493,
+                "service_icon": "https:\/\/www.strava.com\/favicon.ico",
+                "service_name": "strava.com",
+                "id": 1,
+                "original_url": "https:\/\/www.strava.com\/subscription\/from-our-founders"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KtsI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.strava.com\/subscription\/from-our-founders"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589877047.495600",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1589880717.499200",
+        "reply_users": [
+            "U67MQ8EH5"
+        ],
+        "replies": [
+            {
+                "user": "U67MQ8EH5",
+                "ts": "1589880661.498800"
+            },
+            {
+                "user": "U67MQ8EH5",
+                "ts": "1589880688.499000"
+            },
+            {
+                "user": "U67MQ8EH5",
+                "ts": "1589880717.499200"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "ULGH65X7E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F013WG2LFRR",
+                "created": 1589878215,
+                "timestamp": 1589878215,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U6ALMA2J3",
+                "editable": false,
+                "size": 478834,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013WG2LFRR\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013WG2LFRR\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WG2LFRR-2b2ec6d5cc\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WG2LFRR-2b2ec6d5cc\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WG2LFRR-2b2ec6d5cc\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WG2LFRR-2b2ec6d5cc\/image_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013WG2LFRR-2b2ec6d5cc\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "original_w": 540,
+                "original_h": 540,
+                "thumb_tiny": "AwAwADDQZV2n5R+VRYHoPyqWQlQMMo+tM3jruTHfigTQrKMDgflSoo9B+VM8zPPmR8e1SKwwMkZPTtmgBdq+g\/KkdR6D8qjuLlLfG8E56YpI7iOcHYenUGgY9mK5xk96jEj8f4VUe9BQlAQxPQ806C5RyFf5W\/nSQMtTziHaWIAI9KaJBOing56ZpssMUrZkwSOB89OMcfkiPC7QMff6U2CEvoy8fAyR2qKxiZNzMpXoOasqqeWULnb\/AL+T+dU7wC2kSSA7d+c4PBoAqGMpCJGAwegzTFY7124BB4JqaQBhy4x6c0ioq8g\/p\/jQBYhmne6EbMhGckhRzU93JJGo8pRnPPy5yKzzKFk3fN1zgAYpJbgyPuGRxgCgB\/22cthdp\/4AKbLLLNt8zGF6cAVEvCsfXinxqDk8cUAf\/9k=",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/U6ALMA2J3\/F013WG2LFRR\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013WG2LFRR-ac112154bd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U6ALMA2J3",
+        "display_as_bot": false,
+        "ts": "1589878224.496000",
+        "client_msg_id": "7cd585d7-fdc5-4864-bc4f-e8dff1f8f02b",
+        "thread_ts": "1589878224.496000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1589899041.006500",
+        "reply_users": [
+            "U36ALHDBQ",
+            "UCRBKBDNU"
+        ],
+        "replies": [
+            {
+                "user": "U36ALHDBQ",
+                "ts": "1589881554.499800"
+            },
+            {
+                "user": "UCRBKBDNU",
+                "ts": "1589899041.006500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U6A845RPY",
+                    "U36D61N0H",
+                    "U36H6F3CN",
+                    "U5HQG3H18",
+                    "U7BG5P0H3",
+                    "UFW0A1GV8",
+                    "UNU6C3KKR",
+                    "U8QLZMFC3",
+                    "UMBEAG23E",
+                    "U40KDVDQF",
+                    "U2YEY1745",
+                    "UM4BZ5MPH",
+                    "U31E6PRQV",
+                    "UKPCZ3MKQ",
+                    "U2Y6QQHST",
+                    "U2YM1G5CM",
+                    "UDHAZQNF9",
+                    "UQS6DCBKR",
+                    "U0130LV49HB",
+                    "UTTLKD9AM",
+                    "U76M2DKU1",
+                    "UMZ3N1GG6",
+                    "U63PVEYUE",
+                    "UUP0PJC5S",
+                    "US07UNLL8",
+                    "U01006QPEF6"
+                ],
+                "count": 26
+            },
+            {
+                "name": "top",
+                "users": [
+                    "U6A845RPY",
+                    "U36D61N0H",
+                    "U5HQG3H18",
+                    "UFW0A1GV8",
+                    "U6SF71BFT",
+                    "U70682FEY",
+                    "U35UMTQ6L",
+                    "UJK8XAJAK",
+                    "UEDFE7J07",
+                    "U2YM1G5CM",
+                    "U0130LV49HB",
+                    "UH2PEAPQV"
+                ],
+                "count": 12
+            },
+            {
+                "name": "crown",
+                "users": [
+                    "U5HQG3H18",
+                    "U0130LV49HB",
+                    "UH2PEAPQV",
+                    "UR17BJNJK"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3bfada3d-96de-43f3-983d-98191cf1ed68",
+        "type": "message",
+        "text": "just been talking about this in our bike club. it's... interesting. Nice to see that they're rolling back some of the stupid decisions over the last few years, and nice to see that they're doubling down on not selling data \/ advertising",
+        "user": "U67MQ8EH5",
+        "ts": "1589880661.498800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8326d79a54d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f8326d79a54d1ce681a81ae30eea1ab9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Alastair",
+            "real_name": "Alastair P",
+            "display_name": "alastair",
+            "team": "T2Y6L54R3",
+            "name": "alastair",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KNXur",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "just been talking about this in our bike club. it's... interesting. Nice to see that they're rolling back some of the stupid decisions over the last few years, and nice to see that they're doubling down on not selling data \/ advertising"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589877047.495600",
+        "parent_user_id": "U3BFPNLEL"
+    },
+    {
+        "client_msg_id": "99c514b3-370a-4e57-8656-bf33c5b3e1e3",
+        "type": "message",
+        "text": "but always a bit shit to see features being taken away. It would have been great to see them bring out some amazing new feature that was subscriber-only",
+        "user": "U67MQ8EH5",
+        "ts": "1589880688.499000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8326d79a54d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f8326d79a54d1ce681a81ae30eea1ab9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Alastair",
+            "real_name": "Alastair P",
+            "display_name": "alastair",
+            "team": "T2Y6L54R3",
+            "name": "alastair",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Mr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but always a bit shit to see features being taken away. It would have been great to see them bring out some amazing new feature that was subscriber-only"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589877047.495600",
+        "parent_user_id": "U3BFPNLEL"
+    },
+    {
+        "client_msg_id": "08fa3ae8-891a-48e0-87b7-7888e1fbdd55",
+        "type": "message",
+        "text": "but in the end, they're a VC-backed company, and seems like they're under pressure to turn a profit.",
+        "user": "U67MQ8EH5",
+        "ts": "1589880717.499200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g8326d79a54d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f8326d79a54d1ce681a81ae30eea1ab9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Alastair",
+            "real_name": "Alastair P",
+            "display_name": "alastair",
+            "team": "T2Y6L54R3",
+            "name": "alastair",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tybT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "but in the end, they're a VC-backed company, and seems like they're under pressure to turn a profit."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589877047.495600",
+        "parent_user_id": "U3BFPNLEL",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U3BFPNLEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7426d1a7-5d21-4df1-b621-ef46459142d5",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/raiin_song\/status\/1262093877818818561?s=20>",
+        "user": "U36ALHDBQ",
+        "ts": "1589881554.499800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g7160c1401b8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/17160c1401b81f988bd6747bb36459ec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Takeichi",
+            "real_name": "Takeichi Kanzaki Cabrera",
+            "display_name": "tkanzakic",
+            "team": "T2Y6L54R3",
+            "name": "tkanzakic",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/raiin_song|@raiin_song>: thread of this specific and very funny sense of humor: <https:\/\/pbs.twimg.com\/media\/EYPZp3vXQAI12LQ.png>",
+                "ts": 1589741603,
+                "author_name": "🐕 rain is staying the fuck home 🏡",
+                "author_link": "https:\/\/twitter.com\/raiin_song\/status\/1262093877818818561",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1262196716238929920\/c0m4_ltT_normal.jpg",
+                "author_subname": "@raiin_song",
+                "text": "thread of this specific and very funny sense of humor: <https:\/\/pbs.twimg.com\/media\/EYPZp3vXQAI12LQ.png>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/raiin_song\/status\/1262093877818818561?s=20",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EYPZp3vXQAI12LQ.png",
+                "image_width": 745,
+                "image_height": 692,
+                "image_bytes": 662720,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/raiin_song\/status\/1262093877818818561?s=20",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m=I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/raiin_song\/status\/1262093877818818561?s=20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589878224.496000",
+        "parent_user_id": "U6ALMA2J3",
+        "reactions": [
+            {
+                "name": "top",
+                "users": [
+                    "UCRBKBDNU"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "UCRBKBDNU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01499LLZ89",
+                "created": 1589890106,
+                "timestamp": 1589890106,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UN6S9CCGH",
+                "editable": false,
+                "size": 200434,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F01499LLZ89\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F01499LLZ89\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F01499LLZ89-7b62eebaa4\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F01499LLZ89-7b62eebaa4\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F01499LLZ89-7b62eebaa4\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 187,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F01499LLZ89-7b62eebaa4\/image_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 250,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F01499LLZ89-7b62eebaa4\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F01499LLZ89-7b62eebaa4\/image_720.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720_w": 720,
+                "thumb_720_h": 375,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F01499LLZ89-7b62eebaa4\/image_800.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 416,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F01499LLZ89-7b62eebaa4\/image_960.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_960_w": 960,
+                "thumb_960_h": 499,
+                "original_w": 992,
+                "original_h": 516,
+                "thumb_tiny": "AwAYADCiANn3TnPWgjjGzB+hpVJC\/dJH1NGZM5G4UAN2n0P5UbT2B\/Kl+f8A2qTc394\/nQAmD6H8qKNxxjJ\/OigA49aPxpKKAFGPU0UlFAC8etHakooA\/9k=",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/UN6S9CCGH\/F01499LLZ89\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F01499LLZ89-c7b595667e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UN6S9CCGH",
+        "display_as_bot": false,
+        "ts": "1589890109.001400",
+        "client_msg_id": "8e072146-856f-4b48-8bb9-1451850b5158",
+        "reactions": [
+            {
+                "name": "top",
+                "users": [
+                    "U36D61N0H",
+                    "UUPUNRWKZ",
+                    "U361W7LUV",
+                    "U2YM1G5CM",
+                    "U486R9SNP",
+                    "UCDGLBY20",
+                    "U30C7SX6E",
+                    "U0130LV49HB",
+                    "U2X2D7R8Q"
+                ],
+                "count": 9
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U4RAEJQGK",
+                    "UUPUNRWKZ",
+                    "UR1V53P2T",
+                    "UTJM0J0UV",
+                    "UP10MUMJT",
+                    "U361W7LUV",
+                    "UDXLU4P2N",
+                    "UPR5RC8C9",
+                    "U8W42S013",
+                    "U0130LV49HB"
+                ],
+                "count": 10
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "U361W7LUV",
+                    "UPR5RC8C9",
+                    "U0130LV49HB",
+                    "U3R29MX61",
+                    "U6LSQ99K7",
+                    "U36H6F3CN",
+                    "U7BG5P0H3",
+                    "U3H773A2K",
+                    "UC58U6AP9",
+                    "U31D77SPP",
+                    "US07UNLL8",
+                    "U32L364NL",
+                    "U6A845RPY",
+                    "UES7RLLJ1",
+                    "U35UMTQ6L"
+                ],
+                "count": 15
+            },
+            {
+                "name": "see_no_evil",
+                "users": [
+                    "U2Y6QQHST",
+                    "U0130LV49HB",
+                    "U3R29MX61",
+                    "UMZ3N1GG6"
+                ],
+                "count": 4
+            },
+            {
+                "name": "drum_with_drumsticks",
+                "users": [
+                    "UEDFE7J07",
+                    "U0130LV49HB",
+                    "U3R29MX61",
+                    "U6J7N1UPQ",
+                    "UG23CGY5C",
+                    "U2Y8E0R0S",
+                    "US07UNLL8",
+                    "UC8R6Q0GJ"
+                ],
+                "count": 8
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UKDMJBEEL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84128046-175a-43e9-8977-d62964c874da",
+        "type": "message",
+        "text": "It's that time of the week for Github... :grimacing: getting some occasional 504s",
+        "user": "U326S0XLJ",
+        "ts": "1589896760.005600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "7620a01fab04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-15\/909450568838_7620a01fab0467dc0551_72.jpg",
+            "first_name": "Tom",
+            "real_name": "Tom Fenech",
+            "display_name": "tom-fenech",
+            "team": "T2Y6L54R3",
+            "name": "tom-fenech",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U326S0XLJ",
+            "ts": "1589896922.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1EsTU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's that time of the week for Github... "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grimacing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " getting some occasional 504s"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U49DCUW22"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57fa1988-bb3a-4dff-ac6c-65789c969904",
+        "type": "message",
+        "text": "Me encantan xDD",
+        "user": "UCRBKBDNU",
+        "ts": "1589899041.006500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "b46c226580f7",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-11-08\/474349634803_b46c226580f775d32345_72.jpg",
+            "first_name": "drag0s",
+            "real_name": "drag0s",
+            "display_name": "drag0s",
+            "team": "T2Y6L54R3",
+            "name": "me1364",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MEBcg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Me encantan xDD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589878224.496000",
+        "parent_user_id": "U6ALMA2J3"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589914453.007500",
+        "user": "U012XRHKQ07",
+        "text": "<@U012XRHKQ07> has joined the channel"
+    },
+    {
+        "client_msg_id": "ab82e793-7dfe-490f-a0f0-12fbd7dd0c1f",
+        "type": "message",
+        "text": "<https:\/\/status.quay.io\/> almost the entire day down, not a good day for quay",
+        "user": "UFW0A1GV8",
+        "ts": "1589920116.007900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UFW0A1GV8",
+            "ts": "1589920125.000000"
+        },
+        "attachments": [
+            {
+                "title": "Quay.io Status",
+                "title_link": "https:\/\/status.quay.io\/",
+                "text": "Welcome to <http:\/\/Quay.io|Quay.io>'s home for real-time and historical data on system performance.",
+                "fallback": "Quay.io Status",
+                "from_url": "https:\/\/status.quay.io\/",
+                "service_icon": "http:\/\/dka575ofm4ao0.cloudfront.net\/pages-favicon_logos\/original\/5467\/favicon.png",
+                "service_name": "status.quay.io",
+                "id": 1,
+                "original_url": "https:\/\/status.quay.io\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rm9FX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/status.quay.io\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": " almost the entire day down, not a good day for quay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "point_up",
+                "users": [
+                    "U326S0XLJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1589956182.008500",
+        "user": "U013ULXQ6HK",
+        "text": "<@U013ULXQ6HK> has left the channel"
+    }
+]

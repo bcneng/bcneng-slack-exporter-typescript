@@ -1,0 +1,210 @@
+[
+    {
+        "client_msg_id": "72014b78-f90f-423f-9d16-3550ec07b42d",
+        "type": "message",
+        "text": "Ufff todavía recuerdo aquellos tiempos haciéndome polvo con chad muska y sonando el guerrilla radio de RATM de fondo :cry:",
+        "user": "UM8NSGSHJ",
+        "ts": "1589440279.089900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gcfa8eb7e5ce",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ecfa8eb7e5ce75fdf52e298c94d3e358.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Aleix",
+            "real_name": "Aleix Ramírez",
+            "display_name": "Aleix Ramírez",
+            "team": "T2Y6L54R3",
+            "name": "aleix.rmbaena",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pzt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ufff todavía recuerdo aquellos tiempos haciéndome polvo con chad muska y sonando el guerrilla radio de RATM de fondo "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589363053.085100",
+        "parent_user_id": "U7PQZMZ4L"
+    },
+    {
+        "client_msg_id": "5b2013b6-eb53-4295-963e-a5ccb9ebf6aa",
+        "type": "message",
+        "text": "Con cada consola digo no la voy a comprar, total para el uso que la hago... luego pico siempre",
+        "user": "U486R9SNP",
+        "ts": "1589442158.090200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gc8fa2381b16",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc8fa2381b16cbc541e55683950658b8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Genís",
+            "real_name": "Genís Díaz",
+            "display_name": "genisdiaz",
+            "team": "T2Y6L54R3",
+            "name": "genisdiaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7jJHZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Con cada consola digo no la voy a comprar, total para el uso que la hago... luego pico siempre"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589393596.089400",
+        "parent_user_id": "UCRBKBDNU"
+    },
+    {
+        "client_msg_id": "0383ecbb-c8db-4e7e-a98b-ba4878eb7b08",
+        "type": "message",
+        "text": "exactamente lo mismo me pasa, y desde que tengo el crio la play aparcadisima, pero se que me la comprare igualmente :joy:",
+        "user": "UM98F4064",
+        "ts": "1589445339.090400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g78db86338fe",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f78db86338fe41b9a47c6039137625f6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Akimaris",
+            "display_name": "Akimaris",
+            "team": "T2Y6L54R3",
+            "name": "rodrigodrieracanut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VXoO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "exactamente lo mismo me pasa, y desde que tengo el crio la play aparcadisima, pero se que me la comprare igualmente "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589393596.089400",
+        "parent_user_id": "UCRBKBDNU"
+    },
+    {
+        "client_msg_id": "412f52d4-9468-481c-8fe7-99a31488866d",
+        "type": "message",
+        "text": "La misma situación, pero siempre saco algo de tiempo por la noche para jugar.",
+        "user": "U40KDVDQF",
+        "ts": "1589446444.090700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "66700131c09f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2017-05-24\/186611189392_66700131c09f32aa413e_72.jpg",
+            "first_name": "Álvaro",
+            "real_name": "Álvaro Salvá",
+            "display_name": "redbaron",
+            "team": "T2Y6L54R3",
+            "name": "redbaron",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GOO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "La misma situación, pero siempre saco algo de tiempo por la noche para jugar."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589393596.089400",
+        "parent_user_id": "UCRBKBDNU"
+    },
+    {
+        "client_msg_id": "760b87fc-7364-4962-be29-1a40cf190027",
+        "type": "message",
+        "text": "Yo el problema es que como tengo tantas series y\/o peliculas por ver, pues siempre tiro de esto antes de jugar xD",
+        "user": "U486R9SNP",
+        "ts": "1589446865.090900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gc8fa2381b16",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bc8fa2381b16cbc541e55683950658b8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+            "first_name": "Genís",
+            "real_name": "Genís Díaz",
+            "display_name": "genisdiaz",
+            "team": "T2Y6L54R3",
+            "name": "genisdiaz",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kZO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yo el problema es que como tengo tantas series y\/o peliculas por ver, pues siempre tiro de esto antes de jugar xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589393596.089400",
+        "parent_user_id": "UCRBKBDNU"
+    }
+]

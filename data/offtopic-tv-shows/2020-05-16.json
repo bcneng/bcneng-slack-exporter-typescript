@@ -1,0 +1,147 @@
+[
+    {
+        "client_msg_id": "f97bdd67-4c18-44a5-8fe8-89e72bd09fbb",
+        "type": "message",
+        "text": "Hay \"Dérapages\" en Netflix, es un thriller social de 6 episodios, Éric Cantona tiene el papel principal",
+        "user": "UDHAZQNF9",
+        "ts": "1589653916.009400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dF+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hay \"Dérapages\" en Netflix, es un thriller social de 6 episodios, Éric Cantona tiene el papel principal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589653916.009400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1589687804.009700",
+        "reply_users": [
+            "U3256HZH9",
+            "UDHAZQNF9"
+        ],
+        "replies": [
+            {
+                "user": "U3256HZH9",
+                "ts": "1589666327.009500"
+            },
+            {
+                "user": "UDHAZQNF9",
+                "ts": "1589687804.009700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "59b7417a-9000-4995-8cf5-51461c16cec5",
+        "type": "message",
+        "text": "Ey pues lo voy a ver. Aún recuerdo la peli de Buscando a Éric que me encantó (no sé cómo se llama la peli en VO)",
+        "user": "U3256HZH9",
+        "ts": "1589666327.009500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "93a860885d0c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2016-11-14\/104920922678_93a860885d0c44efe06e_72.jpg",
+            "first_name": "Mavi",
+            "real_name": "Mavi Jimenez",
+            "display_name": "mavi",
+            "team": "T2Y6L54R3",
+            "name": "mavi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t9gR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ey pues lo voy a ver. Aún recuerdo la peli de Buscando a Éric que me encantó (no sé cómo se llama la peli en VO)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589653916.009400",
+        "parent_user_id": "UDHAZQNF9"
+    },
+    {
+        "client_msg_id": "8b69f74a-cd24-4011-b5e8-b8236ca74d28",
+        "type": "message",
+        "text": "Se llama \"looking for Eric\" :wink:\n\nY me ha gustado mucho upload! Gracias para la recomendacion",
+        "user": "UDHAZQNF9",
+        "ts": "1589687804.009700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2pMr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Se llama \"looking for Eric\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nY me ha gustado mucho upload! Gracias para la recomendacion"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589653916.009400",
+        "parent_user_id": "UDHAZQNF9"
+    }
+]

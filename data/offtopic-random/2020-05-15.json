@@ -1,0 +1,1644 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589526727.452500",
+        "user": "U014154HF97",
+        "text": "<@U014154HF97> has joined the channel"
+    },
+    {
+        "client_msg_id": "ce5e6973-8f17-4bfc-af68-4c1741ea40c0",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/poloniatv3\/status\/1261033320693018632?s=19|https:\/\/twitter.com\/poloniatv3\/status\/1261033320693018632?s=19>",
+        "user": "UDHAZQNF9",
+        "ts": "1589527758.452700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/poloniatv3|@poloniatv3>: Si el teu municipi encara no ha passat a la fase següent, no us preocupeu. Fes-te amb el teu “Baby compra runner dog 3000” i surt sense problemes! #PolòniaAcasaTV3 #PolòniaTV3 <https:\/\/pbs.twimg.com\/media\/EYAKExYXsAAtuYe.jpg>",
+                "ts": 1589488747,
+                "author_name": "Polònia",
+                "author_link": "https:\/\/twitter.com\/poloniatv3\/status\/1261033320693018632",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/544896634904006656\/Fpd8BsPb_normal.png",
+                "author_subname": "@poloniatv3",
+                "text": "Si el teu municipi encara no ha passat a la fase següent, no us preocupeu. Fes-te amb el teu “Baby compra runner dog 3000” i surt sense problemes! #PolòniaAcasaTV3 #PolòniaTV3",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/poloniatv3\/status\/1261033320693018632?s=19",
+                "thumb_url": "https:\/\/pbs.twimg.com\/media\/EYAKExYXsAAtuYe.jpg",
+                "thumb_width": 640,
+                "thumb_height": 360,
+                "video_html_width": 640,
+                "video_html_height": 360,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/media\/EYAKExYXsAAtuYe.jpg\" width=\"640\" height=\"360\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/amplify_video\/1261017792175898624\/vid\/854x480\/ChGYL-J2cY30s-ed.mp4?tag=13\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/poloniatv3\/status\/1261033320693018632?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jSC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/poloniatv3\/status\/1261033320693018632?s=19",
+                                "text": "https:\/\/twitter.com\/poloniatv3\/status\/1261033320693018632?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U4HCQ4X1S",
+                    "U6A845RPY",
+                    "U012XB53TRS",
+                    "UL1CXNCBZ",
+                    "U0130LV49HB"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13f29612-6ad0-4c1c-96b8-ae96dbb08707",
+        "type": "message",
+        "text": "<https:\/\/www.theverge.com\/platform\/amp\/2020\/5\/1\/21244058\/google-meet-microsoft-teams-webex-personal-data-collection-privacy-policy-concerns>",
+        "user": "U012XB53TRS",
+        "ts": "1589529696.453400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "a6d8350341fb",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-04-29\/1086489688454_a6d8350341fbc0b2a324_72.png",
+            "first_name": "",
+            "real_name": "Toni Pérez Fígols",
+            "display_name": "Toni Pérez Fígols",
+            "team": "T2Y6L54R3",
+            "name": "toni.perez.figols",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "title": "Google Meet, Microsoft Teams, and WebEx are collecting more customer data than they appear to be",
+                "title_link": "https:\/\/www.theverge.com\/platform\/amp\/2020\/5\/1\/21244058\/google-meet-microsoft-teams-webex-personal-data-collection-privacy-policy-concerns",
+                "fallback": "Google Meet, Microsoft Teams, and WebEx are collecting more customer data than they appear to be",
+                "image_url": "https:\/\/cdn.vox-cdn.com\/thumbor\/owRjgOVy0ET_SLEGBtaC4DiRzp8=\/0x0:2000x1250\/1400x933\/filters:focal(840x465:1160x785):no_upscale()\/cdn.vox-cdn.com\/uploads\/chorus_image\/image\/66739733\/Google_Meet_1.max_2000x2000.0.png",
+                "from_url": "https:\/\/www.theverge.com\/platform\/amp\/2020\/5\/1\/21244058\/google-meet-microsoft-teams-webex-personal-data-collection-privacy-policy-concerns",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 351784,
+                "service_icon": "https:\/\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/7395359\/ios-icon.0.png",
+                "service_name": "theverge.com",
+                "id": 1,
+                "original_url": "https:\/\/www.theverge.com\/platform\/amp\/2020\/5\/1\/21244058\/google-meet-microsoft-teams-webex-personal-data-collection-privacy-policy-concerns"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EhL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.theverge.com\/platform\/amp\/2020\/5\/1\/21244058\/google-meet-microsoft-teams-webex-personal-data-collection-privacy-policy-concerns"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "UGMMSM2KD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<https:\/\/www.eldiario.es\/economia\/Bruselas-expedienta-Espana-impedir-extranjeras_0_1027147751.html>\n\nPues la comunidad europea ha abierto un procedimiento contra España por los impedimentos a la hora de pagar tasas y cobrar prestaciones con cuentas de banco no españolas.",
+        "user": "U2Y5FEY1H",
+        "ts": "1589533700.453800",
+        "thread_ts": "1588836813.316200",
+        "root": {
+            "client_msg_id": "d9eeab41-abaa-4ef6-92b9-a7a562ea6b81",
+            "type": "message",
+            "text": "<https:\/\/www.eldiario.es\/economia\/N26-moderno-clientes-espanoles-tirados_0_1023998342.html>",
+            "user": "U6J7N1UPQ",
+            "ts": "1588836813.316200",
+            "team": "T2Y6L54R3",
+            "attachments": [
+                {
+                    "service_name": "eldiario.es",
+                    "title": "N26, el neobanco alemán, deja a sus clientes españoles tirados sin cobrar el paro",
+                    "title_link": "https:\/\/www.eldiario.es\/economia\/N26-moderno-clientes-espanoles-tirados_0_1023998342.html",
+                    "text": "La entidad no tiene cuenta operativa en la Tesorería General de la Seguridad Social y tampoco se lo ha comunicado a sus clientes, que descubren con sorpresa que no les llega la prestación",
+                    "fallback": "eldiario.es: N26, el neobanco alemán, deja a sus clientes españoles tirados sin cobrar el paro",
+                    "thumb_url": "https:\/\/www.eldiario.es\/fotos\/N26-domiciliar-impuestos-Seguridad-Social_EDIIMA20200506_0437_3.jpg",
+                    "from_url": "https:\/\/www.eldiario.es\/economia\/N26-moderno-clientes-espanoles-tirados_0_1023998342.html",
+                    "thumb_width": 975,
+                    "thumb_height": 362,
+                    "service_icon": "https:\/\/www.eldiario.es\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/www.eldiario.es\/economia\/N26-moderno-clientes-espanoles-tirados_0_1023998342.html"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "2XB1k",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/www.eldiario.es\/economia\/N26-moderno-clientes-espanoles-tirados_0_1023998342.html"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1588836813.316200",
+            "reply_count": 16,
+            "reply_users_count": 7,
+            "latest_reply": "1589545872.461800",
+            "reply_users": [
+                "UMBEAG23E",
+                "UFW0A1GV8",
+                "U326S0XLJ",
+                "U2Z7WKZFC",
+                "U2Y5FEY1H",
+                "UG8EE0CKY",
+                "UD10JMGUD"
+            ],
+            "subscribed": false
+        },
+        "attachments": [
+            {
+                "service_name": "eldiario.es",
+                "title": "Bruselas expedienta a España por impedir pagar tasas con cuentas extranjeras",
+                "title_link": "https:\/\/www.eldiario.es\/economia\/Bruselas-expedienta-Espana-impedir-extranjeras_0_1027147751.html",
+                "text": "La Comisión Europea (CE) abrió este jueves un procedimiento de infracción contra España por impedir que los ciudadanos paguen por domiciliación ...",
+                "fallback": "eldiario.es: Bruselas expedienta a España por impedir pagar tasas con cuentas extranjeras",
+                "thumb_url": "https:\/\/www.eldiario.es\/economia\/Bruselas-expedienta-Espana-impedir-extranjeras_EDIIMA20200514_0468_3.jpg",
+                "from_url": "https:\/\/www.eldiario.es\/economia\/Bruselas-expedienta-Espana-impedir-extranjeras_0_1027147751.html",
+                "thumb_width": 975,
+                "thumb_height": 362,
+                "service_icon": "https:\/\/www.eldiario.es\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.eldiario.es\/economia\/Bruselas-expedienta-Espana-impedir-extranjeras_0_1027147751.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "326p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.eldiario.es\/economia\/Bruselas-expedienta-Espana-impedir-extranjeras_0_1027147751.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nPues la comunidad europea ha abierto un procedimiento contra España por los impedimentos a la hora de pagar tasas y cobrar prestaciones con cuentas de banco no españolas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b15cbd63-4dc7-48fe-a829-ffc2ddc1e7fa"
+    },
+    {
+        "client_msg_id": "782c95d6-13eb-40f4-9246-d087d530cc06",
+        "type": "message",
+        "text": "(en respuesta a <https:\/\/bcneng.slack.com\/archives\/C2Y6L596H\/p1588836813316200>)",
+        "user": "U2Y5FEY1H",
+        "ts": "1589533757.454400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "8a74c005d37f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-25\/512550888023_8a74c005d37f24929506_72.png",
+            "first_name": "Odín",
+            "real_name": "Odín del Río",
+            "display_name": "odin",
+            "team": "T2Y6L54R3",
+            "name": "odin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U2Y5FEY1H",
+            "ts": "1589533760.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "eldiario.es",
+                "title": "N26, el neobanco alemán, deja a sus clientes españoles tirados sin cobrar el paro",
+                "title_link": "https:\/\/www.eldiario.es\/economia\/N26-moderno-clientes-espanoles-tirados_0_1023998342.html",
+                "text": "La entidad no tiene cuenta operativa en la Tesorería General de la Seguridad Social y tampoco se lo ha comunicado a sus clientes, que descubren con sorpresa que no les llega la prestación",
+                "fallback": "eldiario.es: N26, el neobanco alemán, deja a sus clientes españoles tirados sin cobrar el paro",
+                "thumb_url": "https:\/\/www.eldiario.es\/fotos\/N26-domiciliar-impuestos-Seguridad-Social_EDIIMA20200506_0437_3.jpg",
+                "from_url": "https:\/\/www.eldiario.es\/economia\/N26-moderno-clientes-espanoles-tirados_0_1023998342.html",
+                "thumb_width": 975,
+                "thumb_height": 362,
+                "service_icon": "https:\/\/www.eldiario.es\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/bcneng.slack.com\/archives\/C2Y6L596H\/p1588836813316200="
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1AlMu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(en respuesta a "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/bcneng.slack.com\/archives\/C2Y6L596H\/p1588836813316200"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87d65e1e-d5c0-4061-876e-c3a3cae2c6fb",
+        "type": "message",
+        "text": "barriendo para casa muy bien <@U2Y5FEY1H> :joy:",
+        "user": "UG8EE0CKY",
+        "ts": "1589533797.454700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "93397e26ee31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-21\/556797170866_93397e26ee31744e3aec_72.jpg",
+            "first_name": "Santi",
+            "real_name": "Santi Muñoz",
+            "display_name": "Santi Muñoz",
+            "team": "T2Y6L54R3",
+            "name": "santi.munozm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "REP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "barriendo para casa muy bien "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U2Y5FEY1H"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588836813.316200",
+        "parent_user_id": "U6J7N1UPQ"
+    },
+    {
+        "client_msg_id": "58b305d5-1247-4fec-82ea-381a5d027f7f",
+        "type": "message",
+        "text": "es que el otro día me mencionaron en el thread de la queja hahaha",
+        "user": "U2Y5FEY1H",
+        "ts": "1589533827.454900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "8a74c005d37f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-25\/512550888023_8a74c005d37f24929506_72.png",
+            "first_name": "Odín",
+            "real_name": "Odín del Río",
+            "display_name": "odin",
+            "team": "T2Y6L54R3",
+            "name": "odin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7rdE2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "es que el otro día me mencionaron en el thread de la queja hahaha"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588836813.316200",
+        "parent_user_id": "U6J7N1UPQ"
+    },
+    {
+        "client_msg_id": "91bc02f1-2c73-4da5-82da-ca03faef8bf9",
+        "type": "message",
+        "text": "en realidad es una mierda toda es burocracia, sea culpa de quién sea el que lo sufre es el que no puede cobrar su ERTE :cry:",
+        "user": "U2Y5FEY1H",
+        "ts": "1589533881.455100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "8a74c005d37f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-25\/512550888023_8a74c005d37f24929506_72.png",
+            "first_name": "Odín",
+            "real_name": "Odín del Río",
+            "display_name": "odin",
+            "team": "T2Y6L54R3",
+            "name": "odin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bhQ1k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "en realidad es una mierda toda es burocracia, sea culpa de quién sea el que lo sufre es el que no puede cobrar su ERTE "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588836813.316200",
+        "parent_user_id": "U6J7N1UPQ"
+    },
+    {
+        "client_msg_id": "c13df739-1010-4f55-8738-f6fc69422b8a",
+        "type": "message",
+        "text": "es un drama la verdad si :S",
+        "user": "UG8EE0CKY",
+        "ts": "1589533983.455300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "93397e26ee31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-21\/556797170866_93397e26ee31744e3aec_72.jpg",
+            "first_name": "Santi",
+            "real_name": "Santi Muñoz",
+            "display_name": "Santi Muñoz",
+            "team": "T2Y6L54R3",
+            "name": "santi.munozm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LMj8g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "es un drama la verdad si :S"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588836813.316200",
+        "parent_user_id": "U6J7N1UPQ"
+    },
+    {
+        "client_msg_id": "ee180a33-4f09-4b05-9333-b9487e7cbb09",
+        "type": "message",
+        "text": "ostia puta, y esto es por tema burocratico?",
+        "user": "UD10JMGUD",
+        "ts": "1589534773.455600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gc17b3c888c6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4c17b3c888c61e0fdd8b150c4789e9c0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "iagolast",
+            "real_name": "iagolast",
+            "display_name": "iagolast",
+            "team": "T2Y6L54R3",
+            "name": "iago.lastra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aZU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ostia puta, y esto es por tema burocratico?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588836813.316200",
+        "parent_user_id": "U6J7N1UPQ"
+    },
+    {
+        "client_msg_id": "8045be4d-5f02-43d1-8898-1fa86ffe7318",
+        "type": "message",
+        "text": "o por tema tech?",
+        "user": "UD10JMGUD",
+        "ts": "1589534777.455800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gc17b3c888c6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4c17b3c888c61e0fdd8b150c4789e9c0.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+            "first_name": "iagolast",
+            "real_name": "iagolast",
+            "display_name": "iagolast",
+            "team": "T2Y6L54R3",
+            "name": "iago.lastra",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jH66",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "o por tema tech?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588836813.316200",
+        "parent_user_id": "U6J7N1UPQ"
+    },
+    {
+        "client_msg_id": "46d79fe9-daa8-42b3-bc27-3a4269240730",
+        "type": "message",
+        "text": "tema burocratico :disappointed:",
+        "user": "UG8EE0CKY",
+        "ts": "1589534865.456000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "93397e26ee31",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-21\/556797170866_93397e26ee31744e3aec_72.jpg",
+            "first_name": "Santi",
+            "real_name": "Santi Muñoz",
+            "display_name": "Santi Muñoz",
+            "team": "T2Y6L54R3",
+            "name": "santi.munozm",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SiL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "tema burocratico "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588836813.316200",
+        "parent_user_id": "U6J7N1UPQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589537232.456600",
+        "user": "U0142SPE1B3",
+        "text": "<@U0142SPE1B3> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589537889.456800",
+        "user": "U014E46RRB2",
+        "text": "<@U014E46RRB2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "I feel it in my bones.",
+        "files": [
+            {
+                "id": "F013HLG0KPY",
+                "created": 1589542386,
+                "timestamp": 1589542386,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UGC8J6E8J",
+                "editable": false,
+                "size": 669395,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013HLG0KPY\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T2Y6L54R3-F013HLG0KPY\/download\/image.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013HLG0KPY-830a72061a\/image_64.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013HLG0KPY-830a72061a\/image_80.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013HLG0KPY-830a72061a\/image_360.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_360_w": 360,
+                "thumb_360_h": 318,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013HLG0KPY-830a72061a\/image_480.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_480_w": 480,
+                "thumb_480_h": 424,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013HLG0KPY-830a72061a\/image_160.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013HLG0KPY-830a72061a\/image_720.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_720_w": 720,
+                "thumb_720_h": 636,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013HLG0KPY-830a72061a\/image_800.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_800_w": 800,
+                "thumb_800_h": 707,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013HLG0KPY-830a72061a\/image_960.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_960_w": 960,
+                "thumb_960_h": 848,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T2Y6L54R3-F013HLG0KPY-830a72061a\/image_1024.png?t=xoxe-100224174853-1138100404802-1123358455703-a37b56735b2b5e19fe3568809a8c433c",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 904,
+                "original_w": 2063,
+                "original_h": 1822,
+                "thumb_tiny": "AwAqADCw24sTuHU8E0bX9R+Zo9enU04E5xxWck1qUmmKqseMnP1NKE4OQ2R\/tYpyAlWAxnPekBTcQNoB6jbVRWgmJsGepXju1N5Hc5yO9PHL4O30Hyf1pHGGUHGeM4+tEkCI\/Xjuf504AjnBx6031H1qXK+WDub6ZqmrqwkICQcilLlvUEehpi\/dGKWsVJo0smODsRhR+PWo2PK89WFLGx3ldm1R\/Hu6\/hQRkgn+8D+tU+hKEPGT9aeceSADkg05kXn5R19KQqv90flWhJGMgjk4p1LsX+6PypwRcfdH5VDhcpSsIR+5GO9NPb6j+dPKr\/dH5UiKu7oPypuNxJn\/2Q==",
+                "permalink": "https:\/\/bcneng.slack.com\/files\/UGC8J6E8J\/F013HLG0KPY\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T2Y6L54R3-F013HLG0KPY-b8309e08ae",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "45Lqp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I feel it in my bones."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UGC8J6E8J",
+        "display_as_bot": false,
+        "ts": "1589542391.457200",
+        "client_msg_id": "b66cd994-56ce-4388-bfd0-40345293f741",
+        "thread_ts": "1589542391.457200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1589564085.467600",
+        "reply_users": [
+            "U2YM1G5CM",
+            "UGC8J6E8J"
+        ],
+        "replies": [
+            {
+                "user": "U2YM1G5CM",
+                "ts": "1589544081.459400"
+            },
+            {
+                "user": "UGC8J6E8J",
+                "ts": "1589544341.459600"
+            },
+            {
+                "user": "U2YM1G5CM",
+                "ts": "1589564085.467600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "this_is_fine",
+                "users": [
+                    "U36H6F3CN",
+                    "UTJM0J0UV",
+                    "U7BG5P0H3",
+                    "UNR7EF5EU",
+                    "UCRBKBDNU",
+                    "U2YM1G5CM",
+                    "U2YEY1745",
+                    "U5HQG3H18",
+                    "U7RS5B6G0"
+                ],
+                "count": 9
+            },
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "UN6S9CCGH",
+                    "UNR7EF5EU",
+                    "U2YM1G5CM",
+                    "U40KDVDQF",
+                    "U0130LV49HB",
+                    "U3R29MX61"
+                ],
+                "count": 6
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "UKX69JY1F",
+                    "UGVNLB7LL",
+                    "UD10JMGUD",
+                    "UEDFE7J07",
+                    "UCRBKBDNU",
+                    "UBW26D7D3",
+                    "U2YEY1745",
+                    "UQS6DCBKR"
+                ],
+                "count": 8
+            },
+            {
+                "name": "js",
+                "users": [
+                    "UC8R6Q0GJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "rainbow",
+                "users": [
+                    "UM1D80L3X"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589543122.458200",
+        "user": "U013QEG342F",
+        "text": "<@U013QEG342F> has joined the channel"
+    },
+    {
+        "client_msg_id": "3b0d8c9f-83e7-4d9c-bc3b-e0d99f441308",
+        "type": "message",
+        "text": "Pladur pintado con spray, con \"TODO: fix with actual walls\" pintado en las juntas.",
+        "user": "U2YM1G5CM",
+        "ts": "1589544081.459400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd6cefe6793b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d6cefe6793bce07335ca4168bc22ba7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Míguez",
+            "display_name": "mrzard",
+            "team": "T2Y6L54R3",
+            "name": "mrzard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ODh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pladur pintado con spray, con \"TODO: fix with actual walls\" pintado en las juntas."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589542391.457200",
+        "parent_user_id": "UGC8J6E8J",
+        "reactions": [
+            {
+                "name": "heavy_plus_sign",
+                "users": [
+                    "U2YEY1745"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9628003f-26d0-4866-9b77-dec93883ea89",
+        "type": "message",
+        "text": "<@U2YM1G5CM> como se nota tu experiencia allí :hug:",
+        "user": "UGC8J6E8J",
+        "ts": "1589544341.459600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "16bbd98bf1f1",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-21\/556050844288_16bbd98bf1f1e9f3266e_72.jpg",
+            "first_name": "Vadym",
+            "real_name": "Vadym",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "your.faraway",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RKl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U2YM1G5CM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " como se nota tu experiencia allí "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hug"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589542391.457200",
+        "parent_user_id": "UGC8J6E8J"
+    },
+    {
+        "client_msg_id": "d31ef4f1-2e9b-4fb7-b603-39d6f50ce0d0",
+        "type": "message",
+        "text": "Un compañero siempre dice lambada en lugar de lambda. Pensaba que lo decia de broma, pero lo dice siempre, incluso en chat lo escribe asi jaja.",
+        "user": "U6SF71BFT",
+        "ts": "1589545459.460700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g859830e8f55",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4859830e8f55f47d30b8fd4db2b4865c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Albert",
+            "real_name": "Albert Callarisa",
+            "display_name": "albert",
+            "team": "T2Y6L54R3",
+            "name": "acroca",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HEqfX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Un compañero siempre dice lambada en lugar de lambda. Pensaba que lo decia de broma, pero lo dice siempre, incluso en chat lo escribe asi jaja."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589545459.460700",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1589554800.464500",
+        "reply_users": [
+            "UFW0A1GV8",
+            "UEDFE7J07",
+            "UN6S9CCGH",
+            "U2YEY1745",
+            "UTJM0J0UV"
+        ],
+        "replies": [
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589545535.460900"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589547348.462900"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589548258.463100"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589548266.463300"
+            },
+            {
+                "user": "UN6S9CCGH",
+                "ts": "1589548267.463500"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589551570.463900"
+            },
+            {
+                "user": "U2YEY1745",
+                "ts": "1589552433.464200"
+            },
+            {
+                "user": "UTJM0J0UV",
+                "ts": "1589554800.464500"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "U6J7N1UPQ",
+                    "U010A14HZ4P",
+                    "U36H6F3CN",
+                    "U8QLZMFC3",
+                    "U6A845RPY",
+                    "UDHAZQNF9"
+                ],
+                "count": 6
+            },
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UNR7EF5EU",
+                    "UEDFE7J07",
+                    "U2YEY1745",
+                    "UDHAZQNF9"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d7cad110-10ea-4b6f-b7d9-c3f1ee9c4dad",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=lo1o7xZLe0c>",
+        "user": "UFW0A1GV8",
+        "ts": "1589545535.460900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Jennifer Lopez vs Kaoma  - Lambada On The Floor (Remix)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=lo1o7xZLe0c",
+                "author_name": "corazonazultw",
+                "author_link": "https:\/\/www.youtube.com\/user\/corazonazultw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/lo1o7xZLe0c\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Jennifer Lopez vs Kaoma  - Lambada On The Floor (Remix)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/lo1o7xZLe0c?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=lo1o7xZLe0c",
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=lo1o7xZLe0c"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cz1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=lo1o7xZLe0c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589545459.460700",
+        "parent_user_id": "U6SF71BFT"
+    },
+    {
+        "client_msg_id": "2F4B7398-5A00-45E6-B081-7A3A1A7E0630",
+        "type": "message",
+        "text": "si fuera tech ya estaba solucionado ",
+        "user": "U2Y5FEY1H",
+        "ts": "1589545872.461800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "8a74c005d37f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-12-25\/512550888023_8a74c005d37f24929506_72.png",
+            "first_name": "Odín",
+            "real_name": "Odín del Río",
+            "display_name": "odin",
+            "team": "T2Y6L54R3",
+            "name": "odin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AUfcU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "si fuera tech ya estaba solucionado "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1588836813.316200",
+        "parent_user_id": "U6J7N1UPQ"
+    },
+    {
+        "client_msg_id": "ca862fd3-eda6-4fce-9c7d-642cc3acbe63",
+        "type": "message",
+        "text": "uno dice lamda sin las b",
+        "user": "UEDFE7J07",
+        "ts": "1589547348.462900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j4hzB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "uno dice lamda sin las b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589545459.460700",
+        "parent_user_id": "U6SF71BFT"
+    },
+    {
+        "client_msg_id": "051689a3-2334-4422-a5b0-00a98224ca29",
+        "type": "message",
+        "text": "y lambada también",
+        "user": "UN6S9CCGH",
+        "ts": "1589548258.463100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "71U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "y lambada también"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589545459.460700",
+        "parent_user_id": "U6SF71BFT"
+    },
+    {
+        "client_msg_id": "e3d0aeb5-844a-4e0f-8587-219956674253",
+        "type": "message",
+        "text": "lo ha escrito de esas dos formas",
+        "user": "UN6S9CCGH",
+        "ts": "1589548266.463300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XgjZS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "lo ha escrito de esas dos formas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589545459.460700",
+        "parent_user_id": "U6SF71BFT"
+    },
+    {
+        "client_msg_id": "eb4ea38f-7702-4ca0-b35e-c0c19c6cd627",
+        "type": "message",
+        "text": "xD",
+        "user": "UN6S9CCGH",
+        "ts": "1589548267.463500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2bc804b491ba",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-09-16\/763714528055_2bc804b491bae0759c66_72.jpg",
+            "first_name": "Victor",
+            "real_name": "Victor Fondevilla",
+            "display_name": "Victor Fondevilla",
+            "team": "T2Y6L54R3",
+            "name": "victor.fondevilla",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vsm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "xD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589545459.460700",
+        "parent_user_id": "U6SF71BFT"
+    },
+    {
+        "client_msg_id": "a697a182-7633-428b-93b7-37fe5a12817d",
+        "type": "message",
+        "text": "que dices!!! mis ojos",
+        "user": "UEDFE7J07",
+        "ts": "1589551570.463900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i9B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "que dices!!! mis ojos"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589545459.460700",
+        "parent_user_id": "U6SF71BFT"
+    },
+    {
+        "client_msg_id": "1b208891-5bef-4e0e-ab8f-47737a0f19d5",
+        "type": "message",
+        "text": "yo lo pronuncio \"serverless-but-not-really\" :troll:",
+        "user": "U2YEY1745",
+        "ts": "1589552433.464200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "787b16a5d201",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-11\/994247683317_787b16a5d2013bc6fbc9_72.jpg",
+            "first_name": "Roger",
+            "real_name": "Roger Clotet",
+            "display_name": "rogerclotet",
+            "team": "T2Y6L54R3",
+            "name": "rogerclotet",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iRI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo lo pronuncio \"serverless-but-not-really\" "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "troll"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589545459.460700",
+        "parent_user_id": "U6SF71BFT"
+    },
+    {
+        "client_msg_id": "50ebbf18-f182-40a3-997f-1ddc60ff3970",
+        "type": "message",
+        "text": "\"No todos los héroes llevan capa\"",
+        "user": "UTJM0J0UV",
+        "ts": "1589554800.464500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ea330d6c47b2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-02-04\/923910459042_ea330d6c47b2880efef3_72.png",
+            "first_name": "Jesús",
+            "real_name": "Jesús Valera Reales",
+            "display_name": "Jesús Valera Reales",
+            "team": "T2Y6L54R3",
+            "name": "jesus1902",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2RfoF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"No todos los héroes llevan capa\""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589545459.460700",
+        "parent_user_id": "U6SF71BFT"
+    },
+    {
+        "client_msg_id": "85758e85-e3bc-4498-8361-5319bc5d704a",
+        "type": "message",
+        "text": "<https:\/\/toggl.com\/blog\/save-princess-8-programming-languages?utm_content=buffer576a9&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer>",
+        "user": "UQ12EDR7G",
+        "ts": "1589556712.465100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "2cbc37138b8e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-10-30\/807429039073_2cbc37138b8e5ee62eac_72.jpg",
+            "first_name": "Christian",
+            "real_name": "Christian",
+            "display_name": "Christian",
+            "team": "T2Y6L54R3",
+            "name": "geodis",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Toggl Blog",
+                "title": "How To Save The Princess in 8 Programming Languages [Comic] - Toggl Blog",
+                "title_link": "https:\/\/toggl.com\/blog\/save-princess-8-programming-languages?utm_content=buffer576a9&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer",
+                "text": "You need to rescue the princess with code – but sometimes your code doesn’t work and the princess is a dragon and you’re a fish. Welcome to programming: This comic was developed by the Toggl Goon Squad. When not horsing around and making fun of technologies they do not like (or don’t know how to",
+                "fallback": "Toggl Blog: How To Save The Princess in 8 Programming Languages [Comic] - Toggl Blog",
+                "image_url": "https:\/\/toggl.com\/blog\/wp-content\/uploads\/2018\/08\/toggl-how-to-save-the-princess-in-8-programming-languages-0c32e93f47f3f6401913846c4c184e3e-1.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1522713600,
+                "from_url": "https:\/\/toggl.com\/blog\/save-princess-8-programming-languages?utm_content=buffer576a9&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer",
+                "image_bytes": 194873,
+                "service_icon": "https:\/\/toggl.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/toggl.com\/blog\/save-princess-8-programming-languages?utm_content=buffer576a9&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RQlr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/toggl.com\/blog\/save-princess-8-programming-languages?utm_content=buffer576a9&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "top",
+                "users": [
+                    "UKGM41HH9",
+                    "UGVNLB7LL",
+                    "U4SM3C8H3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "359a318b-d7fe-4365-9951-683619a44c4b",
+        "type": "message",
+        "text": "<https:\/\/www.axios.com\/scoop-facebook-to-buy-giphy-for-400-million-4a75a359-833b-484d-b15b-87e94d3de017.html> :scream:",
+        "user": "UC7F3TZAR",
+        "ts": "1589557200.465600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "ed28d6eda0da",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2018-08-13\/416849602966_ed28d6eda0da631d597b_72.jpg",
+            "first_name": "Joachim",
+            "real_name": "Joachim Davies",
+            "display_name": "joachim",
+            "team": "T2Y6L54R3",
+            "name": "joachim.davies",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Axios",
+                "title": "Scoop: Facebook to buy Giphy for $400 million",
+                "title_link": "https:\/\/www.axios.com\/scoop-facebook-to-buy-giphy-for-400-million-4a75a359-833b-484d-b15b-87e94d3de017.html",
+                "text": "Deal to be announced later today.",
+                "fallback": "Axios: Scoop: Facebook to buy Giphy for $400 million",
+                "image_url": "https:\/\/images.axios.com\/5J0v42F7p73o8lajbKF7kRBN14w=\/2020\/05\/15\/1589553211016.jpg",
+                "from_url": "https:\/\/www.axios.com\/scoop-facebook-to-buy-giphy-for-400-million-4a75a359-833b-484d-b15b-87e94d3de017.html",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 91203,
+                "service_icon": "https:\/\/static.axios.com\/img\/axios-site\/favicon-32x32.png",
+                "id": 1,
+                "original_url": "https:\/\/www.axios.com\/scoop-facebook-to-buy-giphy-for-400-million-4a75a359-833b-484d-b15b-87e94d3de017.html"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3OI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.axios.com\/scoop-facebook-to-buy-giphy-for-400-million-4a75a359-833b-484d-b15b-87e94d3de017.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "scream"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589557200.465600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589558118.466600",
+        "reply_users": [
+            "UFW0A1GV8"
+        ],
+        "replies": [
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589558118.466600"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "cold_sweat",
+                "users": [
+                    "URXJMAV28",
+                    "UFW0A1GV8",
+                    "U49DCUW22",
+                    "U0130LV49HB"
+                ],
+                "count": 4
+            },
+            {
+                "name": "ripparrot",
+                "users": [
+                    "UFW0A1GV8",
+                    "U486R9SNP",
+                    "U36H6F3CN",
+                    "UM1D80L3X",
+                    "U7BG5P0H3",
+                    "U2Y6QQHST",
+                    "U0130LV49HB"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589558113.466300",
+        "user": "U486R9SNP",
+        "text": "<@U486R9SNP> has joined the channel"
+    },
+    {
+        "client_msg_id": "1dc8b7d0-f2dc-4662-8f7c-7cbf7aa07797",
+        "type": "message",
+        "text": ":ripparrot: giphy",
+        "user": "UFW0A1GV8",
+        "ts": "1589558118.466600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ecY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "ripparrot"
+                            },
+                            {
+                                "type": "text",
+                                "text": " giphy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589557200.465600",
+        "parent_user_id": "UC7F3TZAR"
+    },
+    {
+        "client_msg_id": "1a328c96-580f-4350-a1c2-52a60f6c8999",
+        "type": "message",
+        "text": "Master of Ñapets",
+        "user": "U2YM1G5CM",
+        "ts": "1589564085.467600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd6cefe6793b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d6cefe6793bce07335ca4168bc22ba7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Míguez",
+            "display_name": "mrzard",
+            "team": "T2Y6L54R3",
+            "name": "mrzard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I3Hr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Master of Ñapets"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589542391.457200",
+        "parent_user_id": "UGC8J6E8J"
+    }
+]

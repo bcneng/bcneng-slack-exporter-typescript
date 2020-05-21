@@ -1,0 +1,1648 @@
+[
+    {
+        "client_msg_id": "59653391-d40b-4a66-94da-f4295433297e",
+        "type": "message",
+        "text": "&gt; Además es un poco enseñarles. Mi papá trabajaba de casa y nunca nos metimos\n:laughing::laughing::laughing::laughing::laughing::laughing::laughing::laughing:\n\nEn fin, creo que el rango de edad en el que piensas al decir eso no incluye todas las edades :slightly_smiling_face:",
+        "user": "U389HN5E3",
+        "ts": "1589786869.086100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g81fa830a583",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/381fa830a5834704a33ff62b0f727abb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "Rubén",
+            "real_name": "Rubén Pérez",
+            "display_name": "ruben-perez",
+            "team": "T2Y6L54R3",
+            "name": "ruben-perez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "13z5",
+                "elements": [
+                    {
+                        "type": "rich_text_quote",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Además es un poco enseñarles. Mi papá trabajaba de casa y nunca nos metimos"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nEn fin, creo que el rango de edad en el que piensas al decir eso no incluye todas las edades "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "UNR7EF5EU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c749a1e9-e0e4-407c-8bd6-758060d69ed9",
+        "type": "message",
+        "text": "Barceloneta en fase 0 :sob:\n<https:\/\/twitter.com\/raulgaab\/status\/1262313576775196672?s=19|https:\/\/twitter.com\/raulgaab\/status\/1262313576775196672?s=19>",
+        "user": "UDHAZQNF9",
+        "ts": "1589802054.087200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/raulgaab|@raulgaab>: No ho he pogut evitar. Ara amb Eye of the Tiger... <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1262313489651154944\/pu\/img\/rJplU_n5Na3Kyc9t.jpg>",
+                "ts": 1589793984,
+                "author_name": "Raul Gallego Abellan",
+                "author_link": "https:\/\/twitter.com\/raulgaab\/status\/1262313576775196672",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1230904582936629249\/NDtYzFqi_normal.jpg",
+                "author_subname": "@raulgaab",
+                "text": "No ho he pogut evitar. Ara amb Eye of the Tiger...",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/raulgaab\/status\/1262313576775196672?s=19",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1262313489651154944\/pu\/img\/rJplU_n5Na3Kyc9t.jpg",
+                "thumb_width": 854,
+                "thumb_height": 480,
+                "video_html_width": 854,
+                "video_html_height": 480,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1262313489651154944\/pu\/img\/rJplU_n5Na3Kyc9t.jpg\" width=\"854\" height=\"480\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1262313489651154944\/pu\/vid\/854x480\/z31G_Si7Osi-7uKp.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/raulgaab\/status\/1262313576775196672?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9wj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Barceloneta en fase 0 "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/raulgaab\/status\/1262313576775196672?s=19",
+                                "text": "https:\/\/twitter.com\/raulgaab\/status\/1262313576775196672?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589802054.087200",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1589826039.101400",
+        "reply_users": [
+            "U2ZS36LQN",
+            "UEDFE7J07",
+            "UDHAZQNF9"
+        ],
+        "replies": [
+            {
+                "user": "U2ZS36LQN",
+                "ts": "1589806201.087800"
+            },
+            {
+                "user": "U2ZS36LQN",
+                "ts": "1589806243.088100"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589811927.095100"
+            },
+            {
+                "user": "UDHAZQNF9",
+                "ts": "1589811953.095300"
+            },
+            {
+                "user": "UDHAZQNF9",
+                "ts": "1589811969.095500"
+            },
+            {
+                "user": "UEDFE7J07",
+                "ts": "1589812276.095700"
+            },
+            {
+                "user": "UDHAZQNF9",
+                "ts": "1589826039.101400"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UC8R6Q0GJ",
+                    "UEDFE7J07",
+                    "U3S8PPA3S"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84449aa1-9cf3-46b0-8e02-cf201c8ba1b1",
+        "type": "message",
+        "text": "keep calm. lo mismo decian hace 15 días cuando salimos a pasear :smile:",
+        "user": "UNR7EF5EU",
+        "ts": "1589802117.087700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MNSa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "keep calm. lo mismo decian hace 15 días cuando salimos a pasear "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6f7eebb-941f-4657-8226-ffd9b2924c67",
+        "type": "message",
+        "text": "Los twits son buenisimos.\n<https:\/\/twitter.com\/bvstillo\/status\/1262334659574353920?s=19>",
+        "user": "U2ZS36LQN",
+        "ts": "1589806201.087800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g3dc73f9f73e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/63dc73f9f73e536796501cd9d9e16fc5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Daniel",
+            "real_name": "Daniel Martin",
+            "display_name": "damarnez",
+            "team": "T2Y6L54R3",
+            "name": "damarnez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/bvstillo|@bvstillo>: El Lagarto de la Barceloneta recupera su espacio. Nosotros somos el virus. <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1262334628834283522\/pu\/img\/tACb2l3l237fpQDz.jpg>",
+                "ts": 1589799010,
+                "author_name": "busti🌾",
+                "author_link": "https:\/\/twitter.com\/bvstillo\/status\/1262334659574353920",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1255875472057131009\/JKBJuFqa_normal.jpg",
+                "author_subname": "@bvstillo",
+                "text": "El Lagarto de la Barceloneta recupera su espacio. Nosotros somos el virus.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/bvstillo\/status\/1262334659574353920?s=19",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1262334628834283522\/pu\/img\/tACb2l3l237fpQDz.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1262334628834283522\/pu\/img\/tACb2l3l237fpQDz.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1262334628834283522\/pu\/vid\/1280x720\/IAEGF7EY3xPbAZKB.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/bvstillo\/status\/1262334659574353920?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DxX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Los twits son buenisimos.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/bvstillo\/status\/1262334659574353920?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589802054.087200",
+        "parent_user_id": "UDHAZQNF9",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UBW26D7D3",
+                    "UC8R6Q0GJ",
+                    "UDHAZQNF9"
+                ],
+                "count": 3
+            },
+            {
+                "name": "lizard",
+                "users": [
+                    "UC8R6Q0GJ",
+                    "U7BG5P0H3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c64a6ed-bff2-42d5-a49f-726831fedbff",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/Giskexe\/status\/1262316296617824256?s=19>",
+        "user": "U2ZS36LQN",
+        "ts": "1589806243.088100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g3dc73f9f73e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/63dc73f9f73e536796501cd9d9e16fc5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "Daniel",
+            "real_name": "Daniel Martin",
+            "display_name": "damarnez",
+            "team": "T2Y6L54R3",
+            "name": "damarnez",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/Giskexe|@Giskexe>: Contactamos con el paseo de la Barceloneta. <https:\/\/pbs.twimg.com\/tweet_video_thumb\/EYSl-MFXgAMiIdX.jpg>",
+                "ts": 1589794632,
+                "author_name": ".exe",
+                "author_link": "https:\/\/twitter.com\/Giskexe\/status\/1262316296617824256",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1006196362030002176\/TG1b65Lf_normal.jpg",
+                "author_subname": "@Giskexe",
+                "text": "Contactamos con el paseo de la Barceloneta.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/Giskexe\/status\/1262316296617824256?s=19",
+                "thumb_url": "https:\/\/pbs.twimg.com\/tweet_video_thumb\/EYSl-MFXgAMiIdX.jpg",
+                "thumb_width": 480,
+                "thumb_height": 430,
+                "video_html_width": 480,
+                "video_html_height": 430,
+                "video_html": "<video autoplay loop muted poster=\"https:\/\/pbs.twimg.com\/tweet_video_thumb\/EYSl-MFXgAMiIdX.jpg\" width=\"480\" height=\"430\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/tweet_video\/EYSl-MFXgAMiIdX.mp4\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/Giskexe\/status\/1262316296617824256?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f6JO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/Giskexe\/status\/1262316296617824256?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589802054.087200",
+        "parent_user_id": "UDHAZQNF9",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UC8R6Q0GJ",
+                    "UDHAZQNF9",
+                    "U7BG5P0H3"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589807130.089000",
+        "user": "UQ12EDR7G",
+        "text": "<@UQ12EDR7G> has joined the channel"
+    },
+    {
+        "client_msg_id": "f735b3c8-fe11-4991-b9e3-d61cc046c98f",
+        "type": "message",
+        "text": "Q: ahora que los comercios abren, puedo ir a estos a cualquier hora, sin certificado autorresponsable?",
+        "user": "UC8R6Q0GJ",
+        "ts": "1589810452.090500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "83fbaa3fd8db",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-04\/861387893206_83fbaa3fd8db53ce6c87_72.jpg",
+            "first_name": "v",
+            "real_name": "v",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "vemv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7AX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Q: ahora que los comercios abren, puedo ir a estos a cualquier hora, sin certificado autorresponsable?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589810452.090500",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1589811778.094700",
+        "reply_users": [
+            "U5AF71HBP",
+            "UM98F4064",
+            "UC8R6Q0GJ"
+        ],
+        "replies": [
+            {
+                "user": "U5AF71HBP",
+                "ts": "1589811482.092800"
+            },
+            {
+                "user": "UM98F4064",
+                "ts": "1589811582.093000"
+            },
+            {
+                "user": "UC8R6Q0GJ",
+                "ts": "1589811623.093200"
+            },
+            {
+                "user": "U5AF71HBP",
+                "ts": "1589811778.094700"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "DF65467A-D957-4961-B4F2-FFEE74431B75",
+        "type": "message",
+        "text": "Lo mismo que vas al super sin certificado, puedes ir a estos comercios ",
+        "user": "U5AF71HBP",
+        "ts": "1589811482.092800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "dc4ef8b5dcf2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-28\/649653334951_dc4ef8b5dcf29e8b5865_72.jpg",
+            "first_name": "Jo",
+            "real_name": "Jo",
+            "display_name": "Jo",
+            "team": "T2Y6L54R3",
+            "name": "jalbarral",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CJvPv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Lo mismo que vas al super sin certificado, puedes ir a estos comercios "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589810452.090500",
+        "parent_user_id": "UC8R6Q0GJ"
+    },
+    {
+        "client_msg_id": "2cc1bba9-b279-449f-89af-d87ed32fac32",
+        "type": "message",
+        "text": "los que abren de mi barrio todos tienen carteles de pedir cita previamente",
+        "user": "UM98F4064",
+        "ts": "1589811582.093000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g78db86338fe",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f78db86338fe41b9a47c6039137625f6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "",
+            "real_name": "Akimaris",
+            "display_name": "Akimaris",
+            "team": "T2Y6L54R3",
+            "name": "rodrigodrieracanut",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PzQY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "los que abren de mi barrio todos tienen carteles de pedir cita previamente"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589810452.090500",
+        "parent_user_id": "UC8R6Q0GJ"
+    },
+    {
+        "client_msg_id": "562686a0-3a64-42ad-b6aa-0df6ac11983e",
+        "type": "message",
+        "text": "pues yo iba siempre al super con mi certificado en pdf",
+        "user": "UC8R6Q0GJ",
+        "ts": "1589811623.093200",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "83fbaa3fd8db",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-12-04\/861387893206_83fbaa3fd8db53ce6c87_72.jpg",
+            "first_name": "v",
+            "real_name": "v",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "vemv",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UC8R6Q0GJ",
+            "ts": "1589811627.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aFB6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pues yo iba siempre al super con mi certificado en pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589810452.090500",
+        "parent_user_id": "UC8R6Q0GJ",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U5AF71HBP",
+                    "UEDFE7J07"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A6E54662-D186-4AD2-9799-F4513A6762DA",
+        "type": "message",
+        "text": "Que fueras al super con un certificado es muy de nivel :sweat_smile:",
+        "user": "U5AF71HBP",
+        "ts": "1589811778.094700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "dc4ef8b5dcf2",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-05-28\/649653334951_dc4ef8b5dcf29e8b5865_72.jpg",
+            "first_name": "Jo",
+            "real_name": "Jo",
+            "display_name": "Jo",
+            "team": "T2Y6L54R3",
+            "name": "jalbarral",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g5Qo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Que fueras al super con un certificado es muy de nivel "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589810452.090500",
+        "parent_user_id": "UC8R6Q0GJ"
+    },
+    {
+        "client_msg_id": "8de0b4c3-84ad-4e56-9977-5bb3e65baac8",
+        "type": "message",
+        "text": "pero esto es ahora???",
+        "user": "UEDFE7J07",
+        "ts": "1589811927.095100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0AQG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pero esto es ahora???"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589802054.087200",
+        "parent_user_id": "UDHAZQNF9"
+    },
+    {
+        "client_msg_id": "c0532c72-7a31-4e5a-a265-6cebddd66b56",
+        "type": "message",
+        "text": "Hoy si....",
+        "user": "UDHAZQNF9",
+        "ts": "1589811953.095300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y7u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hoy si...."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589802054.087200",
+        "parent_user_id": "UDHAZQNF9"
+    },
+    {
+        "client_msg_id": "d382220d-1007-47b3-8acd-9d246b0ff684",
+        "type": "message",
+        "text": "Antes de la 10",
+        "user": "UDHAZQNF9",
+        "ts": "1589811969.095500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L2kg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Antes de la 10"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589802054.087200",
+        "parent_user_id": "UDHAZQNF9"
+    },
+    {
+        "client_msg_id": "5628890e-afe6-4bd6-8985-8699ab95f24b",
+        "type": "message",
+        "text": "buehhh",
+        "user": "UEDFE7J07",
+        "ts": "1589812276.095700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "9bdfa6a73334",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-08-05\/715824325028_9bdfa6a7333483b6625f_72.jpg",
+            "first_name": "Carmen",
+            "real_name": "Carmen Delgado",
+            "display_name": "CarmenDelgado",
+            "team": "T2Y6L54R3",
+            "name": "cldelgadop",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LaW61",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "buehhh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589802054.087200",
+        "parent_user_id": "UDHAZQNF9"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589815309.096300",
+        "user": "USP3ZB953",
+        "text": "<@USP3ZB953> has joined the channel"
+    },
+    {
+        "client_msg_id": "44297ce9-6d2e-48a4-b3f3-eb69d158212b",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/324cat\/status\/1262411484971372544?s=19|https:\/\/twitter.com\/324cat\/status\/1262411484971372544?s=19>",
+        "user": "UDHAZQNF9",
+        "ts": "1589817421.096600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/324cat|@324cat>: Prop de 70 escoles de França tancades per Covid-19 la setmana després de reobrir <https:\/\/bit.ly\/2LChkt0> <https:\/\/pbs.twimg.com\/media\/EYT8fofWsAEowFU.jpg>",
+                "ts": 1589817327,
+                "author_name": "324.cat",
+                "author_link": "https:\/\/twitter.com\/324cat\/status\/1262411484971372544",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1053300405642412032\/idaQc_hX_normal.jpg",
+                "author_subname": "@324cat",
+                "text": "Prop de 70 escoles de França tancades per Covid-19 la setmana després de reobrir <https:\/\/bit.ly\/2LChkt0> <https:\/\/pbs.twimg.com\/media\/EYT8fofWsAEowFU.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/324cat\/status\/1262411484971372544?s=19",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/EYT8fofWsAEowFU.jpg",
+                "image_width": 1200,
+                "image_height": 865,
+                "image_bytes": 137765,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/324cat\/status\/1262411484971372544?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1KtZv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/324cat\/status\/1262411484971372544?s=19",
+                                "text": "https:\/\/twitter.com\/324cat\/status\/1262411484971372544?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37d8aff4-3e19-4618-9214-b202ff986269",
+        "type": "message",
+        "text": "no se podía saber :laughing:",
+        "user": "U2Y6KTWRZ",
+        "ts": "1589817624.096900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "1e325b5e4a3c",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-01-14\/905658221072_1e325b5e4a3ce0bb19e6_72.jpg",
+            "first_name": "Gerard",
+            "real_name": "Gerard Madorell",
+            "display_name": "gmadorell",
+            "team": "T2Y6L54R3",
+            "name": "gmadorell",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rSw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "no se podía saber "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "laughing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c3c3c1d1-e2e4-4acc-9f41-6db25e767863",
+        "type": "message",
+        "text": "En setiembre vamos a flipar...",
+        "user": "UNR7EF5EU",
+        "ts": "1589817822.097400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iT46p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "En setiembre vamos a flipar..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "107baf51-a548-456a-afc1-6c8efb330264",
+        "type": "message",
+        "text": ":disappointed:",
+        "user": "U3DPLBVQE",
+        "ts": "1589817975.097600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g46e353545a5",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/346e353545a54d40ed59671095fd70b2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "Basilio",
+            "real_name": "Basilio Vera",
+            "display_name": "basi",
+            "team": "T2Y6L54R3",
+            "name": "basi",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K5j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4891701e-7740-432a-bfe7-bda695a2ef46",
+        "type": "message",
+        "text": "70 de 40.000, y parece que por sospechas, solo 1 caso confirmado. El artículo da muchos vaivenes.",
+        "user": "U2YM1G5CM",
+        "ts": "1589818762.099800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd6cefe6793b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d6cefe6793bce07335ca4168bc22ba7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Míguez",
+            "display_name": "mrzard",
+            "team": "T2Y6L54R3",
+            "name": "mrzard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nm0U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "70 de 40.000, y parece que por sospechas, solo 1 caso confirmado. El artículo da muchos vaivenes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589818762.099800",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1589835034.103600",
+        "reply_users": [
+            "UDHAZQNF9",
+            "U2YM1G5CM"
+        ],
+        "replies": [
+            {
+                "user": "UDHAZQNF9",
+                "ts": "1589826073.101700"
+            },
+            {
+                "user": "U2YM1G5CM",
+                "ts": "1589835034.103600"
+            }
+        ],
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589820222.100300",
+        "user": "UKSR2GYTW",
+        "text": "<@UKSR2GYTW> has joined the channel"
+    },
+    {
+        "client_msg_id": "a221a496-b0f8-4bcc-a885-53f5eb2bf75c",
+        "type": "message",
+        "text": "As information regarding the state of alarm seems to be all over the place,\nI decided to create a small page to summarise what's allowed and what not in these \"modern times\" here in Barcelona\n<http:\/\/whatsallowed.expat.barcelona\/>\n\nContributing is possible via <https:\/\/github.com\/dejakob\/whatsallowed.expat.barcelona>",
+        "user": "UKSR2GYTW",
+        "ts": "1589820259.100700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g29405ec0095",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/829405ec00958879da19d77c01738cc5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "dejakob",
+            "display_name": "dejakob",
+            "team": "T2Y6L54R3",
+            "name": "jakob.kerkhove",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "dejakob\/whatsallowed.expat.barcelona",
+                "title_link": "https:\/\/github.com\/dejakob\/whatsallowed.expat.barcelona",
+                "text": "Contribute to dejakob\/whatsallowed.expat.barcelona development by creating an account on GitHub.",
+                "fallback": "GitHub: dejakob\/whatsallowed.expat.barcelona",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/5782495?s=400&v=4",
+                "from_url": "https:\/\/github.com\/dejakob\/whatsallowed.expat.barcelona",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/dejakob\/whatsallowed.expat.barcelona"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z=0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As information regarding the state of alarm seems to be all over the place,\nI decided to create a small page to summarise what's allowed and what not in these \"modern times\" here in Barcelona\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/whatsallowed.expat.barcelona\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nContributing is possible via "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/dejakob\/whatsallowed.expat.barcelona"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589820259.100700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589822279.101000",
+        "reply_users": [
+            "UFW0A1GV8"
+        ],
+        "replies": [
+            {
+                "user": "UFW0A1GV8",
+                "ts": "1589822279.101000"
+            }
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UC8R6Q0GJ",
+                    "UFW0A1GV8",
+                    "U2WPLA0KA",
+                    "U6J7N1UPQ",
+                    "UQS6DCBKR"
+                ],
+                "count": 5
+            },
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U5AF71HBP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f9f55e3-18a7-4ab1-b99c-e6e5bc2c72ca",
+        "type": "message",
+        "text": "xpost to <#C36AD549X|autobombo-sideprojects> :smile:",
+        "user": "UFW0A1GV8",
+        "ts": "1589822279.101000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "495f85c4df34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-02-13\/549699726114_495f85c4df34363cf80d_72.jpg",
+            "first_name": "Uriel",
+            "real_name": "Uriel Salischiker",
+            "display_name": "",
+            "team": "T2Y6L54R3",
+            "name": "uriel",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "swM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "xpost to "
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C36AD549X"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smile"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589820259.100700",
+        "parent_user_id": "UKSR2GYTW"
+    },
+    {
+        "client_msg_id": "4bb67b03-2e96-4267-a0e3-819c2345c4e0",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/EscurcoNegre\/status\/1262431281700311046?s=19|https:\/\/twitter.com\/EscurcoNegre\/status\/1262431281700311046?s=19>",
+        "user": "UDHAZQNF9",
+        "ts": "1589826039.101400",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/EscurcoNegre|@EscurcoNegre>: Li he posat la música del pròleg de Bola de Drac Z.\nDe res. <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1262431194500784131\/pu\/img\/aVGTEwKxz2MsrTM5.jpg>",
+                "ts": 1589822047,
+                "author_name": "Edgar",
+                "author_link": "https:\/\/twitter.com\/EscurcoNegre\/status\/1262431281700311046",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/512491341105098752\/vTE_7App_normal.jpeg",
+                "author_subname": "@EscurcoNegre",
+                "text": "Li he posat la música del pròleg de Bola de Drac Z.\nDe res.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/EscurcoNegre\/status\/1262431281700311046?s=19",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1262431194500784131\/pu\/img\/aVGTEwKxz2MsrTM5.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1262431194500784131\/pu\/img\/aVGTEwKxz2MsrTM5.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1262431194500784131\/pu\/vid\/1280x720\/YeON05rgM_wO0961.mp4?tag=10\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/EscurcoNegre\/status\/1262431281700311046?s=19",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/80588\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/mdq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/twitter.com\/EscurcoNegre\/status\/1262431281700311046?s=19",
+                                "text": "https:\/\/twitter.com\/EscurcoNegre\/status\/1262431281700311046?s=19"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589802054.087200",
+        "parent_user_id": "UDHAZQNF9"
+    },
+    {
+        "client_msg_id": "3f1d8bfc-5eb6-4728-9a2f-342f53795ea0",
+        "type": "message",
+        "text": "Pero quasi habia nadie en las escuelas esta semana... Imaginate con mas gente",
+        "user": "UDHAZQNF9",
+        "ts": "1589826073.101700",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "4c490f5e0473",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-07\/977030351857_4c490f5e047313c59eda_72.jpg",
+            "first_name": "Marine",
+            "real_name": "Marine",
+            "display_name": "Marine K",
+            "team": "T2Y6L54R3",
+            "name": "marine",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8hE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Pero quasi habia nadie en las escuelas esta semana... Imaginate con mas gente"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589818762.099800",
+        "parent_user_id": "U2YM1G5CM"
+    },
+    {
+        "client_msg_id": "ad5fe1a1-b0c8-4120-8669-d84253bd2e28",
+        "type": "message",
+        "text": "yo lo he notado tambien para bien. Disminucion gigante de interrupciones… Y con peques en casa, cap problema",
+        "user": "U3EPGSQQ1",
+        "ts": "1589831127.101900",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xNuV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo lo he notado tambien para bien. Disminucion gigante de interrupciones… Y con peques en casa, cap problema"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "f045e107-6c6c-4acd-ae21-0623efc45640",
+        "type": "message",
+        "text": "que suerte jose",
+        "user": "UNR7EF5EU",
+        "ts": "1589831162.102100",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iqv5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "que suerte jose"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "c946fdfa-9c54-46ee-b7ce-86e02bd995d6",
+        "type": "message",
+        "text": "supongo que depende de la situacion de cada uno, claro. en mi caso tengo despachito guay y en horario de trabajo estan con la madre todo el tiempo, que no esta trabajando",
+        "user": "U3EPGSQQ1",
+        "ts": "1589831309.102300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Q=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "supongo que depende de la situacion de cada uno, claro. en mi caso tengo despachito guay y en horario de trabajo estan con la madre todo el tiempo, que no esta trabajando"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UNR7EF5EU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cb1dbce-304c-4b69-a5a6-105371863f2f",
+        "type": "message",
+        "text": "pero si, personalmente infinitamente mejor asi, la verdad. Ademas yo vivo lejos de barna, me estoy ahorrando… casi dos horas y media de transporte publico diario, y se agradece!",
+        "user": "U3EPGSQQ1",
+        "ts": "1589831341.102600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gea3dc1fa10b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/5ea3dc1fa10b33879ed4c42a30005337.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+            "first_name": "jose",
+            "real_name": "jose",
+            "display_name": "hosseio",
+            "team": "T2Y6L54R3",
+            "name": "y2josei",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x=g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "pero si, personalmente infinitamente mejor asi, la verdad. Ademas yo vivo lejos de barna, me estoy ahorrando… casi dos horas y media de transporte publico diario, y se agradece!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "d1f954cc-681d-4e5e-b9f1-84981f11429a",
+        "type": "message",
+        "text": "yo me ahorro 45' o asi, k tmb se agradece (iba en moto)",
+        "user": "UNR7EF5EU",
+        "ts": "1589831376.102800",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1OMg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "yo me ahorro 45' o asi, k tmb se agradece (iba en moto)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "client_msg_id": "b8cf2a4d-a301-45d1-8296-03e343994848",
+        "type": "message",
+        "text": "me esta gustando mucho en remoto, pero quiero los niños en el cole\/guarderia jejeje",
+        "user": "UNR7EF5EU",
+        "ts": "1589831389.103000",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gf03ec77bc15",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/f03ec77bc15a7abb7ac2fc36d8be7463.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+            "first_name": "Marc",
+            "real_name": "Marc Rios",
+            "display_name": "Marc",
+            "team": "T2Y6L54R3",
+            "name": "marcrios84",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UNR7EF5EU",
+            "ts": "1589831460.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N\/KZK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "me esta gustando mucho en remoto, pero quiero los niños en el cole\/guarderia jejeje"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589670116.082900",
+        "parent_user_id": "U2YH82SRM"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589834501.103500",
+        "user": "UQS7B3K7H",
+        "text": "<@UQS7B3K7H> has joined the channel"
+    },
+    {
+        "client_msg_id": "c4ef2f7b-ab83-4117-97a0-a5b1204f8929",
+        "type": "message",
+        "text": "Creo que lo importante es que se demuestra que hay control y revisiones. Habiendo pasado sólo 1 semana, conjeturaban que eran infecciones de antes de reabrir. En todo caso paciencia y veremos, llevo leídos ya muchos titulares durante estos días que o son incorrectos o directamente falsos.",
+        "user": "U2YM1G5CM",
+        "ts": "1589835034.103600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "gd6cefe6793b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6d6cefe6793bce07335ca4168bc22ba7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Gonzalo",
+            "real_name": "Gonzalo Míguez",
+            "display_name": "mrzard",
+            "team": "T2Y6L54R3",
+            "name": "mrzard",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ShlsF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Creo que lo importante es que se demuestra que hay control y revisiones. Habiendo pasado sólo 1 semana, conjeturaban que eran infecciones de antes de reabrir. En todo caso paciencia y veremos, llevo leídos ya muchos titulares durante estos días que o son incorrectos o directamente falsos."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589818762.099800",
+        "parent_user_id": "U2YM1G5CM"
+    }
+]

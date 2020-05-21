@@ -1,0 +1,78 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1589811259.010200",
+        "user": "U014J8P6T2L",
+        "text": "<@U014J8P6T2L> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Cross posting",
+        "user": "U3FGG385U",
+        "ts": "1589814121.010300",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g6eb958d5b21",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/d6eb958d5b21898e27750571962e0eef.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Jordi",
+            "real_name": "Jordi Soucheiron",
+            "display_name": "jordixou",
+            "team": "T2Y6L54R3",
+            "name": "jordixou",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "[May 18th, 2020 5:01 PM] jordixou: <https:\/\/www.meetup.com\/python-barcelona\/events\/270692295\/> Montamos nuestro primer meetup online: PyBCN Online: Impact of the COVID-19 pandemic in the IT labor market",
+                "ts": "1589814095.084700",
+                "author_id": "U3FGG385U",
+                "author_subname": "Jordi Soucheiron",
+                "channel_id": "C2XEKMCC8",
+                "channel_name": "events-meetups-confs",
+                "is_msg_unfurl": true,
+                "text": "<https:\/\/www.meetup.com\/python-barcelona\/events\/270692295\/> Montamos nuestro primer meetup online: PyBCN Online: Impact of the COVID-19 pandemic in the IT labor market",
+                "author_name": "Jordi Soucheiron",
+                "author_link": "https:\/\/bcneng.slack.com\/team\/U3FGG385U",
+                "author_icon": "https:\/\/secure.gravatar.com\/avatar\/d6eb958d5b21898e27750571962e0eef.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/bcneng.slack.com\/archives\/C2XEKMCC8\/p1589814095084700",
+                "is_share": true,
+                "footer": "Posted in #events-meetups-confs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oDXDO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Cross posting"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UURFWHT51",
+                    "U3HKA4U07"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "cdd7ddc4-4bd7-47c7-ac47-810db6bdf423",
+        "type": "message",
+        "text": "I'm gonna leave this here - <https:\/\/github.com\/Genymobile\/scrcpy>",
+        "user": "UP4QETHEC",
+        "ts": "1589993134.034600",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "g133e71b931d",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/133e71b931d7d52be70757da3b1fdd23.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "",
+            "real_name": "Dan Tamas",
+            "display_name": "Dan Tamas",
+            "team": "T2Y6L54R3",
+            "name": "dan.tamas",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Genymobile\/scrcpy",
+                "title_link": "https:\/\/github.com\/Genymobile\/scrcpy",
+                "text": "Display and control your Android device. Contribute to Genymobile\/scrcpy development by creating an account on GitHub.",
+                "fallback": "GitHub: Genymobile\/scrcpy",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/3427627?s=400&v=4",
+                "from_url": "https:\/\/github.com\/Genymobile\/scrcpy",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/Genymobile\/scrcpy"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wvkT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm gonna leave this here - "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/github.com\/Genymobile\/scrcpy"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

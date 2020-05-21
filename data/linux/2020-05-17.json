@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "82b16c93-ff05-4a7e-9467-a967a881c0c9",
+        "type": "message",
+        "text": "He reinstalado ubuntu. La tarjeta wifi no estaba dando el ancho de banda  que tiene que dar.",
+        "user": "UGUQTPSQM",
+        "ts": "1589708232.015500",
+        "team": "T2Y6L54R3",
+        "user_team": "T2Y6L54R3",
+        "source_team": "T2Y6L54R3",
+        "user_profile": {
+            "avatar_hash": "bcd24b64cb30",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-03-04\/980627128484_bcd24b64cb30dc93b6ae_72.jpg",
+            "first_name": "",
+            "real_name": "Jordi Gomper",
+            "display_name": "Jordi Gomper",
+            "team": "T2Y6L54R3",
+            "name": "jordigomper",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xJvnt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "He reinstalado ubuntu. La tarjeta wifi no estaba dando el ancho de banda  que tiene que dar."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1589623613.014500",
+        "parent_user_id": "UGUQTPSQM"
+    }
+]
