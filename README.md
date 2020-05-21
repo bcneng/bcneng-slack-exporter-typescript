@@ -1,23 +1,6 @@
-# bcneng-slack-exporter
+[![Netlify Status](https://api.netlify.com/api/v1/badges/16c25a37-1182-4c8e-8f7d-8543a42451a7/deploy-status)](https://app.netlify.com/sites/friendly-sammet-daf35f/deploys)
 
-> My awesome Nuxt.js project
 
-## Build Setup
+# How to run in local ?
 
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-# bcneng-slack-exporter-typescript
+`npm run dev`
