@@ -1,7 +1,6 @@
 import { Configuration } from '@nuxt/types'
-import channels from "./data/channels.json"
 
-const config: Configuration= {
+const config: Configuration = {
   mode: 'spa',
   /*
   ** Headers of the page
@@ -59,19 +58,7 @@ const config: Configuration= {
     /*
     ** You can extend webpack config here
     */
-    extend(config, ctx) {
-    }
-  },
-  generate: {
-    fallback: true,
-
-    async routes() {
-      const routes = channels.map(channel => {
-        return {
-          route: "/channel/" + channel.name
-        };
-      })
-      return routes
+    extend (config, ctx) {
     }
   }
 }
