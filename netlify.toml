@@ -8,13 +8,13 @@
   status = 200
 
 [[redirects]]
-  from = "/api/:resource"
+  from = "/data/:resource"
   to = "/data/:resource.json"
   status = 200
   headers = {X-From = "Netlify"}
 
 [[redirects]]
-  from = "/api/:resource/:messages"
+  from = "/data/:resource/:messages"
   to = "/data/:resource/:messages.json"
   status = 200
   headers = {X-From = "Netlify"}

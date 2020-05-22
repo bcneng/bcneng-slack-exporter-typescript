@@ -25,14 +25,17 @@ import Observer from '~/components/observer.vue'
 import { Channel } from '~/models/postProcessed/channel'
 import { Message } from '~/models/postProcessed/message'
 
-const isProd = process.env.NODE_ENV === 'production'
-
 export default Vue.extend({
   components: {
     Sidebar,
     Header,
     Messages,
     Observer
+  },
+  fetch () {
+    this.fetchChannels().then((data:Channel[]) => {
+      this.channels = data
+    })
   },
   data () {
     return {
@@ -53,17 +56,9 @@ export default Vue.extend({
       }
     }
   },
-  async mounted () {
-    this.channels = await this.fetchChannels()
-  },
   methods: {
     async fetchChannels (): Promise<Channel[]> {
-      const channels = isProd
-        ? await fetch('/api/channels')
-          .then(res => res.json())
-          .then(res => res as Channel[])
-        : await import('~/static/data/channels.json')
-          .then(res => res.default as any[] as Channel[])
+      const channels = await this.$axios.$get('/data/channels.json')
       return channels
     },
     async fetchMessages (): Promise<void> {
@@ -71,18 +66,11 @@ export default Vue.extend({
         return
       }
 
-      const messages = isProd
-        ? await fetch(`/api/${this.selectedChannel.name}/${this.messageIndex}`)
-          .then(res => res.json())
-          .then(res => res as Message[])
-        : await import(`~/static/data/${this.selectedChannel.name}/${this.messageIndex}.json`)
-          .then(res => res.default as Message[])
-
+      const messages = await this.$axios.$get(`/data/${this.selectedChannel.name}/${this.messageIndex}.json`)
       this.messages = [...this.messages, ...messages]
       this.messageIndex += 1
     },
     fetchReplies (message: Message) {
-      console.log(message)
       this.replies = message.replies
     }
   }
