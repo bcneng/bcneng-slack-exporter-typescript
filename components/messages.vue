@@ -1,10 +1,10 @@
 <template>
   <div>
     <article v-for="message in messages" :key="message.ts">
-      <img class="article-avatar" :src="message.user.profile.image_72" alt>
+      <img class="article-avatar" :src="message.user ? message.user.profile.image_72 : ''" alt>
       <div class="article-content">
         <div class="article-metadata">
-          <h3>{{ message.user.name }}</h3>
+          <h3>{{ message.user ? message.user.name: "User no longer exist" }}</h3>
           <small>{{ message.date }}</small>
         </div>
         <p v-html="parse(message.text)" />

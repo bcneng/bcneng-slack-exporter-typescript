@@ -82,6 +82,7 @@ export default Vue.extend({
       this.messageIndex += 1
     },
     fetchReplies (message: Message) {
+      console.log(message)
       this.replies = message.replies
     }
   }
@@ -93,25 +94,25 @@ export default Vue.extend({
 .container {
   display: grid;
   grid-template-columns: 200px 1fr 1fr 1fr;
-  grid-template-rows: 1fr auto;
+  grid-template-rows: 2rem calc(100vh - 4rem);
   grid-template-areas:
     "header header header header"
     "sidebar main main comments"
     "sidebar main main comments"
     "sidebar main main comments";
   grid-gap: 10px;
+  height: 100vh;
 }
 
 .sidebar {
   grid-area: sidebar;
+  overflow: auto;
 }
 
 main {
   grid-area: main;
-  height: 90vh;
-  overflow-y: scroll;
+  overflow: auto;
 }
-
 header {
   grid-area: header;
   display: flex;
@@ -121,6 +122,7 @@ header {
 
 .comments {
   grid-area: comments;
+  overflow: auto;
 }
 
 </style>
