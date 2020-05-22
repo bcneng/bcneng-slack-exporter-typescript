@@ -1,7 +1,7 @@
 <template>
   <div>
     <article v-for="message in messages" :key="message.ts">
-      <img class="article-avatar" :src="message.avatar" alt>
+      <img class="article-avatar" :src="message.user.profile.image_72" alt>
       <div class="article-content">
         <div class="article-metadata">
           <h3>{{ message.user.name }}</h3>
