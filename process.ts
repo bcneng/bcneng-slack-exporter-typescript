@@ -61,7 +61,7 @@ channelDirectories.forEach((channelDirectory) => {
 
   const chunkedMessage = chunk<Message>(messages, CHUNK_SIZE)
   for (let index = 0; index < chunkedMessage.length; index++) {
-    fs.writeFileSync(`${OUTPUT_DIRECTORY}/${channelDirectory.name}/${index}.json`, JSON.stringify(messages))
+    fs.writeFileSync(`${OUTPUT_DIRECTORY}/${channelDirectory.name}/${index}.json`, JSON.stringify(chunkedMessage[index]))
   }
   fs.copyFileSync(`${DATA_DIRECTORY}/channels.json`, `${OUTPUT_DIRECTORY}/channels.json`)
 
