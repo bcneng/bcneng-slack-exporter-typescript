@@ -1,1 +1,1 @@
-declare module 'simple-bar';
+declare module 'simplebar-vue';
