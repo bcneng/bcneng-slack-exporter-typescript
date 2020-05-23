@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <Simplebar class="simplebar" data-simplebar data-simplebar-auto-hide="false">
     <article v-for="message in messages" :key="message.ts">
       <img class="article-avatar" :src="message.user ? message.user.profile.image_72 : ''" alt>
       <div class="article-content">
@@ -15,15 +15,20 @@
         </p>
       </div>
     </article>
-  </div>
+  </Simplebar>
 </template>
 
 <script lang="ts">
 import Vue from 'vue'
 import { toHTML } from 'slack-markdown'
+import Simplebar from 'simplebar-vue'
 import { Message } from '~/models/postProcessed/message'
+import 'simplebar/dist/simplebar.min.css'
 
 export default Vue.extend({
+  components: {
+    Simplebar
+  },
   props: {
     messages: {
       type: Array as () => Array<Message>,
@@ -39,6 +44,9 @@ export default Vue.extend({
 </script>
 
 <style lang="scss" scoped>
+.simplebar {
+  height: inherit;
+}
 
 article {
   display: grid;

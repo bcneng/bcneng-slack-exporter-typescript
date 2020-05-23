@@ -61,14 +61,17 @@ export default Vue.extend({
       const channels = await this.$axios.$get('/data/channels.json')
       return channels
     },
-    async fetchMessages (): Promise<void> {
+    fetchMessages (): Promise<void> {
       if (this.messageIndex < 0 || Object.keys(this.selectedChannel).length === 0) {
-        return
+        return Promise.resolve()
       }
 
-      const messages = await this.$axios.$get(`/data/${this.selectedChannel.name}/${this.messageIndex}.json`)
-      this.messages = [...this.messages, ...messages]
-      this.messageIndex += 1
+      return this.$axios.$get(`/data/${this.selectedChannel.name}/${this.messageIndex}.json`)
+        .then((data) => {
+          this.messages = [...this.messages, ...data]
+          this.messageIndex += 1
+        })
+        .catch(_ => Promise.resolve())
     },
     fetchReplies (message: Message) {
       this.replies = message.replies
@@ -94,12 +97,12 @@ export default Vue.extend({
 
 .sidebar {
   grid-area: sidebar;
-  overflow: auto;
+  height: calc(100vh - 4rem);
 }
 
 main {
   grid-area: main;
-  overflow: auto;
+  height: calc(100vh - 4rem);
 }
 header {
   grid-area: header;
@@ -110,7 +113,7 @@ header {
 
 .comments {
   grid-area: comments;
-  overflow: auto;
+  height: calc(100vh - 4rem);
 }
 
 </style>
