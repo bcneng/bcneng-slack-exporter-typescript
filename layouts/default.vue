@@ -7,8 +7,7 @@
       <Sidebar v-model="selectedChannel" :channels="channels" />
     </aside>
     <main>
-      <Messages :messages="messages" @show-replies="fetchReplies($event)" />
-      <Observer @intersect="fetchMessages" />
+      <Messages :messages="messages" @show-replies="fetchReplies($event)" @scroll-y-reach-end="fetchMessages" />
     </main>
     <aside class="comments">
       <Messages :messages="replies" />
@@ -21,7 +20,6 @@ import Vue from 'vue'
 import Sidebar from '~/components/sidebar.vue'
 import Header from '~/components/header.vue'
 import Messages from '~/components/messages.vue'
-import Observer from '~/components/observer.vue'
 import { Channel } from '~/models/postProcessed/channel'
 import { Message } from '~/models/postProcessed/message'
 
@@ -29,8 +27,7 @@ export default Vue.extend({
   components: {
     Sidebar,
     Header,
-    Messages,
-    Observer
+    Messages
   },
   fetch () {
     this.fetchChannels().then((data:Channel[]) => {
@@ -44,14 +41,17 @@ export default Vue.extend({
       messages: [] as Message[],
       messageIndex: 0,
       replies: [] as Message[] | undefined,
-      observer: {} as IntersectionObserver
+      observer: {} as IntersectionObserver,
+      reachLimit: false
     }
   },
   watch: {
     async selectedChannel () {
       this.messageIndex = 0
       this.messages = []
-      while (this.messages.length < 5) {
+      this.reachLimit = false
+      while (this.reachLimit === false && this.messages.length < 10) {
+        console.log('hh')
         await this.fetchMessages()
       }
     }
@@ -62,16 +62,16 @@ export default Vue.extend({
       return channels
     },
     fetchMessages (): Promise<void> {
-      if (this.messageIndex < 0 || Object.keys(this.selectedChannel).length === 0) {
+      if (this.messageIndex < 0 || Object.keys(this.selectedChannel).length === 0 || this.reachLimit) {
         return Promise.resolve()
       }
 
       return this.$axios.$get(`/data/${this.selectedChannel.name}/${this.messageIndex}.json`)
-        .then((data) => {
+        .then((data: Message[]) => {
           this.messages = [...this.messages, ...data]
           this.messageIndex += 1
         })
-        .catch(_ => Promise.resolve())
+        .catch((_) => { this.reachLimit = true })
     },
     fetchReplies (message: Message) {
       this.replies = message.replies

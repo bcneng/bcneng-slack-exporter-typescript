@@ -1,5 +1,5 @@
 <template>
-  <Simplebar class="simplebar" data-simplebar data-simplebar-auto-hide="false">
+  <Simplebar ref="scroller" class="simplebar" data-simplebar data-simplebar-auto-hide="false">
     <article v-for="message in messages" :key="message.ts">
       <img class="article-avatar" :src="message.user ? message.user.profile.image_72 : ''" alt>
       <div class="article-content">
@@ -7,7 +7,7 @@
           <h3>{{ message.user ? message.user.name: "User no longer exist" }}</h3>
           <small>{{ message.date }}</small>
         </div>
-        <p v-html="parse(message.text)" />
+        <p v-html="message.text" />
         <p v-if="message.replies">
           <button @click="$emit('show-replies', message)">
             {{ message.replies.length }} Replies
@@ -15,19 +15,21 @@
         </p>
       </div>
     </article>
+    <Observer @intersect="scrollReachEnd" />
   </Simplebar>
 </template>
 
 <script lang="ts">
 import Vue from 'vue'
-import { toHTML } from 'slack-markdown'
 import Simplebar from 'simplebar-vue'
+import Observer from '~/components/observer.vue'
 import { Message } from '~/models/postProcessed/message'
 import 'simplebar/dist/simplebar.min.css'
 
 export default Vue.extend({
   components: {
-    Simplebar
+    Simplebar,
+    Observer
   },
   props: {
     messages: {
@@ -36,14 +38,14 @@ export default Vue.extend({
     }
   },
   methods: {
-    parse (text: string): string {
-      return toHTML(text)
+    scrollReachEnd () {
+      this.$emit('scroll-y-reach-end')
     }
   }
 })
 </script>
 
-<style lang="scss" scoped>
+<style  lang="scss" scoped>
 .simplebar {
   height: inherit;
 }

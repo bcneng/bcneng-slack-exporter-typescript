@@ -1,18 +1,18 @@
 import fs from 'fs'
 import path from 'path'
 import fse from 'fs-extra'
+import { toHTML, User as SlackMarkDownUser, SlackMarkDownOptions } from 'slack-markdown'
 import { User } from './models/postProcessed/user'
 import { Message } from './models/postProcessed/message'
+import { Channel } from './models/postProcessed/channel'
 import { Message as MessagePreProcessed } from '~/models/preProcessed/message'
 
 const DATA_DIRECTORY = path.resolve(__dirname, 'data')
 const OUTPUT_DIRECTORY = path.resolve(__dirname, 'static/data')
 const DIST_DIRECTORY = path.resolve(__dirname, 'dist/data')
-const files = fs.readdirSync(DATA_DIRECTORY, { withFileTypes: true })
-const channelDirectories = files.filter((f: fs.Dirent) => f.isDirectory())
-const users = require(`${DATA_DIRECTORY}/users.json`) as User[]
-
 const CHUNK_SIZE = 10
+const users = require(`${DATA_DIRECTORY}/users.json`) as User[]
+const channels = require(`${DATA_DIRECTORY}/channels.json`) as Channel[]
 
 function chunk<T> (inputArray: T[], chunks: number): T[][] {
   const chunkedArray: T[][] = []
@@ -25,48 +25,65 @@ function chunk<T> (inputArray: T[], chunks: number): T[][] {
   return chunkedArray
 }
 
+function normalize (text: string): string {
+  const options: SlackMarkDownOptions = {
+    slackCallbacks: {
+      user: (slackUser: SlackMarkDownUser): string => {
+        const user = users.find(u => u.id === slackUser.id)
+        return user ? `@${user.name}` : ''
+      }
+    }
+  }
+  return toHTML(text, options)
+}
+
 fse.removeSync(OUTPUT_DIRECTORY)
 fse.removeSync(DIST_DIRECTORY)
 
-channelDirectories.forEach((channelDirectory) => {
-  const files = fs.readdirSync(`${DATA_DIRECTORY}/${channelDirectory.name}`)
+channels
+  .forEach((channelDirectory) => {
+    const files = fs.readdirSync(`${DATA_DIRECTORY}/${channelDirectory.name}`)
 
-  let messagesPreProcessed:MessagePreProcessed[] = []
-  files
-    .forEach((f) => {
-      const fullFilePath = `${DATA_DIRECTORY}/${channelDirectory.name}/${f}`
-      const message = require(fullFilePath) as MessagePreProcessed[]
-      messagesPreProcessed = messagesPreProcessed.concat(message)
-    })
+    let messagesPreProcessed:MessagePreProcessed[] = []
+    files
+      .forEach((f) => {
+        const fullFilePath = `${DATA_DIRECTORY}/${channelDirectory.name}/${f}`
+        const message = require(fullFilePath) as MessagePreProcessed[]
+        messagesPreProcessed = messagesPreProcessed.concat(message)
+      })
 
-  const messages = messagesPreProcessed
-    .filter(m => !m.parent_user_id)
-    .map((message: MessagePreProcessed) => {
-      return ({
-        user: users.find(u => u.id === message.user),
-        replies: message.replies?.map((r) => {
+    const messages = messagesPreProcessed
+      .filter(m => !m.parent_user_id)
+      .map((message: MessagePreProcessed) => {
+        const replies = message.replies?.map((r) => {
           const msg = messagesPreProcessed.find(m => m.ts === r.ts)
-          return {
-            text: msg?.text,
-            user: users.find(u => u.id === msg?.user),
-            date: msg ? new Date(msg.ts * 1000) : null
-          } as Message
-        }),
-        text: message.text,
-        date: new Date(message.ts * 1000)
-      }) as Message
-    })
+          if (msg) {
+            return {
+              text: normalize(msg?.text),
+              user: users.find(u => u.id === msg?.user),
+              date: new Date(msg.ts * 1000)
+            } as Message
+          }
+        })
 
-  fs.mkdirSync(`${OUTPUT_DIRECTORY}/${channelDirectory.name}`, { recursive: true })
+        return ({
+          user: users.find(u => u.id === message.user),
+          replies,
+          text: normalize(message.text),
+          date: new Date(message.ts * 1000)
+        }) as Message
+      })
 
-  const chunkedMessage = chunk<Message>(messages, CHUNK_SIZE)
-  for (let index = 0; index < chunkedMessage.length; index++) {
-    fs.writeFileSync(`${OUTPUT_DIRECTORY}/${channelDirectory.name}/${index}.json`, JSON.stringify(chunkedMessage[index]))
-  }
-  fs.copyFileSync(`${DATA_DIRECTORY}/channels.json`, `${OUTPUT_DIRECTORY}/channels.json`)
+    fs.mkdirSync(`${OUTPUT_DIRECTORY}/${channelDirectory.name}`, { recursive: true })
 
-  if (!fs.existsSync(DIST_DIRECTORY)) {
-    fs.mkdirSync(DIST_DIRECTORY, { recursive: true })
-  }
-  fse.copySync(OUTPUT_DIRECTORY, DIST_DIRECTORY)
-})
+    const chunkedMessage = chunk<Message>(messages, CHUNK_SIZE)
+    for (let index = 0; index < chunkedMessage.length; index++) {
+      fs.writeFileSync(`${OUTPUT_DIRECTORY}/${channelDirectory.name}/${index}.json`, JSON.stringify(chunkedMessage[index]))
+    }
+    fs.copyFileSync(`${DATA_DIRECTORY}/channels.json`, `${OUTPUT_DIRECTORY}/channels.json`)
+
+    if (!fs.existsSync(DIST_DIRECTORY)) {
+      fs.mkdirSync(DIST_DIRECTORY, { recursive: true })
+    }
+    fse.copySync(OUTPUT_DIRECTORY, DIST_DIRECTORY)
+  })

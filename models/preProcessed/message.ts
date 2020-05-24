@@ -53,7 +53,7 @@ export interface Message {
   reply_users_count?: number;
   latest_reply: string;
   reply_users: string[];
-  replies: Reply[];
+  replies?: Reply[];
   subscribed?: boolean;
   last_read: string;
   edited: Edited;
